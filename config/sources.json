@@ -16,6 +16,11 @@
       "x": "takahiroanno", "note": "annotakahiro24", "youtube": "UCiMwbmcCSMORJ-85XWhStBw"
     },
     {
+      "id": "furukawa", "name": "古川あおい", "chamber": "衆議院", "district": "比例九州",
+      "profile": "https://team-mir.ai/member/shugiin/aoi-furukawa",
+      "x": "AoiFurukawa", "note": "aoifurukawa", "youtube": "UCFShGGRYsbueBfZ-eS7zgLg"
+    },
+    {
       "id": "usami", "name": "宇佐美登", "chamber": "衆議院", "district": "比例東京（東京26区）",
       "profile": "https://team-mir.ai/member/shugiin/noboru-usami",
       "x": "usami_mirai"
@@ -49,11 +54,6 @@
       "id": "hayashi", "name": "林拓海", "chamber": "衆議院", "district": "比例東北",
       "profile": "https://team-mir.ai/member/shugiin/takumi-hayashi",
       "x": "TakumiHayashi"
-    },
-    {
-      "id": "furukawa", "name": "古川あおい", "chamber": "衆議院", "district": "比例九州",
-      "profile": "https://team-mir.ai/member/shugiin/aoi-furukawa",
-      "x": "AoiFurukawa", "note": "aoifurukawa", "youtube": "UCFShGGRYsbueBfZ-eS7zgLg"
     },
     {
       "id": "mineshima", "name": "峰島侑也", "chamber": "衆議院", "district": "比例東京（東京7区）",
