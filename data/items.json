@@ -1,17 +1,22 @@
 {
- "updatedAt": "2026-11-18T13:28:18.738Z",
- "lastAttempt": "2026-11-18T13:28:18.738Z",
+ "updatedAt": "2026-11-18T13:35:37.133Z",
+ "lastAttempt": "2026-11-18T13:35:37.133Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 日本経済新聞"
+ ],
  "items": [
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUzdwbGxzQUlSLU1hYWFpeHB1WUpCZ29PZzZBbGdwLU9sY3dzekhaZGxuVXB0UlM3c1FDbEpraEpHQUhpb1AxWTBXVWlvOFdrY2pNRkF4TEVrRFY5cUFvZ3ZMbV8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
    "source": "東京新聞",
    "mediaId": "tokyo",
+   "members": [
+    "mineshima"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
@@ -92,12 +97,26 @@
    "kind": "article",
    "source": "朝日新聞",
    "mediaId": "asahi",
+   "members": [
+    "mineshima"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
   {
+   "title": "定数31減法案が実質審議入り 「自分たちに都合良い」 野党は反対",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2thZ29TRG92NGZCYVBDYllnb29rS1dXNU83NlB1dzMtZ2JRSVE0Y3hOWFVsQml3NUR1R044OElicGNDd051SlJRUUViby1hUHNsZ1hFQkQ3cFM3YWVaSVR5TmUycWx4Q2lMaWI2aE9WZDVZeGRxbm80QkhycFJsS2RQZ0FhaGstaDBVLS1zQQ?oc=5",
+   "date": "2026-11-18T03:25:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:35:37.133Z",
+   "mention": "body"
+  },
+  {
    "title": "自民・維新・国民の法案提出3党は「痛み」少なめ 衆院定数減で試算",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVXNMTnB0emgzUndpQ3U5X3ZLQ1Z5RmZmUDZjeDRjV0ZXaGR2bzNSVzVDLTktbFVMNTFxYVcyNTc1aFpXZGhodUZMYmFUYzdMMzhFdFFwd0trNGMteXc4NTVPM0NRdk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdklySDNWWXp3MkdEaHpwOFlWb25MUDlSRkM4aUx4WDF6UGp3Tk1qaTUtSzVocFVOakN2VXlrMUlMWHZQQ0g0RE56N2E1MVlxR0RUNEFoVTctRlkySjNDRnhJZGdGU0xINlpQcnVxWGtaSVRlSzR1THNTSER4TXRmMm5fOURVcFplamFYMUVZSnFYaENWN0tvcUtodXdXQ2hmRXVMZFNXMjY1ZzJ1Skh5RndxZF9NcWpNMlFjNFNTbVU1S1NqaXc0?oc=5",
    "date": "2026-11-17T21:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -272,7 +291,7 @@
   },
   {
    "title": "【全問と回答】高市内閣支持率60.6％、不支持は32.3％ 消費減税に賛成6割 石破氏ら棄権への評価割れる【FNN世論調査 2026年11月】",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GTjNiSDZLUlVjWkxVUzlPaFBfWFVoT1Brem01YUE1Mm52YktmWlpyLUtTLTVTWjd0SGlmQnM2OG83V21VSU14Z3ZYZUhlUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBURjdUVmxqTFdKZHU2dnppYWdaMzROVUNGbDNKQVlwd2NpUEttanlyRmxSY0xXQnBrd1AtQ3dpeUtoeTdfa1MtVHpDSEpMTGNW?oc=5",
    "date": "2026-11-16T03:30:00.000Z",
    "type": "media",
    "kind": "article",
@@ -295,7 +314,7 @@
   {
    "title": "消費減税法案「賛成」52％【NNN・読売新聞 世論調査】（2026年11月15日掲載）",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdkI1OUdQTGJEdWppYzZCSnhOY2MtQkxFUE9QT0RPV1hYaTh0SUtOejNsLU5FakZLNU12R0RiMjBzMl9MRnZhckl0anlja2RFeEFzZ3k3QXI0cnVpb3RQN3ZZd2VqR09PcTVlU21leWhmQlRSdUhrMXF0MmEwQQ?oc=5",
-   "date": "2026-11-15T13:21:47.000Z",
+   "date": "2026-11-15T13:00:00.000Z",
    "type": "media",
    "kind": "article",
    "source": "日本テレビ",
@@ -743,6 +762,20 @@
    "mention": "title"
   },
   {
+   "title": "国会議員名鑑：土橋 章宏（どばし あきひろ）",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRcTNJaFNfQmxTallRV1kwRVhnM0dCWnBfSkJMbkZqZUo1dTRkc1g5RHVoNmpuVi13UkZfck1FeXpGRDJ3TlE3b3lvRncyQzZIdTB3?oc=5",
+   "date": "2026-11-12T08:06:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "dobashi"
+   ],
+   "firstSeen": "2026-11-18T13:35:37.133Z",
+   "mention": "title"
+  },
+  {
    "title": "国会議員名鑑：山田 瑛理（やまだ えり）",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vNWNTbVQxUU9GN3Y5VmEtN0o0SDNfZkNVRVhEYm10ZFNhUzJ0QWxFcWs1eV9GeGlUaDJYNmFuQXlOak9ta2JaVERCOElhSjVEaXpz?oc=5",
    "date": "2026-11-12T08:06:44.000Z",
@@ -757,14 +790,47 @@
    "mention": "title"
   },
   {
+   "title": "自民 維新 国民 定数31削減法案を共同提出“今国会成立を”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51b1BxaW1vNzBKMDFPbFlfMGRHYzZTNW9yUVk0QlRWVUtNWmRVZkJoWXdWWkh0cHJfQ3BKRU1BMUFYZUM1ODViS3hzN2dSM01JV1JBMGI3U3ZNcHZkSXg4?oc=5",
+   "date": "2026-11-12T07:09:28.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:35:37.133Z",
+   "mention": "body"
+  },
+  {
    "title": "「右だ左だではない」 参政の減税案に共産賛意、神谷氏「感謝」",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTDY0NWhIVzQyY1dtSjBMZzV2NXhJcERsX3FteGtJVUhiTHltOE1pVEJhdzRMNnhTdTkxVFVickFmVjVkbFpxbDZCME1EQTdwUXdUejVOVHhjOG54TDhiRVROWEFpNXUy?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TN2UwcFkzUnBZaGM2cm5vTTdybDVCMnR3LVlhVmpOWVhHSng2SGdZSEhOY2hFSGNNMWlBUE1IN05RVEk0dk1kLU5SbGdFMTVsaVdwZHZGUnpCQklQU3RjMktWSFN4T2c?oc=5",
    "date": "2026-11-12T06:59:02.000Z",
    "type": "media",
    "kind": "article",
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "【12/9(水)開催】与野党6党の政策責任者が一堂に。官民投資・地域AX・コンテンツ産業を議論する第2回「永田町 Policy Fes」プログラム発表",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNZ1ZNNzhWYkRJZmQ1UDBSZ0ZXVDF5TE03T2NmeGJXVk5DZGlYdW15bkZWWEFJOXNiekQ1azltMFdpbE92ODdxOHAtWGpSZDZqeUZjSWU2bXpFVUlLSUh4TFRhay1pbXV6ZHlF?oc=5",
+   "date": "2026-11-12T05:46:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:35:37.133Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆議院憲法審査会 憲法9条と自衛隊位置づけ 集中的に討議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85c1FqcExQaUVsOVFBUi1VUWVwSWttLU8yekdacnREV05sSy11d2k4Rm9wS3hzNjJsMnFDYjRCRGNVcE93UzZGYldPa2RESXpkcm1nQjUwcDJaVzlkYVQw?oc=5",
+   "date": "2026-11-12T04:14:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:35:37.133Z",
    "mention": "body"
   },
   {
@@ -11929,6 +11995,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "島根 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JcFB0aHdJbDMyVFp4RFA2RnVCZEU3eGJuSl9OX3k3UFY1dm13dGV5eGk1dWhmMWd5cUFLbW9HZ3JZN1VGalJUSHVWdEdBNEpVOWgtb1hzS0hOcXQ3YUtwamdiNFdKMm5zWnpkQkVTWQ?oc=5",
+   "date": "2026-01-28T03:38:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:35:37.133Z",
    "mention": "body"
   },
   {
