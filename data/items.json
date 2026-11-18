@@ -1,14 +1,12 @@
 {
- "updatedAt": "2026-11-18T13:35:37.133Z",
- "lastAttempt": "2026-11-18T13:35:37.133Z",
+ "updatedAt": "2026-11-18T13:38:00.416Z",
+ "lastAttempt": "2026-11-18T13:38:00.416Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 日本経済新聞"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUzdwbGxzQUlSLU1hYWFpeHB1WUpCZ29PZzZBbGdwLU9sY3dzekhaZGxuVXB0UlM3c1FDbEpraEpHQUhpb1AxWTBXVWlvOFdrY2pNRkF4TEVrRFY5cUFvZ3ZMbV8?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
@@ -856,6 +854,28 @@
    "mention": "body"
   },
   {
+   "title": "高市首相、財源・支援金の詳細示さず 消費減税法案、参院審議入り",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUx2aGxLdktBTmQzOHFhd3ZjZjJKMDRPckIyMGRjb25qUTByVTR3QXgyTnFxc2s1SzhtTVdTNGlPekhGRTJCeWxwVTN6WGhldXBVUFhjOUNubnU0NV94bXAzSTM5TFhURkxJOGl4NERXdkIxcUt6cUluZTZVMXM5d2pn?oc=5",
+   "date": "2026-11-11T09:10:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "タブレット端末、与野党が国会持ち込みを容認 リモート参加は議論停滞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdktVQ3BESWFBT2tsRGpIR09KMTN1NldsX3dCNnBoa2I0WlVjWmJyRmhKOVNZZEVyS00wRGZ0Y2FqODdDLUVNNi1BUjFRWlVXU0RfNXpKUFhZSURteEYwZ0R2YlJCQ2ZwZXM5dQ?oc=5",
+   "date": "2026-11-11T08:55:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "「民主主義はまだ始まってもいない」グレン・ワイル氏×安野貴博 超党派勉強会レポート（後編）",
    "link": "https://note.com/team_mirai_jp/n/n8f471c263382",
    "date": "2026-11-11T03:11:31.000Z",
@@ -895,6 +915,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "「企業献金」の審議先行 定数削減にらみ与党譲歩―衆院委：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pSVlRMTZocVJ5a3QwNFFsQUFrMGwzaU9LY0tOWl96ZXNnXzc5YXlJQVA5QVVCcll5N040TGdXSEpRRVpGTFNDY092VHprQTFBYkc4b1ZsQVlULW1aM3YzYjhlWQ?oc=5",
+   "date": "2026-11-10T22:04:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 本会議 質疑／土橋章宏（2026年11月10日）",
    "link": "https://note.com/team_mirai_log/n/n265e0cd42952",
    "date": "2026-11-10T21:53:52.000Z",
@@ -921,6 +952,17 @@
    "thumb": "https://i4.ytimg.com/vi/wGVx9BusWyc/hqdefault.jpg",
    "description": "政治の「なんで？」を気軽に聞く逆インタビュー番組『#チみラジ』。ゲストは砂流恵介さんです。 ▷ ポッドキャストは毎週火曜日22時公開！︎｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "「トクリュウ」対策でスマホの遠隔解析導入へ 警察官職務執行法改正案が衆議院本会議で可決",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93OG1wZndBNENuSkkyNzBoUk5rNUFhQ1hXOHVnUDRvYXhhMHM4VktGb20xV2FpMmtJcVE5Zjk0enN3NHBYUVNTQXpET0pwa2ItcXZiWmMwMkl4NmwzT1REajVwdVBaZjVlWV90Z1ltZTZlb0xj?oc=5",
+   "date": "2026-11-10T08:09:56.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
   },
   {
    "title": "企業献金の3法案、13日審議入り 「定数削減より先」与野党合意",
@@ -957,6 +999,17 @@
    "thumb": "https://i1.ytimg.com/vi/XPpvvca9z24/hqdefault.jpg",
    "description": "自動運転バス、実際に走ってます！ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 フォロー",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "「ドント式」から「修正サンラグ式」、中国・四国ブロックは統合…自維国３党の衆院３１議席削減法案原案が１２日にも正式合意",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMFh2YTBQRWQ1aEF0bHZxOEhSR3Y0ZHVZcmNLd24xMzBUMWxWeGk2Q2QzQ2l0QVFhVHdOc1N6UkRkaDFROVVyd3RBNEw0VEg3WHM1RHlraEh1OU1KNVNLdEZmUjM1Ym1waXc?oc=5",
+   "date": "2026-11-09T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
   },
   {
    "title": "【全文】衆議院 経済産業委員会 質疑／小林修平（2026年11月6日）",
@@ -1040,6 +1093,28 @@
    "mention": "body"
   },
   {
+   "title": "「いきなりルール変更、戦えぬ」 自維国の衆院削減法案に野党反発",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sWTR0T3BNWEFxWDFCWmFmcXU3bjNCOHplMmJlRDVXUElVYld5RnFpb2lPcFdKSVhyYWU2TXl5VG5lRFIzVnNVcjJCYjBPUGRvUkJBZFJXRk1kZXVxWnFFWlRDclFYSWM?oc=5",
+   "date": "2026-11-09T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "古川禎久氏「責任果たす判断できず」消費税法案の採決退席、文書全文",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NaEdQem5wQm0yY0JCX2RWMmxGUmZ0S0hiNFQ1cjMzYjhpSTk1YWZRc1lpWkkzRzJ0Ujg0X2xBZ1g0NzhZcjBXSFRkS1JZdzZuaFdCeFNtSlV5OVZoQjNrNVk3TjNsUjBuV0FHaQ?oc=5",
+   "date": "2026-11-09T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "0% → 100% #チームみらい",
    "link": "https://www.youtube.com/shorts/_zWOyn6Zn5Y",
    "date": "2026-11-09T01:15:13.000Z",
@@ -1068,6 +1143,61 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "消費税減税法案審議巡り中西官房副長官「参院は非常に厳しい環境にある」「より深い議論を展開できるよう、政府としても準備したい」",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sbGY0a1MwcXBFUHd6M01YZTJhYjFTVVc1Y0EtY01vc1lKbzVOa1pweGZuNjhfR1I4aWl3TldYUXRiYUQxZkEycjFHblIxNGVXRGJTNHhBTWpkRXg2UGZoRUtRUldXZw?oc=5",
+   "date": "2026-11-08T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "中西祐介官房副長官、徳島の蓄電池関連企業を視察…「原料のレアアース調達が鍵」と支援明言",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWFhxV0xnZUpiQm56Q1JRS3NBNjJsTFNQTlhIUlpsVXh2a1N6SUFyM1haM2NObV9fV25OblhiTlBiUGZSdXFMV2U5NmZsLVJWb0RzVjlIUWlWSThtMXBSc0loUzVkZw?oc=5",
+   "date": "2026-11-08T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "アメリカ中間選後初の日米外相会談、パリのG７外相会合に合わせ調整…安保３文書改定・米軍駐留経費など議題か",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNGx1ajVZZFR1LVZTM2thc01VYTlxUGRyMXBiR2VGNVZmS21BaGpSN2Q1cUE3a29NRUo5OUk5WXZzZnFYRkl1cnRzT01vTV83dko3ZWdYaERPLWZ0OTZsVmRPSmxkdw?oc=5",
+   "date": "2026-11-08T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市内閣発足から1年で“過去最高”支持率64.9％…背景に「ほかよりマシ」？ 消費税減税と給付金は「効果なし4割」の試練【11月JNN世論調査解説】",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Jek94R0NaUHpUaFA2cldSNlhFOHlwNWZvTjhVcGdJRHRQWWU1cXRzbENRXzBveG1rZTRYUnMyNkF3MHlFSjJlajlEcDRoczQ3UWx0Z0xLVXlMYm1halNDcktPcmw3dXdBTEVoSUdjaHg?oc=5",
+   "date": "2026-11-08T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【参議院選挙２０２５】近畿・徳島高知の候補者は？一覧で見せます【大阪・兵庫・京都・滋賀・奈良・和歌山・徳島高知】",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oeW92SnZOUU9MQUw2QnBZdlExQUNPZ0hsSEs0azVGRmdBaDZhbDUyeWFsTURxdml5Y1dxUk1HS3JWZjhiYU4yaWdZNlo3QkhOTUR1M2VLeDM2THVkVE1vRG5CRGx4NGc?oc=5",
+   "date": "2026-11-08T07:39:59.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "チームみらいが「まる見え宣言」、党内会議や調査研究広報滞在費の使途公開などルール化",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ta0R2QjhDdGdURjdCR2VjamkydlQtSXZ1dHJCdlkwUnZsVUhUMXFKa01HN19VZVVsUzVnQTdpOEVLZ2Y3ZWJjYV9CSVZOTVFiRnlxcGhKTHhpNTFLaDg0d0JnSlBQUQ?oc=5",
    "date": "2026-11-07T08:00:00.000Z",
@@ -1087,6 +1217,28 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "サイバー攻撃の緊急対策パッケージ、実効性に疑問 チーム乱立も設計これから 人材確保の実績も乏しく",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GaF9yUW1TTG0xRVh1ZXN5U2lqaUJKVzJtVGQ0YkJEVXJRS0hlZ2Mxa1ZJMlpOUUpyRnRCdWY4OHlyVzEyTC1SM3dxZWlnYXZCWkhjY1hTRmx2bDlQZXQzYUo0VQ?oc=5",
+   "date": "2026-11-07T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "AIが持つ“無意識の思い込み” 子どもたちの将来の可能性を狭めるおそれ 専門家が提言、教育現場と家庭でできること",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aTk5ONTBiVG9nUkliQ0d4VnFSVHgtSWZ5enphb0ZDVGc4b3BhVmoxS3UweVRRMWpWRXhFeHZMVjBnTld6VXd0QU9sMFB5VjMzMEJHdHUtYkpDUTJXQW9F?oc=5",
+   "date": "2026-11-07T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "フジテレビ",
+   "mediaId": "fuji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1189,6 +1341,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "【消費減税】関連法案が衆議院で賛成多数により可決…議論の舞台は少数与党の参議院へ",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjNOOXNUSzlzUWc0b1JERV9tSFV0SDdxOXVMdVBQWVptbW1qYWhBbUVWY0VNYVVUMWY4czBLVWowR0RBMTFhaW5Rb2V0WHd0REhiY2tmVGpQLVdXQWlTcjlKVDlsblh6RzNhMG5oQXpuMlFyUWhWR3ljY2QtbzlCRW1mWmxzYWxa?oc=5",
+   "date": "2026-11-06T08:33:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "消費減税、衆院委で可決：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XMlNOOGdkMWktblBGZThycHdISV9DUUx4aV9xaG9OQzNmVjVBU2RBeEM0MlNYekhfdlpxYmtQTzI5MnBmZEhNa1ZmTWlxaTRmTFprcTRhbF93YzE5QXFvOGhZTQ?oc=5",
    "date": "2026-11-06T08:00:00.000Z",
@@ -1230,6 +1393,105 @@
    "source": "フジテレビ",
    "mediaId": "fuji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "「見積もりないリフォームだ」生煮えの減税法案、衆院通過に野党反発",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRGxXSEpfOFJKUE44U3RsOEVGLVB0XzFFSWRweXBwd0pibTlxWWtYZGNtT3FKd3VPVzl3M1cyTXAtaXZydXBQU0J0ZlUtcWhQd3hEZFZuV3VsTm1xaE9lVDBVQ1Y4STloS0tZbnRB?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "政治の動きを写真で「11月6日」 消費税減税法案が衆院通過 [写真特集1/30]",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObm54MTZDUWFtN0dIbENjaGdNX3NhNVRWV3MwNi0wVWxDdFVoWXVsQkc5aU1nelV2XzhTRmZ0VGk2cGtjc3ZpekYyakJVcmZJU3V1UEEySEFEWV9yeHpzb0pZdTZEaHZ3QWtkYVpFS0MxUG9iOEN0OUxzbHRGMF9sOXBOZExwSW8?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "バイク誌「ウィズハーレー」休刊を発表 出版元・内外出版社が事業停止、破産手続き準備（スポニチ）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jQnI4YlU2UFNkOWpaTUdwQXdaZzJweFh5bG9WVV95dXV0elh3RVVlZVpCZTFqV29qc1NYNW4yRTFhdkc4ZzJkd1QxcXUyQnUwYnUtbFJOQVotSUlTMDJZVHd1Ykt2YTN3?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市首相「給付対象は就業者の3割以上」 消費税法案6日午後衆院通過",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTDdjUGE2R1RObE81VnlabnZGMnI4ZmtmamJZdkFWZVAwMHNjSkdnYkF2TlYwbnk5Yl9nb2hTR0d2Q2NleWJ3WEItSk9zNWNDVnA1d1RqUkg5c2ZKMUt2LU1xZnZzYVpWek9QbA?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "「消費減税法案」衆院通過 次は参院に待ち構える「2議席の壁」 可決のカギを握る国民民主と公明",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MVDBXbkhWOHVXdVotYVZIb1YxdENSSm8zTnY1OHpuV0M4MWlXdGRwVUZ4NFBYSldabVlNOXFLZ2FCN0c2WjFIWUpjYnN6Wm1VOERz?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費減税法案が衆院通過 高市首相、給付対象「３割以上」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0aGFnU0VMb3BfaWFCNU54MDV2Y0NKeDVfQmdjaURSSk1tdnM2Q1JqM29wV2VYcW5VY3doWnlEVFdiUEhJR3JET3pZZDlLWHVKTjZzNTNUZUJjd0QtS0FfWTAyOA?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "トクリュウ対策 通信内容を遠隔で把握する法案 衆院内閣委で可決",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IaVhJZE1iN1F2LWpGYTNGN0d1MzhkZDljMnpGUS1WRFNjeFNnX2RxOUw1eFMtV3ZQNmc5dVZyNFdKRm5nWTE3bUp0UVdJRC1IX09OMnZYWTF5aHNIeWlB?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費税減税法案の衆院通過に野党から不満の声「支援金の中身一切分からない」「議論つくされていない」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lYlM3MTlILS1TN0RBMFFUZ0JhUDZrc25UazBzMGlfLUY4LWM0Umd2RjhseGdoQk42Q1pSQmpVS2FzWkN2MTBMcGZkNGFSZDVMMXd0U2tQdENtdndWc3NPUFhHUmQzSURkQV90NHNNbzV4SWZZ?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【ライブ】消費減税法案きょうにも採決 高市総理への質疑も 衆院・財務金融委",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtcXVxSmp5UjBkOXhmTDJQUUVyT0hybk9wVUJ6LUY5VDJCeWdPQjRldHk2b3JqYzV5SERCVVpadFd0NlRKVEpabkd2QnF5QQ?oc=5",
+   "date": "2026-11-06T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "フジテレビ",
+   "mediaId": "fuji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1332,6 +1594,72 @@
    "mention": "body"
   },
   {
+   "title": "与党が憲法9条「集中討議」要求も…見通せぬ高市首相の「発議メド」",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10RkVUZUNSQ3lTaDh5UG5QZFhwemJ0WnJyOGpGUHBGYm1mYmhwaUxtcWRDNjdWNnB2WmVLOHVUU2VTaGlyUzB4MUNucmdETGtuZVJfSExhRVdHVVZ6MnNTcDB6dW9tSlk?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "「内容が不透明」消費減税法案巡り野党は反対姿勢崩さず 与党は6日の衆院通過目指す",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3hzcjBVdmhKbXd2dDFpZGNYeUVmYW4tUE1qY1dzd2RDOFZiMUw3NUxXbS1VbXlYRWI0SXQxVDVHZm9Ndzh3TWc2UEYzZTdjQ00zZGswSVNTNUYwdTVuNkV0RjJ6OTFLcDk0Vk42YjFTQVB6dXl1SDhLSG1VQVhDQzRUa3p0TGF4SklDeQ?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "比例31減案、女性比14.6→11.9％、当選者68→50人に低下 産経新聞の試算",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0s0MG1WQjZXZEZ2QW1Ld3FaZTJVc2F2TS1GYXRPQ1lubWpwYjVieVlxcTJjWE04RkhDQVhHcXRFd2tpMk94eFI0ek42LTZXWVBVOVlSYWlmWGhTLURJaHBSYXR3bzJ2Y0FBTWg5Wloyd0lnTjdxRzNOamVxTW1OQXlLUHZtT3BqRG1Iaw?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院憲法審査会 各党が今後の議論のあり方について討議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RMWNaajk3VS1XLUtjVHMyVk93U0pHaVRSUllMeG1KamF0ZWdyTXRHRHAzbkNCWDJFZlNUMlhyT1JSRDhrT0tKYjViX1l2UlFvcTc3YWxtSHE4bzVQLWFV?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費税減税法案めぐり公明・中野政調会長「現段階では賛成するわけにはいかない」 野党側はあす判断へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rSUhveXZxSWEyRWZVMmVLQ0NiQ0VwM2F4V1lqZG9MM1ByckZHRVM1ZVJENi1WMmxxMWN1MHBKMVBkZmFjTUNFdGx5WkpZMG9QVDF0NjhrOUFxZ2I2YnpNdVc1NjJ2OFhOMGtaZE5uZzNsbUgt?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "水害後の片づけは子どもNG 細菌だらけの泥水で汚れた家を掃除する時の注意点",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ONGQxSGRobEdUSW55a1VxT0VwLUpQVWRQdXF3NnNiTk1yN0J5X2Rid2NoX0FkLVlKcF9oNEhGZ0RSYjQyREQwb0hQNlJNYnFXRC1STA?oc=5",
+   "date": "2026-11-05T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月4日）",
    "link": "https://note.com/team_mirai_log/n/n362ba545a1c4",
    "date": "2026-11-04T22:58:59.000Z",
@@ -1368,6 +1696,28 @@
    "mention": "body"
   },
   {
+   "title": "国民民主、対案受け入れ要求 消費減税、公・民は反対へ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWE1teUxBQUxHcU5TYllhcDVWZUExTlZfU085VTRkcmJfUUhYMHZzdDdyV3I2R2t1RnEzVW5maXdsVEFncDVvcWFPX0JXVEFTY3FjcWl4UzlNTkJINDNSYVFZSQ?oc=5",
+   "date": "2026-11-04T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "定数削減 自維国 31議席削減案の条文化に向けて意見交わす",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JUFRMcW1fY0d6alNmVkJFT19WbVdtVmNKQy1VU05DT1NFS0RBS2pjNnhkeXg1M2hjeEEzLTZWU0pSMmpCQ2s0dXBzbTBhWUs4MFZYeERYRlN0SXBVaFVz?oc=5",
+   "date": "2026-11-04T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "「勝つ自信は？」激戦州の民主党候補を単独直撃 投票直前に身内が異例の造反…物価高に揺れる有権者の本音【アメリカ中間選挙】",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kallraTRLbGtqMHNHNm1GcGpnSEJHSk14ZFNicTY0akU5ZHpxM0RZcVNxX0wwaUFpNGktSzF5YVdsQ0hoRmcyMVZMWEhwdw?oc=5",
    "date": "2026-11-03T08:00:00.000Z",
@@ -1376,6 +1726,17 @@
    "source": "フジテレビ",
    "mediaId": "fuji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院比例３１議席減、ドント式から「修正サンラグ式」に変更なら自民・維新の「議席占有率」微増…読売試算",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05anNsX2tTR1NjTFVBZE4zZnpNdVhvWTR0aFV1am9LdXlndjhiWEhaOEwyTXo0cmN2M3pkVmRFVlU1elhkSlZWNGpEcG8xSGNRNUtxd013MjBkSHhnc28tRmFaZHdZUQ?oc=5",
+   "date": "2026-11-03T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1460,6 +1821,39 @@
    "mention": "title"
   },
   {
+   "title": "競馬予想やゲームで批判招いた議場スマホ持ち込み、都道府県議会の６割解禁…資料の閲覧など活用・禁止維持も",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83X3k1aHgxUHB3WGE1VWJRTFNEcXFVRnVyME94eDcwRmNpRFFMRDROcXZfRHRGbFhRLXRCNEFfU25TZzhlT2V4bTBaRHgySllUZ1EwekpHbmtsaDVwV2UzbnRkME45UQ?oc=5",
+   "date": "2026-11-02T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費減税分の物価下げ効果に疑問の声、価格反映6割の試算",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WVIwanhSNWg5WXMtdURDTUFOSGVxYk5hTDVvdUhSOHFrNTM3RVNRQ2ZSV2JqM2Z1cTVRMUVBZWs4d2piM0h6OVozQzlOMEJONzN1ckJhWWpPRHVKUVpwZXBPRzZfZnZ5TTZUZA?oc=5",
+   "date": "2026-11-02T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【やさしく解説】９条に緊急事態条項、憲法改正の主要な論点とは？与野党の立場は？（後編）",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MU1BESEdqLW5vd1BnUlRiVHpjcTBMczNGNTlPcXJmamw3RUlIc3lGZjd4OHVFXzdoUHdFWlh0WWVPYkFQWXlvNDdma292TmF6UmZwenhyUS04T1ZQX08yMlB0akZQWG5QZ1YtUjg5WV80QWxtNkE?oc=5",
+   "date": "2026-11-02T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "賛否のその先に、第三の答えを──私たちがワークショップで声を聴く理由",
    "link": "https://note.com/team_mirai_jp/n/n29f9ac43ced4",
    "date": "2026-11-02T02:29:08.000Z",
@@ -1505,6 +1899,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "日本人は「6つの思想」に分かれていた！7000人調査で見えた投票行動と、最大勢力「新しいリベラル」の行方《全8回の3回目》",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByOTIycjVzVzJ2WTlTZnFua2dYRXVCeVJENzFUZTN0bDhaX0stOW5FYUJSUDA1TkV5NzduUzBSXzZMeTF3cGlZLUlNX1ZaTEhrUFJ4YUhJM1JmeHk4XzJtSQ?oc=5",
+   "date": "2026-10-31T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "AIを会社で使い倒すには？ #安野貴博 #ai",
    "link": "https://www.youtube.com/shorts/cNYUvnlcuqA",
    "date": "2026-10-30T11:15:11.000Z",
@@ -1534,7 +1939,7 @@
   },
   {
    "title": "国民幹事長、消費減税の修正協議に期待 対案受け入れなら賛成も",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3dfaFZfY2xCNTBhT3lUNzVaT0c2NUhzY2NVUlg2WUVvRHlrUGdCcXJPTFlTTVRvemhyNEpXMG84bE9rclh6LU5NWnJ0SmZvLUlfekFYT0xfSGJucFIxUGNfWFI5SWppUWp0SHlnX3hObjZhdGtRbVNzUjVVSTIyQTVB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xdTFNb2JIVS15YXVNMnZYX052MlROOWZTdi03N2ExSUpHTVZlRHhvQ3VrbDNnQVBSbWFJZ2dQaWVtY3F6WENUNDRVTEhBMXRUVUdtX1p0c0l0OGxRanUzNVMxcw?oc=5",
    "date": "2026-10-30T07:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -1552,6 +1957,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "立憲民主、サイバー攻撃「外部人材いかした分析強化を」 政府に要請",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NTZJb05aVFJhUWt1QWxLZEJWbTQ0a2gzQ3AxeEU5eDM4X1pjMWFrSnY5RFR3Sk83UnBLZW4wenR4UG9wWlBqN3JsM2ZrWUpNVTJHSHU5bDVCZ21fUEZzSl9YVkNabFZxMTBIVw?oc=5",
+   "date": "2026-10-30T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1653,6 +2069,9 @@
    "kind": "article",
    "source": "東京新聞",
    "mediaId": "tokyo",
+   "members": [
+    "furukawa"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
@@ -1676,6 +2095,83 @@
    "source": "共同通信",
    "mediaId": "kyodo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "デジタル世代の「忘れられた民意」を聞け 煽動政治への苦言と展望",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NU0RwQXNTN2NsQUIteFMyU3h2bkxabVNhVDhqdWRzYjNRQWw4OHVoMVlhYmdTZXJYLU9wZ3VQRUhqZF82Q1dDY0hYYjVMRk1HZHZXSnc5cUQ4OFZFUkxKMDNaQ2tpd0k?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院比例「３１議席削減」に自民・維新・国民が正式合意、今国会での関連法案提出へ作業の加速も確認",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Bcm4tZEtMeTNwTFoxOE1MWFc5MkJuZTVMTGxYWUhvZFhWVlRQbGRRNk51X2FHN2FaYlBTWjNVak1fLV9yMXRQVnlZVmh2dGkxWUp6RnhhQWdxOHZ0TEJzRy1qODNCQQ?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "立民、減税の対案で非課税世帯5万円給付 600万円まで所得連動",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zNzUycTUzMmNIZmRZeGR6XzFhVGtCXzV1MWtKOUJPVkFKR3NIbHQxcktLb2RzYUl4c3BwRDI3V2hESm02UVIwaUtBaEpUdUtJbFRpT2RoMFZ6WDRRT2VReXcySWQ0SXZmWDZ6ag?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院本会議場で通信タブレット解禁を 自民PTが提言案",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93UWFnRDJ2RzlXNTVaOXZ5RG41WlhZd21laVZwbkw4US1MSnpWbFdIZzlpeG1xWjhxWTExZ2U4ZHI3OEo4TWxvLW1aaE5qb09KWU9mek1ReHV2eFhaenIwODc0ck82Q1lBNm9OQg?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "定数31減案、自民党の議席占有率68→72%に 2月衆院選で試算",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbWlRNlQ5UG4ya25xaGl5eGJRY0dNV0FCOUpCRGFqZ3NSTUxlekVzMU10UDl2ZTNJUlcyVW9PUTU5S3QzYkplU0lWaVpMNUdiVXd6S3Z1SENHZFdKZW9EQnFNaWQwMFF0STlBSg?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "3党合意の衆院定数削減は「民意を切る改革」と野党 「維新への恩返し」だと自民内にも冷ややかな目",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01X1dlamxqVk44UGVvNlA0cWR2cGxMZjJwYldiRnBDRjFhUzVmR0NvdWtyWlFpbUVLeDR6d1lhdnJaN1BMd2llRDFSbGpEUlpfdHVn?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【「134兆円」国家予算超え“AI投資”の賭け】「人類はまだClaudeを使いこなせてない」アンソロピック／上場書類が示す滅亡リスク／Fable超えの「パワフルAI」とは／今井翔太【AI QUEST】",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TeGxubXNHVHNEWGMzOUoyTEtWR00xTF9ON3RPNDBDNnpkd1NqRFZXblJuNkZ0ZzVBd1NZSWI3UEFhcnJjdklEYXJMM181OXBYY2gxR2g5U04tb1pLendoSy1xd2lJT1Z1RHp6eXFXN1k2WjZO?oc=5",
+   "date": "2026-10-29T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1733,6 +2229,28 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院定数31削減案 維新 国民が賛成 自民“3党で法案作成を”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13bGtfa0F5ZUxFcnhWNjVIamVnUFc4a2dYTHBZbG1xNWtPbW5ET3lteGxqTGdpWk5DSnhrSDU5a0YzU1RKVzJEVVVta3hJcWZSUWZvcDFQajdGaGZXWDdn?oc=5",
+   "date": "2026-10-28T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【解説】衆院定数削減めぐり「比例31減」自民・維新・国民が合意 各党“譲歩”のワケ（2026年10月28日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajZzemJWQUlaY1VoTmpmZkd2cFFEM2J1bktqaEJJTmxSWk9vaGEwZHFaRnQ3bGNBQ3B3OEo3eC03cXJlUE5oVzI3REFHSXNna2F5cVRqcy11bnc0QVpDcWVEd1RGbFNNdFlnM3B5d3dQSVktc0lwTm5yeHZLWkxUR1QzMA?oc=5",
+   "date": "2026-10-28T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -1828,6 +2346,39 @@
    "mention": "body"
   },
   {
+   "title": "政治の動きを写真で：政治の動きを写真で「10月27日」 [写真特集2/21]",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0VEZnV6QXhHTFJRZzMwYWN3YWtZWklzemhtenBLc09UMVozTnA2MVVlYVRfcU9uQW1OWFdWS240N3BKUjh4UDFMMEhiUjdUTm5LVktLQTBwVHBNNlR1Q0lXYUZ2eGlyZmxKeWNtSzNPWDZQQmNzZUxwLXhCemNjc2tLNDJZS0U?oc=5",
+   "date": "2026-10-27T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費減税「転嫁されなかった国ない」 食品価格押し下げ効果強調―財務相",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XX0pYRENOUUhrQzZGOGpxcGhEUE04ampmTHBzSVdtTU1XVmx6ZGczR2Uwc0Rpb29VOXZpWWZmdV9YdnBFb19SSllhUVJ2c1Z5VUU3c2hRS1FwZTRKQkl4bWJoVQ?oc=5",
+   "date": "2026-10-27T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV0IybmtaQ295aklDREo1dXl1dnhEc2s3aFN0ZFE3eHdtSFhncmFNNXUxRC05MEJQay02Mi0xS3lZVTFrT08xTTlNX2hSNzVmRGhkRTZmcEtFbWRJWjR3?oc=5",
+   "date": "2026-10-27T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院選挙制度 現行制度の見直し案（座長案）への賛否表明 ぶら下がり取材／国会対策委員長・高山聡史（2026年10月26日）",
    "link": "https://note.com/team_mirai_jp/n/n7eb7336e6d1e",
    "date": "2026-10-27T04:44:43.000Z",
@@ -1885,6 +2436,9 @@
    "kind": "article",
    "source": "時事通信",
    "mediaId": "jiji",
+   "members": [
+    "anno"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "title"
   },
@@ -2017,7 +2571,7 @@
   },
   {
    "title": "“AI失業”対策を政府に提言 チームみらい安野党首「相当なスピードで発生する可能性」",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QdXlWTjkzVGl1S1hwcnF6Rnp5VnF2Z1I1TTZHMXFLalREUWdaM3AyUzFQaldPQlk1YlpuOXdKSmNRQllLQk52S1dDSjUzY2o1RlRnRW1PMmItd0VoOTJ2WmJITG5qZGNXa08zczN1cEduVFFt?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0TE9kdmhFQU1md0h6enJVeENubVo0M2stQUFxRVZrZnNpZFM5eXhaVy04UUROUTQtdTk2Mmw3TFUyR2lvbUFYYm9TSnRmN1RtYkFMWUNHSQ?oc=5",
    "date": "2026-10-26T07:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -2080,6 +2634,116 @@
    "mention": "title"
   },
   {
+   "title": "衆院定数削減、国民民主は比例19議席減らす案 維新は執行部一任",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcnpyZWFwazVzVUdGaWR1aTNRR3hySVNJOURMUER5cXk4bWpxci1xaWp2alFrTEpIZHRJazdfclBlVHU5UjRfb3hOeUNLYTExa1U3ZkVTUTM1UXhzVU1iNmNEdHJxX2Vj?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "サイバー攻撃で個人情報流出「国は関与拡大を」70% 世論調査",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ndjFXUlpNNEFUR0dvVXBCRlFGSXZWcGFWQUlMSUhyWDhkV1VRcVdtOXBFSE9xUjBkbW9JdWNzTE1ja05LUmZzVXYxcVlKNlNENUxYTVJwVDNVcGQzTWxsQlhQYkE3aFZEcWhnRg?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院定数の削減案乱立、国民民主は19減 「多様な民意」の反映遠く",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZXhJRmhKWHJmOHRrNk44N01KYzl1eW96TFRySWVvbmNDMzNnaTNvUmVqWE5DQkV0MlVxYWxpMko4YnBuVEFWSi00WG83Vml5aU5FZUV2cVQyQzRhY28tV2JLd2ZyaGtRR2YtYg?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "各党が衆院定数31減案への対応協議、国民民主は19減提示 与党執行部一任、民主改革は反対",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2VILUFLNTAxbGsyMl9wQ3pkNU5OYWZaTDNaYnNRSkwxY0kzZ2Y0bXZnT2lmUFNCQlgxMHNXcEY4c0RMTFk1bU5lMmduekRXWjMxdTJ4LVpCRzc2UGZxSjBmX0JhMWVfT1U4U1B5bzZnOVRkb0xVaEZwYVFfV21kMl9QdDN5WWJabGZYQw?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "国民民主、議員定数１９減 自民案への賛否明言せず",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PdWItNXhPSFlVNnI1ODJZUFhMaU02SUZ5STZWclZGQ1lzU003MlotSEFZMng1Ymt5cEpadDA0ekV4aU9tN1FWa2ltTkltN1BuUFln?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民 31議席削減案 各党との協議の進め方を実務者に一任",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IdmlzT3NBbm9yMW5sTThmekdPNlB6M0lsQXZHaDU4SHlXQ3h6bk1YQXlBU2hkSVBjeENncTg3T01BSXVSQ2hGakdTd1FtcFhxNTMyRjVDb1l0Smt2YTEw?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "新潟市長選挙 出口調査の結果は？",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1udjBwLXcwQkJtQ3JtV2FCcV9CQnZteXg4MXM4SkRvVngzckdiVnhQMlNZZnZLbVRwS2VjX25JNlZOMjB3cGl3SHdzQ004WGpVak5LRDVPQ2ZrMm5pQ0M4?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "議員定数31議席削減案 多くの野党が反対の中…国民民主党・古川代表代行「一定程度の削減については受け入れをしたい」",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82RGFCODhvTG5ISUp1X0tPLWlvQmdlbjNpWjcxZFlKNmRpdU5YN2RtRjlPbVRQSTdhZDB0UV9QYUJ6ME12akRHWWJqOHZPelVETzZtLUc2OTl1N2dJeTRpdzlWanNUcGNNbWlJY1djdmJmbXNKMDlnYU9ESm13Zw?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民党提示の比例31議席削減「折衷案」で決着は？ 焦点は国民民主党の対応 27日に各党が意見表明へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZ2p6R2F4XzBPN1ZCa2l0SkZXR3pURHNPTjBwXzBvRTllOXNYQWdadXFhN181UnA4RTJlMUhOaFc0U2xrUTcxTkExRjVXbS00TnhtcndFcGo4SVNCQnZ6cDNaRHlGczQyRjR3UHNCZWdod3U3?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【速報】高市総理「経験と識見で困難な課題に一つ一つ取り組んだ」と悼む 福田康夫元総理の死去受け",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xeWFPS0I4eE51elZDNjNNaUZKWUl3MGFnVVF0dDBJUUZkcEo5VXRjQmhPSEhzU0hoVGE0ZktWNS1JLWFtZ1VFRm9VR0ZCeFNwUmR0M3dlUGxpSEtqUEptY3hTcWxLY0VFSnRxdEQ0MTNKeGE5?oc=5",
+   "date": "2026-10-26T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "「AI失業対策提言」を官房長官に提出しました【提言全文掲載】",
    "link": "https://note.com/team_mirai_jp/n/n0d8ce2e8ea59",
    "date": "2026-10-26T02:08:29.000Z",
@@ -2136,6 +2800,9 @@
    "kind": "article",
    "source": "産経新聞",
    "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "title"
   },
@@ -2184,6 +2851,83 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "所得連動給付、自民・村井氏「政府は解像度向上を」 対象や金額念頭",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RSG1qXzRaVHQyY0VNOXhocVd4WDFIRUpwdkJCR0tZUUduQ1hjOV9Jc2M1dVhKVVJXUDFVMjBkbVJiRm4tTzlJSXBENDJqSERYVThzYVpPeUJGYzh0UDdoV3d1Z01wbUpKNDNVNA?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市内閣支持率、横ばい62% 簗前農相の辞任「首相対応に問題」48%",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KbnJjRmZMbkpKNmZ6WHoyUXU0ZGN6T3hyV2FTUEtNZFVWTkV3LVI5MDNOLUhaNi1kMTk1Ukg5cnhKRnlvQ3R1NnZNWTVJVmhuci0ydzc0UFRRam52VzloTk5TczJUTkZsN1ZwdQ?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "デジタル教科書で「紙の良さ失われる」 子どものネットリスク教育研究会代表 大谷良光氏 論点直言",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BQTI4QldrYnpVYmRKVnFOcTVyQXJ5dTQ4cXFjb0tCOXotT1N2VTZQV0tLVjVUYkF5SGdMQ2E1dFQ5a1h6TFNWZ1drdFVBRlBVSGRwUFVfcS1ReXNlVlNKNklVNmEzYlg4al9oQ3ZUZmFvWXJIRXc?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院31議席減案、国民民主の賛否が焦点 26日に党内協議、参院での法案可決を左右",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSFdYS1NibWNGZ1ZEbWl6ZXJLWEtvajRxNl9iVFItZ1llTmk0M3RZM0twb3hSLTIyc1BLNXpGcHVzMU9LYzAwSjdNR1FGcFhsQ09lUktpNWFhQ3cwdjJoUWVKcjZBbk5VdkJJeE5UNzlYU0t2emJlU1ZTNTdPMlgxanh4MWJhamQ0c2otUg?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "「何のために首相を」八幡愛氏、国会出席減を批判 自民・村井氏「長時間拘束は稀」",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWEdQNXA4VVphNk9qRzZ5TGxqaW9pN3hYaWotZEtWRFlWU2p1dmg0QUJsYkVTUWhOUHBkLURSZDhMQnNxcFNTMWI5ZUpNLWc4RDQzeDZycXpkSXNOSjlWVVpuMDN5VEFFV0tEaWM4Ui1hdDZmc2Vrdk9RRkhTcVNnU0lmOTFRUlc1bGRmMg?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PTlU4d1lHTHI0ZVdLU2llc3Q2MW5SMTNfWFk5aF9BOVpOQVQ1RmkyY2pfckxOX1NqcHpJdXh3RWRKR2pwdTNwck9CN2JfY3dYX2pfa3VlQXdaVmQtNHlV?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUmhjYk1sVDBsVGhmZVhWWldQdXBjQmpWZnNiWXR4eXFlZmdsQkFvaUwxYW11T3hGb0x1M2kwOXZaV3p2WGw0QmF4dFZwU2pGOVVNaThmT0JCX0M2czZJ?oc=5",
+   "date": "2026-10-25T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -2273,7 +3017,7 @@
   },
   {
    "title": "チームみらい安野党首がデジタル庁にAIによるサイバー攻撃から迅速に国民を守る対応を求める",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNU9DUTdVMGlaUjlsREcwaDIwYjE1dThFLTQ1T2MtZUtMQ2VvS2dsMzFDSjJUX3NUal9nUkQxWXJSZC1VV01oSjlRRTJTaUpicVhGcF9NNGdvSEo5cGQtQWJGQi1GTmRua2FQb3lZMU9XbkRV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUzRHejFNaHVZNEU4V1pJa0V5N3J2elU2emw3VFFaX3YwemRrdU5sUjBEZVNna3hFbk1YNDJPX0hpR0VrNlJsWHNUb2xZZU9uSGVaYkw1VnpZMUxvTjgzS0hLalhOazQ?oc=5",
    "date": "2026-10-23T07:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -2305,6 +3049,160 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "10月23日14時 政治・国際・医療のニュースまとめ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblZFZVp6NUNYUFo3YnE0bFZuc1ptZC1nOElsbm8xNXFYTlN4Q3hvNUhZT3hpMzRsbXUyZkswaER3Z2xLbS1zWGR4SU4xUjFGV2tRa2VCU0xEaGMyT1hnVXhRdFRBTThwTmxSUm5xRFNSejduUDJSZVhRc0VEaDBlVnNPcXJVSTJ5OXVhZFluWXRxZw?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "10月23日 6時の最新ニュース",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVNZbnJzZ3RMdlBRRlZmRHVNRWlVRU82dDMxX21ZQzdqSFhCWmZkT3VrVWltcUpORFBuRkF3VE1OTU04WFQ4eUVtcHNvbndscjRWRjJvUmJYcldNQ1dRQlNJbE5FZTNxeldHbUdhaGg2OC1hQ0x4VHFNU2k3ZlN5U2ZzbDVmYWJwQTMzcWlQbHV0Zw?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "民主改革の会1％ 「自民1強」続く政党支持率 野党は団子状態",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vLTJ2RWtqTDEyMWFGXzBzakVYSEpXbmdSM0lFRC1EWUd6ZHhDYnhxaXVpNEttNThodUNNY1Z6SlNnbVpha2RpekI4OEhHTHJUSFYwcktIYzM1X3k0a0xqUWRqcWEyUEFj?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "若者人気が上昇中の「ポーカー」 認知能力高めようと習い事にも",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZzU4NzdSY0hTRWlkWmdoN2VzeF9jYlppQnlJcC1jOEdQZnAtWUZRUkdCSlQ4djl6aHViSDEyazdNTnRGNGF5WTBQdXo0X0RrQTdfcGNmRjlfTHRERDBEeHNoMGJBNlZO?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "みらい「無償のサイバー脆弱性診断を」 中小企業を対象、政府に提言",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YdXlQYWNpVTZQeDcyTldtbktTTkdsOWJiRjRLdTN0YW50cFJTT1p2dFcwblhmckIzZk9MMVkzS2FlMkFrX3NXbm1fX29PNVQ5LW4yVVo0Ylpab3FxWGx0M2N3OHV4NFZXVlNtQQ?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民党、全議員にタブレット配布を提案 国会ペーパーレス化を推進",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3aENJNVE3c3UyQW1zX1dreXVCWWNuUWxKdE5fb3lIelV4b3JVQWd4NWs1UDQ1TmpFMDRyWXljcDBDUVotOVAyamlqVmlqQmFkTTYyUDk1X2lIQTZwQ2tvU1pkQk9sdC1pTlpTUQ?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市首相「官邸主導で必要な体制整備」 サイバー脅威で与野党が提言",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93UlZmeG41V0VhTkxNTk9RX3NoQ0VFZzFEUnJRdFVhbU05bDdXVnNzeTVDTFhXT3FEV3E3aHhmOFEzeHVMS0hValJXckNaOEFKSm1jMWtUZ3lsdkdfdWZXTmFZYVJPd1RNVEhPNA?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "情報流出頻発、政府体制整備へ 高市首相表明「差し迫った状況」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaFNzeUJMUkFvVV8tNWFQSlpubGJjbnpPM2MzUkx2bEFMOWFHZm85Y2JKR21KX0xEaFdYTDVxeS1xcUhwS3FHMVpQdVFrMVRodHRLUnVNMUsyRkRSYUJGX0pLcw?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "片山財務相 消費税減税終了時“支援金で負担感和らげたい”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uaEx3TkRUdG9Yc0V4bU9xLVVpSnhXN2FmSkVNZ3JUTTJlN2ZSTlVOWXlxQjRKdjlFekxqOHRmR0NuN0trQy1Cd28tREdMcThER0ZEV21oYzVzRjJXN01Z?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "アルカディア、不正アクセス被害“情報漏えい”会見で謝罪（2026年10月23日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EWWc4NVg4azN4WjNnUnFqdmZCZWstSXlQTDUweFJzMXBnR3kzZTNUallvZk1EV0NrRXp2R3FfbmZSOTJNb25oTG1KOEJYQkdNTER4YWlxUWJES0kwa3JtZW9YTGNVNGd6djZWMU0wX21YcE4zLTRlbzZwNEY?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【動画】高市首相 ガソリンなどへの補助金について記者団にコメント（2026年10月23日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BSks4VnpmWVhTcXA2TnJrWjZrWmtnb2lLRVlUVUt1eVlYT3FudHhUd1BrcWtua2s0b3NNRVFKRDhwOUdKcnp4MjQzcW02RlNIdzR6TEFjbHdZcmVIeVJJTTR5ckFWRlhkQUJtWkRBZWlmUVRJRFliYlZTV0kzUQ?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "厚労省に関連するHP 31件が予防的対応で一時停止に",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qR0tIZW5GdFRGejhFNUpNTzl4VVBlcko2RDVBTjZTYlk5MFZhZ1EyN2hQVEF5VndLTzVxVzNScHNZNGJGcXM4cGZ5bS1jck5KWGdTMXM3WQ?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【速報】高市総理 ガソリン補助金の見直し検討を赤沢経済産業大臣に指示へ 今後の支援は「柔軟に検討する」",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydjFtNFp3OHNsWjZXS2duVnZ3QTlGTFl4dkxtaUZsRV9NeWUzMHIzUkpfM2VtVHJla1UyNUNiRXBLMFp6bGp6a2U3OHFFcnZNendhbjhSNA?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市総理「官邸主導で対策を加速へ」自民のサイバーセキュリティ提言受け",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TMzhQYWdLNUNidDVyc0NZdE1HTzQzb2I2Y0xDMXRTZkhOYTdzRzhIN3VRUk15RGxNU2pGZjREeXpnMjdVX0hpd1g5QVFBSnNnWVN1QXA3UQ?oc=5",
+   "date": "2026-10-23T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -2475,6 +3373,9 @@
    "kind": "article",
    "source": "時事通信",
    "mediaId": "jiji",
+   "members": [
+    "anno"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "title"
   },
@@ -2505,6 +3406,171 @@
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "title"
+  },
+  {
+   "title": "改憲の緊急事態条項、維新が早期条文化を主張 欧州を引き合いに討議",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oSDdlcFJJQkxtWjZaSFRaSGZ3X040OXlwS0JkVlN1N3h5SDFFSWNTcV9ya3VydEk3NU1uelQyU2lOajlmcGFqb2c2Q2lZY0tfenZDMmtZZVNVeW1ZbHdiZTNmWWRkRUE?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "10月22日23時 政治・国際・医療のニュースまとめ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGphOVdZUi1tUlRpMkthc3NXOUs3WkxIaGJOOWNwQkkwR045c2tuaXk1Q0N1eUFhUTRTc3dGc080SE5uTTNlb2FDUmxRcVBGTFB5aGJidHBJRGdkaWc4U0RLUWRMQmZSaW43RlA4NHdRMnl2WEd5ejk0M0pwbU9GRGNZaDV0aFhhNXQ0R2lqajQ4UQ?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "10月22日 21時の最新ニュース",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczU5ZEFOcWFMQTV4bVZ3eE0wSi1CSDNRWnFUY21CLWdtbmtFb09VdGNvYzZieV9EQWhhTU9OYlJob1ptUmRrTmx4YVRQMlJITzBvQ2h1LVZlU0J6NTZMZFFCUnBtQ1I3dzlNR05zNWtSU29KLUM2bklEYi01Zjd1eld1TEoxekctSERBeHBxM05yZw?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民、衆院選挙制度改革で折衷案 比例削減を31議席に",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WQjVaRUhueDlpUjNqNVJvUGstTm5ET0s0ZVBqTWVzWjJfQTY5N2pnRWJWTE1tSFpSY2gwbHhDY2hsOWxEdEhOSGg5WGdsUU9lNU1oaGVwcFppNmxLNDEtOWxROU5kWDRG?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民、衆院議員定数削減の折衷案提示 比例代表45→31 野党の意向汲み早期合意目指す",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzJxZE40QnMtUEttV1pSMGlTdnVIbTd3TGxzUUktWGZVT2FPUU1iNl9Jd2Rza1cxN1hmWXpDbHBLM1l2cUp3cU1JRmtQV2U4X1NLajZKa2VtMk1oWENodDR4NXdHbkFDRkFLakxzcTFwQS16QU12bmNhUl96clBVd1pCRmVvSy0xY1daOA?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自転車ヘルメットを「カッコ良く」 学生が警視庁、良品計画とコラボ 広がる着用の輪",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zTmJlYm5WX09KRFB3WVFIMGhyTTR3V2pvSGNPaUJJb2hkZDdMYjhEMkVqUUZHSWpJSHV4UXNuY29pUlBOeVdCTDlXOVl0Ty1FNmJTWXhVdlFDbE9QeXAyeHR4bXQxY2Y4cnMyZjJXTE5TNHR3bnc?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "首相、自身のＨＰ一時停止 公明、立民もＰＨＰ問題で",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xTENoaGNJYmE2alhQZy1QbWdSSmN1QVp5Ry0yS2REbThTNW5OTG5xV054MUVzWHRsMFUxd0hBakROTjA1TjVDWU96VEhTc09hZUE4?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民、衆院比例３１減案を提示 維新反対せず、国民は一定評価",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPQjRLTmo2aldCSTlxS2tETV8zZ2hjS1hPeURxWk84QjVTeWVySEZVckVsWnR1SGdVcXUxTXBVd1oyWmI0bzhDV0VvdDJ1YmZ3SlU0?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "憲法審会長、意見集約へ議論を 欧州視察受け改憲推進鮮明",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9weXBVMDMwZldDZVlsSUJYdS1PRWpHQXozQlBWTDI5QXlfSHUwS1pONFhHRWNMWEpiR1J6d3M3MlNNX1gwWGhvdFYycEJqdjh1eG9R?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "連合の芳野会長、消費減税に反対 社会保障財源へ影響",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVJrMzZJR0xlNDRHbW9Cc3N2QzJWaWh0UEtudTgzXzhMdDM0R1BnMzlnakdSeHNnZFRFbENod3E5cmxHTV9ZMHd5MHdOMVplN2Rfd0R2LWVwZ3NibUh2OTZTU3J5MUxfV0FLTWVqTktTSHVSQlRuSjhuQk55VjdHNGVn?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "連合の芳野会長、消費減税に反対 社会保障財源へ影響：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Hdm50V1ljcWxvYjB1ZjIzQmdCLWx4Wl9Cd1drVjV2LThUdllsZm9LMnlYbXFkRm9Fd1c0MzhQeDFhcTdBT3JwWmxRQ09fazFldi1kRHRxdlJRZUhhSjhjM3NuZw?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "参院 野党6党 消費税減税法案“特別委員会の新設求める”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fQ05oQlNRN1ZoWlBZUkdVS1R2dDVRZk42SERpdTJDWVUxc2c2Z3FPMkUtWUxNNEwzd1gzSzFpbFhtYlJOVlk3TkZ3eGNxSTJsT3ZHRzMzUnlBVW1Wc2hz?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95WWcyYXdtUm5tU3hyeVpsQ2hlSjlwcHp2bXNjWk1zcFV5N09uYno3akJseENBR2FmelF1YVRfSVpMa1dhRlFNckpLcmpxN2ZvbnVBc3JmNk9kTmQwVnQ4?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "定数削減幅を45から「31」議席に 自民が折衷案",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhNWwxeFpCQldscUNZbmFHN1R1VzZNbEk1SWlZbG1vNWR2XzlqbEdqYlhsSGFZVWZlYWwzUVZkS1BrT2FJVElOdmZoZ0laUHVxbUl5bU5ZY1YxMXF1eTdNZi11V0lWdUExQUhqZWlVeWZ1TFk?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "比例のみ31議席削減案 自民が提示 維新1割減にこだわりも 国民は評価",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HOU56S3VFNjVUY3MxVEN5ejdsbFlMcGFsQTV6Y19waXVRaXBrWTFiYlJUQlc2NEJtcVRJbUI4c250eWxtcW92VUdGSXlaZUtWMHpsaDhiMThuYzQ5QkhqdW91OHVBSnlkUTlBU0RIRnFnTzg?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
   },
   {
    "title": "チームみらい 定例会見 原稿（2026年10月22日）",
@@ -2562,6 +3628,53 @@
    "source": "フジテレビ",
    "mediaId": "fuji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "中小政党が議席得やすい衆院比例「サンラグ式」導入案、与党内にも容認論…自民が折衷案提示へ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02MVRab3U0ZGo4TnJGcnJLbVRHY2dpTWExSmVLdmNNaWM3QzYzeWowdHE2Mi1VWHJEbk1DYlhwVXpvaGhHd05QczFWX3BWZTFwRDAzeGtGTUdHV0VjWEVkUDNLS3BJQQ?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費税減税法案、野党が価格引き下げ効果を疑問視…年５兆円必要になる財源も「一切明示ない」",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWVFpcjYxWU9WUmtNcjJ6cUdMU1p3VEFnbHhNaWwycG96LUlvYkR5Nk84ZEVRaGttRzZlYkF6TGx2bFBtVXJsSDlLT3M3NXZUMTlBbGtfNnRRN2NtUXVFTXhpa3hPUQ?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "members": [
+    "hayashi"
+   ],
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民、衆院議員の定数削減幅を31で調整 早ければ22日に提示",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ldm94Um5RSGFkSXVFVGZoek5DeGtSb0tZc0Itb3Bza3hGNTNIeTBUS2sweE9fWFZLMlMwZXByQmpyY3hQT2ZpamxHVnBFcm45Q2hCV2g5SnBwYjg1VUpTRllMTFlhcUh2?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【統一地方選まで半年】広島 各党の候補者擁立進む 選挙戦は",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjaEZ4VTVGOGRldC02UzFLTjRXSHhfOTVGMHg4VkUxT3VXbnBSaHFZN2U3VGlhR3FyMlNFaWhicHNPY3ExV20tTGl0YXQyQnRQUUIwZTNhc1ZGN3lyOHJJ?oc=5",
+   "date": "2026-10-21T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -2650,6 +3763,94 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "事実上解党した「中道改革連合」に政党交付金５億８４００万円、衆院議員が１人残る…総務省１１党に交付",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jM1R0SEtoNWd6eS03X2VIZXZlTlk4WDE0cGJHR3psMVFneDROaTNqdDVKOGZ4ajF5V0tkbkhHSlJCaXp0Mm1jWlo3VFMzRkNtdG8xVTRDNDNpNTVIeVFrVHM5UG9LUQ?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "連立1年、維新は政策目標「56%達成｣ 自民党は社保・税改革に難色",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JS2F3dDZPVE5kenVoR3BWSUoybC1xdmt0UC1USlBLUjlvbjBuT0dlRmtVQ0VTSlVZSUZlUHRHdXF1eWNwZW5nR3g0Ni1Md0d5Sk9jWVQ3NV9GMWlBYUFrMUxabjJacUlvbWRZNg?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "中道改革連合に政党交付金5億8千万円 総務省、11党に78億円支出",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vdDJ5bmhxV0dJNk1IVDU2aWNGZTVYN3hPYVpXYVNYeXc4c2p1ZFl6c2RMbmpvWnkwTDdwV0dpMlUxX28xakFYR2twNVZZNlhtM3VhRzM0T0hlU2tFYV9Cc21rVVVJYXp2eVd1bQ?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "民主改革、１人４万円給付 消費減税の対案",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hb1B5X254b3UzamtMTV9CQTJaOVZkdmtKZm91bVlJakM5SHlTUEdDYVFnWUROS1BsMFVwWk9EZENUV19iOHBhOGM5N0YxdnA0Q254Y0xBM3BVTlk5RjMwVk1HSQ?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "中道、議員１人でも交付金５．８億円 事実上解体、受給に批判も：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uM0lQc2lqVndic2ZyR0gzNHJLa2FabkhUdlFGWHg5elpkdzFiTjdrOS1CbTV4c1VCYjdxRURCVFVQYllUVV9wdW5nbF9QaXJFLTktOFM4RGNZZ1FSMkVjNzRrMA?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "食料品の消費税減税関連法案 衆議院で審議入り 高市首相“法案の早期成立目指す”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUnpMaDNnMHJpcHg3dGRhTGhKR1ViMkR0V19hOFJSWVQ3NThTeWZaWl9aN0JWNThEYnRBZEZoN0FDbEpBQTJ3MjNyTkI5Q0k1NUMxd2p1VWpjZF90bVI4?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "総務省、今年3回目の政党交付金 党分裂の中道改革連合には5億8470万円",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjT3BIb2YtYlBfY0NSVjBJYjBKS0FUVllwSUpqa0o0ZmpPM19Bd05RMzlOdTI0a2tFdG1HY0dfbW9GM2FwRXpOMzVqWWVNMmlHRk15VF9PQzN1OTgzc3I5YUJtY1QyNlFpRDZHUVk2SVNmV0lx?oc=5",
+   "date": "2026-10-20T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "【作る人と使う人が未来の支援機器を共創する交流会】「ニーズ・シーズマッチング交流会2026」セミナープログラムを公開しました！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZFBvQjZIdUd0Y2J5NWpBR0VGU0pZbW5XVTFEdmt1dEZXS2lQdno3amo3OHFHLXVGczdZWjFZMWZaeW0zemFBRXdCcG5hdGpUcDBTVVBZRzZJQnNKRjBkSFZVcmYyOXdiS0RKRUNEdkFxc0sxUkFlUjNVOA?oc=5",
+   "date": "2026-10-20T05:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -10212,6 +11413,28 @@
    "mention": "body"
   },
   {
+   "title": "小選挙区・日本保守党 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ucm9GNVpPS2NZZTBzbjcwN2NfZ0Y1el9ONTBwTnY5dEdtWlFMRldkc2pvRjZiMU05Y251Tmp1RW13MmJOQjZzclpsaEFYUmNrbHpFLW1iNWVJY3djeElXc3ZUY0VnSWVXbGNJ?oc=5",
+   "date": "2026-02-08T16:14:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・中道改革連合 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zR0hWVFNGQ0NCSG1jeHBicG9uNDlZczFObXMzSnhwWV82SUl1RmwtbTlOSGtjalZkaGx5Q1ZYLVU1OWd3RUVGTm5DS1VsTHNJS3RIWnlaY1NxVjVjRG1ncHNnTHJUaUVtNHI0?oc=5",
+   "date": "2026-02-08T15:05:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "比例・近畿ブロック・減税日本・ゆうこく連合 | 2026 衆議院選挙 特設サイト・開票結果",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3aUNYTjNYYXlMOU5od1M3ZWJETmZqcGIzMWxvZXBkMVcwTlhmd3V6ZXJWb21aRm45bnFQSFhOOWJPYzZvV09VTGd4eFpxQVdEMlZ0TTJtaWNuNGgxaDRvNjVzV2R2NW54TTZUWWR0aFppZw?oc=5",
    "date": "2026-02-08T14:58:13.000Z",
@@ -10220,6 +11443,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "比例・北海道ブロック・自由民主党 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Sb2I0VlB0cVJ2bHVSdnMtZkZoWkR1WmZmY2xjYldvZzVOamZWSW4xbm9KLWg2bnU1RlFJbUV2dXB3QThRU2c5UGJid2FTaTBNR29pVWVBbkJzUlloN3dJZEo3Q0Q0cnlMSGJpN1Bkbw?oc=5",
+   "date": "2026-02-08T13:30:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
    "mention": "body"
   },
   {
@@ -10232,6 +11466,17 @@
    "mediaId": "tbs",
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "title"
+  },
+  {
+   "title": "小選挙区 京都１区",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ORU1SX05WWVhpSHV2SGdZWGhibmt3YUZGR1l3X1pENWJjVGlRdWItNmtvMkVZZWFnZ1d2Tnlod0o5dnQtd1o3b0VncWJHcG1OUzFrWEpkY0pmUnVVRUVfLWJWWVU?oc=5",
+   "date": "2026-02-08T08:49:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
   },
   {
    "title": "みらい、初の衆院選で2桁議席が確実 安野党首「受け皿になれた」",
@@ -11998,6 +13243,17 @@
    "mention": "body"
   },
   {
+   "title": "高知 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mUTR6dmE2V3JQUWFHYjZUNDdCY1BSWVVDM19hV0s5TUV1REZ5VktOYzZ0Y0QtZFYyV2lWTG5jLWlXZW8tZ25lQ19PWlVobTNsMm85eFZUeF9MVkU4UDFTdUV6cGtPbW1UeFpvZ09mQQ?oc=5",
+   "date": "2026-01-28T03:39:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
    "title": "島根 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JcFB0aHdJbDMyVFp4RFA2RnVCZEU3eGJuSl9OX3k3UFY1dm13dGV5eGk1dWhmMWd5cUFLbW9HZ3JZN1VGalJUSHVWdEdBNEpVOWgtb1hzS0hOcXQ3YUtwamdiNFdKMm5zWnpkQkVTWQ?oc=5",
    "date": "2026-01-28T03:38:46.000Z",
@@ -12021,6 +13277,17 @@
    "thumb": "https://i2.ytimg.com/vi/ysDzaU5AptU/hqdefault.jpg",
    "description": "サポーターさんの頭から離れない、武藤のひと言 #武藤かず子 #チームみらい #比例はみらい",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "愛知 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DdHNiUTFWa0xUa1lvR0RrZFNiMW1oNE4yQkVTVjRONkdpMWVPSlk0UXBDUkZ2WkpzOXVCU25lSjRPOFlxWlBkaTVQd1U1V2pYS0RWWnU5bExnbjFMbWppRmt0ODlJMDVvX2dyR3Y3cw?oc=5",
+   "date": "2026-01-27T17:13:16.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
   },
   {
    "title": "高山さとし記者会見_260122",
