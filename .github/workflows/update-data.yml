@@ -48,6 +48,8 @@ jobs:
             echo "変更なし"
           else
             git commit -m "chore: update data [skip ci]"
-            git pull --rebase --autostash origin main
+            # 別の実行が先に更新していた場合は、今回取得した内容を優先する
+            # （取りこぼした分は次回の取得で再び拾われる）
+            git pull --rebase -X theirs origin main
             git push
           fi
