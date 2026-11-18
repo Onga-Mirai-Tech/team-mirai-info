@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-18T16:14:17.849Z",
- "lastAttempt": "2026-11-18T16:14:17.849Z",
+ "updatedAt": "2026-11-18T17:06:08.309Z",
+ "lastAttempt": "2026-11-18T17:06:08.309Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【生配信】週刊チームみらいNEWS (2026年11月20日19:00頃開始予定) #河合道雄 #加藤直樹",
+   "link": "https://www.youtube.com/watch?v=h2cYAGUSJg8",
+   "date": "2026-11-18T16:07:17.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "kawai"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/h2cYAGUSJg8/hqdefault.jpg",
+   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼出演",
+   "firstSeen": "2026-11-18T17:06:08.309Z"
+  },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
@@ -800,7 +814,7 @@
   },
   {
    "title": "「右だ左だではない」 参政の減税案に共産賛意、神谷氏「感謝」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TN2UwcFkzUnBZaGM2cm5vTTdybDVCMnR3LVlhVmpOWVhHSng2SGdZSEhOY2hFSGNNMWlBUE1IN05RVEk0dk1kLU5SbGdFMTVsaVdwZHZGUnpCQklQU3RjMktWSFN4T2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTDY0NWhIVzQyY1dtSjBMZzV2NXhJcERsX3FteGtJVUhiTHltOE1pVEJhdzRMNnhTdTkxVFVickFmVjVkbFpxbDZCME1EQTdwUXdUejVOVHhjOG54TDhiRVROWEFpNXUy?oc=5",
    "date": "2026-11-12T06:59:02.000Z",
    "type": "media",
    "kind": "article",
