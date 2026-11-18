@@ -82,10 +82,16 @@ GitHub の Settings → Developer settings → Personal access tokens → **Fine
 | URL | `https://api.github.com/repos/Onga-Mirai-Tech/team-mirai-info/actions/workflows/update-data.yml/dispatches` |
 | Execution schedule | Every hour、5分 |
 | Request method（ADVANCED タブ） | `POST` |
-| Headers | `Accept: application/vnd.github+json`<br>`Authorization: Bearer （作ったトークン）`<br>`X-GitHub-Api-Version: 2022-11-28`<br>`Content-Type: application/json` |
+| Headers | `Accept: application/vnd.github+json`<br>`Authorization: Bearer github_pat_…`（`Bearer`＋半角スペース＋トークン。かっこ等は付けない）<br>`X-GitHub-Api-Version: 2022-11-28`<br>`Content-Type: application/json` |
 | Request body | `{"ref":"main"}` |
 
 「TEST RUN」で応答が **204** なら成功です。GitHub の Actions 画面に `workflow_dispatch` の実行が増えることを確認してください。
+401 が返るときは、Authorization の値に全角文字や余分な文字が混じっていないかを確かめてください。
+
+### 期限と更新
+
+- トークンの期限は **2027年11月18日**。期限前に GitHub で Regenerate し、cron-job.org の Authorization を差し替える
+- API バージョン `2022-11-28` は GitHub が非推奨としており、**2028年3月10日**に使えなくなる予定。トークンの差し替えのときに、その時点の最新バージョンへ書き換える
 
 ## わかっている制約
 
