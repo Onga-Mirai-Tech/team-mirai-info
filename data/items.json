@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-18T13:42:55.819Z",
- "lastAttempt": "2026-11-18T13:42:55.819Z",
+ "updatedAt": "2026-11-18T15:25:02.796Z",
+ "lastAttempt": "2026-11-18T15:25:02.796Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "定数31減法案が実質審議入り 「裏金問題のすり替え」 野党は反対",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fa2tIS084Z1Fpc3ZpZ2Rta3ROUjFDZGxaUGllc1pfaG9QMWxTRlRkQUpiekE0d3NzUUVYRDFLZXllWGNUanBSUHVEbXlXckE0c1ppNnhhaTlvNS1MSldDc0lmaUd0OEk?oc=5",
+   "date": "2026-11-18T14:06:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "members": [
+    "mineshima"
+   ],
+   "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
@@ -45,7 +59,7 @@
   },
   {
    "title": "復活当選の厳格化、参政・神谷氏「狙い撃ちだ」 大量擁立で影響大 [チームみらい]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kUXlOMVNoZ3pkenlra1FZZ2ZuWkhUQ2kwS01HNzFwaEJSc0UwREZVekZla1lmSVZ5LThXRHlPa19sbkdkTnI1SzdKYUxCd3VRUkt6V2w5bWRzWGdwZkg1alBjNDFfSzQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyRlhFeHZDVm5EWkhSSHUtZUJQSk9kZmNNTS1rZi12NzMxM2o0NE9CTV9yeTA5T1p3bk1zZGV4ekphWFpqckVTSldvTDdRcXpDMGdsMHBGMkhEbnE3dlk0cHBPbk9xUQ?oc=5",
    "date": "2026-11-18T08:10:00.000Z",
    "type": "media",
    "kind": "article",
@@ -84,20 +98,6 @@
    "kind": "article",
    "source": "NHK",
    "mediaId": "nhk",
-   "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
-  {
-   "title": "定数31減法案が実質審議入り 「裏金問題のすり替え」 野党は反対",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fa2tIS084Z1Fpc3ZpZ2Rta3ROUjFDZGxaUGllc1pfaG9QMWxTRlRkQUpiekE0d3NzUUVYRDFLZXllWGNUanBSUHVEbXlXckE0c1ppNnhhaTlvNS1MSldDc0lmaUd0OEk?oc=5",
-   "date": "2026-11-18T03:25:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "朝日新聞",
-   "mediaId": "asahi",
-   "members": [
-    "mineshima"
-   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
@@ -289,7 +289,7 @@
   },
   {
    "title": "【全問と回答】高市内閣支持率60.6％、不支持は32.3％ 消費減税に賛成6割 石破氏ら棄権への評価割れる【FNN世論調査 2026年11月】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBURjdUVmxqTFdKZHU2dnppYWdaMzROVUNGbDNKQVlwd2NpUEttanlyRmxSY0xXQnBrd1AtQ3dpeUtoeTdfa1MtVHpDSEpMTGNW?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GTjNiSDZLUlVjWkxVUzlPaFBfWFVoT1Brem01YUE1Mm52YktmWlpyLUtTLTVTWjd0SGlmQnM2OG83V21VSU14Z3ZYZUhlUQ?oc=5",
    "date": "2026-11-16T03:30:00.000Z",
    "type": "media",
    "kind": "article",
