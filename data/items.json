@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-18T20:06:18.181Z",
- "lastAttempt": "2026-11-18T20:06:18.181Z",
+ "updatedAt": "2026-11-18T21:06:06.576Z",
+ "lastAttempt": "2026-11-18T21:06:06.576Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【全文】衆議院 政治改革に関する特別委員会 発言／広報本部長・峰島侑也（2026年11月18日）",
+   "link": "https://note.com/team_mirai_log/n/nace474f4d83d",
+   "date": "2026-11-18T20:10:35.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "mineshima"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/337836313/rectangle_large_type_2_594fc58b8c16777c02adc62883fa2b6c.jpeg?width=800",
+   "description": "2026年11月18日に衆議院 政治改革に関する特別委員会で、公職選挙法改正案について各会派が意見を表明した際の、チームみらい 広報本部長・峰島侑也の発言を全文書き起こしたものです。 案件＝現行の衆議院選挙制度の見直しのための公職選挙法の一",
+   "firstSeen": "2026-11-18T21:06:06.576Z"
+  },
   {
    "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月18日）",
    "link": "https://note.com/team_mirai_log/n/n4781506ae7f1",
@@ -105,6 +119,17 @@
    "source": "朝日新聞",
    "mediaId": "asahi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "title"
+  },
+  {
+   "title": "復活当選の厳格化、参政・神谷氏「狙い撃ちだ」 大量擁立で影響大 [高市早苗首相][参政党][チームみらい]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kUXlOMVNoZ3pkenlra1FZZ2ZuWkhUQ2kwS01HNzFwaEJSc0UwREZVekZla1lmSVZ5LThXRHlPa19sbkdkTnI1SzdKYUxCd3VRUkt6V2w5bWRzWGdwZkg1alBjNDFfSzQ?oc=5",
+   "date": "2026-11-18T08:10:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-18T21:06:06.576Z",
    "mention": "title"
   },
   {
@@ -398,7 +423,7 @@
   {
    "title": "消費減税法案「賛成」52％【NNN・読売新聞 世論調査】（2026年11月15日掲載）",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdkI1OUdQTGJEdWppYzZCSnhOY2MtQkxFUE9QT0RPV1hYaTh0SUtOejNsLU5FakZLNU12R0RiMjBzMl9MRnZhckl0anlja2RFeEFzZ3k3QXI0cnVpb3RQN3ZZd2VqR09PcTVlU21leWhmQlRSdUhrMXF0MmEwQQ?oc=5",
-   "date": "2026-11-15T13:00:00.000Z",
+   "date": "2026-11-15T13:21:47.000Z",
    "type": "media",
    "kind": "article",
    "source": "日本テレビ",
