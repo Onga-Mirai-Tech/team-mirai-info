@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-18T17:06:08.309Z",
- "lastAttempt": "2026-11-18T17:06:08.309Z",
+ "updatedAt": "2026-11-18T18:06:04.049Z",
+ "lastAttempt": "2026-11-18T18:06:04.049Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -88,6 +88,28 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T06:01:52.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "岸田元総理「時代に応じて変えねば」 国会改革めぐり",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTHluSmhMQkRBZ3FWWVlBVFMwYWhMSGdDbmdtUGlyR2o4c3BEbzNVdzNKdldzSGdiWDVqTG5XS3Nnb1QyWVB3cldPSEFQT0VlaTl3MDhsbmJJZ2dsNU9RRkRUTEI3ZXdiVUFjZWFhNldEZzA?oc=5",
+   "date": "2026-11-18T05:56:13.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -12959,6 +12981,17 @@
     "kobayashi"
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "比例代表 九州【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IekdDX1FvdFBiXy1uVzg5cWhHNEo2dXp5NTJuNkQxWEpLT3VTTkxpaTg4Z1RvaFJ6by15ZXUtaFdTNXlBNDZYTG1nV1hBajJHaGY0Mmp3SzdiNndOajFibEh6aDllY1NyanJwWHAyZw?oc=5",
+   "date": "2026-01-31T00:14:28.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
