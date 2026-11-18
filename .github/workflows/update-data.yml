@@ -1,9 +1,10 @@
 name: Update data
 
 on:
+  # 毎時の起動は外部の cron-job.org から workflow_dispatch で行う（README「自動更新のしくみ」参照）。
+  # GitHub の schedule は混雑時に何時間も遅れたり間引かれたりするため、ここでは控えとして3時間おきに置くだけ。
   schedule:
-    # 1時間ごと（毎時17分。Actions の混雑する00分を避ける）
-    - cron: '17 * * * *'
+    - cron: '47 */3 * * *'
   workflow_dispatch:
     inputs:
       window:

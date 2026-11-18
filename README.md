@@ -15,7 +15,8 @@
 ## しくみ
 
 ```
-GitHub Actions（1時間ごと）
+cron-job.org（1時間ごと）── workflow_dispatch で起動 ──┐
+GitHub Actions（3時間おきの控え）────────────────────┤
   └ scripts/fetch.mjs … 各情報源を取得 → data/items.json に追記
 GitHub Pages
   └ index.html + assets/ … items.json を読んで表示するだけ（閲覧時に外部へは通信しない）
@@ -55,6 +56,36 @@ GitHub 上では Actions の「Update data」→「Run workflow」で、さか�
 
 1. Settings → Pages → Source を「Deploy from a branch」、Branch を `main` / `(root)` にする
 2. Settings → Actions → General → Workflow permissions を「Read and write permissions」にする
+
+## 自動更新のしくみ（外部からの起動）
+
+GitHub Actions の `schedule` は混雑時に何時間も遅れたり間引かれたりします（15分ごとの設定でも実際は1日数回しか動かないことがあります）。
+そこで、外部の無料サービス [cron-job.org](https://cron-job.org/) から1時間ごとに GitHub API を呼び、ワークフローを起動しています。
+
+### 1. 起動専用のトークンを作る
+
+GitHub の Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token
+
+| 項目 | 設定 |
+|---|---|
+| Token name | `cron-job-team-mirai-info` など |
+| Expiration | 1年（期限が来たら作り直して cron-job.org 側を差し替える） |
+| Repository access | **Only select repositories** → `team-mirai-info` だけ |
+| Permissions | Repository permissions の **Actions: Read and write** だけ（他は No access のまま） |
+
+このトークンでできるのは「このリポジトリのワークフローを起動・確認すること」だけで、コードやデータの書き換えはできません。
+
+### 2. cron-job.org にジョブを作る
+
+| 項目 | 設定 |
+|---|---|
+| URL | `https://api.github.com/repos/Onga-Mirai-Tech/team-mirai-info/actions/workflows/update-data.yml/dispatches` |
+| Execution schedule | Every hour、5分 |
+| Request method（ADVANCED タブ） | `POST` |
+| Headers | `Accept: application/vnd.github+json`<br>`Authorization: Bearer （作ったトークン）`<br>`X-GitHub-Api-Version: 2022-11-28`<br>`Content-Type: application/json` |
+| Request body | `{"ref":"main"}` |
+
+「TEST RUN」で応答が **204** なら成功です。GitHub の Actions 画面に `workflow_dispatch` の実行が増えることを確認してください。
 
 ## わかっている制約
 
