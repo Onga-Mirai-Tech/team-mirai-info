@@ -1,23 +1,9 @@
 {
- "updatedAt": "2026-11-18T15:25:02.796Z",
- "lastAttempt": "2026-11-18T15:25:02.796Z",
+ "updatedAt": "2026-11-18T16:14:17.849Z",
+ "lastAttempt": "2026-11-18T16:14:17.849Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
-  {
-   "title": "定数31減法案が実質審議入り 「裏金問題のすり替え」 野党は反対",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fa2tIS084Z1Fpc3ZpZ2Rta3ROUjFDZGxaUGllc1pfaG9QMWxTRlRkQUpiekE0d3NzUUVYRDFLZXllWGNUanBSUHVEbXlXckE0c1ppNnhhaTlvNS1MSldDc0lmaUd0OEk?oc=5",
-   "date": "2026-11-18T14:06:58.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "朝日新聞",
-   "mediaId": "asahi",
-   "members": [
-    "mineshima"
-   ],
-   "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
@@ -98,6 +84,20 @@
    "kind": "article",
    "source": "NHK",
    "mediaId": "nhk",
+   "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "定数31減法案が実質審議入り 「裏金問題のすり替え」 野党は反対",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fa2tIS084Z1Fpc3ZpZ2Rta3ROUjFDZGxaUGllc1pfaG9QMWxTRlRkQUpiekE0d3NzUUVYRDFLZXllWGNUanBSUHVEbXlXckE0c1ppNnhhaTlvNS1MSldDc0lmaUd0OEk?oc=5",
+   "date": "2026-11-18T03:25:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "members": [
+    "mineshima"
+   ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
