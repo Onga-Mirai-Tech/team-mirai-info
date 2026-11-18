@@ -186,9 +186,25 @@ main { padding-top: 14px; padding-bottom: 30px; min-height: 60vh; }
 .card h3 a { color: var(--text); text-decoration: none; }
 .card h3 a:hover { color: var(--accent); text-decoration: underline; }
 
-.tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 5px; }
+.card-foot { display: flex; align-items: flex-end; justify-content: space-between; gap: 8px; margin-top: 5px; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; min-width: 0; }
+
+/* 見たよ（自分用の既読マーク） */
+.seen-btn {
+  flex: 0 0 auto;
+  border: 1px solid #cfd8e2; background: var(--surface); color: var(--text-sub);
+  border-radius: 999px; padding: 4px 12px; font-size: 0.72rem; font-weight: 600; cursor: pointer;
+  min-height: 30px;
+}
+.seen-btn:hover { border-color: #34a7a0; color: #1f7f79; }
+.seen-btn[aria-pressed="true"] { background: #e3f6f4; border-color: #8fd3cd; color: #1f7f79; }
+.card.seen { background: #fafbfc; }
+.card.seen h3 a { color: var(--text-sub); font-weight: 500; }
+.card.seen .thumb { opacity: 0.6; }
+.seen-count { color: var(--text-faint); margin-left: 2px; }
 .tag {
   font-size: 0.7rem; border: 0; background: #f2f5f8; color: var(--text-sub); border-radius: 999px; padding: 1px 8px; cursor: pointer;
+  white-space: nowrap;
 }
 .tag:hover { background: var(--member-bg); color: #9a5400; }
 

@@ -8,7 +8,28 @@
   const TYPE_LABEL = { official: '党公式', member: '議員', media: '報道' };
   const WEEK = ['日', '月', '火', '水', '木', '金', '土'];
 
-  const state = { type: 'all', member: '', media: '', body: false, q: '', limit: PAGE_SIZE };
+  const state = { type: 'all', member: '', media: '', body: false, q: '', unseenOnly: false, limit: PAGE_SIZE };
+
+  // ---------- 「見たよ」（自分用の既読マーク） ----------
+  // 記録は閲覧者のブラウザ（localStorage）にだけ保存し、外部には送らない。
+  // 保存できない環境（プライベートブラウズ等）でも画面は普通に動くようにする。
+  const SEEN_KEY = 'tmw-seen-v1';
+  const PREF_KEY = 'tmw-prefs-v1';
+  const SEEN_KEEP_MS = 400 * 24 * 3600 * 1000; // 約1年1か月より古い記録は自動で消す
+  const seen = (() => {
+    try {
+      const raw = JSON.parse(localStorage.getItem(SEEN_KEY) || '{}');
+      const limit = Date.now() - SEEN_KEEP_MS;
+      return new Map(Object.entries(raw).filter(([, t]) => t > limit));
+    } catch { return new Map(); }
+  })();
+  function saveSeen() {
+    try { localStorage.setItem(SEEN_KEY, JSON.stringify(Object.fromEntries(seen))); } catch {}
+  }
+  function savePrefs() {
+    try { localStorage.setItem(PREF_KEY, JSON.stringify({ unseenOnly: state.unseenOnly })); } catch {}
+  }
+  try { state.unseenOnly = !!JSON.parse(localStorage.getItem(PREF_KEY) || '{}').unseenOnly; } catch {}
   let config = null;
   let items = [];
   let memberById = new Map();
@@ -58,6 +79,7 @@
   // ---------- 絞り込み ----------
   function baseFilter(it) {
     if (it.type === 'media' && it.mention === 'body' && !state.body) return false;
+    if (state.unseenOnly && seen.has(it.link)) return false;
     if (state.member && !(it.members || []).includes(state.member)) return false;
     if (state.q) {
       const hay = `${it.title} ${it.description || ''} ${it.source}`.toLowerCase();
@@ -97,6 +119,8 @@
     $('media-select').hidden = state.type !== 'media';
     $('media-select').value = state.media;
     $('body-toggle').checked = state.body;
+    $('unseen-toggle').checked = state.unseenOnly;
+    $('seen-count').textContent = seen.size ? `（見たよ ${seen.size.toLocaleString()}件）` : '';
     if ($('search').value !== state.q) $('search').value = state.q;
   }
 
@@ -125,8 +149,9 @@
       .map((m) => `<button class="tag" data-member="${esc(m.id)}" title="${esc(m.name)}の記事だけを表示">${esc(m.name)}</button>`).join('');
     const thumb = it.thumb && it.type !== 'media'
       ? `<img class="thumb" src="${esc(safeUrl(it.thumb))}" alt="" loading="lazy" referrerpolicy="no-referrer">` : '';
+    const isSeen = seen.has(it.link);
     return `
-      <article class="card t-${esc(it.type)}">
+      <article class="card t-${esc(it.type)}${isSeen ? ' seen' : ''}">
         <div class="body">
           <div class="meta-line">
             <span class="badge t-${esc(it.type)}">${esc(TYPE_LABEL[it.type])}｜${esc(it.source)}</span>
@@ -135,7 +160,10 @@
             ${it.mention === 'body' ? '<span class="body-mention">・本文で言及</span>' : ''}
           </div>
           <h3><a href="${esc(safeUrl(it.link))}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a></h3>
-          ${tags ? `<div class="tags">${tags}</div>` : ''}
+          <div class="card-foot">
+            <div class="tags">${tags}</div>
+            <button class="seen-btn" data-link="${esc(it.link)}" aria-pressed="${isSeen}">${isSeen ? '見たよ ✓' : '見たよ'}</button>
+          </div>
         </div>
         ${thumb}
       </article>`;
@@ -209,6 +237,19 @@
       render();
     });
     $('timeline').addEventListener('click', (e) => {
+      const sb = e.target.closest('.seen-btn');
+      if (sb) {
+        const link = sb.dataset.link;
+        const on = !seen.has(link);
+        if (on) seen.set(link, Date.now()); else seen.delete(link);
+        saveSeen();
+        // 押した記事はその場に残す（「まだ見ていない記事だけ」の表示中でも、すぐには消さない）
+        sb.setAttribute('aria-pressed', String(on));
+        sb.textContent = on ? '見たよ ✓' : '見たよ';
+        sb.closest('.card').classList.toggle('seen', on);
+        renderControls();
+        return;
+      }
       const t = e.target.closest('.tag');
       if (!t) return;
       state.member = t.dataset.member;
@@ -217,6 +258,7 @@
     });
     $('media-select').addEventListener('change', (e) => { state.media = e.target.value; render(); });
     $('body-toggle').addEventListener('change', (e) => { state.body = e.target.checked; render(); });
+    $('unseen-toggle').addEventListener('change', (e) => { state.unseenOnly = e.target.checked; savePrefs(); render(); });
     let timer;
     $('search').addEventListener('input', (e) => {
       clearTimeout(timer);
