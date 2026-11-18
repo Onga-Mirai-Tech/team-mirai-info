@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>チームみらい ウォッチ（非公式ファンサイト）</title>
+  <meta name="description" content="【非公式ファンサイト】政党「チームみらい」の公式発信・所属議員の発信・大手メディアの報道を、ひとつのタイムラインで追えるまとめサイトです。党および所属議員とは関係ありません。">
+  <meta property="og:title" content="チームみらい ウォッチ（非公式ファンサイト）">
+  <meta property="og:description" content="党の公式発信・議員の発信・大手メディアの報道を分けて追える、個人運営の非公式まとめサイトです。">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <div class="unofficial-ribbon" role="note">
+    <strong>非公式ファンサイト</strong>です。政党「チームみらい」および所属議員とは関係ありません。
+    公式情報は <a href="https://team-mir.ai/" target="_blank" rel="noopener noreferrer">team-mir.ai</a> でご確認ください。
+  </div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="title-row">
+        <h1>チームみらい ウォッチ</h1>
+        <span class="unofficial-badge">非公式ファンサイト</span>
+      </div>
+      <p class="tagline">党の発信と大手メディアの報道を、分けて・まとめて追えるタイムライン</p>
+      <p class="updated" id="updated">読み込み中…</p>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="絞り込み">
+    <div class="controls-inner">
+      <div class="tabs" role="tablist" id="type-tabs">
+        <button role="tab" data-type="all">すべて<span class="count"></span></button>
+        <button role="tab" data-type="official"><i class="dot dot-official"></i>党の公式発信<span class="count"></span></button>
+        <button role="tab" data-type="member"><i class="dot dot-member"></i>議員の発信<span class="count"></span></button>
+        <button role="tab" data-type="media"><i class="dot dot-media"></i>大手メディア報道<span class="count"></span></button>
+      </div>
+
+      <div class="filter-row">
+        <span class="filter-label">議員</span>
+        <div class="chips" id="member-chips"></div>
+      </div>
+
+      <div class="filter-row" id="media-row" hidden>
+        <span class="filter-label">報道</span>
+        <select id="media-select" aria-label="媒体を選ぶ"></select>
+        <label class="toggle">
+          <input type="checkbox" id="body-toggle">
+          <span>本文で触れただけの記事も表示</span>
+        </label>
+      </div>
+
+      <div class="filter-row">
+        <span class="filter-label">検索</span>
+        <input type="search" id="search" placeholder="キーワードで絞り込み（例：AI、定数削減）">
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <div id="notice" class="notice" hidden></div>
+    <div id="member-card" class="member-card" hidden></div>
+    <p id="result-summary" class="result-summary"></p>
+    <div id="timeline" class="timeline"></div>
+    <div class="more-wrap"><button id="more" class="more-btn" hidden>もっと見る</button></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="unofficial-box">
+        <h2>このサイトについて（非公式ファンサイトです）</h2>
+        <p>「チームみらい ウォッチ」は、チームみらいの活動を追いかけたい個人が運営する<strong>非公式のファンサイト</strong>です。政党「チームみらい」、所属議員、関係団体が運営・監修・承認しているものではありません。</p>
+        <p>掲載している記事・動画の内容についてのお問い合わせを、党や議員事務所へ送らないようお願いします。正確な情報は必ず<a href="https://team-mir.ai/" target="_blank" rel="noopener noreferrer">チームみらい公式サイト</a>や各報道機関の元記事でご確認ください。</p>
+      </div>
+
+      <h3>情報の集め方</h3>
+      <ul>
+        <li><b class="t-official">党の公式発信</b>：公式サイトのニュース一覧、公式 note（メイン・国会記録）、公式 YouTube</li>
+        <li><b class="t-member">議員の発信</b>：所属議員の note・YouTube（X は自動取得できないため対象外です）</li>
+        <li><b class="t-media">大手メディア報道</b>：Google ニュース経由で、<span id="media-list"></span> の記事だけを掲載しています</li>
+      </ul>
+      <p>GitHub Actions で1時間ごとに自動更新しています。議員名での振り分けは見出し・説明文の文字から自動で行っているため、漏れや誤りが出ることがあります。</p>
+      <p>掲載しているのは見出しとリンクのみです。記事・動画の著作権は各配信元に帰属します。</p>
+
+      <p class="version">チームみらい ウォッチ（非公式） v0.1 ／ 個人による非公式運営 ／ Developed by Onga-Mirai-Tech</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

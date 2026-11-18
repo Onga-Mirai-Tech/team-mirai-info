@@ -1,0 +1,98 @@
+{
+  "_comment": "情報源の設定。議員の追加・媒体の追加はこのファイルを編集するだけで反映されます（収集スクリプトと画面の両方が読み込みます）。",
+
+  "partyName": "チームみらい",
+  "partyAliases": ["チームみらい"],
+
+  "_titleComment": "報道記事のうち、見出しがこの正規表現か議員名に当てはまるものを『見出しで言及』として標準表示します。それ以外は『本文で言及』扱い（切り替えで表示）。",
+  "titlePattern": "チームみらい|みらい(党首|代表|幹事長|・|･|、)|[・･、（(「]みらい[）)」・･、]",
+  "excludeTitlePatterns": ["^画像・写真：", "最新ニュース速報$", "^みらい･選挙"],
+
+  "members": [
+    {
+      "id": "anno", "name": "安野貴博", "chamber": "参議院", "district": "比例代表", "role": "党首",
+      "aliases": ["安野党首", "安野氏"],
+      "profile": "https://team-mir.ai/member/sangiin/takahiro-anno",
+      "x": "takahiroanno", "note": "annotakahiro24", "youtube": "UCiMwbmcCSMORJ-85XWhStBw"
+    },
+    {
+      "id": "usami", "name": "宇佐美登", "chamber": "衆議院", "district": "比例東京（東京26区）",
+      "profile": "https://team-mir.ai/member/shugiin/noboru-usami",
+      "x": "usami_mirai"
+    },
+    {
+      "id": "kawai", "name": "河合道雄", "chamber": "衆議院", "district": "比例南関東",
+      "profile": "https://team-mir.ai/member/shugiin/michio-kawai",
+      "x": "michio_mirai"
+    },
+    {
+      "id": "kobayashi", "name": "小林修平", "chamber": "衆議院", "district": "比例南関東（千葉5区）",
+      "profile": "https://team-mir.ai/member/shugiin/syuhei-kobayashi",
+      "x": "syuhei_mirai", "youtube": "UCVICpLWfuKOjWjWPDKS98vw"
+    },
+    {
+      "id": "suda", "name": "須田英太郎", "chamber": "衆議院", "district": "比例東海",
+      "profile": "https://team-mir.ai/member/shugiin/eitaro-suda",
+      "x": "Btaros", "note": "btaros", "youtube": "UCZaZKXTuR5rGca-XEqjL4Kg"
+    },
+    {
+      "id": "takayama", "name": "高山聡史", "chamber": "衆議院", "district": "比例東京",
+      "profile": "https://team-mir.ai/member/shugiin/satoshi-takayama",
+      "x": "satoshi_2125", "youtube": "UCIm2dx1CCi047fhw_xiTQ5g"
+    },
+    {
+      "id": "dobashi", "name": "土橋章宏", "chamber": "衆議院", "district": "比例東京（東京2区）",
+      "profile": "https://team-mir.ai/member/shugiin/akihiro-dobashi",
+      "x": "a_dobashi", "note": "dobassie"
+    },
+    {
+      "id": "hayashi", "name": "林拓海", "chamber": "衆議院", "district": "比例東北",
+      "profile": "https://team-mir.ai/member/shugiin/takumi-hayashi",
+      "x": "TakumiHayashi"
+    },
+    {
+      "id": "furukawa", "name": "古川あおい", "chamber": "衆議院", "district": "比例九州",
+      "profile": "https://team-mir.ai/member/shugiin/aoi-furukawa",
+      "x": "AoiFurukawa", "note": "aoifurukawa", "youtube": "UCFShGGRYsbueBfZ-eS7zgLg"
+    },
+    {
+      "id": "mineshima", "name": "峰島侑也", "chamber": "衆議院", "district": "比例東京（東京7区）",
+      "profile": "https://team-mir.ai/member/shugiin/yuya-mineshima",
+      "x": "mineshima_mirai", "note": "ymineshima_mirai"
+    },
+    {
+      "id": "muto", "name": "武藤かず子", "chamber": "衆議院", "district": "比例北関東",
+      "profile": "https://team-mir.ai/member/shugiin/kazuko-muto",
+      "x": "moo_mirai", "youtube": "UC9kS7z7LtaQHSurZ8RgluwA"
+    },
+    {
+      "id": "yamada", "name": "山田瑛理", "chamber": "衆議院", "district": "比例南関東",
+      "profile": "https://team-mir.ai/member/shugiin/eri-yamada",
+      "x": "yamadaeri1982"
+    }
+  ],
+
+  "official": {
+    "newsPage": "https://team-mir.ai/news/all",
+    "note": ["team_mirai_jp", "team_mirai_log"],
+    "youtube": ["UC72A_x2FKHkJ8Nc2eIzqj8Q"]
+  },
+
+  "_mediaComment": "報道として載せる媒体（大手のみ）。Google ニュースの配信元ドメインが hosts のいずれかに一致した記事だけを残します。",
+  "media": [
+    { "id": "asahi",    "name": "朝日新聞",     "group": "全国紙", "hosts": ["www.asahi.com"] },
+    { "id": "yomiuri",  "name": "読売新聞",     "group": "全国紙", "hosts": ["www.yomiuri.co.jp"] },
+    { "id": "mainichi", "name": "毎日新聞",     "group": "全国紙", "hosts": ["mainichi.jp"] },
+    { "id": "nikkei",   "name": "日本経済新聞", "group": "全国紙", "hosts": ["www.nikkei.com"] },
+    { "id": "sankei",   "name": "産経新聞",     "group": "全国紙", "hosts": ["www.sankei.com"] },
+    { "id": "tokyo",    "name": "東京新聞",     "group": "全国紙", "hosts": ["www.tokyo-np.co.jp"] },
+    { "id": "kyodo",    "name": "共同通信",     "group": "通信社", "hosts": ["www.47news.jp", "nordot.app", "english.kyodonews.net"] },
+    { "id": "jiji",     "name": "時事通信",     "group": "通信社", "hosts": ["www.jiji.com"] },
+    { "id": "nhk",      "name": "NHK",          "group": "放送局", "hosts": ["news.web.nhk", "www3.nhk.or.jp", "www.nhk.or.jp"] },
+    { "id": "ntv",      "name": "日本テレビ",   "group": "放送局", "hosts": ["news.ntv.co.jp"] },
+    { "id": "tbs",      "name": "TBS",          "group": "放送局", "hosts": ["newsdig.tbs.co.jp"] },
+    { "id": "tvasahi",  "name": "テレビ朝日",   "group": "放送局", "hosts": ["news.tv-asahi.co.jp"] },
+    { "id": "fuji",     "name": "フジテレビ",   "group": "放送局", "hosts": ["www.fnn.jp"] },
+    { "id": "tvtokyo",  "name": "テレビ東京",   "group": "放送局", "hosts": ["txbiz.tv-tokyo.co.jp", "www.tv-tokyo.co.jp"] }
+  ]
+}
