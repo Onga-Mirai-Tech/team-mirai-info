@@ -1,13 +1,35 @@
 {
- "updatedAt": "2026-11-19T08:06:06.668Z",
- "lastAttempt": "2026-11-19T08:06:06.668Z",
+ "updatedAt": "2026-11-19T09:06:14.874Z",
+ "lastAttempt": "2026-11-19T09:06:14.874Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
+   "title": "高市政権の評価、男女差が拡大◆時事通信１１月調査【解説委員室から】：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9veWQ0dVN4TnF2Z3hmQUJ0NUx6YlNGSnpRSjU1c21sRGdvMktxSzd1QVR4YnY4SmtPTE9LUkVPMjdIeElZS1B4WUI3djl0SElrdHl3UDN1dGdTcnJmaFNxTFZR?oc=5",
+   "date": "2026-11-19T08:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-19T09:06:14.874Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市首相の国会出席減、賛成４割 反対は２７％―時事世論調査：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50S0paeGJ1eTQ5aTNjNXlmU19TeldYblREN1pKTkx6MzdnVjF6aTdidjRtRDd3UTg0OXBPTlpnTm9JaHVmUDR1a1h4Z0NwZHhhNUZDN0R0N1pRNjNRSWJSd1ExYw?oc=5",
+   "date": "2026-11-19T08:03:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-19T09:06:14.874Z",
+   "mention": "body"
+  },
+  {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T06:39:58.000Z",
+   "date": "2026-11-19T05:41:19.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -83,6 +105,17 @@
    "firstSeen": "2026-11-18T17:06:08.309Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T14:47:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
@@ -145,17 +178,6 @@
    "thumb": "https://i3.ytimg.com/vi/z7uC_DtjJpk/hqdefault.jpg",
    "description": "自民・維新・国民民主の3党が提出した衆議院の比例定数削減法案について、4つの論点と受け止めをお話しします。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_",
    "firstSeen": "2026-11-18T13:28:18.738Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T08:48:34.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "復活当選の厳格化、参政・神谷氏「狙い撃ちだ」 大量擁立で影響大 [チームみらい]",
@@ -534,7 +556,7 @@
   },
   {
    "title": "〈社説〉衆院比例31削減 政治資金改革が先決だ",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZLWhNb1JuOHR4MjducHpTOU1jenlUVFlnY00yNHI3WGh3eEx0QVRJUklOTjdvOG94cnJzV2RickNVeTU1RjhfNkhnVUI0cW9zenI4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4d3ZqX1BmMVA4dW1VWXA5SGQwTjdDRDZpSWwyOE00Mmp5RFJ1WVpmNEx1YUpLMTIzbTVuLWp6TkxXelZMVXlWcDMxd1FRajJqUDg3Z3BjMEtpUVZpbHJ6cUhlR3ppZw?oc=5",
    "date": "2026-11-13T22:16:56.000Z",
    "type": "media",
    "kind": "article",
