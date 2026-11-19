@@ -1,15 +1,13 @@
 {
- "updatedAt": "2026-11-19T07:06:07.702Z",
- "lastAttempt": "2026-11-19T07:06:07.702Z",
+ "updatedAt": "2026-11-19T07:57:27.230Z",
+ "lastAttempt": "2026-11-19T07:57:27.230Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 党名"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T04:42:35.000Z",
+   "date": "2026-11-19T06:39:58.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -149,6 +147,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T08:48:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "復活当選の厳格化、参政・神谷氏「狙い撃ちだ」 大量擁立で影響大 [チームみらい]",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyRlhFeHZDVm5EWkhSSHUtZUJQSk9kZmNNTS1rZi12NzMxM2o0NE9CTV9yeTA5T1p3bk1zZGV4ekphWFpqckVTSldvTDdRcXpDMGdsMHBGMkhEbnE3dlk0cHBPbk9xUQ?oc=5",
    "date": "2026-11-18T08:10:00.000Z",
@@ -190,17 +199,6 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T06:48:34.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -13426,6 +13424,17 @@
    "thumb": "https://i2.ytimg.com/vi/ysDzaU5AptU/hqdefault.jpg",
    "description": "サポーターさんの頭から離れない、武藤のひと言 #武藤かず子 #チームみらい #比例はみらい",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "富山 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ZG4zQ1N0NVUwM0JiZE15bkxyY2Znak4xVGdVYWg4ZUFWUFFRWHJZVHRxZTEzNC04MkhIdUExQllKNmJHWU43VVY1eWRCMnJUd3hkVXdYeFRrSHJQUzViUEFURHZ0aGF3MFRmSlJyOA?oc=5",
+   "date": "2026-01-27T19:29:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-19T07:57:27.230Z",
+   "mention": "body"
   },
   {
    "title": "愛知 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
