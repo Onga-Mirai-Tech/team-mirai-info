@@ -1,9 +1,103 @@
 {
- "updatedAt": "2026-11-19T10:06:03.141Z",
- "lastAttempt": "2026-11-19T10:06:03.141Z",
+ "updatedAt": "2026-11-19T11:06:08.108Z",
+ "lastAttempt": "2026-11-19T11:06:08.108Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【AI×サイバー攻撃】企業・自治体に必要な対策は？政治の役割は？サイバーセキュリティ専門家・中谷翔氏に聞く【後編】#チームみらい #安野貴博 #サイバーパンデミック",
+   "link": "https://www.youtube.com/watch?v=b94shVWtZlA",
+   "date": "2026-11-19T10:29:57.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i3.ytimg.com/vi/b94shVWtZlA/hqdefault.jpg",
+   "description": "【後編】サイバーセキュリティの専門家・中谷翔さんに安野貴博が聞く、サイバー攻撃に対する企業・自治体の備えと政治の役割 ▷ AIで政治はどう変わる？｜チャンネル登録はこちらhttps://www.youtube.com/@team_mirai",
+   "firstSeen": "2026-11-19T11:06:08.108Z"
+  },
+  {
+   "title": "【国会デジタル化】なぜ国会は30年前のルールのままなのか？ / 本会議でスマホが使えない理由 / 与野党7党で進める改革の舞台裏 / なぜ今、国会が変わり始めたのか？",
+   "link": "https://www.youtube.com/watch?v=YXKpwkfxiJs",
+   "date": "2026-11-19T10:16:15.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "須田英太郎 YouTube",
+   "members": [
+    "suda"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/YXKpwkfxiJs/hqdefault.jpg",
+   "description": "国会の本会議場では、今もスマホやタブレットが使えません。実は、その背景には30年前、ポケベル時代に作られたルールがあります。 なぜ国会のデジタル化はなかなか進まなかったのか？そして、なぜ今、改革が動き始めているのか？ 1995年からの国会D",
+   "firstSeen": "2026-11-19T11:06:08.108Z"
+  },
+  {
+   "title": "【関東の天気】今季初寒波 覆われる関東 3連休は冬の寒さ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02Q1I1UjBRWU5iQ1hGRks0THVvelFPTmhod1ZMejkxVXkzdjRLSDlzTEZ6dWQ4VGVhcldQYzdPN1I1ejZScEwtcUE1SnhGeWlYaUZPaThMdUJETzZEUWM3UEhJcWNNdGFmVmNLX0NaYmw1dw?oc=5",
+   "date": "2026-11-19T10:16:05.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "県営住宅で火災 5階の部屋から出火 消化活動続く 愛知・東浦町",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDYXpDblhBb19SVmhWZVVMSFhqNkRVSUNpNDlMU0F2SWt6dnlXMnVqbXdRNS0xbU9nNjBONkk2NGpHa056NWZBY1pBdHhWZmpoQ2VPMjdtWXdIeDk0SHZERUI2ZFBKOWE0aFJ0WWY3RkIyZw?oc=5",
+   "date": "2026-11-19T10:11:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "憲法9条 改正積極的な政党も立場に違い 衆議院の憲法審査会で集中討議",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HU1pkYlVFNlY4ZnMwc0JidnU3anhaT1JaR3FtU096VHZJZ01qNUJYVG5fdF9XZTFhRzBPZkQwZU0xR3hiV1VHampja3NyQ3BRU3RoZElWQ0tPd2hwWlgtVThaMWlIRzlPY0IzZHJBTnNkM00?oc=5",
+   "date": "2026-11-19T10:08:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWkFnQ0NRVVRSV1B0S0ptbHJ2YTJxeDdLU3hZTmRmMUlhN0ZJNFEyZFJGcEtEb3VYNmxmeWM3QVE2Vks1OW5oOXBuVll2Unk2RFdBTXI1RHhFTTVpbkVHVW1Na0N4RDBDM211bnRVOVZTWVNWMXlJZXVn?oc=5",
+   "date": "2026-11-19T10:07:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "「デンドロビウム アイコ ナイシンノウ デンカ」愛子さまにラン贈られる",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xRVFlUWZUSkR2X2xNVXNGQ2NqYTFDSTA4OG5wamphTEVneEFIUzBlcWNwbnktRzlpUURBajFuYS1TY0RNUG13SFhiY3lWRkVrTXVBMGE2TWtPNkszMnRqU3UtYVpXWW1MelQxY2JrcWN5UQ?oc=5",
+   "date": "2026-11-19T10:05:53.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "アンソロピック上場 過去最大級の新規株式公開 13兆円調達へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWXBNVFNHbWt4MmdmWWxGZ0pISjk4b2FVNURlT1ltYzBTdDR2c0N2Z0EyUjl0bGV6SVdjQ1AtMXJpX2ZuM2V6OTF2bkp4TWlmNTlFRThuYUpJTXRWc2tiTnprTjQtNVdnbzE1S0RuS3lVQQ?oc=5",
+   "date": "2026-11-19T10:02:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
   {
    "title": "衆院憲法審査会 憲法9条と自衛隊テーマに与野党が討議",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nbUFyaUZ3c1Bldng3VnF5bWRNeldXTVdBdEJlbXFNQmtMWE9vaE4xVjZXR2NQZGR1MXYtNnVhTHJBMzNUNWhoU1VRRVpDZlEtLS1JUnNZX2p0RGUzLU13?oc=5",
@@ -46,6 +140,127 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-19T10:06:03.141Z",
+   "mention": "body"
+  },
+  {
+   "title": "北朝鮮の人権侵害を非難する決議案を採択 国連 アメリカは棄権",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sd0FZQzJvZjlnbENBak5ja21pTF90X09wYWJVQXdqWkxtRlJRaEotb3JDdW1mSzRQTFJleUExcl9tWmRWLUVsZ0lVTHFrcEsxeDdQVk5pY1JwNHpCbXM2QkVaeDZPaGduWGlUb2pMTnZBV3AzVmRfaGhB?oc=5",
+   "date": "2026-11-19T07:25:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "群馬発祥スーパーが激戦区・幕張エリア初出店 豊洲直送鮮魚や店焼きパンでアピール",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TcHpidGhSTzltYmZLa0tCbktZakFZLXpjajlVeDFsQjZqY1VoT1BoU3hrbHZUeEEwSU0zY09ZTk55TDZSLVY3MUl4c25GOFBWc1N4QTlscnJCZFU1OXZ0X20weXRiYzljODcwNWJnVDFRZw?oc=5",
+   "date": "2026-11-19T06:35:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "新しい挑戦が生きがいに シニア世代に広がる習い事 キックボクシングやダンスに熱中",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hS3drRUFNdDNaeHd0dWMycmhRaS1IRmZZVFlCVjBQa0FrZ0x2dk5OQkFnVFEtYzAxSm4wYXl5d2ZTNk5OYTFBTGQ0MnV6NWRTZFJ3Vmt2NWxmc0N6cU1BdENfWUpTVzduLUp2QWJVZ2VLQQ?oc=5",
+   "date": "2026-11-19T04:29:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "アンソロピック IPO公開価格83ドルに AI企業の動向占う試金石に",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HekE0VFRtVVMwal90Vlg1emU2YzNWb2hoSFc2a19PU3JkaEpiMVNyYlpvaWNKaGlRVnhqUkY1bmJfWXVuR0ZRSVpkYW5lMmV3OEZJMi1feUN3YXZNMDI4VlBRbTViOE5ocy1iYzdqRkNVcnJvY3NyQzFn?oc=5",
+   "date": "2026-11-19T03:24:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "今夜の「相葉ヒロミのお困りですカー？」は超人気町中華のワンオペ店主を救え！",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWF9ha18tSlM3X0dJWDZwY29lTV9kN09zS2JRSHJLNWtNV01rUVpnM2FFWHBnNFhMa2Y2WFlwMlktdXdxVDI3N3ppVWpyZUNfckxWU3NGRmVBNGE3MmZiNnVrNjNuMlNUbVJWTFN6SUQ?oc=5",
+   "date": "2026-11-19T03:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "パラグアイは「汚かった」後藤啓介が“ラフプレー”に不満…久保建英への顔面エルボーも「取るべきファウルを取ってくれなかった」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xOHVocmpNSW5JQjUtc3lfZ1NFTG5uanpZNFVReFhkcXYzVXE2NlpMX1JXbk5GcGZVZGVQLTNmSC1PbDU3cTB5UFg0cDJ6TVRsYncyYWdDUTF5bEdkMHpSanNSVldueXJzYzF5TXo2V0Q?oc=5",
+   "date": "2026-11-19T02:45:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "ワイド！スクランブルのニュース一覧",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsUEotcno1X1U2U0pXZXBVVHNfeXRzQnhrc0tISWktZ01SbTk4WG5wX3RLQlUwVkktTmRJZzZFZnNOQlc1TTlCWExtRGJnV1g4MjlvcWh5UW5tXzBHclE?oc=5",
+   "date": "2026-11-19T02:26:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "EVなど購入補助金が25日までに受付終了へ 残高107億円がなくなり次第 申請は先着順",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fRUlISHdTdUlDaTl0VUlvdW1Xd2Zfbm1ITTlURXNaalR1Q1RzdldWV295WW9STGdqaHJTbnBGZ09zUm83d3J0N29Ua2NYalA4alBLRXkwQlJpZDFzaWtHU1BuVkl3U2tHelVQd2FoSGRhdw?oc=5",
+   "date": "2026-11-19T01:25:10.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "サンタ養成学校が英国ロンドンで開講 振る舞いや笑い声を真剣に学び「ホーホーホー」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5aXk4T3J5R0h6ZXlvS3VlWHUwSFBuSUpDc18yMjQ5bEJrNHhFeVl3TXMxZHlSVm5mcGZSV0cxU3k5bjJpcmQ0ZXQ2Yzk0c25RNjdCQzZnSmxuQjhTR1RaaUQ2Um9CNUYxVzFrMTJuR19sWks0bVJyN2J3?oc=5",
+   "date": "2026-11-19T01:22:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "何が起きた？ 塩貝健人、タックル被弾後に“まさかの光景”「さすがキャプテン」強靭フィジカルで復活→相手選手に“神対応”「かなり頼もしい」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gd1MyWkVqOFFiZ1JvTWhlRnJ0MkVYanJrdkdmR1NHckV2U0hfODVLOHJnVEJGSFliQW9qcTExdi1Uek9jS092bDd1YTQ2aEYzTXhiWW5xeWlmT3RubnBFb2ZoZEM0by15WDl2dk1qMzY?oc=5",
+   "date": "2026-11-18T22:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "ルフィ事件裁判 グループトップが実行役を勧誘",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VXzFvUFF6VnNXYmdzR1o2YW9Wejl0R2J5QkdaZ0ZNZlFkUnhQb25Rck4zMmlfRkZ2cTd2WWt3ZmpING1Ud0RuM21kNmpxX1BlWHMtZm9MZG9VTTFoQnJWTVE0UzRxZWJ4VUE2U0hsUlF5dw?oc=5",
+   "date": "2026-11-18T22:21:41.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
    "mention": "body"
   },
   {
@@ -354,6 +569,28 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "中村獅童、三谷幸喜氏の発言にムカっ！「デリカシーのない役」で「獅童さんにぴったり」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02a3ZSMzdmcWF3cEhMVzRmMDQtbmdZQldaWmVVYUNQWEZpeWJYLVZlOVZHQTBla3hXSzJyNWVZUk90T3dHalJ6TEtPMkdBS21Sb0h3VGk1UFp2XzNaTWN1QUJyZkRaelZ6dGo1X05NekI?oc=5",
+   "date": "2026-11-17T11:03:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "「THE MODS」、苣木寛之さんの葬儀を終えたことを報告、今後の活動は「未定」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaUF1dTg0b2M4bmhxaUYzTW5halRnUE5mTVA3eS1pUXllTThpblZnTldnWGI3YkYzUDlQVjY3S2Z4d3hCaHFVSXotMjVibzA5YUEzeXlpVW5xNy10eFczd0xrVGFDbVV5SHVTbFMxRGE?oc=5",
+   "date": "2026-11-17T10:57:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月13日）",
    "link": "https://note.com/team_mirai_log/n/nd0a4424bc796",
    "date": "2026-11-17T08:23:26.000Z",
@@ -394,6 +631,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/337231497/rectangle_large_type_2_744addc7917882e9e43c538cc775eae8.jpeg?width=800",
    "description": "2026年11月13日に衆議院 経済産業委員会で行われた質疑における、チームみらい 小林修平の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 小林修平 答弁者＝河野 政府参考人、中野 政府参考人、川野 政府参考",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "定数31削減法案 衆院特別委員会審議入り 3党 今国会成立目指す",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eTh2YnZXcm1hQnkxN1ltLTNrbE5uaTJNNVdZWHVhai1sbWJhUGU1aTFWMHZHcnNLYk1PRFRHZktwTUZwTTNucDRJbkNXejkxSThGOFUxNnkyUk5QNmRF?oc=5",
+   "date": "2026-11-17T05:33:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
   },
   {
    "title": "国会議員の仕事の三種の神器を紹介します！ #チームみらい",
@@ -479,6 +727,17 @@
    "mention": "body"
   },
   {
+   "title": "ANN世論調査 減税の財源説明「不十分」8割 内閣支持率50.8％に上昇",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUmpLMDVmZERUMWUtQUpqRlVubjNGUHRSNlN3Z1NEY19VZ0JzUkdsRldITmprQVRCdWF2amcxQklXLWdNaWU5VFJmcTQwQ3ZtVjNkd1BycWR0LU5nVzJoQXFQR0pZbFROZlR5MTUwdEw3R0k?oc=5",
+   "date": "2026-11-15T20:52:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
    "title": "２０２６年１１月 電話全国世論調査 質問と回答",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ibHAtNWJsS1ZPSnRZMXEtaEs4dURKVEJxX0MzT253V3dwRW1QYlk2T3JneVBnYWNNODVBaXdJVHVVazJ5SFJleUVuS2tIOHMtZlNtbkpvdmgyYy1jVVlXb05wQW9HSVl2R19QOGh6ZTRjS1U5MlE?oc=5",
    "date": "2026-11-15T20:00:00.000Z",
@@ -551,6 +810,17 @@
    "mention": "body"
   },
   {
+   "title": "武田真治「日々驚かされています」と妻の“新たな一面”を明かす",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucjVxbG5qS2dhZXFVSEh1Zl9nSDBPM2phM19LUndfR1V0djVDcmNncWM5ekZJeVQ0SzdoY2lTR05wTGw5b0phTkFDVjN5VFE2YjYtM3F3bzBCS0daVEg0Zk1IRzRjVFBmVTRVMllkRlc?oc=5",
+   "date": "2026-11-15T09:18:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
    "title": "消費減税「効果小さい」は６３％ 財源、支援金説明「必要」８５％",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZlNFYUVyZVJXckNTeUR1dE1LajBEN1F0eUNLMUdrTW5kbjU1YmQ4NGtyUWxLVDRIMmJKUlRZcnFwUTlGeUlTc0xKRmxYWC1rUlJJ?oc=5",
    "date": "2026-11-15T09:14:00.000Z",
@@ -559,6 +829,28 @@
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "神田うの、ヘルニアの痛み「限界かも…もう腹をくくりました」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03TXBDeDZWeTdTc0lTaElaRVR5TXBWQU1MWDh4MmMzYjBNX0o3ZlpwRHk3SHEzVFJhdGNUSkZPN0dhSi15dTVnbGRiaVlvb1FvQVE4ek5oOTV4RTBKZTBDWjZ5WWtFX19TZkVDdlNsZEs?oc=5",
+   "date": "2026-11-15T03:18:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "畑芽育、芸能生活で“忘れられない瞬間”を明かす 今年は「初めてチャレンジするお仕事に…」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pUGxaRzlZSGlmVVFUWXZnekZWY0syMWN4OHFxaDZDdmZCenVPMW9ONXB0SDBRUGQwdlpXX1BNYVZUa1psTDVmamQ5OWpJdTNueWZsNVE3U0RVaUluZkN1dVhqNVlEbDhSaGkwdHNYTFY?oc=5",
+   "date": "2026-11-14T04:10:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
    "mention": "body"
   },
   {
@@ -765,6 +1057,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "薬丸裕英、1日「入院」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CYnNxM1MzVEtzOHp3UHlTTUdMcHFtWWNxeTlkQ3IwcF9hcGJZcjNDeS1GQ0c3NnA3aUlNYklaSHVTWXpYOXJ1M1Y0X2hBanRLUHMxTzhKMnNVLVhGNWVfZjA5VkZVdUlPUmNiak8zUWE?oc=5",
+   "date": "2026-11-13T07:35:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
    "title": "レイヤーエックスCTO、サイバー攻撃「受ける前提で社内訓練を」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WHIwN19IbkV1VTI5a1dUZWpYWkpOT2RCWEpZT0h0eHFUc1VDcjFYeEtTR0pJMEZwWEx6UUlPWVR5b0MwX2JmSUhrT0EzbXNndUZYeWFpa0xsRFlPS1dINFR2Smhlc0c2X1hIeA?oc=5",
    "date": "2026-11-13T05:44:34.000Z",
@@ -773,6 +1076,39 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "パスワードの“脱”使いまわし 管理は「紙」でアナログ回帰 「管理ノート」品薄に",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yV092RVpBMWxJTWFBeEQ2Vmo1ZW0xTE45bVlpWHZmVFo5YUVjMXdWMUotZThCQmVXcXJqWndRakxfSld6Z0RSMHY0NEQ0ZEI2LThWbFo4bldRT1N1S2RZVE5mMUZSenNVaWNlMjE2MzIzQQ?oc=5",
+   "date": "2026-11-13T03:05:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "冬の訪れ 街を彩るイルミネーション 今年はハリー・ポッターとコラボ 東京・丸の内",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50OEtvaDhWU2VxWm9zU2NUV2xtZFhhN1hTdVBLcW1YWWZ0bU9tM2xodWxPVGJwUU10LTUyMjlIYzJVVXhyMVNxWTZRaklXcHhRQlF0Sm5JaEktTk93dVVSQzFFSzRVWWpRRlI5SlZPRVB5QQ?oc=5",
+   "date": "2026-11-13T02:54:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "小田原から宇宙へ…ガンダム生みの親の原点は 小田原城の天守閣で富野監督の展覧会",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZQjZtdVlFOXdEZlYyendueHZIdk56LVJ6R2ZYMnhrSjFDUVZDWFVLYWx6X19LbF9qOS1LaC12OG9SY2lKQnZkWVhHZHQwT2J2XzlsVi1xcTdaMXdqbElqbXUwRjBvdXp3dDF6Tktyek5LUQ?oc=5",
+   "date": "2026-11-13T02:27:51.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
    "mention": "body"
   },
   {
@@ -788,6 +1124,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/335420727/rectangle_large_type_2_ba86db412dd72acfd404c9daaf3726a5.jpeg?width=800",
    "description": "皆さま、本日はお忙しいところ、チームみらいの定例会見にお集まりいただき、誠にありがとうございます。幹事長の古川あおいです。 本日は、 続きをみる",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "エヌビディア フアンCEOの辞任 米政財界にも波紋 議会で本格的な調査の動きも",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Lck14eG9ieFpNVWd3Z3VMZVBfNk4tX3pNekFsc0Npd3BVYnhuUDhiajljZGJwLWFXcGNJQ3hpNE9raEtVQlppVmtYb3dBQmhRQVFrWW9tUmV1TWFHR3A0RUlxc3ZNSmRJbndiQVhwUndmakR3ekRtU3B3?oc=5",
+   "date": "2026-11-12T23:21:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
   },
   {
    "title": "自維国共、議席占有率アップ 衆院比例３１減で試算",
@@ -809,6 +1156,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "“アラーム放置”で意識障害に…愛媛大学病院が医療事故を発表",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11a3cwVnZxZUQ5M0RZU0dRYTlqSG9DTmlFVEZENmNjTnkySFdybFRnM3htZ0t1SUt2MTUyeFBTUnE5WlpOMW1DeGdPQktrQ3huNVJYN1gxYzhpeVZUNjR5RW9LenFGdUpHQkNSVVZZQnhIQQ?oc=5",
+   "date": "2026-11-12T15:04:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
    "mention": "body"
   },
   {
@@ -838,6 +1196,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/335309306/rectangle_large_type_2_c3bfb911b13aec6fe41584e4a50f1c85.jpeg?width=800",
    "description": "2026年11月11日に衆議院 厚生労働委員会で行われた質疑における、チームみらい 林拓海の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 林拓海 答弁者＝岸本 政府参考人、上野賢一郎 厚生労働大臣、三浦 政府",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "元乃木坂46 梅澤美波さんが一日消防署長に 強い地震により火災が発生した想定で訓練",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sOTk4NmlhSTV5TGlFSnZpSk44WVNXZEZTbFFmRWVmYjQ4ZGFtYkNHLVdmM1dPZjJlSjhPRDJlRWszMWExajIyMWFiUEhONDZWNEZiYks4ekZ4QmxDOWJoVWxPc2hnVTNxLTk1Qm5EQ1JQQQ?oc=5",
+   "date": "2026-11-12T11:29:36.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
   },
   {
    "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月11日）",
