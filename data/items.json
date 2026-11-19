@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T03:06:09.132Z",
- "lastAttempt": "2026-11-19T03:06:09.132Z",
+ "updatedAt": "2026-11-19T04:06:03.623Z",
+ "lastAttempt": "2026-11-19T04:06:03.623Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -83,6 +83,17 @@
     "mineshima"
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T09:48:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -169,17 +180,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T06:48:16.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "岸田元総理「時代に応じて変えねば」 国会改革めぐり",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTHluSmhMQkRBZ3FWWVlBVFMwYWhMSGdDbmdtUGlyR2o4c3BEbzNVdzNKdldzSGdiWDVqTG5XS3Nnb1QyWVB3cldPSEFQT0VlaTl3MDhsbmJJZ2dsNU9RRkRUTEI3ZXdiVUFjZWFhNldEZzA?oc=5",
    "date": "2026-11-18T05:56:13.000Z",
@@ -204,7 +204,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T04:44:06.000Z",
+   "date": "2026-11-18T04:42:23.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -437,7 +437,7 @@
   {
    "title": "消費減税法案「賛成」52％【NNN・読売新聞 世論調査】（2026年11月15日掲載）",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdkI1OUdQTGJEdWppYzZCSnhOY2MtQkxFUE9QT0RPV1hYaTh0SUtOejNsLU5FakZLNU12R0RiMjBzMl9MRnZhckl0anlja2RFeEFzZ3k3QXI0cnVpb3RQN3ZZd2VqR09PcTVlU21leWhmQlRSdUhrMXF0MmEwQQ?oc=5",
-   "date": "2026-11-15T13:21:47.000Z",
+   "date": "2026-11-15T13:00:00.000Z",
    "type": "media",
    "kind": "article",
    "source": "日本テレビ",
