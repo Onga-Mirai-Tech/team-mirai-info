@@ -104,7 +104,7 @@ h1 { font-size: 1.45rem; margin: 0; letter-spacing: 0.02em; }
 .tabs button[aria-selected="true"] .dot { background: #fff; }
 
 .filter-row { display: flex; align-items: center; gap: 8px; min-width: 0; flex-wrap: wrap; }
-.filter-label { font-size: 0.72rem; font-weight: 700; color: var(--text-sub); flex: 0 0 auto; width: 2.6em; }
+.filter-label { font-size: 0.72rem; font-weight: 700; color: var(--text-sub); flex: 0 0 auto; width: 3.2em; }
 .chips {
   display: flex; gap: 5px; overflow-x: auto; flex: 1 1 0; min-width: 0;
   scrollbar-width: thin; padding-bottom: 2px;
@@ -122,6 +122,7 @@ h1 { font-size: 1.45rem; margin: 0; letter-spacing: 0.02em; }
 .chip small { color: var(--text-faint); margin-left: 3px; font-size: 0.68rem; }
 .chip[aria-pressed="true"] { background: var(--member); border-color: var(--member); color: #fff; }
 .chip[aria-pressed="true"] small { color: rgba(255,255,255,0.85); }
+.theme-chip[aria-pressed="true"] { background: #1f8f8a; border-color: #1f8f8a; }
 
 #media-select {
   border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; background: var(--surface); font-size: 0.82rem;
@@ -207,6 +208,8 @@ main { padding-top: 14px; padding-bottom: 30px; min-height: 60vh; }
   white-space: nowrap;
 }
 .tag:hover { background: var(--member-bg); color: #9a5400; }
+.theme-tag { background: #e6f5f4; color: #1f7f79; }
+.theme-tag:hover { background: #cdeeeb; color: #17625d; }
 
 .empty { text-align: center; color: var(--text-faint); padding: 40px 0; font-size: 0.9rem; }
 

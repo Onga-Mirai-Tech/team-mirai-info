@@ -8,7 +8,7 @@
   const TYPE_LABEL = { official: '党公式', member: '議員', media: '報道' };
   const WEEK = ['日', '月', '火', '水', '木', '金', '土'];
 
-  const state = { type: 'all', member: '', media: '', body: false, q: '', unseenOnly: false, limit: PAGE_SIZE };
+  const state = { type: 'all', member: '', theme: '', media: '', body: false, q: '', unseenOnly: false, limit: PAGE_SIZE };
 
   // ---------- 「見たよ」（自分用の既読マーク） ----------
   // 記録は閲覧者のブラウザ（localStorage）にだけ保存し、外部には送らない。
@@ -33,6 +33,7 @@
   let config = null;
   let items = [];
   let memberById = new Map();
+  let themeById = new Map();
 
   const $ = (id) => document.getElementById(id);
 
@@ -61,6 +62,7 @@
     const h = new URLSearchParams(location.hash.slice(1));
     state.type = ['official', 'member', 'media'].includes(h.get('type')) ? h.get('type') : 'all';
     state.member = memberById.has(h.get('member')) ? h.get('member') : '';
+    state.theme = themeById.has(h.get('theme')) ? h.get('theme') : '';
     state.media = config.media.some((m) => m.id === h.get('media')) ? h.get('media') : '';
     state.body = h.get('body') === '1';
     state.q = h.get('q') || '';
@@ -69,6 +71,7 @@
     const h = new URLSearchParams();
     if (state.type !== 'all') h.set('type', state.type);
     if (state.member) h.set('member', state.member);
+    if (state.theme) h.set('theme', state.theme);
     if (state.media && state.type === 'media') h.set('media', state.media);
     if (state.body) h.set('body', '1');
     if (state.q) h.set('q', state.q);
@@ -77,8 +80,15 @@
   }
 
   // ---------- 絞り込み ----------
-  function baseFilter(it) {
+  // テーマ判定：見出し・説明文にキーワードが含まれるか（全角・半角の違いは NFKC でそろえる）
+  function detectThemes(it) {
+    const text = `${it.title} ${it.description || ''}`.normalize('NFKC');
+    return config.themes.filter((t) => t._kw.some((k) => text.includes(k))).map((t) => t.id);
+  }
+
+  function baseFilter(it, { ignoreTheme = false } = {}) {
     if (it.type === 'media' && it.mention === 'body' && !state.body) return false;
+    if (!ignoreTheme && state.theme && !it.themes.includes(state.theme)) return false;
     if (state.unseenOnly && seen.has(it.link)) return false;
     if (state.member && !(it.members || []).includes(state.member)) return false;
     if (state.q) {
@@ -105,6 +115,22 @@
       const t = b.dataset.type;
       b.setAttribute('aria-selected', String(t === state.type));
       b.querySelector('.count').textContent = `${counts[t].toLocaleString()}件`;
+    });
+
+    const themeCounts = {};
+    let themeAll = 0;
+    items.forEach((it) => {
+      if (!baseFilter(it, { ignoreTheme: true }) || !typeFilter(it)) return;
+      themeAll++;
+      it.themes.forEach((id) => { themeCounts[id] = (themeCounts[id] || 0) + 1; });
+    });
+    const themeRow = $('theme-chips');
+    themeRow.querySelectorAll('.chip').forEach((c) => {
+      const id = c.dataset.theme;
+      const on = id === state.theme;
+      c.setAttribute('aria-pressed', String(on));
+      c.querySelector('small').textContent = (id ? themeCounts[id] || 0 : themeAll).toLocaleString();
+      if (on) themeRow.scrollLeft = Math.max(0, c.offsetLeft - themeRow.offsetLeft - 40);
     });
 
     const chipRow = $('member-chips');
@@ -146,7 +172,9 @@
     const d = new Date(it.date);
     const kind = KIND_LABEL[it.kind] || '';
     const tags = (it.members || []).map((id) => memberById.get(id)).filter(Boolean)
-      .map((m) => `<button class="tag" data-member="${esc(m.id)}" title="${esc(m.name)}の記事だけを表示">${esc(m.name)}</button>`).join('');
+      .map((m) => `<button class="tag" data-member="${esc(m.id)}" title="${esc(m.name)}の記事だけを表示">${esc(m.name)}</button>`).join('')
+      + it.themes.map((id) => themeById.get(id))
+        .map((t) => `<button class="tag theme-tag" data-theme="${esc(t.id)}" title="「${esc(t.name)}」の記事だけを表示">#${esc(t.name)}</button>`).join('');
     const thumb = it.thumb && it.type !== 'media'
       ? `<img class="thumb" src="${esc(safeUrl(it.thumb))}" alt="" loading="lazy" referrerpolicy="no-referrer">` : '';
     const isSeen = seen.has(it.link);
@@ -176,6 +204,7 @@
 
     const parts = [];
     if (state.member) parts.push(memberById.get(state.member).name);
+    if (state.theme) parts.push(`#${themeById.get(state.theme).name}`);
     if (state.type !== 'all') parts.push(state.type === 'media' && state.media
       ? config.media.find((m) => m.id === state.media).name
       : { official: '党の公式発信', member: '議員の発信', media: '大手メディア報道' }[state.type]);
@@ -215,6 +244,9 @@
       .concat(config.members.map((m) => `<button class="chip" data-member="${esc(m.id)}">${esc(m.name)}<small>${m.chamber === '参議院' ? '参' : '衆'}</small></button>`));
     $('member-chips').innerHTML = chips.join('');
 
+    $('theme-chips').innerHTML = [`<button class="chip theme-chip" data-theme="">すべて<small></small></button>`]
+      .concat(config.themes.map((t) => `<button class="chip theme-chip" data-theme="${esc(t.id)}">${esc(t.name)}<small></small></button>`)).join('');
+
     const groups = [...new Set(config.media.map((m) => m.group))];
     $('media-select').innerHTML = `<option value="">すべての媒体</option>` + groups.map((g) =>
       `<optgroup label="${esc(g)}">${config.media.filter((m) => m.group === g).map((m) => `<option value="${esc(m.id)}">${esc(m.name)}</option>`).join('')}</optgroup>`).join('');
@@ -236,6 +268,12 @@
       state.member = c.dataset.member === state.member ? '' : c.dataset.member;
       render();
     });
+    $('theme-chips').addEventListener('click', (e) => {
+      const c = e.target.closest('.chip');
+      if (!c) return;
+      state.theme = c.dataset.theme === state.theme ? '' : c.dataset.theme;
+      render();
+    });
     $('timeline').addEventListener('click', (e) => {
       const sb = e.target.closest('.seen-btn');
       if (sb) {
@@ -252,7 +290,8 @@
       }
       const t = e.target.closest('.tag');
       if (!t) return;
-      state.member = t.dataset.member;
+      if (t.dataset.theme) state.theme = t.dataset.theme;
+      else state.member = t.dataset.member;
       render();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
@@ -278,7 +317,10 @@
       config = await cfgRes.json();
       const data = await dataRes.json();
       memberById = new Map(config.members.map((m) => [m.id, m]));
+      config.themes = (config.themes || []).map((t) => ({ ...t, _kw: t.keywords.map((k) => k.normalize('NFKC')) }));
+      themeById = new Map(config.themes.map((t) => [t.id, t]));
       items = (data.items || []).filter((it) => it.title && it.link && !isNaN(new Date(it.date)));
+      items.forEach((it) => { it.themes = detectThemes(it); });
 
       $('updated').textContent = data.updatedAt ? `最終更新：${fullLabel(new Date(data.updatedAt))}（1時間ごとに自動更新）` : '';
       const stale = data.updatedAt && Date.now() - new Date(data.updatedAt) > 6 * 3600 * 1000;

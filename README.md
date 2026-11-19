@@ -34,6 +34,7 @@ GitHub Pages
 |---|---|
 | 議員を追加・修正する | `members`（`note` と `youtube` は任意。YouTube はチャンネルID `UC…` を入れる） |
 | 載せる媒体を増やす・減らす | `media`（Google ニュースの配信元ドメインを `hosts` に入れる） |
+| テーマを追加・修正する | `themes`（見出し・説明文に `keywords` のどれかがあればそのテーマ。全角・半角は区別しない。委員会名も入れておくと国会記録が振り分けられる） |
 | 「見出しで言及」の判定を変える | `titlePattern` |
 | 記事ではないページを除外する | `excludeTitlePatterns` |
 

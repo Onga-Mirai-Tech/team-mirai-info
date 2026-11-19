@@ -44,6 +44,11 @@
         <div class="chips" id="member-chips"></div>
       </div>
 
+      <div class="filter-row">
+        <span class="filter-label">テーマ</span>
+        <div class="chips" id="theme-chips"></div>
+      </div>
+
       <div class="filter-row" id="media-row" hidden>
         <span class="filter-label">報道</span>
         <select id="media-select" aria-label="媒体を選ぶ"></select>
@@ -90,13 +95,13 @@
         <li><b class="t-member">議員の発信</b>：所属議員の note・YouTube（X は自動取得できないため対象外です）</li>
         <li><b class="t-media">大手メディア報道</b>：Google ニュース経由で、<span id="media-list"></span> の記事だけを掲載しています</li>
       </ul>
-      <p>GitHub Actions で1時間ごとに自動更新しています。議員名での振り分けは見出し・説明文の文字から自動で行っているため、漏れや誤りが出ることがあります。</p>
+      <p>1時間ごとに自動更新しています。議員名・テーマでの振り分けは、見出し・説明文に含まれる言葉から自動で行っているため、漏れや誤りが出ることがあります（テーマが付かない記事もあります）。</p>
       <p>掲載しているのは見出しとリンクのみです。記事・動画の著作権は各配信元に帰属します。</p>
 
       <h3>「見たよ」ボタンについて</h3>
       <p>読んだ記事の目印として使えます。記録はお使いの端末のブラウザの中だけに保存され、運営者を含め外部には一切送信されません。そのため、別の端末やブラウザとは共有されず、ブラウザのデータを消去すると記録も消えます。</p>
 
-      <p class="version">チームみらい ウォッチ（非公式） v0.2 ／ 個人による非公式運営 ／ Developed by Onga-Mirai-Tech</p>
+      <p class="version">チームみらい ウォッチ（非公式） v0.3 ／ 個人による非公式運営 ／ Developed by Onga-Mirai-Tech</p>
     </div>
   </footer>
 
