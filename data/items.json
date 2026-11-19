@@ -1,10 +1,8 @@
 {
- "updatedAt": "2026-11-19T18:41:29.837Z",
- "lastAttempt": "2026-11-19T18:41:29.837Z",
+ "updatedAt": "2026-11-19T19:06:04.510Z",
+ "lastAttempt": "2026-11-19T19:06:04.510Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 時事通信"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "【AI×サイバー攻撃】企業・自治体に必要な対策は？政治の役割は？サイバーセキュリティ専門家・中谷翔氏に聞く【後編】#チームみらい #安野貴博 #サイバーパンデミック",
@@ -268,7 +266,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-19T00:23:05.000Z",
+   "date": "2026-11-19T00:40:48.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
