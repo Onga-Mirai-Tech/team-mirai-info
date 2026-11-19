@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T16:06:11.001Z",
- "lastAttempt": "2026-11-19T16:06:11.001Z",
+ "updatedAt": "2026-11-19T17:06:04.614Z",
+ "lastAttempt": "2026-11-19T17:06:04.614Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -275,6 +275,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T22:42:16.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "何が起きた？ 塩貝健人、タックル被弾後に“まさかの光景”「さすがキャプテン」強靭フィジカルで復活→相手選手に“神対応”「かなり頼もしい」",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gd1MyWkVqOFFiZ1JvTWhlRnJ0MkVYanJrdkdmR1NHckV2U0hfODVLOHJnVEJGSFliQW9qcTExdi1Uek9jS092bDd1YTQ2aEYzTXhiWW5xeWlmT3RubnBFb2ZoZEM0by15WDl2dk1qMzY?oc=5",
    "date": "2026-11-18T22:30:00.000Z",
@@ -294,17 +305,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T20:43:25.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
