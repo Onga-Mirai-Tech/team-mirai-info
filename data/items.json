@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T22:06:03.874Z",
- "lastAttempt": "2026-11-19T22:06:03.874Z",
+ "updatedAt": "2026-11-19T23:06:04.080Z",
+ "lastAttempt": "2026-11-19T23:06:04.080Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -223,6 +223,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-19T04:53:24.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "新しい挑戦が生きがいに シニア世代に広がる習い事 キックボクシングやダンスに熱中",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hS3drRUFNdDNaeHd0dWMycmhRaS1IRmZZVFlCVjBQa0FrZ0x2dk5OQkFnVFEtYzAxSm4wYXl5d2ZTNk5OYTFBTGQ0MnV6NWRTZFJ3Vmt2NWxmc0N6cU1BdENfWUpTVzduLUp2QWJVZ2VLQQ?oc=5",
    "date": "2026-11-19T04:29:00.000Z",
@@ -267,6 +278,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T02:33:56.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "ワイド！スクランブルのニュース一覧",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsUEotcno1X1U2U0pXZXBVVHNfeXRzQnhrc0tISWktZ01SbTk4WG5wX3RLQlUwVkktTmRJZzZFZnNOQlc1TTlCWExtRGJnV1g4MjlvcWh5UW5tXzBHclE?oc=5",
    "date": "2026-11-19T02:26:32.000Z",
@@ -275,17 +297,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-19T01:39:55.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -341,17 +352,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T21:36:31.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -434,7 +434,7 @@
   },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUzdwbGxzQUlSLU1hYWFpeHB1WUpCZ29PZzZBbGdwLU9sY3dzekhaZGxuVXB0UlM3c1FDbEpraEpHQUhpb1AxWTBXVWlvOFdrY2pNRkF4TEVrRFY5cUFvZ3ZMbV8?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
@@ -712,6 +712,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "日中会談はできず、日ロは「立ち話」も模索…ASEANからAPECへ 高市外交“勝負の1週間”",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wYU55R1h0TXVpQ2xkbDBZbXZybTQzTGY3MGFkd1lPVmp5NXc4Qm0xVFpQUU0wdXN0RU9zVFNYck9oSEpMY2JxT0pVakYxdjRiblY1TTMxWmxkVkRHTmVUa3NrOTUzUWpPRzcwbVpFeWNpTW90ZjVRTC1R?oc=5",
+   "date": "2026-11-17T08:45:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T23:06:04.080Z",
    "mention": "body"
   },
   {
