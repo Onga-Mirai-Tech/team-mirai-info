@@ -1,36 +1,8 @@
 {
- "updatedAt": "2026-11-19T05:13:55.779Z",
- "lastAttempt": "2026-11-19T05:13:55.779Z",
+ "updatedAt": "2026-11-19T06:06:07.394Z",
+ "lastAttempt": "2026-11-19T06:06:07.394Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 党名",
-  "ニュース検索 朝日新聞",
-  "ニュース検索 読売新聞",
-  "ニュース検索 毎日新聞",
-  "ニュース検索 日本経済新聞",
-  "ニュース検索 産経新聞",
-  "ニュース検索 東京新聞",
-  "ニュース検索 共同通信",
-  "ニュース検索 時事通信",
-  "ニュース検索 NHK",
-  "ニュース検索 日本テレビ",
-  "ニュース検索 TBS",
-  "ニュース検索 テレビ朝日",
-  "ニュース検索 フジテレビ",
-  "ニュース検索 テレビ東京",
-  "ニュース検索 安野貴博",
-  "ニュース検索 古川あおい",
-  "ニュース検索 宇佐美登",
-  "ニュース検索 河合道雄",
-  "ニュース検索 小林修平",
-  "ニュース検索 須田英太郎",
-  "ニュース検索 高山聡史",
-  "ニュース検索 土橋章宏",
-  "ニュース検索 林拓海",
-  "ニュース検索 峰島侑也",
-  "ニュース検索 武藤かず子",
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "【全文】衆議院 政治改革に関する特別委員会 発言／広報本部長・峰島侑也（2026年11月18日）",
@@ -114,17 +86,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T09:48:26.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "【チームみらい】定例会見 (2026年11月20日）開始予定11:00〜 #安野貴博",
    "link": "https://www.youtube.com/watch?v=hu_qx0CPeC0",
    "date": "2026-11-18T09:11:20.000Z",
@@ -186,6 +147,17 @@
    "mention": "title"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-18T07:42:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "政治資金監視委、与野党が28年発足目標 企業献金法案は棚上げ",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11aGh2ZGNxNUdHNm94MnVHa2tublN6OEpqeUluYXBYV0xzMS1DbzFCbURyZTFfV3ZCYzR6ZFl4RDJuTmhPd1NSUVBjTHM3bFZrVTBleEZPNHZXRUFmeHVLVVJ0Z2p3elZDYkxJbg?oc=5",
    "date": "2026-11-18T07:38:45.000Z",
@@ -208,6 +180,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T06:48:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "岸田元総理「時代に応じて変えねば」 国会改革めぐり",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTHluSmhMQkRBZ3FWWVlBVFMwYWhMSGdDbmdtUGlyR2o4c3BEbzNVdzNKdldzSGdiWDVqTG5XS3Nnb1QyWVB3cldPSEFQT0VlaTl3MDhsbmJJZ2dsNU9RRkRUTEI3ZXdiVUFjZWFhNldEZzA?oc=5",
    "date": "2026-11-18T05:56:13.000Z",
@@ -227,17 +210,6 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T04:42:23.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
