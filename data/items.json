@@ -1,9 +1,22 @@
 {
- "updatedAt": "2026-11-19T06:06:07.394Z",
- "lastAttempt": "2026-11-19T06:06:07.394Z",
+ "updatedAt": "2026-11-19T07:06:07.702Z",
+ "lastAttempt": "2026-11-19T07:06:07.702Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 党名"
+ ],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T04:42:35.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 政治改革に関する特別委員会 発言／広報本部長・峰島侑也（2026年11月18日）",
    "link": "https://note.com/team_mirai_log/n/nace474f4d83d",
@@ -111,6 +124,17 @@
    "mention": "body"
   },
   {
+   "title": "21世紀生まれの24歳、6割近くが月に読書ゼロ冊 読書時間1時間未満6割 文科省調査",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85eU5CeTdxWmloeU9Oc011NFJOOXFlLVpzcThpVWNtQ3hqdHJFczdfNldhTFR5R3p2eUFkRk45TTlPTFVlRFZwRmdPLVBJaUhCbVhNeGYzN0RRV1lKRUo2YXJGUFFaTFk5OHhCSU54UFlDN1ZOcUE?oc=5",
+   "date": "2026-11-18T09:00:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-19T07:06:07.702Z",
+   "mention": "body"
+  },
+  {
    "title": "【チームみらい】衆議院比例定数削減法案・3党合意案への受け止め #峰島侑也",
    "link": "https://www.youtube.com/watch?v=z7uC_DtjJpk",
    "date": "2026-11-18T09:00:05.000Z",
@@ -145,17 +169,6 @@
    "mediaId": "asahi",
    "firstSeen": "2026-11-18T21:06:06.576Z",
    "mention": "title"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T07:42:23.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "政治資金監視委、与野党が28年発足目標 企業献金法案は棚上げ",
