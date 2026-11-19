@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T13:06:15.207Z",
- "lastAttempt": "2026-11-19T13:06:15.207Z",
+ "updatedAt": "2026-11-19T14:06:04.519Z",
+ "lastAttempt": "2026-11-19T14:06:04.519Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -350,6 +350,28 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T18:45:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-18T16:39:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "【生配信】週刊チームみらいNEWS (2026年11月20日19:00頃開始予定) #河合道雄 #加藤直樹",
    "link": "https://www.youtube.com/watch?v=h2cYAGUSJg8",
    "date": "2026-11-18T16:07:17.000Z",
@@ -362,28 +384,6 @@
    "thumb": "https://i1.ytimg.com/vi/h2cYAGUSJg8/hqdefault.jpg",
    "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼出演",
    "firstSeen": "2026-11-18T17:06:08.309Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T15:38:55.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T14:47:47.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "地震・津波ニュース一覧",
