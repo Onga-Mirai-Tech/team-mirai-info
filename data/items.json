@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T15:06:06.974Z",
- "lastAttempt": "2026-11-19T15:06:06.974Z",
+ "updatedAt": "2026-11-19T16:06:11.001Z",
+ "lastAttempt": "2026-11-19T16:06:11.001Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -297,6 +297,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-18T20:43:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 政治改革に関する特別委員会 発言／広報本部長・峰島侑也（2026年11月18日）",
    "link": "https://note.com/team_mirai_log/n/nace474f4d83d",
    "date": "2026-11-18T20:10:35.000Z",
@@ -339,17 +350,6 @@
    "firstSeen": "2026-11-18T20:06:18.181Z"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-18T19:45:14.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "中国でAPEC開幕 日中の接触も焦点",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-18T19:39:28.000Z",
@@ -363,7 +363,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T16:39:11.000Z",
+   "date": "2026-11-18T19:35:57.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1398,6 +1398,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aYW9kVEUxc2wxVF84MWN4b3Y5UUROdzRnRG1xajhwLU5kRXBtNnFGeFVoOVhTekI0RWlaV2ttRlRlbC05Z1g4eVpPWktpUkE4cGJsazNkakRhMVRXRm5v?oc=5",
+   "date": "2026-11-12T20:42:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-19T16:06:11.001Z",
    "mention": "body"
   },
   {
