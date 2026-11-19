@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T01:26:28.006Z",
- "lastAttempt": "2026-11-19T01:26:28.006Z",
+ "updatedAt": "2026-11-19T02:06:03.810Z",
+ "lastAttempt": "2026-11-19T02:06:03.810Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T00:45:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
@@ -13,17 +24,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T23:45:49.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -69,6 +69,17 @@
    "firstSeen": "2026-11-18T20:06:18.181Z"
   },
   {
+   "title": "中国でAPEC開幕 日中の接触も焦点",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-18T19:39:28.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T19:06:07.353Z",
+   "mention": "body"
+  },
+  {
    "title": "【生配信】週刊チームみらいNEWS (2026年11月20日19:00頃開始予定) #河合道雄 #加藤直樹",
    "link": "https://www.youtube.com/watch?v=h2cYAGUSJg8",
    "date": "2026-11-18T16:07:17.000Z",
@@ -83,17 +94,6 @@
    "firstSeen": "2026-11-18T17:06:08.309Z"
   },
   {
-   "title": "中国でAPEC開幕 日中の接触も焦点",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-18T14:42:01.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T19:06:07.353Z",
-   "mention": "body"
-  },
-  {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
@@ -106,6 +106,20 @@
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
+  },
+  {
+   "title": "【チームみらい】定例会見 (2026年11月20日）開始予定11:00〜 #安野貴博",
+   "link": "https://www.youtube.com/watch?v=hu_qx0CPeC0",
+   "date": "2026-11-18T09:11:20.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/hu_qx0CPeC0/hqdefault.jpg",
+   "description": "チームみらい党首 安野貴博による記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼会見全文",
+   "firstSeen": "2026-11-19T02:06:03.810Z"
   },
   {
    "title": "衆院比例31削減法案で与野党が意見表明 自民「国民との約束」 民会「国会機能低下」",
@@ -1367,12 +1381,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "消費税・支援金法案に反対｜新チャンネル「1億人の事情」って？｜週刊チームみらいNEWS (2026年11月6日) #峰島侑也 #須田英太郎",
-   "link": "https://www.youtube.com/watch?v=Y7tXV1veA90",
+   "title": "YouTube「週刊チームみらいNEWS」（消費税・支援金法案に反対／新チャンネル「1億人の事情」）",
+   "link": "https://youtu.be/Y7tXV1veA90",
    "date": "2026-11-06T22:38:43.000Z",
    "type": "official",
    "kind": "video",
-   "source": "党公式 YouTube",
+   "source": "党公式サイト",
    "members": [
     "suda",
     "mineshima"
