@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-19T09:06:14.874Z",
- "lastAttempt": "2026-11-19T09:06:14.874Z",
+ "updatedAt": "2026-11-19T10:06:03.141Z",
+ "lastAttempt": "2026-11-19T10:06:03.141Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "衆院憲法審査会 憲法9条と自衛隊テーマに与野党が討議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nbUFyaUZ3c1Bldng3VnF5bWRNeldXTVdBdEJlbXFNQmtMWE9vaE4xVjZXR2NQZGR1MXYtNnVhTHJBMzNUNWhoU1VRRVpDZlEtLS1JUnNZX2p0RGUzLU13?oc=5",
+   "date": "2026-11-19T09:54:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-19T10:06:03.141Z",
+   "mention": "body"
+  },
   {
    "title": "高市政権の評価、男女差が拡大◆時事通信１１月調査【解説委員室から】：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9veWQ0dVN4TnF2Z3hmQUJ0NUx6YlNGSnpRSjU1c21sRGdvMktxSzd1QVR4YnY4SmtPTE9LUkVPMjdIeElZS1B4WUI3djl0SElrdHl3UDN1dGdTcnJmaFNxTFZR?oc=5",
@@ -27,14 +38,14 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T05:41:19.000Z",
+   "title": "内閣支持率微増４２．８％ 消費減税「今国会」５割超―時事世論調査：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zQ1dhYjlaZWdiWUJlNjRRcFJQYy16RHJUc1BhOUlFOUlFT2lsZTlTUEVQanFnUDZZV2lSb1gxTlFnVDNvN29ENG80UlNBbDlUeGFsZGk1LWpHR1NSa3pvODJWQQ?oc=5",
+   "date": "2026-11-19T08:02:00.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-19T10:06:03.141Z",
    "mention": "body"
   },
   {
@@ -127,6 +138,17 @@
     "mineshima"
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-18T10:40:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -556,7 +578,7 @@
   },
   {
    "title": "〈社説〉衆院比例31削減 政治資金改革が先決だ",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4d3ZqX1BmMVA4dW1VWXA5SGQwTjdDRDZpSWwyOE00Mmp5RFJ1WVpmNEx1YUpLMTIzbTVuLWp6TkxXelZMVXlWcDMxd1FRajJqUDg3Z3BjMEtpUVZpbHJ6cUhlR3ppZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZLWhNb1JuOHR4MjducHpTOU1jenlUVFlnY00yNHI3WGh3eEx0QVRJUklOTjdvOG94cnJzV2RickNVeTU1RjhfNkhnVUI0cW9zenI4?oc=5",
    "date": "2026-11-13T22:16:56.000Z",
    "type": "media",
    "kind": "article",
