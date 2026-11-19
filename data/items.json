@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-19T19:06:04.510Z",
- "lastAttempt": "2026-11-19T19:06:04.510Z",
+ "updatedAt": "2026-11-19T20:06:04.831Z",
+ "lastAttempt": "2026-11-19T20:06:04.831Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "「G7で日本だけ、同性カップルの法的保障がない」…ゲイ公表の英議員講演 法制化めざす企業90社は要望書",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVmgxY3hWLTE3TXhPdGFyeGlOaFE1RUtVT0JKTzRYYjBrZXFTVDVpNVhUT3JUUGVnaURSSVA5azBOSzhuTFRvYWZXVmRaODJfN3c?oc=5",
+   "date": "2026-11-19T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "members": [
+    "mineshima"
+   ],
+   "firstSeen": "2026-11-19T20:06:04.831Z",
+   "mention": "body"
+  },
   {
    "title": "【AI×サイバー攻撃】企業・自治体に必要な対策は？政治の役割は？サイバーセキュリティ専門家・中谷翔氏に聞く【後編】#チームみらい #安野貴博 #サイバーパンデミック",
    "link": "https://www.youtube.com/watch?v=b94shVWtZlA",
@@ -242,6 +256,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-19T01:39:55.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "EVなど購入補助金が25日までに受付終了へ 残高107億円がなくなり次第 申請は先着順",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fRUlISHdTdUlDaTl0VUlvdW1Xd2Zfbm1ITTlURXNaalR1Q1RzdldWV295WW9STGdqaHJTbnBGZ09zUm83d3J0N29Ua2NYalA4alBLRXkwQlJpZDFzaWtHU1BuVkl3U2tHelVQd2FoSGRhdw?oc=5",
    "date": "2026-11-19T01:25:10.000Z",
@@ -261,17 +286,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-19T00:40:48.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -398,7 +412,7 @@
   },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKeWFLc0sxMVBRVXVkQVJrM3JWUDBOX3VDZmVhMUJDMWJkam5ueC1UcXkyM010V3JtY2JRSXZnM2t0R1RuZnBMdEtQRFh6UUdCUWRn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTkFKa21NNmF2ZFRSUHIwMDV4VmFpUGFHN0ZlODZQUFRkeWN4bFhLYUN3cUZUTzhadnFzeEtVeVZNVUdHS2t6aEdMSUxrWTJ5di1yYTZOQXAwXzQxS0t6V2tVVQ?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
