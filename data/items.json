@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T12:06:04.849Z",
- "lastAttempt": "2026-11-19T12:06:04.849Z",
+ "updatedAt": "2026-11-19T13:06:15.207Z",
+ "lastAttempt": "2026-11-19T13:06:15.207Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -364,6 +364,17 @@
    "firstSeen": "2026-11-18T17:06:08.309Z"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-18T15:38:55.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
    "date": "2026-11-18T14:47:47.000Z",
@@ -397,17 +408,6 @@
     "mineshima"
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-18T10:40:02.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -461,6 +461,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "【画像まとめ】広瀬アリス、中学生のエッセーから気付き「ご飯を食べることは、当たり前になってはいけない」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Fa0g1VFFySC1RbFdkZnQyREc2R3d4OXRJM2Y2TU55WmhZd2lnYWtjeXh4Q05nSVdmZkd2LTdWVlNnbjRhN0laZ2RDRVVLVFJpNmN4RmdTaC1LZ0tiZ2xfSXRrdkJZQ2pGWEpKWXlScDZHTFRzNFVPZk1R?oc=5",
+   "date": "2026-11-18T08:57:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
+  },
+  {
    "title": "復活当選の厳格化、参政・神谷氏「狙い撃ちだ」 大量擁立で影響大 [チームみらい]",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyRlhFeHZDVm5EWkhSSHUtZUJQSk9kZmNNTS1rZi12NzMxM2o0NE9CTV9yeTA5T1p3bk1zZGV4ekphWFpqckVTSldvTDdRcXpDMGdsMHBGMkhEbnE3dlk0cHBPbk9xUQ?oc=5",
    "date": "2026-11-18T08:10:00.000Z",
@@ -481,6 +492,17 @@
    "mediaId": "asahi",
    "firstSeen": "2026-11-18T21:06:06.576Z",
    "mention": "title"
+  },
+  {
+   "title": "マリウス葉が子どもたちにメッセージ「疑問を持つ姿勢で成長していただけたら」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bTU1REdQcm12U1d2WkxwTEs5XzdBemtpZ3k5WXhMaW9XRTd3TlI0b3lXT0xyWng0MkNMTTF1Mjd4N3BselAyb05NYlktdFNwVENlR0hXVEZReU1yd09zZE5xcnpiWWxNNFo1ZnVhX2M?oc=5",
+   "date": "2026-11-18T07:48:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
   },
   {
    "title": "政治資金監視委、与野党が28年発足目標 企業献金法案は棚上げ",
@@ -524,6 +546,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "元eggモデルを殺害か「自分で頭を打ち付けていた」",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiRzZjSVYtUklvQU9tQTQxN09uWEE2NGxLMlkzajQ1SWhGYWRjVi00SmhmQUlEMzRYRFNkNUNOWm5FV3JIT2taSE5DSHRYYnJwMFFuc09iTTRFenJYRm45RVU0QXNjM2FJWVRBdkpKbFNGQQ?oc=5",
+   "date": "2026-11-18T03:38:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
    "mention": "body"
   },
   {
@@ -602,6 +635,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "愛子さまシンガポール到着 ホテルで花束の出迎え",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RT2FpeDlral8xazVWMjc3QURVWFNaaHl2QlY4YXdma0gwUWswbHBUUExpOWE0THFxYTdzRjctYkU5WmVHc0NCV1ctS0lRUnRHOGdTcHlqazlJLTJ1eHp1S1dnSWtsWDdOaTdnNnVPbWQwZw?oc=5",
+   "date": "2026-11-17T12:07:16.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
+  },
+  {
    "title": "【チームみらい】デジタル民主主義って何？どう伝える？みんなで考えるデジ民公開企画会議（2026年11月17日19時～開始予定）",
    "link": "https://www.youtube.com/watch?v=MxY3jmLPVeg",
    "date": "2026-11-17T11:06:44.000Z",
@@ -647,6 +691,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/337242850/rectangle_large_type_2_a9b42eb9f31e2dd39bdc0050875c869b.jpeg?width=800",
    "description": "2026年11月13日に衆議院 政治改革に関する特別委員会で行われた質疑における、チームみらい 広報本部長・峰島侑也の質問と、各答弁者による答弁を全文書き起こしたものです。 案件： ・政治資金規正法の一部を改正する法律案（221国会衆1） ",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "安藤優子氏、同い年のパートナーとは「結構不穏な空気になったりすることがある」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UN05hMjl0VnFlV0I1TGRMZ2xrSHBuTzVzOWF2R1BhbnFOc0RtNXJ1X2FDNDB3blYzeldpVDlkb3BjbTVvaGcwMU8xTnVBb1FWUnhGMFlIMmRpSmtSZUM4cVRHUmpnTEpGblU5dVBTTnE?oc=5",
+   "date": "2026-11-17T08:14:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
   },
   {
    "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月13日）",
@@ -782,6 +837,17 @@
    "mention": "body"
   },
   {
+   "title": "映画「ゴジラ-0.0」、興収40億円突破 世界累計興収は150億円超え",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNnZNYlJpa1UydXV4YjVTdU5SWlFhTDA0bS11TjZ5V1FaclhhUU82cEpYZVVRUVc3aTRlUnU4TjJGQzduWjVPWmZhVzVFX2NOVEEyT0dzY1lJUzdTUndHZGRNNnV2U3lCdVA1UFpKQjk?oc=5",
+   "date": "2026-11-16T08:52:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
+  },
+  {
    "title": "【全問と回答】高市内閣支持率60.6％、不支持は32.3％ 消費減税に賛成6割 石破氏ら棄権への評価割れる【FNN世論調査 2026年11月】",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GTjNiSDZLUlVjWkxVUzlPaFBfWFVoT1Brem01YUE1Mm52YktmWlpyLUtTLTVTWjd0SGlmQnM2OG83V21VSU14Z3ZYZUhlUQ?oc=5",
    "date": "2026-11-16T03:30:00.000Z",
@@ -909,6 +975,17 @@
    "mention": "body"
   },
   {
+   "title": "「歴史的事件だ」ブラジル代表に2枚連続レッドカードの異常事態「ガッカリだ」「イラついたら負けよ」日本決勝点への猛抗議で世界的名将＆主将が一発退場",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tSjFrNlNHcnVvZVFxUkpScjI2NU5CU3RSd1gtRkJTVHFzUmJOZ2tubFhyMUdzVkdMcjFwSm1obXhvQU1rTVFqQ2o5bXZwdFdfOEhlUlE5dnJvUlFmWGRyek1wOFpRUjJiZU5sLTFTOEw?oc=5",
+   "date": "2026-11-15T04:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
+  },
+  {
    "title": "神田うの、ヘルニアの痛み「限界かも…もう腹をくくりました」",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03TXBDeDZWeTdTc0lTaElaRVR5TXBWQU1MWDh4MmMzYjBNX0o3ZlpwRHk3SHEzVFJhdGNUSkZPN0dhSi15dTVnbGRiaVlvb1FvQVE4ek5oOTV4RTBKZTBDWjZ5WWtFX19TZkVDdlNsZEs?oc=5",
    "date": "2026-11-15T03:18:00.000Z",
@@ -917,6 +994,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "SixTONESジェシー「キメる時はキメます！」2度目のanan AWARD大賞を受賞",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWZnROQXd1WWJhV0VaNzFJZUFGQ2pVbW13VjZSVmQzSDdVbXM5QTdhSGV1Q2dGNG5jNTNrQzA1V3FIanBSODRGQ01YV3Uxb2JTTHF6Ujc1bWZHRGIxVHdKRUJHX3A3ZWhtZE81aFJfNlM?oc=5",
+   "date": "2026-11-14T09:08:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
    "mention": "body"
   },
   {
@@ -976,6 +1064,17 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "約20年ぶりに出産 冨永愛（44）、次男を抱くパートナーの姿を公開",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdFotNDFKNXRIaXJ6WV81aHlkZXg2WXZsMFZxb1lyRHpQWkgxZHRRc3FKWXZIVjYxbXpPd2w3QVJxTU9hQVVZZ2hXdEdZRVF0TG5HUUI1bzAwU2gwNi1aRFQ0MHNjbE5vNDVCNGFyaFBjMFNmZU9ueWVjVVkybkF0ZVRB?oc=5",
+   "date": "2026-11-13T15:45:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
    "mention": "body"
   },
   {
@@ -1245,6 +1344,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/335420727/rectangle_large_type_2_ba86db412dd72acfd404c9daaf3726a5.jpeg?width=800",
    "description": "皆さま、本日はお忙しいところ、チームみらいの定例会見にお集まりいただき、誠にありがとうございます。幹事長の古川あおいです。 本日は、 続きをみる",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "玉置浩二の妻・青田典子（59）、最新ショットに反響「典子さんステキ」「お二人でゆっくりのんびり出来ますように」",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56cmZMeDN5cVZsUXMtSExxNThJX29oRUZYd29BMXlfNnNfUEthcmZmRVFCa3duNGgyUkZYcEZLZURsLTA4VmtWTU9YSkZITTFlc1gxNHJQS1I2R0w0M3N5TkZDT0xabFU1MDYxNnVBYUs?oc=5",
+   "date": "2026-11-13T00:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T13:06:15.207Z",
+   "mention": "body"
   },
   {
    "title": "Outlookなどマイクロソフト365復旧見通し立たず 多数のサーバーが予期せずに停止",
