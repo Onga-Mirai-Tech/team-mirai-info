@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-19T11:06:08.108Z",
- "lastAttempt": "2026-11-19T11:06:08.108Z",
+ "updatedAt": "2026-11-19T12:06:04.849Z",
+ "lastAttempt": "2026-11-19T12:06:04.849Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -99,9 +99,20 @@
    "mention": "body"
   },
   {
+   "title": "おめでたニュース一覧",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Yam9BdFBRXzVrbllmZXBXTDNyeGFQWmJfenZtVTlHWTFoUFJDLUVleFJnUEpTZWVpb01QNllWU1dwOWdkYjVxYXRGbVdkMDlyZE9ZNGNoS3RsSlE?oc=5",
+   "date": "2026-11-19T09:55:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "衆院憲法審査会 憲法9条と自衛隊テーマに与野党が討議",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nbUFyaUZ3c1Bldng3VnF5bWRNeldXTVdBdEJlbXFNQmtMWE9vaE4xVjZXR2NQZGR1MXYtNnVhTHJBMzNUNWhoU1VRRVpDZlEtLS1JUnNZX2p0RGUzLU13?oc=5",
-   "date": "2026-11-19T09:54:14.000Z",
+   "date": "2026-11-19T09:54:00.000Z",
    "type": "media",
    "kind": "article",
    "source": "NHK",
@@ -118,6 +129,17 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-19T09:06:14.874Z",
+   "mention": "body"
+  },
+  {
+   "title": "タレントの瀬戸サオリが新事務所と業務委託契約「温かく見守っていただけますと…」夫は元ジャンポケ斉藤慎二被告",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lQlVBaF93bDlHY2xUUkc2a2pxeDVjY1BIUHVLZWhzRG1icWFGN1I5TGRkR0sxOVoydW9QdUlmeElwT1lEZWFMbGtGZXhjekFPeHB2aWRnSkIxeUR2NlU2M0pxZk14b2ZyWGpaWmU3djc?oc=5",
+   "date": "2026-11-19T08:29:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
    "mention": "body"
   },
   {
@@ -242,6 +264,17 @@
    "mention": "body"
   },
   {
+   "title": "米中ロ首脳会談前にウクライナ大統領が警戒感",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wUEg0OG94NTctVzBEZzZ4QlJxd2VRVWdnZjdkaUNuczJmUjdCSTh3WFV2bC14R193VmtRVnlQMTM4alM5dWQyX2xmajM0TldKMFpza2xOdlNHQXdXVlRHTmtFLXJCTDM5Z1VTMUUyRGdZN3FseUJEZWJR?oc=5",
+   "date": "2026-11-18T23:59:43.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "何が起きた？ 塩貝健人、タックル被弾後に“まさかの光景”「さすがキャプテン」強靭フィジカルで復活→相手選手に“神対応”「かなり頼もしい」",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gd1MyWkVqOFFiZ1JvTWhlRnJ0MkVYanJrdkdmR1NHckV2U0hfODVLOHJnVEJGSFliQW9qcTExdi1Uek9jS092bDd1YTQ2aEYzTXhiWW5xeWlmT3RubnBFb2ZoZEM0by15WDl2dk1qMzY?oc=5",
    "date": "2026-11-18T22:30:00.000Z",
@@ -339,6 +372,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "地震・津波ニュース一覧",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOWUdOcUhLREN1RVlER2VlZHBkTS1lSEFvTHNfbjYxd2tqTGF5VUxvYVhBZUg2LU5IbFBFZXFHcFhxWHcxUUl0TTRrNVdtMGJhMXFDLWlNejk0OE1m?oc=5",
+   "date": "2026-11-18T13:14:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
    "mention": "body"
   },
   {
@@ -672,6 +716,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "メガソーラー、北海道釧路の規制条例施行1年で申請4件に減少 抑制効果も着工事業に課題",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QbDFyOGx1QmY2cnhSYnMzLUJDZTFQZkVsUjlBUVRwaXdaWHhQTmJ1UEVuZGZFZVAza20taHBJdnBfV2xVdV8wNFhuN0JQSXIyc0lkZ09FdDFJYTdHaFNLUGMwaXJrUmtaN0x3bzZyYlBWdl9sNFE?oc=5",
+   "date": "2026-11-16T22:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "金融機関のサイバー対策、金融庁検査でAI活用し診断 自民提言案",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWWxXRU9GOHMwZmFVajBVY3E0Tnk2cldqdjQ5YmNyWFlsY2xUdFNMTEJYWGNYbU1tczQyZU1pR3JzbFNZcTZYTURXc3Z5Ml80MUFsMGZiNW93QXJLX2hWSEJjdFJ2OEFBSk5fcg?oc=5",
    "date": "2026-11-16T20:00:00.000Z",
@@ -705,6 +760,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "【画像まとめ】齋藤飛鳥、くるまが坂東龍汰＆高石あかりW主演映画に出演！ くるま「そりゃOKですよね」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZDIzemVUazBxNTZsOF9HdU1CZ0RBaDUzX2g2R3BnNVZidHkwYWxPRWVFb0hPTWo3SXFOWkM3cnZ0cURWT3RxWFVlVzROMW9nQjFaZU9COUQxTWxGWXV4eEZuTzQtcVVLdWhTd2cwSEVpV2JJcUZUMmd3?oc=5",
+   "date": "2026-11-16T10:24:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "【ジェンスン・フアンCEO電撃辞任「もうNVIDIAじゃない」今井翔太】AI界は「未来が見える男」を失った／OpenAI・アンソロピックが迎える試練／対中国の半導体規制「もう遅い」【AI QUEST】",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5blVaVG9YcHJYRXU3dXQ0X2c1WERBWWlMaWhTeWlMMm5sSG50M3FTaTVXcmlwdG9xWHhPbGN5UUFwQXBJLWktZGtqc3dncDc0RjhUcEtKNGVyTTBLMi1wVTZlQlJhQWxWdXRHNFFwWk1mVlY0?oc=5",
    "date": "2026-11-16T10:00:00.000Z",
@@ -735,6 +801,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "82歳女性襲われ重傷 強盗殺人未遂事件として捜査本部設置",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2Y0tMbzNrVlNnMExKRFFrX3dDOGZOLWZQblFsazg3SUFaSkRkZmNDNllER0RPczVySHdFdFFkRkNjSmpIYlBaanpkTWU4LXdxdGVZWTVWbWNmNTgweVZTM1FOOXEzRUpWcU5mUTB0SE1pUQ?oc=5",
+   "date": "2026-11-15T20:50:35.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
    "mention": "body"
   },
   {
@@ -1068,6 +1145,28 @@
    "mention": "body"
   },
   {
+   "title": "『脳梗塞』磯野貴理子さん 50歳で発症 早期発見ポイント『BE FAST』とは",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfcS1KYWtudVhLUDljT3R4TGpmQ1hwUFRDelN1QXdnZFRsRWpwV1pRaWNqdXpwMXFwNWZPOVhaSlV4TnQxUTJzT21aS1ZtM3psQ3E2YmRlYzhjLXZjdUt6OE1Pa2ZJaXVCU2dTSFMtd3c4dw?oc=5",
+   "date": "2026-11-13T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
+   "title": "【速報】“車椅子インフルエンサー”拘禁刑8年 娘殺害の罪 東京地裁",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hQ012U0hIbVFKN2lzWkM4S3FHY2hjdTJYaWJVY0lHbmZSZEwxVVd4NUpwd1hzUExhQTJDQ3BScXp1dHFvQU10Q3pyaGNaZkItVldPSko0bkhrRXQyd2JQT3hRd0hMTjdOV1VqY1RwQU1DZw?oc=5",
+   "date": "2026-11-13T06:30:53.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "レイヤーエックスCTO、サイバー攻撃「受ける前提で社内訓練を」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WHIwN19IbkV1VTI5a1dUZWpYWkpOT2RCWEpZT0h0eHFUc1VDcjFYeEtTR0pJMEZwWEx6UUlPWVR5b0MwX2JmSUhrT0EzbXNndUZYeWFpa0xsRFlPS1dINFR2Smhlc0c2X1hIeA?oc=5",
    "date": "2026-11-13T05:44:34.000Z",
@@ -1079,6 +1178,17 @@
    "mention": "body"
   },
   {
+   "title": "【画像まとめ】週末は天気下り坂 来週は再び強い寒気襲来で西日本の山で雪の可能性も",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kaXQ0YzN3T2x0NkVkR0JCQUJKcHVzOFU3M1daMjhiZkVHVlQwMkl2emlCR1ktLVk4S1hGY3RJYUIyUEdNMFRNSGFEUkdqZXBIUlptclpjdklqLVpWcjVYbUZDdVhHM1IxZ1VCTFptUzA5VDhvQzNWc2VlUQ?oc=5",
+   "date": "2026-11-13T03:12:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "パスワードの“脱”使いまわし 管理は「紙」でアナログ回帰 「管理ノート」品薄に",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yV092RVpBMWxJTWFBeEQ2Vmo1ZW0xTE45bVlpWHZmVFo5YUVjMXdWMUotZThCQmVXcXJqWndRakxfSld6Z0RSMHY0NEQ0ZEI2LThWbFo4bldRT1N1S2RZVE5mMUZSenNVaWNlMjE2MzIzQQ?oc=5",
    "date": "2026-11-13T03:05:00.000Z",
@@ -1087,6 +1197,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "今井竜太郎「どんな時も自分らしさを忘れず」 初写真集のタイトル＆表紙公開",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZEJfNDh6MlZ6UUQ0TEl2X0NaSkhXY2hKd3dKTjYtMy1tV3RhdVR1UWN3d2Rzdk82Y29ZRDY4eVl2VDExb3JKLTZMTG1fNVZSVWVBcTFIcVpiSUN1bGZ0eE9nM2RZSG5rNEJLSWRKT3Q?oc=5",
+   "date": "2026-11-13T03:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
    "mention": "body"
   },
   {
@@ -1126,6 +1247,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "Outlookなどマイクロソフト365復旧見通し立たず 多数のサーバーが予期せずに停止",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZZEtVRGZ2Ty1MY081UVZLRWoyWkFibHJpRm5jbWlnWkFpXzZxdlBLTjRsRlVJMnV6STh6TW5YdHpCWmtvdDlHam1tTHdicjZBYWpsUVZRSkRiQW9wcHdkMU11ZExyU2pHQ0RaYTdCdjI1cmhXbTlsMG13?oc=5",
+   "date": "2026-11-12T23:22:15.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
    "title": "エヌビディア フアンCEOの辞任 米政財界にも波紋 議会で本格的な調査の動きも",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Lck14eG9ieFpNVWd3Z3VMZVBfNk4tX3pNekFsc0Npd3BVYnhuUDhiajljZGJwLWFXcGNJQ3hpNE9raEtVQlppVmtYb3dBQmhRQVFrWW9tUmV1TWFHR3A0RUlxc3ZNSmRJbndiQVhwUndmakR3ekRtU3B3?oc=5",
    "date": "2026-11-12T23:21:06.000Z",
@@ -1156,6 +1288,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "「ゆず」北川悠仁の妻・高島彩（47）、子どものための“週6”弁当生活 品数豊富な最新手作り弁当を公開",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYamJkN1RRRGYtLWFLYk52UWdYRGU0amZIQ3hQTVpBTF9zSzFydzlPWllCa1VEQ0otRjJzakxLanRoWG5ab0syTVZyZ2ZYVHZpYkVnbFhGRTdaTHFlZUJka0ZPZTg0SmU1Yl8xV3hHdEQ?oc=5",
+   "date": "2026-11-12T16:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-19T12:06:04.849Z",
    "mention": "body"
   },
   {
