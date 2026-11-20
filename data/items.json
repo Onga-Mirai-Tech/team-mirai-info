@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T03:06:06.401Z",
- "lastAttempt": "2026-11-20T03:06:06.401Z",
+ "updatedAt": "2026-11-20T04:06:04.547Z",
+ "lastAttempt": "2026-11-20T04:06:04.547Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -77,17 +77,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T22:31:14.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "初訪中終え「建設的かつ安定的な関係を」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-19T22:25:07.000Z",
@@ -111,7 +100,7 @@
   },
   {
    "title": "「G7で日本だけ、同性カップルの法的保障がない」…ゲイ公表の英議員講演 法制化めざす企業90社は要望書",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WM2t2WUJMOXgzWE9mQ2hZX1NDWEU1Y2hIV194dnRmbWdDOTVjdE5maU84anE4WDBvR3BFVVB6dmVNV1M2Mzd3VUJ0WWpmeGlTZVhJ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVmgxY3hWLTE3TXhPdGFyeGlOaFE1RUtVT0JKTzRYYjBrZXFTVDVpNVhUT3JUUGVnaURSSVA5azBOSzhuTFRvYWZXVmRaODJfN3c?oc=5",
    "date": "2026-11-19T20:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -325,6 +314,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T04:31:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
