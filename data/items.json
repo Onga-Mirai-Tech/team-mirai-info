@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T15:06:04.533Z",
- "lastAttempt": "2026-11-20T15:06:04.533Z",
+ "updatedAt": "2026-11-20T16:06:04.976Z",
+ "lastAttempt": "2026-11-20T16:06:04.976Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -73,7 +73,7 @@
   },
   {
    "title": "重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFQzN3bE1pYVdaWlRfOEp0bW5hVlVUT3UyRVlHQ3YtXzFoMFhjUlBwNEhfQmFfVVk3UWhrMnBGUk5nZmdzZ2tMenlVZ1dBTWtZOE9pNGl2djUzS3ZUOEFwY1c4RFlZaXE3dmVnSFA4UjlIMXkwMlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlA0SnBnRXBxbEZUdVR4T1ZhVVhGekJwbVNESVE3RVE5azlySi1FUGxmbUZlQWtJbHp5bHVCMVVIRjhnTEJtS0V0MzVoQU9jel9nTWR1SkYzZkdseU5lWHd1UTRqVE1SSlZKVzc4emNTZHZKMlNlUE5ocV9lMW9ycl9uT2hxLTdEUXR1dA?oc=5",
    "date": "2026-11-20T10:56:08.000Z",
    "type": "media",
    "kind": "article",
@@ -1343,6 +1343,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "【更新中】GMO不正アクセス問題 被害額“約30億円” 2年前に脆弱性指摘、システムの設計から作り直すよう対策提案も…関係者「防げたはず」",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5WTdGd3ZpSHMyUGo0TWthMWQxeVNoU1ljZkRlc2VDcW5SZXlYQ0ZMXzgwZEJYQVNKUmY3MnVKSmYyaWxXSFk3RmtjdUFyeF9YYW9GaGEzOEdkOWdzSkU5akhYUDkzQXZMRGJUMjF3aVp2dw?oc=5",
+   "date": "2026-11-14T03:45:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-20T16:06:04.976Z",
    "mention": "body"
   },
   {
