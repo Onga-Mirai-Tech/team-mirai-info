@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T16:06:04.976Z",
- "lastAttempt": "2026-11-20T16:06:04.976Z",
+ "updatedAt": "2026-11-20T17:06:11.561Z",
+ "lastAttempt": "2026-11-20T17:06:11.561Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -324,6 +324,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T19:19:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "EUの欧州委員会にサイバー攻撃 AIツール悪用か「職員の情報流出は未確認」と説明",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMFg2c1EtM0xCVG5iNzk1LTZoczdPU3JJRTdrc3dRT1l4Wi03cjA5UkQ5azBVYi1hallBNDdCY2w1X2lZVXZKNTJQXzdlQTRpck1Wd0xjVWZ3cHY3eXpuVm1idWg5VHdxNm9WVHZ5NldUanFBMDJaUmdB?oc=5",
    "date": "2026-11-19T15:34:46.000Z",
@@ -332,17 +343,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-20T00:56:47.066Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T14:22:22.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
