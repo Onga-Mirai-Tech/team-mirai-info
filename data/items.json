@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-20T10:06:03.632Z",
- "lastAttempt": "2026-11-20T10:06:03.632Z",
+ "updatedAt": "2026-11-20T11:06:04.258Z",
+ "lastAttempt": "2026-11-20T11:06:04.258Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlA0SnBnRXBxbEZUdVR4T1ZhVVhGekJwbVNESVE3RVE5azlySi1FUGxmbUZlQWtJbHp5bHVCMVVIRjhnTEJtS0V0MzVoQU9jel9nTWR1SkYzZkdseU5lWHd1UTRqVE1SSlZKVzc4emNTZHZKMlNlUE5ocV9lMW9ycl9uT2hxLTdEUXR1dA?oc=5",
+   "date": "2026-11-20T10:56:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-20T11:06:04.258Z",
+   "mention": "body"
+  },
+  {
+   "title": "公明、消費減税で修正案 政府拒否なら「反対」―西田幹事長",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3LW1HWEU2VWVKRC1MdjNjeGJ0Qm5BUTFRQVhIRG1kQ2M4a3FudVhZd0VUZjgwWHluazFuOXU2VmRzNWJ0NHpvN2tyVnUyWXY1elNoTzRmbTlLeGRkY1E3ZkU5cw?oc=5",
+   "date": "2026-11-20T10:34:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-20T11:06:04.258Z",
+   "mention": "body"
+  },
   {
    "title": "参政「定数削減、合理性ない」と追及、自民「正直、正解はない…」",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LU1h1UWV4cG1vV3J2WllMbkdrd0hhVWFCQ2RHTVVmUFBlNjhjdHc4T2tqajdKQTNJcUJxNFVGd2w2WkF6ZWFwUWNmUTNGYi1KTEFraHEzd1daUTU2VDhVS2JPbWFMSFk?oc=5",
@@ -13,6 +35,28 @@
    "source": "朝日新聞",
    "mediaId": "asahi",
    "firstSeen": "2026-11-20T10:06:03.632Z",
+   "mention": "body"
+  },
+  {
+   "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VLVkwaFZQdmJ1NzB4dDlFZmx4OEQ2MFF4QW9idUpxR0dCZDQxekZpUVMzT0xZd05rcFdZUnFuY3l3TjhjWEgzQ2htdw?oc=5",
+   "date": "2026-11-20T09:25:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "共同通信",
+   "mediaId": "kyodo",
+   "firstSeen": "2026-11-20T11:06:04.258Z",
+   "mention": "body"
+  },
+  {
+   "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
+   "date": "2026-11-20T08:55:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-20T11:06:04.258Z",
    "mention": "body"
   },
   {
@@ -210,6 +254,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-19T13:23:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "相次ぐサイバー攻撃受け都が臨時委員会 小池知事「開発段階からセキュリティ重視を」",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44Wi1TVXREbXNfQXBReW9DZ3FlUTVZQ1JGa1ZDeEhiZVRMMWVtai1EMFZHMWZ0emViYzc5SVZicHNiTFFMZVluZnNIUUUxejZKRnJpQmxYSjFaV1dKQktjZFRMVDFhU2RMTUMyeEU3MDJlUQ?oc=5",
    "date": "2026-11-19T11:28:52.000Z",
@@ -233,17 +288,6 @@
    "thumb": "https://i3.ytimg.com/vi/b94shVWtZlA/hqdefault.jpg",
    "description": "【後編】サイバーセキュリティの専門家・中谷翔さんに安野貴博が聞く、サイバー攻撃に対する企業・自治体の備えと政治の役割 ▷ AIで政治はどう変わる？｜チャンネル登録はこちらhttps://www.youtube.com/@team_mirai",
    "firstSeen": "2026-11-19T11:06:08.108Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T10:26:21.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "【国会デジタル化】なぜ国会は30年前のルールのままなのか？ / 本会議でスマホが使えない理由 / 与野党7党で進める改革の舞台裏 / なぜ今、国会が変わり始めたのか？",
