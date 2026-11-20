@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T21:06:05.358Z",
- "lastAttempt": "2026-11-20T21:06:05.358Z",
+ "updatedAt": "2026-11-20T22:06:05.148Z",
+ "lastAttempt": "2026-11-20T22:06:05.148Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -13,6 +13,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-20T19:22:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -227,17 +238,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-20T02:39:25.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "国会議員の目標って？ #チームみらい",
    "link": "https://www.youtube.com/shorts/acYbN3X3IcY",
    "date": "2026-11-20T02:35:31.000Z",
@@ -299,6 +299,17 @@
    "firstSeen": "2026-11-20T02:06:16.390Z"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-20T01:08:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "初訪中終え「建設的かつ安定的な関係を」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-19T22:25:07.000Z",
@@ -318,17 +329,6 @@
    "source": "フジテレビ",
    "mediaId": "fuji",
    "firstSeen": "2026-11-19T22:06:03.874Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T21:15:40.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -1310,6 +1310,17 @@
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "長野県 信濃町長選挙（2026年11月）候補者一覧・開票速報【朝日選挙】",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wSmMwSnRFMF9zdXo5SVlqYmVyUXB3QjdIclE2Mm5kejJYTjRBTURSLUd5ZWVZVHY1RnJ3dmFWODBqZXJ6SHdMcWczZi1CMnNuR0NmcmNVX3RTUEE?oc=5",
+   "date": "2026-11-15T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-20T22:06:05.148Z",
    "mention": "body"
   },
   {
