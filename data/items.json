@@ -1,9 +1,37 @@
 {
- "updatedAt": "2026-11-20T14:06:05.424Z",
- "lastAttempt": "2026-11-20T14:06:05.424Z",
+ "updatedAt": "2026-11-20T15:06:04.533Z",
+ "lastAttempt": "2026-11-20T15:06:04.533Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【チームみらい】定例会見 (2026年11月20日）開始予定11:00〜 #安野貴博",
+   "link": "https://www.youtube.com/watch?v=hu_qx0CPeC0",
+   "date": "2026-11-20T14:32:58.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/hu_qx0CPeC0/hqdefault.jpg",
+   "description": "チームみらい党首 安野貴博による記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼会見全文",
+   "firstSeen": "2026-11-19T02:06:03.810Z"
+  },
+  {
+   "title": "安野貴博のSAPIX時代 #チみラジ #チームみらい",
+   "link": "https://www.youtube.com/shorts/Txvgm-Jlz6U",
+   "date": "2026-11-20T14:17:25.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/Txvgm-Jlz6U/hqdefault.jpg",
+   "description": "政治の「なんで？」を気軽に聞く逆インタビュー番組『チみラジ』。ポッドキャストは毎週火曜日22時公開！︎ 初回ゲストはラジオプロヂューサーの石井玄さんです。続きは本編にて！",
+   "firstSeen": "2026-11-20T15:06:04.533Z"
+  },
   {
    "title": "安全保障上重要な土地の取得規制法案 衆院内閣委で可決",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S3ZsRUJsNmhkSTNNc3BINWs5NDdHMHN3dlJpMkVTenh6eWl4QWlXVEtGcG9jblgwSTNWUmw4VGZnNjB5OTNwU0NqcFNoYktGQUo3bXZTeEk4TWJNREV3?oc=5",
@@ -78,7 +106,7 @@
   },
   {
    "title": "参政「定数削減、合理性ない」と追及、自民「正直、正解はない…」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXY3Nnh5NUtGU0s5d0V6Q3F0cEdkNC1jaW1pVWgwZjM4ckFMUnByUXkyTTFELXkzaU5DazY4el9zS1ZCSmp0VkxpSXZUX2RpT3ExcmF0ZWVqbEdxa0ttOFNvc2tjRjFBaDJzc3FISFk5YXgtM2NrWlZ0QWNxMkVzWE50ZXQyaDg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LU1h1UWV4cG1vV3J2WllMbkdrd0hhVWFCQ2RHTVVmUFBlNjhjdHc4T2tqajdKQTNJcUJxNFVGd2w2WkF6ZWFwUWNmUTNGYi1KTEFraHEzd1daUTU2VDhVS2JPbWFMSFk?oc=5",
    "date": "2026-11-20T09:50:00.000Z",
    "type": "media",
    "kind": "article",
@@ -700,7 +728,7 @@
   },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTkFKa21NNmF2ZFRSUHIwMDV4VmFpUGFHN0ZlODZQUFRkeWN4bFhLYUN3cUZUTzhadnFzeEtVeVZNVUdHS2t6aEdMSUxrWTJ5di1yYTZOQXAwXzQxS0t6V2tVVQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUzdwbGxzQUlSLU1hYWFpeHB1WUpCZ29PZzZBbGdwLU9sY3dzekhaZGxuVXB0UlM3c1FDbEpraEpHQUhpb1AxWTBXVWlvOFdrY2pNRkF4TEVrRFY5cUFvZ3ZMbV8?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
@@ -711,20 +739,6 @@
    ],
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
-  },
-  {
-   "title": "【チームみらい】定例会見 (2026年11月20日）開始予定11:00〜 #安野貴博",
-   "link": "https://www.youtube.com/watch?v=hu_qx0CPeC0",
-   "date": "2026-11-18T09:11:20.000Z",
-   "type": "official",
-   "kind": "video",
-   "source": "党公式 YouTube",
-   "members": [
-    "anno"
-   ],
-   "thumb": "https://i1.ytimg.com/vi/hu_qx0CPeC0/hqdefault.jpg",
-   "description": "チームみらい党首 安野貴博による記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼会見全文",
-   "firstSeen": "2026-11-19T02:06:03.810Z"
   },
   {
    "title": "衆院比例31削減法案で与野党が意見表明 自民「国民との約束」 民会「国会機能低下」",
@@ -1958,12 +1972,12 @@
    "mention": "body"
   },
   {
-   "title": "【国会DX】処理能力10倍へ！紙をなくすだけじゃない？目指す5つの国会の姿と道筋 #チームみらい",
-   "link": "https://www.youtube.com/watch?v=s1TvO1hkQ3M",
+   "title": "YouTube【国会DX】処理能力10倍へ！目指す5つの国会の姿と道筋",
+   "link": "https://youtu.be/s1TvO1hkQ3M",
    "date": "2026-11-11T10:46:16.000Z",
    "type": "official",
    "kind": "video",
-   "source": "党公式 YouTube",
+   "source": "党公式サイト",
    "thumb": "https://i4.ytimg.com/vi/s1TvO1hkQ3M/hqdefault.jpg",
    "description": "チームみらいが目指す国会デジタル改革の5つの姿と、超党派の提言をもとにした実現への道筋を解説します。 ▷ 国会の今を毎週お届け｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_c",
    "firstSeen": "2026-11-18T13:28:18.738Z"
