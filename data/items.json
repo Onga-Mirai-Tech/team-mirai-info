@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-20T13:06:02.672Z",
- "lastAttempt": "2026-11-20T13:06:02.672Z",
+ "updatedAt": "2026-11-20T14:06:05.424Z",
+ "lastAttempt": "2026-11-20T14:06:05.424Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "安全保障上重要な土地の取得規制法案 衆院内閣委で可決",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S3ZsRUJsNmhkSTNNc3BINWs5NDdHMHN3dlJpMkVTenh6eWl4QWlXVEtGcG9jblgwSTNWUmw4VGZnNjB5OTNwU0NqcFNoYktGQUo3bXZTeEk4TWJNREV3?oc=5",
+   "date": "2026-11-20T13:42:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-20T14:06:05.424Z",
+   "mention": "body"
+  },
   {
    "title": "【AIセーフティ最前線】国産AIの安全性を担う専門家に聞く #安野貴博 #ai",
    "link": "https://www.youtube.com/shorts/1Y-lweVy4WQ",
@@ -689,7 +700,7 @@
   },
   {
    "title": "比例代表は「女性や若者、非世襲議員の当選のきっかけ」…衆院定数削減案に多くの野党が反対意見を表明",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUzdwbGxzQUlSLU1hYWFpeHB1WUpCZ29PZzZBbGdwLU9sY3dzekhaZGxuVXB0UlM3c1FDbEpraEpHQUhpb1AxWTBXVWlvOFdrY2pNRkF4TEVrRFY5cUFvZ3ZMbV8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTkFKa21NNmF2ZFRSUHIwMDV4VmFpUGFHN0ZlODZQUFRkeWN4bFhLYUN3cUZUTzhadnFzeEtVeVZNVUdHS2t6aEdMSUxrWTJ5di1yYTZOQXAwXzQxS0t6V2tVVQ?oc=5",
    "date": "2026-11-18T11:26:08.000Z",
    "type": "media",
    "kind": "article",
