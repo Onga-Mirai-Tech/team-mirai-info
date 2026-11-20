@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-20T04:06:04.547Z",
- "lastAttempt": "2026-11-20T04:06:04.547Z",
+ "updatedAt": "2026-11-20T05:06:06.483Z",
+ "lastAttempt": "2026-11-20T05:06:06.483Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-20T04:09:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-20T03:59:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "国会議員の目標って？ #チームみらい",
    "link": "https://www.youtube.com/shorts/acYbN3X3IcY",
@@ -64,17 +86,6 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/336736586/rectangle_large_type_2_b544e4a93c98c9af37a7ddbf8dc5ff2a.jpeg?width=800",
    "description": "このページは、チームみらい所属議員の調研費（調査研究広報滞在費）の使い方のガイドラインをまとめたものです。 調研費は、国会議員一人ひとりに月100万円支給されるお金で、原資は税金です。2025年8月から、使い道の公開と、使わなかった分の返還",
    "firstSeen": "2026-11-20T02:06:16.390Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-19T22:39:04.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "初訪中終え「建設的かつ安定的な関係を」",
@@ -314,17 +325,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T11:06:08.108Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T04:31:12.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
