@@ -1,9 +1,37 @@
 {
- "updatedAt": "2026-11-20T11:06:04.258Z",
- "lastAttempt": "2026-11-20T11:06:04.258Z",
+ "updatedAt": "2026-11-20T12:06:37.537Z",
+ "lastAttempt": "2026-11-20T12:06:37.537Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【AIセーフティ最前線】国産AIの安全性を担う専門家に聞く #安野貴博 #ai",
+   "link": "https://www.youtube.com/shorts/1Y-lweVy4WQ",
+   "date": "2026-11-20T11:15:05.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "安野貴博 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/1Y-lweVy4WQ/hqdefault.jpg",
+   "description": "🎥本編はこちらから： ▶️https://youtu.be/Lc0nFgSGlmY ================ ＜綿岡晃輝さん プロフィール＞ 2021年、神戸大学大学院システム情報工学科博士前期課程修了。同年、LINE株式会社（現",
+   "firstSeen": "2026-11-20T12:06:37.537Z"
+  },
+  {
+   "title": "【AIセーフティ最前線】国産AIの安全性を担う専門家に聞く / AIにどうやって倫理感を訓練してる？ / おばあちゃんジェイルブレイクとは / AIに精神的に依存するリスク",
+   "link": "https://www.youtube.com/watch?v=Lc0nFgSGlmY",
+   "date": "2026-11-20T11:00:20.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "安野貴博 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/Lc0nFgSGlmY/hqdefault.jpg",
+   "description": "🕐チャプターリスト（目次） 0:00 オープニング 0:33 SPゲスト：SB Intuitions 綿岡晃輝さん 1:15 綿岡さんってどんな人？（AIセーフティチームの仕事） 2:08 AIの安全性とは？ 2:54 どんな困ったことが",
+   "firstSeen": "2026-11-20T12:06:37.537Z"
+  },
   {
    "title": "重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlA0SnBnRXBxbEZUdVR4T1ZhVVhGekJwbVNESVE3RVE5azlySi1FUGxmbUZlQWtJbHp5bHVCMVVIRjhnTEJtS0V0MzVoQU9jel9nTWR1SkYzZkdseU5lWHd1UTRqVE1SSlZKVzc4emNTZHZKMlNlUE5ocV9lMW9ycl9uT2hxLTdEUXR1dA?oc=5",
@@ -24,6 +52,17 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-20T11:06:04.258Z",
+   "mention": "body"
+  },
+  {
+   "title": "ユーチューバー起用「受け狙い」 政府広報、野党が問題視",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kalp3RTlrcGxNV0ZYLTFuZmZiWkJPd1JZUlJBaEVnYUZYdTVkclM4MmE4eF8xS0xMMmNkNzZoMWtqN0FNeVJrcUo5QkRJTWtUV3BHUE5MX2t6OU1kdjNYSkVGUQ?oc=5",
+   "date": "2026-11-20T10:17:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-20T12:06:37.537Z",
    "mention": "body"
   },
   {
@@ -256,7 +295,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T13:23:33.000Z",
+   "date": "2026-11-19T14:22:22.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
