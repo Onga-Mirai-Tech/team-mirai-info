@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T12:06:37.537Z",
- "lastAttempt": "2026-11-20T12:06:37.537Z",
+ "updatedAt": "2026-11-20T12:12:59.028Z",
+ "lastAttempt": "2026-11-20T12:12:59.028Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -120,6 +120,9 @@
    "kind": "article",
    "source": "時事通信",
    "mediaId": "jiji",
+   "members": [
+    "mineshima"
+   ],
    "firstSeen": "2026-11-20T08:06:04.608Z",
    "mention": "body"
   },
@@ -295,7 +298,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T14:22:22.000Z",
+   "date": "2026-11-19T13:23:33.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
