@@ -1,18 +1,29 @@
 {
- "updatedAt": "2026-11-20T05:06:06.483Z",
- "lastAttempt": "2026-11-20T05:06:06.483Z",
+ "updatedAt": "2026-11-20T06:06:03.084Z",
+ "lastAttempt": "2026-11-20T06:06:03.084Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-20T04:09:25.000Z",
+   "title": "みらい、定数削減反対決定：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nZzkwZVJIZjRiejZFakFnTjhPTVdqSkZiam5SbzhZbnFFaHZwamc5NDdWZzFDZkN6QVVQOVdOUnFaNUxETkE5QXliQTNnSXdacHdHeXRDREhJeWp2b2Q2ZHFSTQ?oc=5",
+   "date": "2026-11-20T05:14:00.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-20T06:06:03.084Z",
+   "mention": "title"
+  },
+  {
+   "title": "関文科相“パーティー法令のっとり開催 今後はあり方検討”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nMEFWTGVDaFhlb2FQMFlJd1NyU1gtVV9qZVpJdm12ZjViZTBsTzZtQUxnZmxXT2VPbmxXOFJYSjFUZEtaVWxvSHM3RHJHVGU4MDNIbi1sdFgyaER0QW5j?oc=5",
+   "date": "2026-11-20T04:14:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-20T06:06:03.084Z",
    "mention": "body"
   },
   {
@@ -24,6 +35,28 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "「消費者物価」トレンド、10月は2・2％上昇、ネットは今後を懸念「冬はさらに」「給料が増えないと」（スポニチ）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ajVXb2J1RmRaSE5rNzRqM0Z0Qzh5UlhRVHNDWlBZa2R5MHM4RnNPZVdaS0dJeW1TVE1Zclh2aUVvSWdwcHhiRVV3SzJSQjRKQ09QSzZWMGg0TzgzUlVHN2hHdXk3MWx4?oc=5",
+   "date": "2026-11-20T02:52:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-20T06:06:03.084Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-20T02:39:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
