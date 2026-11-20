@@ -1,11 +1,34 @@
 {
- "updatedAt": "2026-11-20T02:06:16.390Z",
- "lastAttempt": "2026-11-20T02:06:16.390Z",
+ "updatedAt": "2026-11-20T03:06:06.401Z",
+ "lastAttempt": "2026-11-20T03:06:06.401Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 小林修平"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "国会議員の目標って？ #チームみらい",
+   "link": "https://www.youtube.com/shorts/acYbN3X3IcY",
+   "date": "2026-11-20T02:35:31.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "須田英太郎 YouTube",
+   "members": [
+    "suda"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/acYbN3X3IcY/hqdefault.jpg",
+   "description": "国会議員の目標って？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 フォローして最新の投",
+   "firstSeen": "2026-11-20T03:06:06.401Z"
+  },
+  {
+   "title": "【政治とカネの問題を終わらせる】月100万円の「調研費」って？明細から活用方針まで公開開始！まる見え政治資金第2弾 #チームみらい",
+   "link": "https://www.youtube.com/watch?v=-71ujV0kOcc",
+   "date": "2026-11-20T02:00:04.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "thumb": "https://i2.ytimg.com/vi/-71ujV0kOcc/hqdefault.jpg",
+   "description": "チームみらいの議員の「調研費」の使い道を、『まる見え政治資金』で公開していきます！ ▷ AIで政治はどう変わる？｜チャンネル登録はこちらhttps://www.youtube.com/@team_mirai_jp?sub_confirmat",
+   "firstSeen": "2026-11-20T03:06:06.401Z"
+  },
   {
    "title": "チームみらい 定例会見 原稿（2026年11月20日）",
    "link": "https://note.com/team_mirai_jp/n/n9f2bb8a873ee",
@@ -56,12 +79,23 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-19T22:31:11.000Z",
+   "date": "2026-11-19T22:31:14.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "初訪中終え「建設的かつ安定的な関係を」",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-19T22:25:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-20T03:06:06.401Z",
    "mention": "body"
   },
   {
@@ -1849,12 +1883,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【チみラジ】#04「誰が偉くて誰が軍師的な人ですか？」ゲスト：砂流恵介氏【安野貴博×石井玄｜ポッドキャスト】",
-   "link": "https://www.youtube.com/watch?v=wGVx9BusWyc",
+   "title": "ポッドキャスト「チみラジ」#04 配信",
+   "link": "https://youtu.be/wGVx9BusWyc",
    "date": "2026-11-10T13:00:18.000Z",
    "type": "official",
    "kind": "video",
-   "source": "党公式 YouTube",
+   "source": "党公式サイト",
    "members": [
     "anno"
    ],
