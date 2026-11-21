@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T01:06:02.927Z",
- "lastAttempt": "2026-11-21T01:06:02.927Z",
+ "updatedAt": "2026-11-21T02:06:19.117Z",
+ "lastAttempt": "2026-11-21T02:06:19.117Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -17,6 +17,17 @@
    "thumb": "https://i4.ytimg.com/vi/wAgzj-yDPCU/hqdefault.jpg",
    "description": "いざ国会へ！ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 フォローして最新の投稿もご覧",
    "firstSeen": "2026-11-21T01:06:02.927Z"
+  },
+  {
+   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
+   "date": "2026-11-20T23:06:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
   },
   {
    "title": "【生配信】週刊チームみらいNEWS (2026年11月20日19:00頃開始予定) #河合道雄 #加藤直樹",
@@ -41,17 +52,6 @@
    "source": "朝日新聞",
    "mediaId": "asahi",
    "firstSeen": "2026-11-20T23:06:06.089Z",
-   "mention": "body"
-  },
-  {
-   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
-   "date": "2026-11-20T20:18:34.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-20T20:44:24.813Z",
    "mention": "body"
   },
   {
