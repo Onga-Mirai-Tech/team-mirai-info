@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T04:06:07.118Z",
- "lastAttempt": "2026-11-21T04:06:07.118Z",
+ "updatedAt": "2026-11-21T05:06:03.142Z",
+ "lastAttempt": "2026-11-21T05:06:03.142Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -274,6 +274,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-20T06:06:03.084Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市内閣 支持率上昇68％ テレ東・日経 6月世論調査",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LWUk0akh4aUt2YlMtYk1aX3ZNTUtld0pmd2tNQmFQQzBmOHN1ZVhfVmhkNVVqRU9uQ1Y2ZXdQQUNvcE5nWHcxZHdtZDlQbE5KZElVbw?oc=5",
+   "date": "2026-11-20T03:55:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-21T05:06:03.142Z",
    "mention": "body"
   },
   {
