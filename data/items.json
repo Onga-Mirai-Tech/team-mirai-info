@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T06:06:05.325Z",
- "lastAttempt": "2026-11-21T06:06:05.325Z",
+ "updatedAt": "2026-11-21T07:06:03.131Z",
+ "lastAttempt": "2026-11-21T07:06:03.131Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -45,7 +45,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -145,7 +145,7 @@
   },
   {
    "title": "重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFQzN3bE1pYVdaWlRfOEp0bW5hVlVUT3UyRVlHQ3YtXzFoMFhjUlBwNEhfQmFfVVk3UWhrMnBGUk5nZmdzZ2tMenlVZ1dBTWtZOE9pNGl2djUzS3ZUOEFwY1c4RFlZaXE3dmVnSFA4UjlIMXkwMlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlA0SnBnRXBxbEZUdVR4T1ZhVVhGekJwbVNESVE3RVE5azlySi1FUGxmbUZlQWtJbHp5bHVCMVVIRjhnTEJtS0V0MzVoQU9jel9nTWR1SkYzZkdseU5lWHd1UTRqVE1SSlZKVzc4emNTZHZKMlNlUE5ocV9lMW9ycl9uT2hxLTdEUXR1dA?oc=5",
    "date": "2026-11-20T10:56:08.000Z",
    "type": "media",
    "kind": "article",
@@ -200,7 +200,7 @@
   },
   {
    "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ccmg1LXJfem55QkFuT2VLcE5nWmlLNW96TEFQMUhrT1ZtakNGWXUzWkpzUFlkeGs3MF95Qy1QbXVGd053Vmw5MU01MWlKekNzdDIw?oc=5",
    "date": "2026-11-20T08:55:00.000Z",
    "type": "media",
    "kind": "article",
@@ -264,6 +264,17 @@
    ],
    "firstSeen": "2026-11-20T06:06:03.084Z",
    "mention": "title"
+  },
+  {
+   "title": "高市内閣 支持率66％ 高水準維持もやや下落 テレ東・日経5月世論調査",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kUWVBNFh0S3ZDUHVpR1h6aHJuTU8zcXV0SzQ5QUFiSXZIaWg0WmZWTkYwTkdlOVNoSTk5X0g0NVNvMDJOQXZidV9mSGd2NzdUUmYwaw?oc=5",
+   "date": "2026-11-20T04:19:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
   },
   {
    "title": "関文科相“パーティー法令のっとり開催 今後はあり方検討”",
@@ -8572,17 +8583,6 @@
    "kind": "article",
    "source": "朝日新聞",
    "mediaId": "asahi",
-   "firstSeen": "2026-11-18T13:28:18.738Z",
-   "mention": "body"
-  },
-  {
-   "title": "高市内閣 支持率66％ 高水準維持もやや下落 テレ東・日経5月世論調査",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kUWVBNFh0S3ZDUHVpR1h6aHJuTU8zcXV0SzQ5QUFiSXZIaWg0WmZWTkYwTkdlOVNoSTk5X0g0NVNvMDJOQXZidV9mSGd2NzdUUmYwaw?oc=5",
-   "date": "2026-05-31T07:00:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
    "mention": "body"
   },
