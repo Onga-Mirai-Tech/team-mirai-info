@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T20:06:02.778Z",
- "lastAttempt": "2026-11-21T20:06:02.778Z",
+ "updatedAt": "2026-11-21T21:06:11.044Z",
+ "lastAttempt": "2026-11-21T21:06:11.044Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -13,6 +13,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-21T08:00:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -63,17 +74,6 @@
    "source": "朝日新聞",
    "mediaId": "asahi",
    "firstSeen": "2026-11-20T23:06:06.089Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-20T19:22:26.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -971,7 +971,7 @@
   },
   {
    "title": "自民・維新・国民の法案提出3党は「痛み」少なめ 衆院定数減で試算",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdklySDNWWXp3MkdEaHpwOFlWb25MUDlSRkM4aUx4WDF6UGp3Tk1qaTUtSzVocFVOakN2VXlrMUlMWHZQQ0g0RE56N2E1MVlxR0RUNEFoVTctRlkySjNDRnhJZGdGU0xINlpQcnVxWGtaSVRlSzR1THNTSER4TXRmMm5fOURVcFplamFYMUVZSnFYaENWN0tvcUtodXdXQ2hmRXVMZFNXMjY1ZzJ1Skh5RndxZF9NcWpNMlFjNFNTbVU1S1NqaXc0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVXNMTnB0emgzUndpQ3U5X3ZLQ1Z5RmZmUDZjeDRjV0ZXaGR2bzNSVzVDLTktbFVMNTFxYVcyNTc1aFpXZGhodUZMYmFUYzdMMzhFdFFwd0trNGMteXc4NTVPM0NRdk0?oc=5",
    "date": "2026-11-17T21:00:00.000Z",
    "type": "media",
    "kind": "article",
