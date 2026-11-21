@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T19:48:59.701Z",
- "lastAttempt": "2026-11-21T19:48:59.701Z",
+ "updatedAt": "2026-11-21T20:06:02.778Z",
+ "lastAttempt": "2026-11-21T20:06:02.778Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -13,6 +13,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-21T02:47:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -322,17 +333,6 @@
    "thumb": "https://i2.ytimg.com/vi/acYbN3X3IcY/hqdefault.jpg",
    "description": "国会議員の目標って？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 フォローして最新の投",
    "firstSeen": "2026-11-20T03:06:06.401Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-20T02:08:33.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "【政治とカネの問題を終わらせる】月100万円の「調研費」って？明細から活用方針まで公開開始！まる見え政治資金第2弾 #チームみらい",
@@ -971,7 +971,7 @@
   },
   {
    "title": "自民・維新・国民の法案提出3党は「痛み」少なめ 衆院定数減で試算",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVXNMTnB0emgzUndpQ3U5X3ZLQ1Z5RmZmUDZjeDRjV0ZXaGR2bzNSVzVDLTktbFVMNTFxYVcyNTc1aFpXZGhodUZMYmFUYzdMMzhFdFFwd0trNGMteXc4NTVPM0NRdk0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdklySDNWWXp3MkdEaHpwOFlWb25MUDlSRkM4aUx4WDF6UGp3Tk1qaTUtSzVocFVOakN2VXlrMUlMWHZQQ0g0RE56N2E1MVlxR0RUNEFoVTctRlkySjNDRnhJZGdGU0xINlpQcnVxWGtaSVRlSzR1THNTSER4TXRmMm5fOURVcFplamFYMUVZSnFYaENWN0tvcUtodXdXQ2hmRXVMZFNXMjY1ZzJ1Skh5RndxZF9NcWpNMlFjNFNTbVU1S1NqaXc0?oc=5",
    "date": "2026-11-17T21:00:00.000Z",
    "type": "media",
    "kind": "article",
