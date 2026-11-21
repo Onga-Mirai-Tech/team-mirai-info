@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-21T08:06:17.672Z",
- "lastAttempt": "2026-11-21T08:06:17.672Z",
+ "updatedAt": "2026-11-21T09:06:05.146Z",
+ "lastAttempt": "2026-11-21T09:06:05.146Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
    "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
-   "date": "2026-11-21T05:24:23.000Z",
+   "date": "2026-11-21T08:18:34.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ東京",
@@ -30,7 +30,7 @@
    "firstSeen": "2026-11-21T01:06:02.927Z"
   },
   {
-   "title": "【生配信】週刊チームみらいNEWS (2026年11月20日19:00頃開始予定) #河合道雄 #加藤直樹",
+   "title": "【見逃し配信】議員の調研費もまる見えに｜比例定数削減法案｜発足2ヵ月・広聴本部の進捗｜週刊チームみらいNEWS (2026年11月20日) #河合道雄 #加藤直樹",
    "link": "https://www.youtube.com/watch?v=h2cYAGUSJg8",
    "date": "2026-11-20T22:32:34.000Z",
    "type": "official",
@@ -1296,6 +1296,17 @@
    "source": "日本テレビ",
    "mediaId": "ntv",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費減税法案「賛成」52％【NNN・読売新聞 世論調査】（2026年11月15日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdkI1OUdQTGJEdWppYzZCSnhOY2MtQkxFUE9QT0RPV1hYaTh0SUtOejNsLU5FakZLNU12R0RiMjBzMl9MRnZhckl0anlja2RFeEFzZ3k3QXI0cnVpb3RQN3ZZd2VqR09PcTVlU21leWhmQlRSdUhrMXF0MmEwQQ?oc=5",
+   "date": "2026-11-15T13:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本テレビ",
+   "mediaId": "ntv",
+   "firstSeen": "2026-11-21T09:06:05.146Z",
    "mention": "body"
   },
   {
@@ -12663,6 +12674,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・国民民主党 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkLUZ5Q3pHZkoxeHVJRm5KV012SFpkVFFPQjJCUkFneXdaQUxzZ2tPZ3o0ZXBENlpiOTBUOEp0TDM1aEtrc3VZX1I3YXNqcndtS3UzQnZrZnQxamUxaFBTM2tPcFVhYVRGaGMw?oc=5",
+   "date": "2026-02-08T14:58:13.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-21T09:06:05.146Z",
    "mention": "body"
   },
   {
