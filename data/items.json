@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T19:06:02.699Z",
- "lastAttempt": "2026-11-22T19:06:02.699Z",
+ "updatedAt": "2026-11-22T19:59:08.547Z",
+ "lastAttempt": "2026-11-22T19:59:08.547Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -765,7 +765,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T23:18:45.000Z",
+   "date": "2026-11-22T00:15:51.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -809,7 +809,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-21T21:29:44.000Z",
+   "date": "2026-11-21T21:26:54.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -2423,6 +2423,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
+   "title": "木原官房長官「広告会社の提案」 政府広報に陰謀論系ユーチューバー起用で説明",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MFdrTG9GYXZEYW5IajhPR0pEREdocjJyZ1A0ZTFiSHZ0UThjRUhtd3JWZXNFYllNUEE5ZTJqSFN3cG9NLXJQM2Z0dG56SjY5VzYycURDOV9idzk2NmdkWlJSc3c2bVB1dGtQa0lIaVN3eTdOVUE?oc=5",
+   "date": "2026-11-18T10:32:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T19:59:08.547Z",
    "mention": "body"
   },
   {
