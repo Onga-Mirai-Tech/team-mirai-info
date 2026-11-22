@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-22T21:06:02.909Z",
- "lastAttempt": "2026-11-22T21:06:02.909Z",
+ "updatedAt": "2026-11-22T22:06:07.738Z",
+ "lastAttempt": "2026-11-22T22:06:07.738Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【全文】衆議院 災害対策特別委員会 質疑／山田瑛理（2026年11月19日）",
+   "link": "https://note.com/team_mirai_log/n/n17d1f87cffa6",
+   "date": "2026-11-22T21:09:35.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "yamada"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/339486975/rectangle_large_type_2_7d665559635dd687bbfd2c2c3167d7a3.jpeg?width=800",
+   "description": "2026年11月19日に衆議院 災害対策特別委員会で行われた質疑における、チームみらい 山田瑛理の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 山田瑛理 答弁者＝細野豪志 復興大臣、林 政府参考人、岡本 政府",
+   "firstSeen": "2026-11-22T22:06:07.738Z"
+  },
   {
    "title": "【全文】衆議院 総務委員会 質疑／山田瑛理（2026年11月19日）",
    "link": "https://note.com/team_mirai_log/n/nfdaeb984dcd0",
@@ -1227,7 +1241,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
