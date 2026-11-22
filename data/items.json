@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-22T09:06:06.733Z",
- "lastAttempt": "2026-11-22T09:06:06.733Z",
+ "updatedAt": "2026-11-22T10:06:02.735Z",
+ "lastAttempt": "2026-11-22T10:06:02.735Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "普天間「負担軽減会議」、年内に7年ぶり開催 木原官房長官が古謝沖縄知事に伝達",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xQy1FVkp4MmxVUkdWYlN1bVR4RFlsMF9iTTRSWWoxc3RFWEt0cVRkM3FXU0dnVTRBSEp6ZmN3dzR1VklqVDB5MWJlMzNpazZSWGpLb3ZCTDlQaFg2WFpmcnkxdjFUNHgwSWFGY3FvYlpIS1lBU2c?oc=5",
+   "date": "2026-11-22T09:31:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "【フォトギャラリー】90周年の中日が巨人とOB戦 槙原、斎藤、桑田…「10.8」決戦再現 立浪さんら出場",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UVkZaOE5UVWo2bl9QT0RweDFrZHpaQXR1UktET0QzYVZPbkdna2F4dThtNVhkNERQRmw4VGFjOF9GY3ltWlhWbHhicDJHMnA3ZXhiV2pKb1NET2dGNzhNXzU1LU1GRHpFZU02bERPNm9mLS1haEE?oc=5",
+   "date": "2026-11-22T09:03:35.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
   {
    "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏と「AIインタビュー」 AI×人間",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSENsaXdqMjJkZW5wcjJMT2xIY1RtS3pDTllwR2ZVZmhMUkdydXdPU1JpSnFDelNLY0VtRGltRTA1SEc0emJCODdkRURNa0swWG1ZbUhtUlhKNXFxMmlDeXhBcmUwRmE2Wmo5Zk0zVk9EZ0xtbkE?oc=5",
@@ -33,6 +55,75 @@
    "mention": "title"
   },
   {
+   "title": "インタビューに答えるチームみらいの安野貴博党首＝東京都千代田区（近藤豊和撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1JNb3dPZUtWczk3UFVyd0g1VUpFbXVjVDU2U0l2ekJDcXl0MnpVR095MGNsbG9LR2pwUUlZZ2ZPN2FYSW9YSVV3UUEya09qMW5oeUliWlZMMFJ2YW1IM0NDSFVZYTBGSTVMbDhqNzc5dnluUTljUFJ0NW5uWmV5WEQ1czh3QUF1N0V1UVpGMmhfQU5oZDFuU3RDVmowLTR3aXc?oc=5",
+   "date": "2026-11-22T08:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "title"
+  },
+  {
+   "title": "「人事・総務部＋3」の実践知を全国へ。11月22日「いい人事の日」にTHE CAREが3つの特別企画",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aWnJvVlF6WWlmNndzaGxuQlBqQVlKeDhUU194d1M0Zi1LR0pFS3VBSzR6TFZtT0FzbEo1eUVJc3JfcTNvOUMyVG1ZOWlPcThPbmRQcF9uRTgxRXB0SFpKcjhZbW9UeWFTbFNqOFctSkJiTHNLRkVpMTZfcw?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "大阪から中東・ヨルダンの魅力を発信！死海コスメ「TRINITAE（トリネティ）」が、ヨルダンの自然と文化を描いたオリジナルトートバッグ付きセットを数量限定発売",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PdjNRRlBrRjlQdVI4MEVvMGExeE5SOGhFUC11U0tNdHFrYjBaOFlXdm1rbmpRNF9waW5QWnFvREJIRFpsbEJYaFhRX2Yxb0dtTTE5OWxOTzVKVnlpODdqLUl1SzkwNjF6eHh6OXdOTnM2S053VVpOU0Vmdw?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "AI人材の「行きつけの店」が年の瀬に再び。登壇もスライドもない「AI Hack BAR 忘年会」を12月23日(水)に参謀BAR新宿で開催",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UcmtiNkxQenctNHVTT0tXZlBZQTRvcUs0S0hQUmhJUEpybWdCbVJjemdhV1JLc1BZQVBvN3BuLWZrNlhLaENkT2x6OXBndFNoUmczTFFyeHBvWjVnT3RPSTVmNmpQbnN3S0xUenlPeks4WVE0NVJlOFdOQQ?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "OrcaRouter、インターネット技術者が一堂に会する技術イベント「Internet Week 2026」に協賛・出展",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wNktWVVQtZVJCenAxam5GMUpVNUlUcWhHV0E3c3RRRnRuYXBfV3Q3ajkxUks0ZXZpbUtqY1haM19GRGVwbEd3YkFoS2x6eHhUWmNoSXN4cFV1N2x5UkZMSVhhU3hHT1pwRFVVMVVrd2s3aGp3cXlLWHZPUQ?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "「Asia Pacific’s 100 Best Coffee Shops 2026」にMel Coffee Roastersが選ばれました! 」",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vY1I3UUpTLUlCU3ZoREtyMWE1azFucGVyRUVrejM4M2JpTkNpMjRLeXluTVVlLWZ5SUUxbjBPNGcxMWd5bGdjbVQtb1U0RzFNX3VvdUdGZ1BCcmFaTG0yV3FLcTBNdFliUTlpUU9ZUVZvRExwUGlSV2RNMA?oc=5",
+   "date": "2026-11-22T07:59:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏の「AIインタビュー」 AI×人間",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSENsaXdqMjJkZW5wcjJMT2xIY1RtS3pDTllwR2ZVZmhMUkdydXdPU1JpSnFDelNLY0VtRGltRTA1SEc0emJCODdkRURNa0swWG1ZbUhtUlhKNXFxMmlDeXhBcmUwRmE2Wmo5Zk0zVk9EZ0xtbkE?oc=5",
    "date": "2026-11-22T07:30:00.000Z",
@@ -47,6 +138,218 @@
    "mention": "title"
   },
   {
+   "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏の「AIインタビュー」 AI×人間（写真・画像 2/7）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOS0wNnd6ZDhJMy00ZW5LUlhhYl9mV2pqZzQ1Z1F1dEFzR1NTX2toODYySWs0MHdJT3diVkRSQlVSTU1fTTRrSWtvenVpeGwtZ1BGYVNlclBTc1Q2RU5zWFg4elBOOW10dk5ZZmdlZ2g1RHoydENuU3BwQ3VVM3AtdXhnanlUaUI5OURPOW83WGxzTl9yNDVjQllfY1prZG9DTWc?oc=5",
+   "date": "2026-11-22T07:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "title"
+  },
+  {
+   "title": "XRKaigi2026に株式会社AoharuNEXTが出展決定",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JUW5VWjctX2x2ck9DSDc0S3c2c1E5dmR1UDByTEtsUDlyWGpRdlpqcHNVRUdfdWY3ZzFkLXFmdkt2Q0F6ZmFxV0NBRVNJV2habFFMdHVtWDgwRFlMVmdhZUNkYVk0YUp5M2thMldlbjgtQWZyS3JKQm52NA?oc=5",
+   "date": "2026-11-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "兵庫県内のひとり親・生活困窮世帯の子ども200名にクリスマスプレゼントを贈る「プレゼント For You 2026」11/23受付開始",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZEQ1TVhXN0lseko1UkREYzJGYklwMEJpN1c3UnlDeHdJS1I3QVFGQ2FQT2lObHRaWkQweXl3UEVfeUVYMmVxQkFscTN5SDR0Y084N0Z3c2NQWjNPTnFRZElNZENYenpLUHVJWVlIMTRoV0dCMHFEMUEyYw?oc=5",
+   "date": "2026-11-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "「世界が、府中に集まる。」ジャパンカップの週末、歴代優勝馬のUMAbredグッズが大集合！ 11/28・29の2日間限定で、JR府中本町駅にPOPUP SHOPが登場！！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwb2VtNUhZcHVpdUhDbGNNcVBlWlk1Z0JvalJyX0RPSHgyTXdVYUhjT00tVmxEU3BrQ0QxekpvNXJZMDlQRGVnN3RSVUFfUnZYWEowV1c0X3VuV21UbGhjWDd6RGRGd2NtYllrdEVTWlNNeERXS3FHUG1XYw?oc=5",
+   "date": "2026-11-22T07:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "世界ご当地キャラグランプリ「現地応援投票イベント」 第4回（羽生）は、にゃーが（長崎県）が1位！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4TzlsaW9zWEZZeGhBS1dPTDZmX3hZUkhDWVVTX0U4cHhvYjRqX3ltMzhQek5YSWZqbGRPUm91X2JJMDVTN3A1WFBRWG52ZlBCYlpkQlVrYmZQdkdSZ19RUERUWXozcTcxSGs4Zl9RSENzNmNOTUlFbUtJQQ?oc=5",
+   "date": "2026-11-22T06:50:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "トランプ氏、米中露に注目集まり日本など「少し取り残されたと感じただろう」クアッド評価",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjRtNV9CRnlGbEJFbFFZX3RGWm5zQ3NPa3dJaUJxM3lGSlBqc0FxRmxNWGdqN0RVSjhHMFc0bDRwZDVuWnZCWm54RU1KUlpyNndsSmZpRUc0YU1ocnU5TGhoaTNzZ25FSzBKYkxJd0FXNVlMRWt1RFpfb0hldGtPWko1bUE1R0VLdXhibA?oc=5",
+   "date": "2026-11-22T06:31:55.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "HAKO、ニューヨークのデザインスタジオLichenによる「A Study of Light」展を開催",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Za1RicUZ2WElValhmdnZDQjlEenpRa1kyVDBjb1JZTzJvRmVuTENoSmNBV0NDN05abHFQUmpFWlF2TzJUQWwyQ0xGM0hjcE80a0E4QkNNM3FiSW1yZ1RIUzlyVFJjUGF5cDBTaWlBMnNjQ29aS1IwX3RxTQ?oc=5",
+   "date": "2026-11-22T05:38:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "タクティカートプレゼンツ「冬のクラシックフェスタ2026」",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nSkJPZmRnOFJLUC1GMlcwN2lvdEcyYTRrVUlMOTlMT1VBSVFwV2lpR05BYXhTaGdFY3l6Z1MyXzV2cnFWUGVheWpEa21QbTJkUnhRdnNZNmk4LXI3Rk44NW9JY2NmMmVIRW5SOUpNdFNaRTB2ekdCTnFQVQ?oc=5",
+   "date": "2026-11-22T05:35:37.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "「1枚の写真から手のひらの街へ」写真からペーパークラフトを作るジオクラが12月にサービス公開",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnM1Z0c3A2U3ZkV2NsQlJrUmVlLUp5bHJqdHpucGR4ZWY4NW52RVRGel9JUS1xTGdKTE1QNU1GRzFpTXAxNldsSktkVHZBWVFpLWdPeW1vX0N0SlZLdFlWcUd3bW1Ic2U0S2tnUnlJMU9oOEdhN1N1VnRDMA?oc=5",
+   "date": "2026-11-22T05:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "石舞台古墳の周辺でも多くの人が空を見上げた＝22日午前、奈良県明日香村（寺田康介撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm1zbE9zOXBfcXZhd1VHWEZlcUxsbFNzOWN5QWtBOVR2NzJONWlOUjY5dzJsVGlhOVdkUndnQk5SbmxKSng5dnIyUG5lalR6WnlDejd3TjVzQS1weTlZTlAxUmpKeUxCNllkTnJzWlJubGNWSThvN2twZjg2MXpZbS1UM2hjcklheGZGRUdnb3RUU1pGUVBjclA3M3RwYXVkSEE?oc=5",
+   "date": "2026-11-22T05:06:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "国民民主党の玉木雄一郎代表（春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2ludjI3c21HdnZHd19yemI4cWZiZ3ZLY0R6YUN4Qk91SkhCUDJjTUYtMHNmNzdrRjVNUzIwVVhvVFVkRGJFR2hwa2hnSXQ2RjlCLWVGeHAtR0NKeG9Jd20zMmJGWmVrOWYzNEZmWkc0czdyTG9qSU5UVUxsMFI4MkdiaHBiTUtPTXUzbnM2RjZmUVFfVE16Q0dzdE40Qk5rYWc?oc=5",
+   "date": "2026-11-22T04:53:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "国民民主の玉木雄一郎代表、関芳弘文科相「問責に値する」 政治資金パーティー問題巡り",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zUmlNQWM2Q3hpUUZzOXRhWGJtNnJsQ09wR2EzNWNyTmdOUjJtcjlKZE5ENndWazhUT1VfTzF5VmF6WEVoVlNZOWZweHZhd09RbmJqZ2E0Y2J5MktFbkhiZW55d3MxZGs3cEhoYkFqYWFwNnhTUXc?oc=5",
+   "date": "2026-11-22T04:53:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkOVpnT184RXZFVnBIdC01U3paTnh6em9RSGNUYlRqNUlXN255LWM2VElTaUYtV04yZ0hPU0FRcktEVUM3WmpjRThxQTI5WU91Nks3cS1CMEh4Q0RkdEd3?oc=5",
+   "date": "2026-11-22T03:32:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "尖閣周辺に中国船 海警局の船2隻 29日連続 いずれも機関砲搭載",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zT2xIMWZvbll0dC1xMkJxSWplNGIySFRfZkFrWnRmalNNUklELXpOeV9Ha3dZM0hueEJaVVBhT1NpM2FZUDJ3X0VIZVNXTTBoblFBRU5YQUpIZExfbzNZZDZuUUxBMkRqdHJPeFpScGFtUzcyemc?oc=5",
+   "date": "2026-11-22T02:37:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "加賀・山中温泉で【加能蟹会席】、石川県のタグ付きブランド活蟹「加能ガニ」一杯を堪能する",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qMEl4OTZtN3Q4WHg5U0ItSGtGZVI1Wk9nZ0ZXSThHOWtvVkN1MFh6bVdLMXNwa3ZmWlRQdmVsY3Bkb0lQM3E1aGdOMU02Ul9pQkFMM2V3TGRXSXktaWtYNE5JY2FhLXZXMWxPRFBHR2ttc2MtNW05SWFUYw?oc=5",
+   "date": "2026-11-22T01:20:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "【評価制度の運用をクラウド化】フジタグループ、2027年1月導入の複線型キャリアパスを支える「Googleフォーム×スプレッドシート連動型」評価管理基盤を構築",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yV2hVamVCamRNV1NCZV9lRnNIV0V6bVZiZ2dPSDFaNU5IZ0UxLUtPaXRIT0hxanVLc1JlakRDM1BibW5lZEd4c2tsV2tXc0ZYMUZHVEVyZlg2SHUxaklBOWE2RXl2MXZSNXZzUnNxb0lGYVJFNVBZdzdLbw?oc=5",
+   "date": "2026-11-22T01:20:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "KOI The、冬限定の「いちごシリーズ」が11月26日(木)より登場！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaNExVSVpvRnZ6LUdQM0tBbnlpRVZTb2ozX0RhaEZvSkNYaWY5TnE3V1ZYQWYzZjRxT0hDNmhSMGlobk50R2s3M1FMeVMtVm1IWWNXdFRjRXZxRUN1WjAtUEdUTkxSVUdFUVROWmpuMFVDUl82eWd4RkhmTQ?oc=5",
+   "date": "2026-11-22T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "【成城石井の一部店舗で発売開始】業界初の特許製法で揚げずにパリッ！佐賀・有明海産の海苔チップス「Bumpy」",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ckx5eExFbFFYUE5oN0ZCRlhpeTh4ajhQYjdnZGtwNU5lNnNoZEtzUFgyZmFZNE1oYW5qaTVzcEM5NkREY21QTjFjdElpQ1Z1Z1YwT3JsY0xEX2tBQlV0SjRiWmpoMlpUUUFtYzdvcWVXenJubUFvV3hFYw?oc=5",
+   "date": "2026-11-22T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "氷川きよし『ほど酔い酒』（ギター・バージョン）本日配信スタート！ギタリスト・斉藤功とのセッションを収めたプロモーション映像も同時公開！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fLVViOURqNTJNTk5tWXpkaGxLWklJNjFKX0ZBbnY1ZnlDd3FTQ3QydUJMdEU5Q0RndUZqc2dLdEpTRXpSdThzSzQ4N0E2Uy1HTmpBY2tiZnpEcTQ2SjZXaHU2SXJ3dmhHYXNYQmRibGNGMEVBSVZjSlR4Yw?oc=5",
+   "date": "2026-11-22T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
    "date": "2026-11-22T00:30:00.000Z",
@@ -58,14 +361,102 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T19:29:37.000Z",
+   "title": "シベリアからの歓喜の帰還をカラー化 日本人の働きぶりにロシア人は驚愕していた 色のある昭和（写真・画像 1/3）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWtBTjNIdDlPM20yVDRqVXZjNHVVVU5EYnN1dV9MOUZGN2VtRWZrcU1XWTNuNlQ4OGdMOUtmQ1NTcUZBN3dodFVhWG9rOGJNWlpVeWhVMDQ4aXItbEd0LUtWVkVBSmVkM0FNbEw0UW4wTnZEZ3NSRHY2WkdhMXRlWHRDSmNFRWtoRWxkbXI4TUFET0cyQnRNblRULWZnQmZYb2c?oc=5",
+   "date": "2026-11-21T23:00:00.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "キャッシュレス決済に対応した自動販売機と交通系ICカード＝11月21日午後、東京都千代田区（酒井真大撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHViRFBPbXlSMEVPYjVFMDNqaXRDMmZUajZDOE5iTUtTcVhKTk84aUt0MkxNcHpicEw4aEZrWWxGMU9IeE4tSWpjQVV0TGpGT0g5NTBvVGlncHFFRHVZaklYdzduaDJsN1hJV003emNtRzEyRW9MTVo1aWZCRTNZMHJhWVhTT2xaOXdwWVlhRUtBa3I2YnFVNXBuUi03VmtCbXc?oc=5",
+   "date": "2026-11-21T13:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "閃乱カグラシリーズ最新作！命懸けで獲りにゆく。『シノビNEXUS - 閃乱カグラ -』サービス開始日が11月29日(日)に決定！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tQnFZU0lGQi11Y29yQVhuS1VueUl3RXRibWRFMXpvdUI4ZTBIeld0R2M4NnRsSzhjT0FDdGloLUtfX3hQNWZza3BaTzNGSTFOc1NLbTNGQ1F5b1h5ZEtEa2dpd0xMbG1nTUpBNTVTQkJ0c3lYZ05MaEw5MA?oc=5",
+   "date": "2026-11-21T12:50:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "『アークナイツ：エンドフィールド』予告特別番組にてVer.2.0の先行情報を公開！まもなく始まる新バージョン「キノコ菌グ！？君との大冒険！」では再旅者「ケーちゃん」と配布オペレーター「ミミノ」が登場！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KdzVEdmpiNGgySy1MeE92R1N5UmFzUllqSk5rQnlWSzh2X0c2M1NwWUlaTS11UmRubi1nMXU1c3A3QlFUa25qOTZ6WndpZV9Mb0lGQ3A1TnJWa3NLRFgzSEItV2Z5SjljRDRFb3J0djNVQlV0YndoYlJUaw?oc=5",
+   "date": "2026-11-21T12:42:05.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "ZEROTOKYOを代表する看板イベント【GOLD DISC】開催決定！第一弾出演アーティストを発表！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNR19kVktWYTlBV1llMUdLX05DX09ibTRnSkpTVTVEMGF1QmdBQWREX0xKSG1GTXIzRjJVcXRMdVRvYmhUOGZSS1FqX1AyenBtZExFOEVNMEltVmg0dXAtN09ta1FKWk50Nm9XN25aOVpsRS1xeXFlT2t1WQ?oc=5",
+   "date": "2026-11-21T12:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "ニッカホーム関東、江戸川区の中学生向け職場体験学習「チャレンジ・ザ・ドリーム」に協力！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12aUttc2VFQjhWSVc0dHk0UEZyU1ZzNWlOX29HWnVzY1FfRjhvYXFOU0NDNmNjRm5UUGtWa0RyTmlvaXpXZFpUbjQwLWFKTHJQcm01VVVmWVRLSHk4TDRaQ05IR3VJcmFTRE1yNUhYbUw1aGkybUtKZTJwQQ?oc=5",
+   "date": "2026-11-21T12:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "けやきライトパレード、「街路イルミネーションで使用されたLEDライト球の最多数」としてギネス世界記録(TM)に認定！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FZmd3U0pCQWdLMWR6T1FUYzBDWHJtMmxPWVlZVjdQRllPYmdxRVMxTThuTEpUTjRuZndLbkUzSHp2dXEtQVVGd1JyYzRKTGVCN0MtemdjdXp5WV8xck5hR0FHSWY3LWtmUkJvYS05WmlXZzh0bzU1dlBHSQ?oc=5",
+   "date": "2026-11-21T12:08:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "イベントレポート】アニメ『テニスの王子様』シリーズの25周年を記念した連続イベント企画第２弾『テニプリ 25th Anniversary Event -Fever- Vol.2",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyVWFGZXEzbEdibGlLX2hYbkpfeFM3Q2JhWmFTUkppQXRNR2ZvTlB4QXdqNFN5QW41VkNmb0FTYWZiUm11elN1dnZCYnQ4WVFaSDNxMDZ0REs4bzBLcm5GSG1QS0FERTB2NWZYQmt4aVBzblNlNjZEbmdoMA?oc=5",
+   "date": "2026-11-21T12:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "【なんもねえ俺らに捧ぐ！】忘れらんねえよ、約3年ぶり待望のフルアルバム「笑ったら殺すぞ」2027年リリース決定！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iV0NvdmxBcHpLTTFFMkYxb1R5RDc3UGcxQlZTRDRPVk5ZUHo3WFFzQzl6UEhFaXJSMV9PLWwyQ043MGhCMzVpN3cwUW0tOVk4UkkxN2xlTGJIRm9CZV9xT050dE02eUhUd18yVmtiQXhnVXZNSW1OSXNBYw?oc=5",
+   "date": "2026-11-21T12:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
   },
   {
@@ -77,6 +468,94 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-22T03:06:09.465Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-21T11:29:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "【愛知・瀬戸】幹事さん必見！今年の忘年会は牡蠣小屋で乾杯！12月限定、牡蠣食べ放題＆BBQに90分飲み放題まで付いて6,000円ぽっきり！ウッドデザインパーク瀬戸",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HVGFQS1Vud05pMlh5Znd0Ulh1QWVGYVE4aWxHV1ljOTZ4MUwxRFRWWUljNk8yTnFJSDFWWEZhOEt1a0ZfeEx3R2huYjQ4U21uR2lyWDVZNjdsU2FxYW5yUkdYMUxMUENlVVNVc1l3UWF6OVBaU0IwM2V4bw?oc=5",
+   "date": "2026-11-21T11:09:21.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "ReoNa、韓国最大級のJ-POPフェス「WONDERLIVET 2026」に出演！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93ZUVrbzVYOVBTWXB3Y01weDRIZGROcko1dFhzZ2V2ZzJQa3g0SWM5TnkxblAzTDc1cm1aUkx0YUF4eHk0V3pRYkNEUEJnNGNYLV9sR2xFTl9fRlUydW5vRWMzY0Y2V0xhM0M3ODdiZlF2SEEwVXlvcHZ2cw?oc=5",
+   "date": "2026-11-21T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "プレデビューで約700人を動員、札幌コレクション出演も目前！快進撃を続けるアイドルグループ「瞬間恋愛」、正式デビュー直前に4曲目となる全肯定ポップソング「ゼンブマルッ！」を配信開始！！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wN2FnR1NlQnJBemVCQkxObHlrdFJYeWYtUDI1MGJlY1dVS21HQ090Yk41Vm1FZnVDOVFOT0VFcjh6bFpnOHhVQVVGU1h3cDg5V2RBSlducXhuMkJkLTFtbzhPRkpNUkIxMHM2VkFEa1dmSjMwUzlyT0xMYw?oc=5",
+   "date": "2026-11-21T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "Pimax ×「VR Tracker Manager」コラボレーションキャンペーンを開始！ブラックフライデー期間中の対象ヘッドセット購入でフルトラ管理・診断ツール（通常1,500円）を無料プレゼント",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScUNiT2Y4T0xUbGJTVDdIVE1RVW9VQ09oUTJHdFlfZUF6Mm9QMlBCUDVHc3ljenkzQ3BuSE0xWVNjRUh4LWlXc1Z1Mm45VUJfZWhyOUNiSS1XOFJCS0lwd0VUd2IySkR5VEFVbXp6bklFZWNQUTJ4NmRfZw?oc=5",
+   "date": "2026-11-21T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "タブレット純、フォーク＆ニューミュージックのカバーアルバムを２０２７年２月３日に発売！小椋佳による提供曲「恋の誘い」収録、２月５日には恵比寿ザ・ガーデンホールで発売記念ライブも開催！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iZTR4aktwVjV1emZEZzRDMEd6YUlPWmZJU0hpakh5SEtBdDJCb3VtTzhzWDFTTFZyZ1FvRVNmRzVndi1BLUR4OUFQUGpXOHpjalcxWFozdnE4N0ZYWE9FTTZzd1BkOXBscjRNX0UwZEFvMWs4Yl9RRTJTMA?oc=5",
+   "date": "2026-11-21T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "小林萌花の「ほのクラ。」2ndファンミーティング",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sOTN0MnhXMWxtZmZjR3czZWMxbFlQVzZpS1c1WHcxRWhlckhKMGFJOHJ1RE9FbmUwanF2bW1uZGkzNnBXcTIzOWNNRU1jazhRU2FsamlLV1Q2WDdjcENZNGRVNjJxei1hcGFvSEtCMUFzSmdnQWtiWU9nUQ?oc=5",
+   "date": "2026-11-21T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "「ドローンオペレーションデザインサミット2026」を12月3日・4日に開催",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BX2hPVjBuWWF2eEk5X2F1dWQ2MmtrNjQ2M0F3eWFfZ2R6aXRnVzBISW1NeXFBMEszc0pDS0ZfOEdpZG9tWjE5bmRSLWhpZFJEYlRXc1dfZlJUbWxSUEhOYTJwU3lkeTRlVTA5YUJQalRLQWVnRTJqendsYw?oc=5",
+   "date": "2026-11-21T10:58:51.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
   },
   {
@@ -99,6 +578,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民・鈴木幹事長、関文科相交代の可能性を示唆 「法案成立が最重要だ。阻害要因なくす」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTWVXalFwbUtqZ1dzMmNWR2NqWFBHYVdNSWY4dEdRWWNvc09FeGgtc2VsZmFCZEJuRTdLUG1paG1qOGtiNmpwTU1PQTJpc2JiVzFyNlFBTVJlYUVTNEJ3b3lNV3Z5bnU3TnUwUU9XNFFlMXpBeXc?oc=5",
+   "date": "2026-11-21T06:09:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
   },
   {
@@ -338,6 +828,28 @@
    "mention": "title"
   },
   {
+   "title": "小さな芝居小屋に「ここだけ」の迫力 兵庫・出石の永楽館歌舞伎 客員特別記者 亀岡典子 文化悠々 西から東から",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzY1ZheUJYWkRHamMxTFhSZzdUTkRNdHFwSVQ1OHhaU2pCUXlWR1VyQmZTMmExODRTU3ZTRnJ3N285djJSbzNFNUZ3X29WZXQxVm1OWEpuVUF3dVI5dGwtajdCblJoMXl3Zm85Y0x5VmlLdkl6SEE?oc=5",
+   "date": "2026-11-20T06:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "高精細・大画面の「IMAX」ゴジラ新作も好評 アニメが市場牽引の日本「150カ所に」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83T0NTX2ZqeTJXREdPSnJqMkN5eXhWMWlJVE82ZG5aRXB6cWhTUUk1SVBtVm14RTBoU1VzbkN6MnFyYzFFcXZYZGtabWRFeWJrWjNGTFFoX3lKQXhPQ0dMNXUwNEN4bS11M0ZHbFh0dFhUX3Z3U2c?oc=5",
+   "date": "2026-11-20T05:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "みらい、定数削減反対決定：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nZzkwZVJIZjRiejZFakFnTjhPTVdqSkZiam5SbzhZbnFFaHZwamc5NDdWZzFDZkN6QVVQOVdOUnFaNUxETkE5QXliQTNnSXdacHdHeXRDREhJeWp2b2Q2ZHFSTQ?oc=5",
    "date": "2026-11-20T05:14:00.000Z",
@@ -382,6 +894,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-21T05:06:03.142Z",
+   "mention": "body"
+  },
+  {
+   "title": "ロシア問題でJT配当減「支障ない」と片山さつき財務相 25年度は配当収入1500億円",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YSEpnMHU4QlFIdVU1X2FpeDlkV3cxdzdEQnBqTWVYTTVIZDlmdVVXZDg5WkRKMzNjWm1ENWYzUENfbDFlZVVfM055aXBuamY5SW1MT1RXbEprRzkzNGZmYXBqeXVheVZBdWJYY0JVSF96eXNlbmc?oc=5",
+   "date": "2026-11-20T03:50:03.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
   },
   {
@@ -455,6 +978,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/336736586/rectangle_large_type_2_b544e4a93c98c9af37a7ddbf8dc5ff2a.jpeg?width=800",
    "description": "このページは、チームみらい所属議員の調研費（調査研究広報滞在費）の使い方のガイドラインをまとめたものです。 調研費は、国会議員一人ひとりに月100万円支給されるお金で、原資は税金です。2025年8月から、使い道の公開と、使わなかった分の返還",
    "firstSeen": "2026-11-20T02:06:16.390Z"
+  },
+  {
+   "title": "横浜市の原沢市長、公舎入居せず別の住宅に 市が修繕調査のため提案、月37万円負担",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwN3FpOVg1dFRvemM4QkM2eDI3OUxzSkFGYlgtREZuWEFVZ04yd1VDakpJUXZtbU1BUWN6T3YwSTVra0ttcmJScGF5SnA3Yko5VjBobjBob0d5b2prYVI2ZXJLV2xtcUcwMWZFb1JiR3gwQkNQOXc?oc=5",
+   "date": "2026-11-20T00:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
   },
   {
    "title": "初訪中終え「建設的かつ安定的な関係を」",
@@ -1045,6 +1579,17 @@
    "mention": "body"
   },
   {
+   "title": "【新企画】『タレントパワーランキング』が2026～2028年の朝ドラヒロインにイメージが似ている女優を調査データから徹底分析！",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbjYwcUY2b0dTLUV6N0NYQnhKZnZqdHEyeHMwaG1PU194UVVTT3MxZlVkSnlqcU1oZzdSdGVFRDVVZTY0dEwtVmtHd1hndWQ2R3BTMmJZa25oQ3FWTmtHWjlNNzNwa3NPRDVCSkpHX2pkbGdtNkw2aUVtdw?oc=5",
+   "date": "2026-11-18T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "自民・維新・国民の法案提出3党は「痛み」少なめ 衆院定数減で試算",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVXNMTnB0emgzUndpQ3U5X3ZLQ1Z5RmZmUDZjeDRjV0ZXaGR2bzNSVzVDLTktbFVMNTFxYVcyNTc1aFpXZGhodUZMYmFUYzdMMzhFdFFwd0trNGMteXc4NTVPM0NRdk0?oc=5",
    "date": "2026-11-17T21:00:00.000Z",
@@ -1203,6 +1748,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "公明・岡本代表、新ポスターに「私の顔で本当にいいのかな」 声なき声を政策実現の力に",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLUNmSTFUVmpqZlM3UVJXMUdoZVg2TEJ0cGdXa3BGb1owUWlzOXVJTU9CVE5iZk9HV3c4NUVWRVlZV0p5OTA0cnp2WDluOXJOVHViTF9fSVp1amNPYWoxcGt6REJ5R1NpeU5tckswdjU0OGxmRW1jOEpBeGVkUjBqWFRaTEZXa2hXSUc5WQ?oc=5",
+   "date": "2026-11-17T07:42:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "定数31削減法案 衆院特別委員会審議入り 3党 今国会成立目指す",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eTh2YnZXcm1hQnkxN1ltLTNrbE5uaTJNNVdZWHVhai1sbWJhUGU1aTFWMHZHcnNLYk1PRFRHZktwTUZwTTNucDRJbkNXejkxSThGOFUxNnkyUk5QNmRF?oc=5",
    "date": "2026-11-17T05:33:00.000Z",
@@ -1226,6 +1782,28 @@
    "thumb": "https://i2.ytimg.com/vi/u9QwrTrSu5o/hqdefault.jpg",
    "description": "国会議員の仕事の三種の神器を紹介します！ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 ",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "「またバナナのたたき売り」国民・玉木氏反発 消費減税審議で現金給付対象「小出し」拡大",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDY5U2k4eFN5dDFWSDRROVNUMTJjOE1TSVNMM0Z4ZDlBRHNfY0VFNHdVQlhKcTAtSlVsUHZJQnVnYjc5aWxJOWRiRm1MRlBXVjRGZkVJVGR0cmRYdHVFREhSSThob0ZfdE5GMmFsOG14RjlqbUUwN0d5dE9CUGpvU3IwRW5qdW1yU1JidA?oc=5",
+   "date": "2026-11-17T04:14:24.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "「法的問題ない」関文科相、パーティー開催巡り強調",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1saWduYzY1WnQ0T05YUF9CeDJfdU01ZlpUeVdNXzE4SUM0ZWIwaWRUVC1zdFhNZzF2SWpBQXBLOUs2UW9hTC1RdEZDdGZyYTdCdnZKM0toN1g5TVpPX2FEZ3lDQTh2a1Zma2hBRUtDV0R5Qm9CZWc?oc=5",
+   "date": "2026-11-17T03:16:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
   },
   {
    "title": "【全文】参議院 総務委員会 質疑／党首・安野貴博（2026年11月12日）",
@@ -1286,6 +1864,28 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "【フォトギャラリー】横綱大の里勝ち越し、豊昇龍5敗目 熱海富士勝ち越し 1敗に4人 大相撲九州場所9日目",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84ZlI2OHRRMGhzN1l4Q1lwM3pUcXNIamo4aFoyQzlYRFhzd01RS2RETWUwb3VkY3pIdVltb3FCZUdtRi1OdERuelRDUGp0X1NrSzlwS2VLZnJWcW5Wa3lhakNlSkRaTm9vdnRTYVFRREpCWm94UXc?oc=5",
+   "date": "2026-11-16T10:33:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "市営住宅の家賃滞納、計1億円超え 管理体制検討 三重・伊賀",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSnliTC1WQzFHNlRGbjNpNk1XLTRNU0J2YTRtSUFmOWpmeURyTUF5V0F4Ukxubmp2NkJvenViR0VwdGQzWTJvelQxUkwxNTg4WWZfdmhHT2VYV2E3ZnpVQU9uVTRkMXV2cXgxUFJNdW5mZDNVN1E?oc=5",
+   "date": "2026-11-16T10:24:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "【画像まとめ】齋藤飛鳥、くるまが坂東龍汰＆高石あかりW主演映画に出演！ くるま「そりゃOKですよね」",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZDIzemVUazBxNTZsOF9HdU1CZ0RBaDUzX2g2R3BnNVZidHkwYWxPRWVFb0hPTWo3SXFOWkM3cnZ0cURWT3RxWFVlVzROMW9nQjFaZU9COUQxTWxGWXV4eEZuTzQtcVVLdWhTd2cwSEVpV2JJcUZUMmd3?oc=5",
    "date": "2026-11-16T10:24:00.000Z",
@@ -1330,6 +1930,17 @@
    "mention": "body"
   },
   {
+   "title": "福岡市長選なぜ再選挙…後継指名なく13人乱立、5党自主投票 〝高島市政〟継承訴え多く",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1lMYTZ1cS1wSnpCMVliS1htYTVwOVhSTHdacnV5Y3htbkxTc3JsNFVVNi1qSUJXNXZkTEtyR25nVGJkNzl4VTkwd0xwclNTaVZoMGFTNV9iTm9UWWk4WmRVWFRXb2dReHY0cmhndDduTjVyV3FwQ2k4bHlRVDB4d3JSOW5LT0JjX19FUw?oc=5",
+   "date": "2026-11-16T01:01:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "ANN世論調査 減税の財源説明「不十分」8割 内閣支持率50.8％に上昇",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUmpLMDVmZERUMWUtQUpqRlVubjNGUHRSNlN3Z1NEY19VZ0JzUkdsRldITmprQVRCdWF2amcxQklXLWdNaWU5VFJmcTQwQ3ZtVjNkd1BycWR0LU5nVzJoQXFQR0pZbFROZlR5MTUwdEw3R0k?oc=5",
    "date": "2026-11-15T20:52:33.000Z",
@@ -1363,6 +1974,17 @@
    "mention": "body"
   },
   {
+   "title": "山形・長井市長に遠藤氏初当選「市をどう変えるかで頭がいっぱい」 6選目指した現職破る",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXN5Yl9veU9GMjhPd3lTOHR0cW1JV3o2Z2I4eXJINDBKVEhMWnJxZVdqMWx3NF9DdzNUTHphdngzMWlaNF9xdXpEa3doX0FoYmx1TkxlV09GYTdJRDRMeEU5ekhsaVNGMkh6YUtPdk91ZkpyT0NpdFVrcnQtb21TRlhnWFVKZmREZm5keA?oc=5",
+   "date": "2026-11-15T13:31:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
    "title": "消費減税法案「賛成」52％【NNN・読売新聞 世論調査】（2026年11月15日掲載）",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdkI1OUdQTGJEdWppYzZCSnhOY2MtQkxFUE9QT0RPV1hYaTh0SUtOejNsLU5FakZLNU12R0RiMjBzMl9MRnZhckl0anlja2RFeEFzZ3k3QXI0cnVpb3RQN3ZZd2VqR09PcTVlU21leWhmQlRSdUhrMXF0MmEwQQ?oc=5",
    "date": "2026-11-15T13:00:00.000Z",
@@ -1393,6 +2015,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "熊本市長選で大西一史氏が4選確実 元市議ら4新人破る 現市政の継続争点",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RSHhnb1VzclhnZzAzVGpaTERzUVQ4dkpDVFNFZzlyWHUzdTlBUlZfdFlqaG1MR0FyME1wbjhxUXpwc3NUbTFfbnpVdzZUY2ZHM0lHTGt0d0luLWQ3NTRXalFKMVdPZ2pYLWRrcjIxdndnVTZwbkE?oc=5",
+   "date": "2026-11-15T11:09:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
   },
   {
