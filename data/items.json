@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-21T23:06:04.357Z",
- "lastAttempt": "2026-11-21T23:06:04.357Z",
+ "updatedAt": "2026-11-22T00:06:10.259Z",
+ "lastAttempt": "2026-11-22T00:06:10.259Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 山田瑛理"
+ ],
  "items": [
   {
    "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
@@ -18,7 +20,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-21T08:00:34.000Z",
+   "date": "2026-11-21T06:58:10.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -67,7 +69,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
