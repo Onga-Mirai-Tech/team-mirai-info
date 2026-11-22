@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T01:06:13.216Z",
- "lastAttempt": "2026-11-22T01:06:13.216Z",
+ "updatedAt": "2026-11-22T01:35:55.276Z",
+ "lastAttempt": "2026-11-22T01:35:55.276Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -12696,6 +12696,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-21T09:06:05.146Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・減税日本・ゆうこく連合 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3Y21fN0E1NGtpXzdlWDhDbGhPY0FmeWdxcElmcDBlT0dSQ2otOW5icVdhZXg3TFJ4aWRyQW5lRlZrMFJkV3A2VkRYcjZKUGZRbm5rVExRMWtIdEhoaXVVU2JQQmplMWd1Vzc0?oc=5",
+   "date": "2026-02-08T14:58:13.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-22T01:35:55.276Z",
    "mention": "body"
   },
   {
