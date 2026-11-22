@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T12:06:04.205Z",
- "lastAttempt": "2026-11-22T12:06:04.205Z",
+ "updatedAt": "2026-11-22T13:06:10.863Z",
+ "lastAttempt": "2026-11-22T13:06:10.863Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -26,7 +26,7 @@
     "anno"
    ],
    "thumb": "https://i2.ytimg.com/vi/Up6vk_-veAM/hqdefault.jpg",
-   "description": "AI時代の日本のサイバー対策について、セキュリティリサーチャー・瀬治山豊氏に #安野貴博 が聞いたインタビューの前編をお届けします。",
+   "description": "AI時代の日本のサイバー対策について、セキュリティリサーチャー・瀬治山豊氏に #安野貴博 が聞いたインタビューの前編をお届けします。 ※攻撃者のオフィスの画像は、漏洩したチャットログをもとにしたAI生成の再現イメージです",
    "firstSeen": "2026-11-22T12:00:21.172Z"
   },
   {
@@ -52,6 +52,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "木原官房長官（左端）と会談する沖縄県の古謝玄太知事（右から2人目）＝11月22日午前、那覇市",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3FtZVR1X3J5d3A2U19OOEd3ZVVFT1JndC1XTGtDcDNTNmVtT3RSNkdWZnQ4TkdzQlNBZHR6bXdvMlhBeHh4ZzN3TTBPNWFkNF9DWllLVngyQWRLZmRhR3ZTQTRkM1AxaloyNWkzZ3dtZFFfSUtRT2Rtcm90ZnpDdHBuOTVnU1B5bWVHblVDQnBhYmM1bzVzcWNYa1BkREk0RXc?oc=5",
+   "date": "2026-11-22T09:31:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
    "mention": "body"
   },
   {
@@ -378,6 +389,17 @@
    "mention": "body"
   },
   {
+   "title": "政府広報「ナオキマン」起用「調査・選別」を批判していたリベラル系の二重基準 有元隆志",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3lvZlZtemQxcGRQbDFFZ3dEU082V0xPNzFjejJjYVNkTkRWU01lNUhlT0UwRlRROEhON1NCVi1wcXpra1BfNkJSSzdPRmJkYnZGdVRtdjdrQUhJQ0ZfaHFuUDdrOXFOX2ZoSWlqOWJMdjVmM082cEF1cklhdjhoVHR5c2RnUXItSFVXRzNXemgzdHRzOTkwNjZTX00?oc=5",
+   "date": "2026-11-22T06:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
    "title": "HAKO、ニューヨークのデザインスタジオLichenによる「A Study of Light」展を開催",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Za1RicUZ2WElValhmdnZDQjlEenpRa1kyVDBjb1JZTzJvRmVuTENoSmNBV0NDN05abHFQUmpFWlF2TzJUQWwyQ0xGM0hjcE80a0E4QkNNM3FiSW1yZ1RIUzlyVFJjUGF5cDBTaWlBMnNjQ29aS1IwX3RxTQ?oc=5",
    "date": "2026-11-22T05:38:25.000Z",
@@ -642,6 +664,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-21T18:48:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "地震情報（2026年11月21日 22時01分 発表）",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUJrREtYTmJUYkgyd1FTVHpDd3pFUFhPclhjc1pWcng4cjByM0NkaDlNUXBlQmNIX3JyN2dZbGVWODNYRnVtWkR3ajFUdXdTRGtoaWdsVXkzWFUtUjBEUDllTUowNGxQMUMzYURpSDZabHExNWx5VEpLWnl0WjlLNE5R?oc=5",
    "date": "2026-11-21T13:01:00.000Z",
@@ -749,17 +782,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-22T03:06:09.465Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T11:29:25.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -892,6 +914,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "記者会見する自民党の鈴木幹事長＝11月21日午後、盛岡市",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczF0YnJPaURrU3pTaTJLdmk1ak9tWlBEZlFnb3BHNEp0Z21ybkpCaTdhdmFFMDZ6OGhqX1JkX1VwcGNta0VJWlcwRXFhWTM4ZjhoUHlHMlppSVVqZGlTcENpaXNrMWVZOWZNZlBIdHlia25SUUZ3bW1jMFJPWHphTUp6TnU5ckU1b2RfWmtxNExHajh3Q2txUENZby1FTDBHN3c?oc=5",
+   "date": "2026-11-21T06:09:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
    "mention": "body"
   },
   {
@@ -1147,6 +1180,17 @@
    "mention": "body"
   },
   {
+   "title": "大阪市が「プレミアム付食事券」発行 消費減税影響の外食支援 5000円で6500円分",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkFSSHliRk1sTTdRdnd1cWkzakNHR2JiVGVBN0Z1NDMzT2VLaFkwbzRjRTJLU0Q4UW9aTFNkMEx2bnB5TjBfcjFORVVNRnpmYXFSVXJieElXQnJCNEZ2dDVwb3JTMEplQXlGeWhlckpBaVktaVdwR3R0MTN1U21aRlhEeWhIbGZ3ekRETw?oc=5",
+   "date": "2026-11-20T07:34:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
    "title": "マンションの玄関前に置き配された荷物＝東京都内",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUFXemxBWnp6TlFzQjMyNkJ4UFo3dFR4WkZHSDE3cm1oTk5VR2pKNHpsajNwNzNsS2VTSTlWUDVxY0Y2cEQ1NVRCTVVseGVTVnd6U1Nna0dSb2NvT2g0YVJaN3JWbmRqd2ZGVWg0RERDa2YwSXVXd05UdUNsV3NybGJMT0RNQTZFc0xLb0ZPWkhVLVl5LUMyc09CVTlObHVNVGc?oc=5",
    "date": "2026-11-20T07:31:29.000Z",
@@ -1336,6 +1380,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/336736586/rectangle_large_type_2_b544e4a93c98c9af37a7ddbf8dc5ff2a.jpeg?width=800",
    "description": "このページは、チームみらい所属議員の調研費（調査研究広報滞在費）の使い方のガイドラインをまとめたものです。 調研費は、国会議員一人ひとりに月100万円支給されるお金で、原資は税金です。2025年8月から、使い道の公開と、使わなかった分の返還",
    "firstSeen": "2026-11-20T02:06:16.390Z"
+  },
+  {
+   "title": "EV移行に続く荒波、優勝劣敗鮮明に 自工会が部品共通化表明、「脱下請け意識」急務",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtOXJNU0FLSXdGRW9PZHFWT0pfSHhBeGkwclAzY1pjX3QxejJtU2g0T2xVV1JZeERveHFVSWpxdlhqZ0xJdERRWHdWdHhIS0ZrR2JiTk5HTHNMMEpwSGFEQmU1VFJnaXl2N0NZN1F2a2lxUmdhM0E?oc=5",
+   "date": "2026-11-20T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
   },
   {
    "title": "横浜市の原沢市長、公舎入居せず別の住宅に 市が修繕調査のため提案、月37万円負担",
@@ -1553,6 +1608,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
+   "title": "大阪の副首都化を「全面応援」、関西広域連合で各知事から期待の声",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TUElnaUh2aGlwOXZBRFFOYks1WTBaaFpqM0JTYTh1NHBMaGRPNFUwMkxORFAxRlJ3MndsQnRuakdMT0RaaERVZWlMUVBIZG1oWFBFbjFBUWo0bmhtZ21zRWJVUUo5TldZMVFxZU0zRk9wVDRHVmc?oc=5",
+   "date": "2026-11-19T08:21:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
    "mention": "body"
   },
   {
@@ -2022,6 +2088,17 @@
    "mention": "body"
   },
   {
+   "title": "空軍「飲酒会合」陸軍「ウオーキング」報道 「日米韓安保協力」は大丈夫か 室谷克実 深層韓国",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVZCN2JuR01DZjkwZDR5WksyQTNIcnpjdWFCVGlWQ0xQZkV4U2tNX25IZ0lydkZVSHFHc0hqQ1Fzd2JoMU1WRXZxVVg3aTh1Ympwa3pPbkVsbE5aQmpLRjNGLUJQb3ZzUGxyOEZtb0QyWDlZTDc3LThnRjZFOEM0QjI4dmQyQXNfTEtOWG5YRzdwNU5yWlFyNU9sQnA?oc=5",
+   "date": "2026-11-18T05:21:38.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
    "title": "関芳弘文部科学相（春名中撮影）",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWg4MHZkNmNoMXBmUjRfWGppV042LXAwUWwtWFFTZG9rMmViLUtxc2s4X3p3Z3Z4RTRqZTdxZ1hrWV9PUFR2QkdfNDR2cWJXeldSMFpoa2JWMFVMTDhYUmtZQnNlRDl3ZmN3YkZBWDhyd3h5X1lXQnFHcjk2Z0FrUVRHcUJnaGczOFMzN1dBQUxZbldtNkRDbVczU1dZRDVpSEE?oc=5",
    "date": "2026-11-18T04:44:24.000Z",
@@ -2171,6 +2248,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T12:00:21.172Z",
+   "mention": "body"
+  },
+  {
+   "title": "立憲民主党の斎藤嘉隆国対委員長（奥原慎平撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1k2VFRnOG9mTjdzakl3TnpzUUdSeFNrUlpxM09vVTJQY0NZamF0OGs0VkZOQmRzN2RRSzgweWNLeElTRVB1WDNTcWx0OGNlZmpZNHN5a096cko1RTBxclRtbVVkcTNGVTFLcVdHSDRjQmhGclBCN1FLYm93VWRnSkVndWdKR1ZKMmNXczNvN1A3XzFIQ3VsVGhmaUZsdVJnTXc?oc=5",
+   "date": "2026-11-17T11:33:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
    "mention": "body"
   },
   {
@@ -2334,6 +2422,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-19T11:06:08.108Z",
+   "mention": "body"
+  },
+  {
+   "title": "＜談話室＞初の合唱伴奏…実った練習 テーマ投稿「芸術」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DQlBuT1lXSVBBYjdwUldjUlBIdkl3QVY4UEhTQ18tYWtTUlJOamJHREM0X1pvMGIyb1JLT2l6T1UwVlg3N3dVdGxvSnd3ZnZSQl9iamRfTG9rN3pLNWIweUhlNW9LMWhTamRfMm5EVWZBaVFoaWc?oc=5",
+   "date": "2026-11-17T04:39:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T13:06:10.863Z",
    "mention": "body"
   },
   {
