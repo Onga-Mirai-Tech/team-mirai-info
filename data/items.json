@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T15:06:06.324Z",
- "lastAttempt": "2026-11-22T15:06:06.324Z",
+ "updatedAt": "2026-11-22T16:06:03.521Z",
+ "lastAttempt": "2026-11-22T16:06:03.521Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本 立命館大学教授・垂秀夫",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTTJuWXNucEEtOVNVZTRLTk1MSXdQckFSbnRCNEdvdWJ2SERhbXJNRDZoTkNNQjVza0xTeGg5VkN5OTdFWmJNUzhoUFp3NmxhcWVfdXljWTZRLWRaMmJUZjI2V2h5U1NZY190bnQ0a2pjZ2VwOWc?oc=5",
+   "date": "2026-11-22T16:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
   {
    "title": "「拒否的防衛」米国は中国の作戦失敗に主眼 軍事的優位の低下を踏まえ同盟国の協力重視",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdjJzeE1uWVlwVzdwem0xREZxV0k2SzVSeldubTB5ajB1OXhxOEtzSHpfZHpfczRVUFB2TElHQ3pBYU1CZ0pBNEloMnBUZjBmYXF1S0RuU3JzN0JHQ0VoRlU2UDRiZU1hZUtlQzJpTU95YTB6aEE?oc=5",
@@ -53,6 +64,17 @@
    "thumb": "https://i1.ytimg.com/vi/tDLg5FSTNyc/hqdefault.jpg",
    "description": "セキュリティリサーチャーの瀬治山豊さんに安野貴博が聞く、AIで激変するサイバー攻撃と被害の実態【前編】 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?su",
    "firstSeen": "2026-11-22T12:00:21.172Z"
+  },
+  {
+   "title": "韓国教育相が辞任 入試でAI不正「事前準備が不十分だった責任取る」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0ZUVSODhHOXlycC1Cb1lPN0JUS2JDSDFjMjllVHFpekJtVkV2RW5XVmZXaE1TQnF5aFdhTkg2TW0zTzd1Rko4aTlvTDRtUHFoTFNzYXAxcXZHS2Z5Y2FYSlp6Sk1SNGFmcmxVNl96X0UyYXB6UGE1a2NR?oc=5",
+   "date": "2026-11-22T10:50:38.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
   },
   {
    "title": "普天間「負担軽減会議」、年内に7年ぶり開催 木原官房長官が古謝沖縄知事に伝達",
@@ -741,6 +763,28 @@
    "mention": "body"
   },
   {
+   "title": "産経新聞の取材に応じる細谷雄一慶應大教授＝11月17日、東京・三田の慶応大",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU05ejEwTGpEQm9CSkQ0bUNQQ1hPbXVJWFh1R05OcG5ZUXlUdW9TdjhGVWpZWnAtVlpiNjllWHpzQ01CZFI2a1B1QXVMaWRod2V2d3NDUFBXNHliTHZzZm9DTlNVSWVjNXhzem5FQzJpVVhkZExEN19IYmZ2X19TcG9zOFVlby03cUJNWUpQMkIzMEFISkVxVFZEY1ZHNWs0WFE?oc=5",
+   "date": "2026-11-21T23:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-21T21:33:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "地震情報（2026年11月22日 05時42分 発表）",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUZsMS12eE5MRkdQckhfQTFNb09odmpfZjF1NFV6OXczSkIzZWxGVHk1b09LbVpJeUpva2FMUFdodFgwVlVwek51ZnNxd3AtRm9jVWREanYwenEzRl9pT0JqYkVpb1VkZG9hYVVGWEN2VEJOTThIQWdsY2MxT25UbnBn?oc=5",
    "date": "2026-11-21T20:42:00.000Z",
@@ -754,7 +798,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T19:21:52.000Z",
+   "date": "2026-11-21T20:21:52.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1005,17 +1049,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-21T06:58:10.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "自民・鈴木幹事長、関文科相交代の可能性を示唆 「法案成立が最重要だ。阻害要因なくす」",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTWVXalFwbUtqZ1dzMmNWR2NqWFBHYVdNSWY4dEdRWWNvc09FeGgtc2VsZmFCZEJuRTdLUG1paG1qOGtiNmpwTU1PQTJpc2JiVzFyNlFBTVJlYUVTNEJ3b3lNV3Z5bnU3TnUwUU9XNFFlMXpBeXc?oc=5",
    "date": "2026-11-21T06:09:14.000Z",
@@ -1035,6 +1068,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
+   "title": "小沢新党はもうこりごり 脳裏かすめる小渕恵三氏との因縁 風を読む 論説副委員長・坂井広志",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnZtLTUybTU3dzVwaEF1NTZqN0pOOHFYT3hwS2dfVVNZSVh6NFFCY1BjWGV0Xy1pUUtMWFdwdVFuTXU1NUN4aUF5UUdJN3pCRjlKR3JTVEs0aGtBYUNaUjdxalp2X01DdVNiUThiUWVIV3huOGNCcFNKamlXZGRBM0FEa2ZyTFBJa29INg?oc=5",
+   "date": "2026-11-21T05:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
    "mention": "body"
   },
   {
@@ -1949,6 +1993,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T14:06:04.143Z",
+   "mention": "body"
+  },
+  {
+   "title": "記者会見を行う木原稔官房長官＝11月19日、首相官邸(春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckJKcVE1aFZJNVZHbnFNRUZCX0VISVBBQl9zVDVyQmloak5zTm1jYXMzTTVWcFlHVkVWZS00d0drLVdGUFpFMk9qczA5TnRoTGxYcXdXXzVDbktOVU0yY1pxRU8yNDVmbjFxMTNCdUxhTHBjc1J4eE9rY2xfOFlrRGl3a3Nlekt1LTVRay00ZmRBQmpPSVdsazNEMEJ3ZzJOMnc?oc=5",
+   "date": "2026-11-19T03:08:16.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
    "mention": "body"
   },
   {
@@ -2981,6 +3036,17 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
+   "title": "「中曽根平和研究所」などが開いたセミナーであいさつする自民党の麻生太郎副総裁＝11月16日午後、東京都港区（星直人撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDZuTmYtMGQ3N0lQZFhNRlVtLTU3QnNWZTdBRGhzRjUyWkppUk03ZkJDNloxMGpFTEhTVmVLTHQ4Z0xWd09uaVpTY0FmR2RpR3hnWC04enRwRGtldEVtNktWaEhYU2pTOWFwYVBkNU5uVGFoVFk3VWxEYjBVVUwxNHV1TVZvZXpOQmotVUZpZVc1OU80eEdRS0xOa3doMWNaTVE?oc=5",
+   "date": "2026-11-16T11:32:56.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
    "title": "【フォトギャラリー】横綱大の里勝ち越し、豊昇龍5敗目 熱海富士勝ち越し 1敗に4人 大相撲九州場所9日目",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84ZlI2OHRRMGhzN1l4Q1lwM3pUcXNIamo4aFoyQzlYRFhzd01RS2RETWUwb3VkY3pIdVltb3FCZUdtRi1OdERuelRDUGp0X1NrSzlwS2VLZnJWcW5Wa3lhakNlSkRaTm9vdnRTYVFRREpCWm94UXc?oc=5",
    "date": "2026-11-16T10:33:58.000Z",
@@ -3058,6 +3124,17 @@
    "mention": "body"
   },
   {
+   "title": "令和9年6月の任期満了に伴う青森市長選、葬祭業社長が出馬表明 「挑戦する市にしたい」（写真・画像 1/1）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3cyR1VEZkJ1UE9JTmpGUzg4aURRZ2tRVVJfdFdsci1mcld1UTlodUswTkZ1cFFuQmJkOTJ2alotR0V3d0doS0tPV212R0ViUWVfS1BsdXdORXpiLXZJSXMwTGlpeVNnLUhDbUp1VlR6VElCM3hTeVdSalc3dGg4aElQUWJXQ1ZLeUFXUVpXNDFNZ3U2ZEh2eVBYdC1PeGRhOUE?oc=5",
+   "date": "2026-11-16T09:05:31.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
    "title": "映画「ゴジラ-0.0」、興収40億円突破 世界累計興収は150億円超え",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNnZNYlJpa1UydXV4YjVTdU5SWlFhTDA0bS11TjZ5V1FaclhhUU82cEpYZVVRUVc3aTRlUnU4TjJGQzduWjVPWmZhVzVFX2NOVEEyT0dzY1lJUzdTUndHZGRNNnV2U3lCdVA1UFpKQjk?oc=5",
    "date": "2026-11-16T08:52:00.000Z",
@@ -3110,6 +3187,17 @@
    "source": "フジテレビ",
    "mediaId": "fuji",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市政権の対中姿勢「評価する」50％ 石破氏らの採決棄権は賛否拮抗 内閣支持率60％",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PM3dIOFVOZlFFZ3V1VTktOW9haS12ZDAyRnZVZEhjUThVNklWM1JCdThCamhtTjRNV3JaNWxpV1ZJa0s2Ty0tX1ppdTRjS3pJdEI5TXdXZGhTZldqb2k4RHBMbzJ3eUU2QnN5RGNkWlB6Y3JuMmc?oc=5",
+   "date": "2026-11-16T02:44:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T16:06:03.521Z",
    "mention": "body"
   },
   {
