@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T18:06:04.524Z",
- "lastAttempt": "2026-11-22T18:06:04.524Z",
+ "updatedAt": "2026-11-22T19:06:02.699Z",
+ "lastAttempt": "2026-11-22T19:06:02.699Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -2224,6 +2224,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T12:00:21.172Z",
+   "mention": "body"
+  },
+  {
+   "title": "定数62に対し公認わずか1人…立民「守りの戦い」 茨城県議選、尾を引く中道結成の混乱",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DYWllb0RjUU1mT2ptWlgxSGkwNXNyYThIcGdVVzlQTnJXZ2tVNnRqeXQxWFlNTGcyTklJS1ZTZEprU3JMY2l4bWFkQ1lMU181LWJHWC1mbWxKTEctaVc2cFBvMURpS1JwTHFRLVVqSVA5YUJJYUE?oc=5",
+   "date": "2026-11-18T22:40:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T19:06:02.699Z",
    "mention": "body"
   },
   {
