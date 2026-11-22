@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T14:06:04.143Z",
- "lastAttempt": "2026-11-22T14:06:04.143Z",
+ "updatedAt": "2026-11-22T15:06:06.324Z",
+ "lastAttempt": "2026-11-22T15:06:06.324Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -754,7 +754,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T19:23:17.000Z",
+   "date": "2026-11-21T19:21:52.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1204,6 +1204,17 @@
    "mention": "body"
   },
   {
+   "title": "スパイ防止へ虚偽身分罰則 不当干渉、脅迫的行為も インテリジェンス有識者会議で政府案（写真・画像 1/1）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkxXQ3RWcl9FN3RWN1JHZWo3dGdwUTFmZUw5NmcwZm9ULUxqR1JSSG9FMGQxUGFMUEFCMTBYVTlFVmlnSkxnejU1MXhLWDhVM2wzczQ2LVpwZzB2dG9iMkdfbWtEMlJrc0JxbmdPR2VWM0Q5OWhwNHpTcWVnbC1iT2hzVHJSRDdmV3VhbTR0VDZKaXZBY3ZwWFlnWFM3bkxPRkE?oc=5",
+   "date": "2026-11-20T11:15:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
+   "mention": "body"
+  },
+  {
    "title": "【AIセーフティ最前線】国産AIの安全性を担う専門家に聞く #安野貴博 #ai",
    "link": "https://www.youtube.com/shorts/1Y-lweVy4WQ",
    "date": "2026-11-20T11:15:05.000Z",
@@ -1331,6 +1342,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
+   "title": "大阪市役所＝大阪市北区",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0dqaU5qaTdEUTYydHNJQXJ1dG9xV0ZoMnNwNFZnVHFOOWZ2aVhwU0MzQk1BZjZHZjZkbHgxU2JjMWF3SVhRUlhfQTlVRnNzcWsyR19zNTVYdEt3U1dJNzQ5X2c5RTdINXNGdGl3azNlR0tUYXlEUTBIb1NXTDNQMDNwM1lJWUlnNWNOY1dnZ3JuN1I0bnFjemVSR3paRTl6WVE?oc=5",
+   "date": "2026-11-20T07:34:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
    "mention": "body"
   },
   {
@@ -1464,6 +1486,17 @@
    "mention": "body"
   },
   {
+   "title": "消費税減税関連法案 首相が秋波送る公明は想像以上にきつい 水内茂幸の縦横無尽",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzMlBockc2UjF5bjZqcS1xRXZ4TWxBSXQ5ODk2NDYyenV2MUtjc0FzZFM1bFRVb1dOV1ZueGplLTRXd3h0N0RNODJsamdRV193S01OV2pBUVJKdWIwMVdVMXZ5a2MtUXZzSzV5U0FtN0JpXy1UZ3c?oc=5",
+   "date": "2026-11-20T04:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
+   "mention": "body"
+  },
+  {
    "title": "高市内閣 支持率上昇68％ テレ東・日経 6月世論調査",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LWUk0akh4aUt2YlMtYk1aX3ZNTUtld0pmd2tNQmFQQzBmOHN1ZVhfVmhkNVVqRU9uQ1Y2ZXdQQUNvcE5nWHcxZHdtZDlQbE5KZElVbw?oc=5",
    "date": "2026-11-20T03:55:14.000Z",
@@ -1505,6 +1538,17 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-20T06:06:03.084Z",
+   "mention": "body"
+  },
+  {
+   "title": "自身の政治資金パーティーについて説明する関芳弘文科相 ＝11月20日午前9時50分、東京都千代田区",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOExoeHdwbmNGZzR3dVlESXhfWkwybjZZOUZ4dVMzSUx1OWlDRkNPNi1rcmFyTFVjWFp6c01vTHBybi1Wd2lUaEVWaDhCa0pfRTVja0pLRFpuZF8zdjZ3SERXWldlczlTYTIzVVNZN21ENldSNlVIdnNEblRBeW9nNFVFZFIyMmt1WjlEYndGUlRubVA4ejB6RXNYOHB5YXdfeEE?oc=5",
+   "date": "2026-11-20T02:42:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
    "mention": "body"
   },
   {
@@ -1985,6 +2029,17 @@
    "mention": "body"
   },
   {
+   "title": "日本保守党が党大会 百田代表、衆院選惨敗を謝罪「高市旋風」も…「根はやられていない」",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTc3YmFuRVpibGhic0tORng2MlVjRHVteGdwcDJmZjYzTmZ1clEwQlJRQk5JenV0NVZGd2hyelQyVHMwTDY2VGstbk9FRHB0emVqYk9CSUVqd1RDbjZSSThQT0F5eDZOMHgxNkw2Q0x5UERfMThrR0o4VFdKZTNNeXpTdmFObk5YTURYQQ?oc=5",
+   "date": "2026-11-19T02:07:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
+   "mention": "body"
+  },
+  {
    "title": "EVなど購入補助金が25日までに受付終了へ 残高107億円がなくなり次第 申請は先着順",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fRUlISHdTdUlDaTl0VUlvdW1Xd2Zfbm1ITTlURXNaalR1Q1RzdldWV295WW9STGdqaHJTbnBGZ09zUm83d3J0N29Ua2NYalA4alBLRXkwQlJpZDFzaWtHU1BuVkl3U2tHelVQd2FoSGRhdw?oc=5",
    "date": "2026-11-19T01:25:10.000Z",
@@ -2123,6 +2178,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T19:06:07.353Z",
+   "mention": "body"
+  },
+  {
+   "title": "APEC首脳会議の会場で握手を交わす、高市首相（左）と中国の習近平国家主席＝18日、中国・深圳（代表撮影・共同）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVZ5eS1xclF2YjRidGdpcWFURVVnTFRJQ1NqdHlwV1hDNEwxRGhhUWZYWHhEN1h4WkJnd1VjYjVUN1ZRdHlIdEJhZ1BhbEZuNkVBamdrNHBlMXltLUFmOEpFQ1BRaG81SVBpWUNYZE1fUzdGTzN2N3JUdk9heEdybGt0ZkdmMW5nR0h4SVZ1akkwWDB0OHJyaVA3eXc1dWliU2c?oc=5",
+   "date": "2026-11-18T13:41:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
    "mention": "body"
   },
   {
@@ -2284,6 +2350,17 @@
    "mediaId": "asahi",
    "firstSeen": "2026-11-18T21:06:06.576Z",
    "mention": "title"
+  },
+  {
+   "title": "「富士トラム」運賃は往復1万円以内、車両候補に中国製と欧州製の3種 山梨県が計画素案（写真・画像 1/1）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1lTbTFwZHE5SEhQbWVNdGhkRzlDZWdOZEVzYjg0UVJSc0tnN0RIVEVPU0o1S1VEUzdPQlVOQVJYbGN4Tjl1R01TM2FJbGxyc3JLZzFrYWdNSjBPQXVUQWVSdE0taVBqdXc4RXNNMUJqdDdYdnN2WkRKWFd2WG4yM3RRMHZZQ1lxYWVpVEo3bU8wcVo0RlViMnhWeGZxRWp6LVE?oc=5",
+   "date": "2026-11-18T07:51:36.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
+   "mention": "body"
   },
   {
    "title": "マリウス葉が子どもたちにメッセージ「疑問を持つ姿勢で成長していただけたら」",
@@ -2451,6 +2528,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T11:06:04.763Z",
+   "mention": "body"
+  },
+  {
+   "title": "衆院選比例区定数削減法案が審議入りした衆院政治改革特別委員会＝11月17日午後、国会内(春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZU5DT0hYOEl6eE82SDNwSy1KLURGUEhhbXc1QTBmUU5DYnV3LU1MSVE5TWQwYVRsTlBBQzRVM2NUYlo3WXN1Rm9LQ0MtTXFiZUNXdkdncmR1Z283WTEtWmIxVEZnbEIwVXFjTmwwdXVCVDM5dkJrcXhMVHEwMk9QMjNZLUswSVlZaXQtTUtjYWc5QTcydHZRa3gxeFk5QmJDZFE?oc=5",
+   "date": "2026-11-17T22:00:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T15:06:06.324Z",
    "mention": "body"
   },
   {
