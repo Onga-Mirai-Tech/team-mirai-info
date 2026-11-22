@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-22T03:06:09.465Z",
- "lastAttempt": "2026-11-22T03:06:09.465Z",
+ "updatedAt": "2026-11-22T04:06:02.660Z",
+ "lastAttempt": "2026-11-22T04:06:02.660Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
+   "date": "2026-11-22T00:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-22T04:06:02.660Z",
+   "mention": "body"
+  },
   {
    "title": "フィリピンで日本人9人を拘束 AIソフト使い特殊詐欺か 日本の警察署のセットも",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPZ0dFdzBXRmdNT1FCMk1CSGh6RGIzdXdQbUNSNmR2cXF3UE53b05INkdEeEVJZXhqVGg1TGZ6QnQ3OEZvQk9HZkx2U1NiQ1o4Umc2eFl6TUphWDB0bGFJNWh1bG1VRzRYeXI4amZ1bE95Y2lodUw2VW9B?oc=5",
@@ -40,7 +51,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T06:44:04.000Z",
+   "date": "2026-11-21T06:36:50.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
