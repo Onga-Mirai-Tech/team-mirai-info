@@ -1,10 +1,8 @@
 {
- "updatedAt": "2026-11-22T00:06:10.259Z",
- "lastAttempt": "2026-11-22T00:06:10.259Z",
+ "updatedAt": "2026-11-22T01:06:13.216Z",
+ "lastAttempt": "2026-11-22T01:06:13.216Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
@@ -37,6 +35,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "相次ぐサイバー攻撃に対処 警察の専門部隊「FFF」発足 通信履歴の保全・分析など",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93NWZGcGVVVlZhUG5RdElubkpCRWZ1cHdaUlhHZW9HbGJLZDFhWUhTaDI1RWFVSWxSRU9md1dlM01USlMxUDVxQlhjQWFiR1Fjd2Jnd3ZzUjI4UWVWOW1PdlRjWkRoNWo0Xzg0UE5EN0k5Zw?oc=5",
+   "date": "2026-11-21T01:32:50.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-22T01:06:13.216Z",
    "mention": "body"
   },
   {
@@ -169,7 +178,7 @@
   },
   {
    "title": "公明、消費減税で修正案 政府拒否なら「反対」―西田幹事長",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41U19TTFNsSGhYYW1mNEZLZnBjZ09Fa1NObFN0N250ZEloRVZ4ZmVKeFk2a3hCR042ZWxmdHF4S2Vtc3VlUjZtMGd5RjhkRHM0WTNVM0FjSXlIcFJYQkw2a2JOWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3LW1HWEU2VWVKRC1MdjNjeGJ0Qm5BUTFRQVhIRG1kQ2M4a3FudVhZd0VUZjgwWHluazFuOXU2VmRzNWJ0NHpvN2tyVnUyWXY1elNoTzRmbTlLeGRkY1E3ZkU5cw?oc=5",
    "date": "2026-11-20T10:34:00.000Z",
    "type": "media",
    "kind": "article",
