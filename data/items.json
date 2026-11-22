@@ -1,9 +1,37 @@
 {
- "updatedAt": "2026-11-22T08:06:03.388Z",
- "lastAttempt": "2026-11-22T08:06:03.388Z",
+ "updatedAt": "2026-11-22T09:06:06.733Z",
+ "lastAttempt": "2026-11-22T09:06:06.733Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏と「AIインタビュー」 AI×人間",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSENsaXdqMjJkZW5wcjJMT2xIY1RtS3pDTllwR2ZVZmhMUkdydXdPU1JpSnFDelNLY0VtRGltRTA1SEc0emJCODdkRURNa0swWG1ZbUhtUlhKNXFxMmlDeXhBcmUwRmE2Wmo5Zk0zVk9EZ0xtbkE?oc=5",
+   "date": "2026-11-22T08:37:24.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T09:06:06.733Z",
+   "mention": "title"
+  },
+  {
+   "title": "AIで「デジタル民主主義」チームみらい安野貴博氏インタビュー全文 合意形成にも利点 AI×人間",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaWNOWTg4T0ZSYWFNdEdxVTd1eHNvZENKQm11OWdFbnVRYXlEa0VsVFpSOWNna3REcU1NQy1ZeE9FZHpVZ1hBbkdfYUh3OFNsMUxuSmlwNHlJdUJKc09ZZkx5NXJhRTBfRkQ2aFB0OEV2NWNyenc?oc=5",
+   "date": "2026-11-22T08:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T09:06:06.733Z",
+   "mention": "title"
+  },
   {
    "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏の「AIインタビュー」 AI×人間",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSENsaXdqMjJkZW5wcjJMT2xIY1RtS3pDTllwR2ZVZmhMUkdydXdPU1JpSnFDelNLY0VtRGltRTA1SEc0emJCODdkRURNa0swWG1ZbUhtUlhKNXFxMmlDeXhBcmUwRmE2Wmo5Zk0zVk9EZ0xtbkE?oc=5",
@@ -32,7 +60,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T19:31:53.000Z",
+   "date": "2026-11-21T19:29:37.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -114,7 +142,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
