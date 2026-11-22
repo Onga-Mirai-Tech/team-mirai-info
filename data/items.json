@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T16:06:03.521Z",
- "lastAttempt": "2026-11-22T16:06:03.521Z",
+ "updatedAt": "2026-11-22T17:06:05.830Z",
+ "lastAttempt": "2026-11-22T17:06:05.830Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -13,6 +13,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
+   "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本（写真・画像 1/1）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmx0amlDOFhtSmRBZVFneHV4NDg3RlhqdDJFbFIxbUs4STNDVWpFNHJnYkoyaGhxbm80SFZCNlM1MjJ3WjVPcEcyNW9ZZTRKVFo3N0VrZUVBS08waGhISlZJdU5IZ1Znanc5NVVrYXhUR0xsS0xTeFl5dWxWQnJjUVlJRmJmakhmVTBxNVdOV3RtM1llMUpxbGp4U0NLZXNNTFE?oc=5",
+   "date": "2026-11-22T16:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
    "mention": "body"
   },
   {
@@ -776,7 +787,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-21T21:33:02.000Z",
+   "date": "2026-11-21T21:31:33.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -798,7 +809,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-21T20:21:52.000Z",
+   "date": "2026-11-21T17:20:41.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1215,6 +1226,17 @@
    "firstSeen": "2026-11-20T15:06:04.533Z"
   },
   {
+   "title": "日チリが鉱物供給網で連携 来年外交関係樹立130周年 折り鶴モチーフのロゴ発表（写真・画像 1/1）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFN0Ql9Sc3BtdzcxY3M0MndXd0dFTDhSV1ozUHBuUWF2VTBiV1FkSGVyZzdZY0NoYnBtam9yQXFzQ0ZBUGcyODk4bzB2VU0yWXgtNFlqU1ROTHd0UUczTFptd2FaZGowVFV4R3lTLTlmRzFBSmVHN3ZHMFk3VkYyUjBQV1VXbHREZFVkMkNkbFMtcU4zVDdZMUtQRHAxZnlCWVE?oc=5",
+   "date": "2026-11-20T13:54:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
    "title": "安全保障上重要な土地の取得規制法案 衆院内閣委で可決",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S3ZsRUJsNmhkSTNNc3BINWs5NDdHMHN3dlJpMkVTenh6eWl4QWlXVEtGcG9jblgwSTNWUmw4VGZnNjB5OTNwU0NqcFNoYktGQUo3bXZTeEk4TWJNREV3?oc=5",
    "date": "2026-11-20T13:42:04.000Z",
@@ -1497,6 +1519,17 @@
    "mention": "body"
   },
   {
+   "title": "定例会見に臨んだ横浜市の原沢敦美市長＝11月20日、横浜市役所（橋本謙太郎撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVBWMUFmMWh1ZWFIemJCUUREYnp4cE9KdUlOblZQU3VJRVRCeExzTXZ3Y0NJYnptM2NhVjBHWnBONWdEQWp0X01lN1NIa1lVQW0xeFJDVFNNTUdJVmJWWHNYelUzWWFYaFhpMk00NTJrWm81cDd4RjdRWk5lS0dDTXhncDQtZnRyNlE2TU9Sb0JWak9UdVluZEI1WDBuRmdxZXc?oc=5",
+   "date": "2026-11-20T04:38:50.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
    "title": "高市内閣 支持率66％ 高水準維持もやや下落 テレ東・日経5月世論調査",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kUWVBNFh0S3ZDUHVpR1h6aHJuTU8zcXV0SzQ5QUFiSXZIaWg0WmZWTkYwTkdlOVNoSTk5X0g0NVNvMDJOQXZidV9mSGd2NzdUUmYwaw?oc=5",
    "date": "2026-11-20T04:19:26.000Z",
@@ -1676,6 +1709,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "横浜市長公舎。原沢敦美市長は入居していないという＝11月19日、横浜市西区（橋本謙太郎撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2NYRmw0T3VYd3pmaWVYMW4tRHp2alVhVFl4dmEwamp4R28yZXR2RVhnQ0FDOWpOc0s5cE9pWUJoVXNqWGs4d0lKQllPSWdteDdXZ1FaZEJLVXdoaU13UjFpTDE5MmdVRXBNVGVFeHpyOGZ3OFB0SDBRRUVfcjJEYVl0WDVIRUtLNTk1eEF1NjkwSFFfajc3NUxMdGlmMkZXcXc?oc=5",
+   "date": "2026-11-20T00:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
    "mention": "body"
   },
   {
@@ -1927,6 +1971,17 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-19T10:06:03.141Z",
+   "mention": "body"
+  },
+  {
+   "title": "エゴマ搾りかすの美容成分、保湿の酒粕エキス配合でボディクリーム 秋田県立大生ら開発",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTWZCME1IblpJT1M0bzNNS29JckstbkFkYUJoVjFqck9MNVNDUnZSeUVWUUtzT3ZGT0dtTWFSanBEQlE5ejZINTFxY09iRmFkaHVsV213eUY0UWk3dDJPR2NWdFpsa1ljOHNHN2N1SDJ2WVpraFE?oc=5",
+   "date": "2026-11-19T07:50:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
    "mention": "body"
   },
   {
@@ -2247,6 +2302,17 @@
    "mention": "body"
   },
   {
+   "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か（写真・画像 1/3）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVRoT241SjI2M2dDdDBfdHBuUU4zcXFJc2wwU1k3ODYzb05yYUJpbEFKbmlhMXZ1NDAtbWxsV0ljdzNoamI0UkpycGZ3NHJJNUtPaXNTQWVtZDhwVWYxM1dRZVd3VmZsWEFEMWhnRzFQLXhYVjZKNy1PVVRON1pHaVJBOWZ6dlNPdDRrZE1MQmdRWlhWd1cwWFBqQ0pJTFpWdGc?oc=5",
+   "date": "2026-11-18T13:41:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
    "title": "地震・津波ニュース一覧",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOWUdOcUhLREN1RVlER2VlZHBkTS1lSEFvTHNfbjYxd2tqTGF5VUxvYVhBZUg2LU5IbFBFZXFHcFhxWHcxUUl0TTRrNVdtMGJhMXFDLWlNejk0OE1m?oc=5",
    "date": "2026-11-18T13:14:18.000Z",
@@ -2313,6 +2379,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T12:00:21.172Z",
+   "mention": "body"
+  },
+  {
+   "title": "APEC首脳会議出席のため、中国・深圳に到着した高市首相。首相就任後初の中国訪問となった＝11月18日（代表撮影・共同）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnUyY2otRlU3ZTlJUDI1RmpvQWc2d1lGTVY3NmhSdzlPbVAyUjdfcE40R2VRcGs2ZHV1LV9mcWFaVkJqSDc1ZUotTUVIS3kyZ2t6ZHNjWDhTQnRLcUcwQVZIcXpkRmhHMTdnTHp3Sy1iSUpvbm1YZlc4WmpvaTlnVEU1TXVvMlNPbndYOERsWG5MbDhhM1lMU2UzdUJtWjBTR2c?oc=5",
+   "date": "2026-11-18T11:20:17.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
    "mention": "body"
   },
   {
@@ -2854,6 +2931,17 @@
    "mention": "body"
   },
   {
+   "title": "衆院選比例区定数削減法案が審議入りした衆院政治改革特別委員会＝11月17日午後、国会内（春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0hfMHVfV0RhcmYzZTRrQ1E5MEI5ZDViQXVrM1g0WTVWWnVjdVV1LWxqMl9XZ18xb2IxdW9NMVF6TlV3R3NlMWE0SHBmYU1BT0hMZDRJZVNSZTFWbTZDb3I0d2IwSlcwUFdiM1pLdHNwRU9MZGNkUC13NEpWTFB5bHpFMHFycV9CNXppVFpfOWZ0b09ReWVVeWs1TkIxWTdnZ0E?oc=5",
+   "date": "2026-11-17T05:44:48.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
    "title": "定数31削減法案 衆院特別委員会審議入り 3党 今国会成立目指す",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eTh2YnZXcm1hQnkxN1ltLTNrbE5uaTJNNVdZWHVhai1sbWJhUGU1aTFWMHZHcnNLYk1PRFRHZktwTUZwTTNucDRJbkNXejkxSThGOFUxNnkyUk5QNmRF?oc=5",
    "date": "2026-11-17T05:33:00.000Z",
@@ -3011,6 +3099,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T11:06:04.763Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市早苗首相(春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWdHd0Ixd1pzbVM4TUlqb01HNW16eE5IbmlQaDdpWENXVFVLRW9WUjgwbmxkN1Z5OTBSYWo0SUVHbzFJdzNpVVp3dEMzNVM2dGtJSGJTTlJVUXdEYjkxT2pHM1RkQWRLWmI5S3ZqVVkzeUh6Y2E3YTlWdnFDa0ZDaXhKTmdodFp2b19JaDdKMGczbFdzRHN5ZnZyTFpVVGdQaHc?oc=5",
+   "date": "2026-11-16T12:18:28.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-22T17:06:05.830Z",
    "mention": "body"
   },
   {
