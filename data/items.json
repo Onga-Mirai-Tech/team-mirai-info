@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-22T07:06:02.549Z",
- "lastAttempt": "2026-11-22T07:06:02.549Z",
+ "updatedAt": "2026-11-22T08:06:03.388Z",
+ "lastAttempt": "2026-11-22T08:06:03.388Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏の「AIインタビュー」 AI×人間",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSENsaXdqMjJkZW5wcjJMT2xIY1RtS3pDTllwR2ZVZmhMUkdydXdPU1JpSnFDelNLY0VtRGltRTA1SEc0emJCODdkRURNa0swWG1ZbUhtUlhKNXFxMmlDeXhBcmUwRmE2Wmo5Zk0zVk9EZ0xtbkE?oc=5",
+   "date": "2026-11-22T07:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T08:06:03.388Z",
+   "mention": "title"
+  },
   {
    "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
