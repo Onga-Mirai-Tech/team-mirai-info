@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T01:06:03.462Z",
- "lastAttempt": "2026-11-23T01:06:03.462Z",
+ "updatedAt": "2026-11-23T01:59:08.747Z",
+ "lastAttempt": "2026-11-23T01:59:08.747Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -17,6 +17,17 @@
    "thumb": "https://i2.ytimg.com/vi/isZVJQedZD4/hqdefault.jpg",
    "description": "国会議員は、家に帰る前に何をしているの？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 ",
    "firstSeen": "2026-11-23T00:06:17.802Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-22T23:33:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
   },
   {
    "title": "【全文】衆議院 災害対策特別委員会 質疑／山田瑛理（2026年11月19日）",
@@ -141,17 +152,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-22T16:06:03.521Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-22T10:07:33.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
