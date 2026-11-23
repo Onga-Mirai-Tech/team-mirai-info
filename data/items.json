@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T12:06:05.979Z",
- "lastAttempt": "2026-11-23T12:06:05.979Z",
+ "updatedAt": "2026-11-23T13:06:03.673Z",
+ "lastAttempt": "2026-11-23T13:06:03.673Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -28,6 +28,17 @@
    "thumb": "https://i3.ytimg.com/vi/NtSiCVd8N-4/hqdefault.jpg",
    "description": "障害のある方の暮らしの節目について、AIインタビューでいただいた声とこれからをお伝えします。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_",
    "firstSeen": "2026-11-23T09:06:03.201Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-23T06:51:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
   },
   {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
@@ -106,17 +117,6 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/339483147/rectangle_large_type_2_cdbbb0988fb71e70a978a7c57f8eda0a.jpeg?width=800",
    "description": "2026年11月19日に衆議院 憲法審査会で行われたチームみらい 幹事長・古川あおいの発言を全文書き起こしたものです。 案件＝「9条及び自衛隊の位置づけ」に関する集中的な討議 発言者＝チームみらい 幹事長・古川あおい 続きをみる",
    "firstSeen": "2026-11-22T21:06:02.909Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-22T18:51:05.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本 立命館大学教授・垂秀夫",
@@ -1606,7 +1606,7 @@
   },
   {
    "title": "定数削減、与野党が平行線 自民「正解はない」―衆院委",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjkwdUtRTnA3LWdfYTdsMDBvVGdocmVpUUxVUll0bzk1QXp4VEpGS3o4YnhoZTNhbVVIV1JaR0JNdEI3WEFWUnJCN1o3SzdsVWpfa0d1MXMwUlFHVHJQbWFaU29FWkMtdWFDbmhtU1VzeWthZEVZeWF6WG90NDB4bVVn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wZUFEOVNJWm52emVNVk91VVJzdWo4a3YyNW1wNkVockg0UUZSZTE1NTNlQkdNSFBNai1lY283VnlYc0tQbGx5aXhFdWtXbDVRXzQxZllSTXJWZ0pkaXllSVExOA?oc=5",
    "date": "2026-11-20T07:19:00.000Z",
    "type": "media",
    "kind": "article",
