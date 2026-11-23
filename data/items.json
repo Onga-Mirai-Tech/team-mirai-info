@@ -1,10 +1,8 @@
 {
- "updatedAt": "2026-11-23T03:06:07.200Z",
- "lastAttempt": "2026-11-23T03:06:07.200Z",
+ "updatedAt": "2026-11-23T04:06:04.961Z",
+ "lastAttempt": "2026-11-23T04:06:04.961Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 武藤かず子"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "国会議員は、家に帰る前に何をしているの？ #チームみらい",
@@ -19,17 +17,6 @@
    "thumb": "https://i2.ytimg.com/vi/isZVJQedZD4/hqdefault.jpg",
    "description": "国会議員は、家に帰る前に何をしているの？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 ",
    "firstSeen": "2026-11-23T00:06:17.802Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-22T23:33:33.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "【全文】衆議院 災害対策特別委員会 質疑／山田瑛理（2026年11月19日）",
@@ -72,6 +59,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/339483147/rectangle_large_type_2_cdbbb0988fb71e70a978a7c57f8eda0a.jpeg?width=800",
    "description": "2026年11月19日に衆議院 憲法審査会で行われたチームみらい 幹事長・古川あおいの発言を全文書き起こしたものです。 案件＝「9条及び自衛隊の位置づけ」に関する集中的な討議 発言者＝チームみらい 幹事長・古川あおい 続きをみる",
    "firstSeen": "2026-11-22T21:06:02.909Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-22T18:02:38.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
   },
   {
    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本 立命館大学教授・垂秀夫",
@@ -1806,6 +1804,17 @@
    "firstSeen": "2026-11-20T02:06:16.390Z"
   },
   {
+   "title": "県はスタジアム、市はアリーナ…知事と市長が対立する岡山 5年ぶりの会談で雪解けなるか",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rQWkweG05WDNvXzN2ajJFdTlRd2pYbzUyblpMTHJSc05XUlhCcFFkdEZjcXF0LTJSbkNCMGtWeXhIeEd4ZGd5NFBJMXFzWUVmTmNCQnREUGc3Q1RaT19DcTIwLUI4ZGxNNFRjXzFhTk9vMTdLenc?oc=5",
+   "date": "2026-11-20T02:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T04:06:04.961Z",
+   "mention": "body"
+  },
+  {
    "title": "EV移行に続く荒波、優勝劣敗鮮明に 自工会が部品共通化表明、「脱下請け意識」急務",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtOXJNU0FLSXdGRW9PZHFWT0pfSHhBeGkwclAzY1pjX3QxejJtU2g0T2xVV1JZeERveHFVSWpxdlhqZ0xJdERRWHdWdHhIS0ZrR2JiTk5HTHNMMEpwSGFEQmU1VFJnaXl2N0NZN1F2a2lxUmdhM0E?oc=5",
    "date": "2026-11-20T01:00:00.000Z",
@@ -2021,6 +2030,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-19T10:06:03.141Z",
+   "mention": "body"
+  },
+  {
+   "title": "記者会見する自民党の小林政調会長＝11月19日午前、東京・永田町の党本部",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0NBZlZVRTlKTVl0WlhKY3RNOFpqMzhWUWhQUUlNRnhzT2pNaE1qcnQ1YmlhVUdrRjMyT0tkb3FhMEQyRUZpVVN1QUNvbWIyNmdhQ1M2UG5jSmxKN3cyM1RaLVg5Q01rM04wcFJCS0xIbS1YWHNzQnBCMWxpcUpFbFYtQnBuSmdjUlV3UlZQZ1gyeVpEZWVGRW9YVFdoSzN3WlE?oc=5",
+   "date": "2026-11-19T09:08:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T04:06:04.961Z",
    "mention": "body"
   },
   {
