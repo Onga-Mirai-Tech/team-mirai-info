@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T21:06:04.334Z",
- "lastAttempt": "2026-11-23T21:06:04.334Z",
+ "updatedAt": "2026-11-23T22:06:05.154Z",
+ "lastAttempt": "2026-11-23T22:06:05.154Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -3491,6 +3491,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-23T08:06:07.021Z",
+   "mention": "body"
+  },
+  {
+   "title": "流出被害近く「第2波」懸念 個人情報流出では済まない被害も サイバー攻撃、収束見えず",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16WEZUV0lUTlVUVnNhMENCN0wxLVRkcHAyS0NiODdzeVYwQ1NkemF0Q25rRUhkLWUzYVh4VmdjSktqc3dFdllBRFk5amZtM041RERnOE9iUVFRbFNjOFc4ejRzR2dObkV4UlFFUGh5OU5JMmd6emc?oc=5",
+   "date": "2026-11-17T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T22:06:05.154Z",
    "mention": "body"
   },
   {
