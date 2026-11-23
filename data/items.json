@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-23T20:06:05.647Z",
- "lastAttempt": "2026-11-23T20:06:05.647Z",
+ "updatedAt": "2026-11-23T21:06:04.334Z",
+ "lastAttempt": "2026-11-23T21:06:04.334Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-23T13:06:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "【サイバー攻撃】何から備えればいい？ #チームみらい #安野貴博",
    "link": "https://www.youtube.com/shorts/S-pEig7xigw",
@@ -39,17 +50,6 @@
    "thumb": "https://i3.ytimg.com/vi/NtSiCVd8N-4/hqdefault.jpg",
    "description": "障害のある方の暮らしの節目について、AIインタビューでいただいた声とこれからをお伝えします。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_",
    "firstSeen": "2026-11-23T09:06:03.201Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-23T07:49:17.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
   },
   {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
