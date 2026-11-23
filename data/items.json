@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T22:06:05.154Z",
- "lastAttempt": "2026-11-23T22:06:05.154Z",
+ "updatedAt": "2026-11-23T23:06:05.399Z",
+ "lastAttempt": "2026-11-23T23:06:05.399Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -52,6 +52,17 @@
    "firstSeen": "2026-11-23T09:06:03.201Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-23T06:56:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
    "date": "2026-11-23T06:08:34.000Z",
@@ -60,17 +71,6 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-23T07:06:11.652Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-23T04:15:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -1500,6 +1500,17 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-20T12:06:37.537Z",
+   "mention": "body"
+  },
+  {
+   "title": "ユーチューバー起用「受け狙い」 政府広報、野党が問題視：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kalp3RTlrcGxNV0ZYLTFuZmZiWkJPd1JZUlJBaEVnYUZYdTVkclM4MmE4eF8xS0xMMmNkNzZoMWtqN0FNeVJrcUo5QkRJTWtUV3BHUE5MX2t6OU1kdjNYSkVGUQ?oc=5",
+   "date": "2026-11-20T10:17:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-23T23:06:05.399Z",
    "mention": "body"
   },
   {
