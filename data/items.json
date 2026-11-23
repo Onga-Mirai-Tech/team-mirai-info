@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-23T17:06:05.620Z",
- "lastAttempt": "2026-11-23T17:06:05.620Z",
+ "updatedAt": "2026-11-23T18:06:08.512Z",
+ "lastAttempt": "2026-11-23T18:06:08.512Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 山田瑛理"
+ ],
  "items": [
   {
    "title": "【サイバー攻撃】何から備えればいい？ #チームみらい #安野貴博",
