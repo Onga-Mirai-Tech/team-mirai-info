@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-23T06:06:03.094Z",
- "lastAttempt": "2026-11-23T06:06:03.094Z",
+ "updatedAt": "2026-11-23T07:06:11.652Z",
+ "lastAttempt": "2026-11-23T07:06:11.652Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
+   "date": "2026-11-23T06:08:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-23T07:06:11.652Z",
+   "mention": "body"
+  },
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
@@ -13,6 +24,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-23T00:57:22.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -91,17 +113,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T17:06:05.830Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-22T13:04:29.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -2931,6 +2942,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T11:06:04.763Z",
+   "mention": "body"
+  },
+  {
+   "title": "2年ぶりクアッド首脳会合、インド太平洋への「米国の関与」継続強調 「中国への対抗策」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91QnlpQnBXOTBXRU4wMVEteGR0cmJVR282TnMzaWhEeXRVellHamFMT0twVUsxUlZERTBZM19WZUVwZGozdTUwMHNSQWJNWXdXS1NIMWhfLXp2VHctd2R2dlJDcVNsdHJYVnRLanlTMms4MDdmRnc?oc=5",
+   "date": "2026-11-17T13:53:55.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T07:06:11.652Z",
    "mention": "body"
   },
   {
