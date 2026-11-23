@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T15:06:06.678Z",
- "lastAttempt": "2026-11-23T15:06:06.678Z",
+ "updatedAt": "2026-11-23T16:06:15.212Z",
+ "lastAttempt": "2026-11-23T16:06:15.212Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -17,6 +17,17 @@
    "thumb": "https://i4.ytimg.com/vi/S-pEig7xigw/hqdefault.jpg",
    "description": "AI時代のサイバー攻撃と防御について、サイバーセキュリティの専門家・中谷翔氏に #安野貴博 が聞いたインタビューの後編をお届けします。",
    "firstSeen": "2026-11-23T12:06:05.979Z"
+  },
+  {
+   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
+   "date": "2026-11-23T09:40:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
   },
   {
    "title": "【AIインタビュー報告】障害のある方の暮らしの節目と壁 2,200件超の声から見えたこと #チームみらい",
@@ -1185,17 +1196,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-23T10:06:03.823Z",
-   "mention": "body"
-  },
-  {
-   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
-   "date": "2026-11-21T08:18:34.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-20T20:44:24.813Z",
    "mention": "body"
   },
   {
