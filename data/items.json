@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T00:06:17.802Z",
- "lastAttempt": "2026-11-23T00:06:17.802Z",
+ "updatedAt": "2026-11-23T01:06:03.462Z",
+ "lastAttempt": "2026-11-23T01:06:03.462Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -141,6 +141,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-22T10:07:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -665,17 +676,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T14:06:04.143Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-22T04:09:42.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -1424,7 +1424,7 @@
   },
   {
    "title": "公明、消費減税で修正案 政府拒否なら「反対」―西田幹事長",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3LW1HWEU2VWVKRC1MdjNjeGJ0Qm5BUTFRQVhIRG1kQ2M4a3FudVhZd0VUZjgwWHluazFuOXU2VmRzNWJ0NHpvN2tyVnUyWXY1elNoTzRmbTlLeGRkY1E3ZkU5cw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41U19TTFNsSGhYYW1mNEZLZnBjZ09Fa1NObFN0N250ZEloRVZ4ZmVKeFk2a3hCR042ZWxmdHF4S2Vtc3VlUjZtMGd5RjhkRHM0WTNVM0FjSXlIcFJYQkw2a2JOWQ?oc=5",
    "date": "2026-11-20T10:34:00.000Z",
    "type": "media",
    "kind": "article",
