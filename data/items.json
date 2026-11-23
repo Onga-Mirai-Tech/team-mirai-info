@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T13:41:06.989Z",
- "lastAttempt": "2026-11-23T13:41:06.989Z",
+ "updatedAt": "2026-11-23T14:06:02.653Z",
+ "lastAttempt": "2026-11-23T14:06:02.653Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -32,7 +32,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-23T06:51:07.000Z",
+   "date": "2026-11-23T07:49:17.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1663,6 +1663,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "body"
+  },
+  {
+   "title": "横浜市長公舎の廃止方針を表明 未使用で公費負担が問題に",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uWXJhUUl5SmlKVmtPTWdxUjlNY3pRY0ZNVU9TMzRwSnN5MWNRb1lQekRQZmlfc29ENDNKbEh4bGNZY19rZldUYjhXdUhScmgxWXpXR0xxN2lKS0wtR1JPZ1V4X2RidDZvRGdzSnNEZjhuUQ?oc=5",
+   "date": "2026-11-20T05:18:51.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-23T14:06:02.653Z",
    "mention": "body"
   },
   {
