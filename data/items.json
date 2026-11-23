@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-22T23:06:03.161Z",
- "lastAttempt": "2026-11-22T23:06:03.161Z",
+ "updatedAt": "2026-11-23T00:06:17.802Z",
+ "lastAttempt": "2026-11-23T00:06:17.802Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "国会議員は、家に帰る前に何をしているの？ #チームみらい",
+   "link": "https://www.youtube.com/shorts/isZVJQedZD4",
+   "date": "2026-11-22T23:57:18.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "須田英太郎 YouTube",
+   "members": [
+    "suda"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/isZVJQedZD4/hqdefault.jpg",
+   "description": "国会議員は、家に帰る前に何をしているの？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 ",
+   "firstSeen": "2026-11-23T00:06:17.802Z"
+  },
   {
    "title": "【全文】衆議院 災害対策特別委員会 質疑／山田瑛理（2026年11月19日）",
    "link": "https://note.com/team_mirai_log/n/n17d1f87cffa6",
@@ -395,6 +409,20 @@
     "anno"
    ],
    "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "title"
+  },
+  {
+   "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏と「AIインタビュー」 AI×人間（写真・画像 2/7）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOS0wNnd6ZDhJMy00ZW5LUlhhYl9mV2pqZzQ1Z1F1dEFzR1NTX2toODYySWs0MHdJT3diVkRSQlVSTU1fTTRrSWtvenVpeGwtZ1BGYVNlclBTc1Q2RU5zWFg4elBOOW10dk5ZZmdlZ2g1RHoydENuU3BwQ3VVM3AtdXhnanlUaUI5OURPOW83WGxzTl9yNDVjQllfY1prZG9DTWc?oc=5",
+   "date": "2026-11-22T07:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-23T00:06:17.802Z",
    "mention": "title"
   },
   {
@@ -1263,7 +1291,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
