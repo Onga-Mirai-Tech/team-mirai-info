@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-23T07:06:11.652Z",
- "lastAttempt": "2026-11-23T07:06:11.652Z",
+ "updatedAt": "2026-11-23T08:06:07.021Z",
+ "lastAttempt": "2026-11-23T08:06:07.021Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 峰島侑也"
+ ],
  "items": [
   {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
@@ -24,17 +26,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-23T00:57:22.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -92,6 +83,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/339483147/rectangle_large_type_2_cdbbb0988fb71e70a978a7c57f8eda0a.jpeg?width=800",
    "description": "2026年11月19日に衆議院 憲法審査会で行われたチームみらい 幹事長・古川あおいの発言を全文書き起こしたものです。 案件＝「9条及び自衛隊の位置づけ」に関する集中的な討議 発言者＝チームみらい 幹事長・古川あおい 続きをみる",
    "firstSeen": "2026-11-22T21:06:02.909Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-22T18:55:31.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
   },
   {
    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本 立命館大学教授・垂秀夫",
@@ -1570,7 +1572,7 @@
   },
   {
    "title": "定数削減、与野党が平行線 自民「正解はない」―衆院委",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjkwdUtRTnA3LWdfYTdsMDBvVGdocmVpUUxVUll0bzk1QXp4VEpGS3o4YnhoZTNhbVVIV1JaR0JNdEI3WEFWUnJCN1o3SzdsVWpfa0d1MXMwUlFHVHJQbWFaU29FWkMtdWFDbmhtU1VzeWthZEVZeWF6WG90NDB4bVVn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUExcFN6QmlSa2hKN2JaRDYxNDhraUFYVzJtLXdzSXZJS3ppeFBTU0lmdEkzZVM2TGNsOXBPLUhidDVjYXV3VDdBOFFYYkhyb2t0UTl6cUgyV3FaX2U1SEN4R0RCTDFYdzMtUHVFd0F6cE92UzFwS0FxV1NCdzVKdDJB?oc=5",
    "date": "2026-11-20T07:19:00.000Z",
    "type": "media",
    "kind": "article",
@@ -3323,6 +3325,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T14:06:04.143Z",
+   "mention": "body"
+  },
+  {
+   "title": "ロシア機2機が福岡沖で領空侵犯 日本政府、外交ルートで厳重に抗議",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDN6MWtTY0JHZ1B1b2g2TkhWN0ctb3JaTkppWTVOTzdCZDM5YXRYVkoyejVwWlB3c3RWdXlmeXJTQmdFZURxRGxTQkprS3NTdTFEYjJWcEpMaC03ZklJaERfN1dxRjhOYkRTYmpqRDZ2X2l4UnRiRDFScURfMm83YTRLSHpjZG1nS1ZWMg?oc=5",
+   "date": "2026-11-17T01:24:48.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T08:06:07.021Z",
    "mention": "body"
   },
   {
