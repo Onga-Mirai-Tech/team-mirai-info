@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-23T02:06:04.183Z",
- "lastAttempt": "2026-11-23T02:06:04.183Z",
+ "updatedAt": "2026-11-23T03:06:07.200Z",
+ "lastAttempt": "2026-11-23T03:06:07.200Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 武藤かず子"
+ ],
  "items": [
   {
    "title": "国会議員は、家に帰る前に何をしているの？ #チームみらい",
@@ -1663,6 +1665,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T14:06:04.143Z",
+   "mention": "body"
+  },
+  {
+   "title": "中国・深圳の空港に到着し、政府専用機から降りる高市早苗首相。機体とタラップには大きな段差がある＝11月18日（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDgyVWpocFVQR3REWjVISFhoV2pETzV6bHNQXzMwS2M1R0tQWXBWcEJ2Yk1OVXFCUmdGMllUOC1scmE2ZG5UNW1KeHhDSWpvTGVJT2lnNUF2cHdrMDhHcHJaNHN5SFJGWVg4dVJMT3RXZlh0SWpKbHNoTkxMTU9RRlVvdWxuWkdMUXl1bTlVM2RULVhja0NvVmd4N1NFRWM0dkE?oc=5",
+   "date": "2026-11-20T04:02:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T03:06:07.200Z",
    "mention": "body"
   },
   {
