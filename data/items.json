@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-23T05:06:04.887Z",
- "lastAttempt": "2026-11-23T05:06:04.887Z",
+ "updatedAt": "2026-11-23T06:06:03.094Z",
+ "lastAttempt": "2026-11-23T06:06:03.094Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-23T04:15:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
   {
    "title": "国会議員は、家に帰る前に何をしているの？ #チームみらい",
    "link": "https://www.youtube.com/shorts/isZVJQedZD4",
@@ -899,17 +910,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-21T21:26:54.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "地震情報（2026年11月22日 05時42分 発表）",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUZsMS12eE5MRkdQckhfQTFNb09odmpfZjF1NFV6OXczSkIzZWxGVHk1b09LbVpJeUpva2FMUFdodFgwVlVwek51ZnNxd3AtRm9jVWREanYwenEzRl9pT0JqYkVpb1VkZG9hYVVGWEN2VEJOTThIQWdsY2MxT25UbnBn?oc=5",
    "date": "2026-11-21T20:42:00.000Z",
@@ -1160,6 +1160,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T12:00:21.172Z",
+   "mention": "body"
+  },
+  {
+   "title": "石舞台古墳の上空を飛行するブルーインパルス＝21日午後、奈良県明日香村（寺田康介撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnF0TTRnNkJGQUhRMi03VHNsOG9Bb191X185ZTk4TFZYYkZJZ0xnQjhGdkdEb0FsbUhfbVJVblNEOE9sRlVGbzEyMnlDeEpGaEQ5VE04M0lRU3VvTDQzeldQcG9vM0E4OEF4VDVYZGZYMlY1UHU0bm01Tk9MOGRMcWtxSjQ4MnFMQUtERjk0OTNQRDlNLUtIOHBYU1VYbjdMR1E?oc=5",
+   "date": "2026-11-21T07:32:56.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T06:06:03.094Z",
    "mention": "body"
   },
   {
@@ -3315,6 +3326,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-19T12:06:04.849Z",
+   "mention": "body"
+  },
+  {
+   "title": "ASEAN・APECへの出発を前に、記者団の取材に応じる高市早苗首相＝11月16日午前、首相公邸（春名中撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcURId2lXcFFCMmEtVGZwNmwycm1RSzZTN1UtVHIzYld4bTc3eUZmWVoteW1lNWV1Z3lKbzJIQmRwWHE4RVFxb0tXdlhDVTR3VjJMVm1fdE9Ia09nakM0YXBnLWExTmhPY1hNS3RZckpJSWFWd3VKX2ZTZW5Rb0J5XzUycllqRE1CLWtHMmh6Qi1rMmFWZXBXMlo3VVl5cm5Nemc?oc=5",
+   "date": "2026-11-16T20:00:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-23T06:06:03.094Z",
    "mention": "body"
   },
   {
