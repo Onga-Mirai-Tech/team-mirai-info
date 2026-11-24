@@ -1,13 +1,24 @@
 {
- "updatedAt": "2026-11-24T01:06:09.911Z",
- "lastAttempt": "2026-11-24T01:06:09.911Z",
+ "updatedAt": "2026-11-24T02:06:02.979Z",
+ "lastAttempt": "2026-11-24T02:06:02.979Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
+   "title": "立民、消費減税の対案提出 非課税世帯に５万円",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3TWtBbmJyTVdxSHZlRk51cmxkRXlYc3BaaHFTcURuTWpXSEVKWktWMmhFa0IwdmtZSU5MV1NsQXdGT2tzRkU3c1B6VE9HN0czeW5saEhoNGpTYXl1VGRjbDlfWQ?oc=5",
+   "date": "2026-11-24T01:36:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-24T02:06:02.979Z",
+   "mention": "body"
+  },
+  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T00:18:09.000Z",
+   "date": "2026-11-24T01:04:11.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -18,12 +29,23 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T00:01:57.000Z",
+   "date": "2026-11-24T00:46:32.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "初訪中終え「建設的かつ安定的な関係を」",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-23T18:50:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-20T03:06:06.401Z",
    "mention": "body"
   },
   {
@@ -39,17 +61,6 @@
    "thumb": "https://i4.ytimg.com/vi/S-pEig7xigw/hqdefault.jpg",
    "description": "AI時代のサイバー攻撃と防御について、サイバーセキュリティの専門家・中谷翔氏に #安野貴博 が聞いたインタビューの後編をお届けします。",
    "firstSeen": "2026-11-23T12:06:05.979Z"
-  },
-  {
-   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
-   "date": "2026-11-23T09:40:19.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-20T20:44:24.813Z",
-   "mention": "body"
   },
   {
    "title": "【AIインタビュー報告】障害のある方の暮らしの節目と壁 2,200件超の声から見えたこと #チームみらい",
@@ -392,6 +403,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T14:06:04.143Z",
+   "mention": "body"
+  },
+  {
+   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-20T20:44:24.813Z",
    "mention": "body"
   },
   {
@@ -1980,17 +2002,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-23T10:06:03.823Z",
-   "mention": "body"
-  },
-  {
-   "title": "初訪中終え「建設的かつ安定的な関係を」",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-19T22:25:07.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-20T03:06:06.401Z",
    "mention": "body"
   },
   {
