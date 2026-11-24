@@ -1,9 +1,42 @@
 {
- "updatedAt": "2026-11-24T09:06:07.234Z",
- "lastAttempt": "2026-11-24T09:06:07.234Z",
+ "updatedAt": "2026-11-24T10:06:11.377Z",
+ "lastAttempt": "2026-11-24T10:06:11.377Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "プレスリリース：［12/9(水)開催・好評につき定員拡大］鈴木英敬 総務副大臣兼内閣府副大臣と徳島県、Google Cloud、SMBCグループが「地域AX」を議論（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NMEZyVVQ0WXBoQ3p5X2Q2N2Y2bTRuWk4wUnlGM2FGeWFhRjZMNUNCY09PVmFxUnREeGhwZkdIVVBiejU2bmJ1eXJPX2dCUVgyZ2ZjQUlTUS0yMUFhZ0R2Qm52OFRmZ1lF?oc=5",
+   "date": "2026-11-24T09:23:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-24T10:06:11.377Z",
+   "mention": "body"
+  },
+  {
+   "title": "【12/9(水)開催・好評につき定員拡大】鈴木英敬 総務副大臣兼内閣府副大臣と徳島県、Google Cloud、SMBCグループが「地域AX」を議論",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzTjB5SEdhZURlOS1HQmdWUDBjT3M0QktJOW9WR2hyNFQtaEtyd2dFZnplSHNuVk9iVnJqdFhLek9OZjFEU1o5SGpqbmdsQmJWV1U4enBsMGpnOEJKOVd6VTNvVm0xU3ZmVDk0?oc=5",
+   "date": "2026-11-24T09:16:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-24T10:06:11.377Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T08:48:48.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "重要土地法案、衆院通過 安全保障上重要な土地取得に許可制導入",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9welhpTm9SQ0lUd2ZYWW9KQjVDeGdzZkEzVFFkYmtSaXVvd0VMcnNXVm4tbVUxdWtySGxoRW1TeHdLRkh0LXUwcndnVjBPUEFxekk0QlBrS3pTM2lvbUJmWkUxQXNPR0Fk?oc=5",
@@ -40,7 +73,7 @@
   {
    "title": "重要土地法案、衆院通過 許可制導入、取引影響懸念",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xWDFZV0VsQWpsdmxydC1FdFdfQ3pMcDBrdVh5WTNpblBndVctM1ZzWC1aOHJVV3JlcVREcWk3RTRaTUlSeGlsRVBIaw?oc=5",
-   "date": "2026-11-24T06:53:05.000Z",
+   "date": "2026-11-24T07:01:00.000Z",
    "type": "media",
    "kind": "article",
    "source": "共同通信",
@@ -126,17 +159,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-24T06:06:02.126Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T01:06:08.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
