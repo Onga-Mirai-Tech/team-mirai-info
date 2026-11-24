@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-24T00:06:06.162Z",
- "lastAttempt": "2026-11-24T00:06:06.162Z",
+ "updatedAt": "2026-11-24T01:06:09.911Z",
+ "lastAttempt": "2026-11-24T01:06:09.911Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-24T00:18:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T00:01:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "【サイバー攻撃】何から備えればいい？ #チームみらい #安野貴博",
    "link": "https://www.youtube.com/shorts/S-pEig7xigw",
@@ -30,17 +52,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-23T09:37:09.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "【AIインタビュー報告】障害のある方の暮らしの節目と壁 2,200件超の声から見えたこと #チームみらい",
    "link": "https://www.youtube.com/watch?v=NtSiCVd8N-4",
    "date": "2026-11-23T09:00:15.000Z",
@@ -52,17 +63,6 @@
    "firstSeen": "2026-11-23T09:06:03.201Z"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-23T06:56:27.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
    "date": "2026-11-23T06:08:34.000Z",
@@ -71,6 +71,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-23T07:06:11.652Z",
+   "mention": "body"
+  },
+  {
+   "title": "＜政治部取材メモ＞熱量が低い安保3文書改定の議論 政府・与党のキーマン不在に危機感",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbjVxWXgwaVpLOW5hSURJNWQ2Mk9EbFp1SF9oalQyM3hYamFuUDNIX0N3eVUtUTVBci12T2lSYm1nU1JDVGpNOWtmUEQyc2RmZWFxN09YblRjRUlKS3gyMlVSd0ozYi1aako3N1Ftal9Ia2VFYmc?oc=5",
+   "date": "2026-11-23T01:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-24T01:06:09.911Z",
    "mention": "body"
   },
   {
@@ -18929,6 +18940,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/200697223/rectangle_large_type_2_db10ccc98a750eaa4f9e0725638c21c0.png?width=800",
    "description": "本記事は、6月30日に行った、新党「チームみらい」の公約発表会見でお話したことの書き起こしとなります。 続きをみる",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "参院選当選者 無連合比例名簿・候補者 選挙・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaU3E5WEI5cmtuWlVZQ3JOcm5aU3NVM3d0cGFOb044ZU1xT25sX0FoVUJmbnpKVDN3aG1iVzZpVVYxdHF5OUcwSFVlaUp0elBwUmhSZm9BR2M5QjhibkdsaGZPM3ZiTzJD?oc=5",
+   "date": "2025-07-03T02:57:40.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-24T01:06:09.911Z",
+   "mention": "body"
   },
   {
    "title": "「チームみらい」公認候補者一覧",
