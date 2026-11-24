@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T16:06:12.945Z",
- "lastAttempt": "2026-11-24T16:06:12.945Z",
+ "updatedAt": "2026-11-24T17:06:27.418Z",
+ "lastAttempt": "2026-11-24T17:06:27.418Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -66,6 +66,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-24T11:06:06.015Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-24T09:31:35.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
   },
   {
