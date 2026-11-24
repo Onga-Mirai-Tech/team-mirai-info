@@ -1,9 +1,51 @@
 {
- "updatedAt": "2026-11-24T13:06:03.718Z",
- "lastAttempt": "2026-11-24T13:06:03.718Z",
+ "updatedAt": "2026-11-24T14:06:05.024Z",
+ "lastAttempt": "2026-11-24T14:06:05.024Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "月100万円の調研費、議員は何に使ってる？ #チームみらい #峰島侑也",
+   "link": "https://www.youtube.com/shorts/jOBNs-KYAOk",
+   "date": "2026-11-24T13:50:07.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "mineshima"
+   ],
+   "thumb": "https://i3.ytimg.com/vi/jOBNs-KYAOk/hqdefault.jpg",
+   "description": "チームみらいの議員の「調研費」の使い道を、『まる見え政治資金』で公開していきます！ 国会議員に支給される「調査研究広報滞在費（調研費）」の明細や活用方針も議員ごとに見られるようになりました。 開発メンバーと一緒に、画面の見どころや開発の工夫",
+   "firstSeen": "2026-11-24T14:06:05.024Z"
+  },
+  {
+   "title": "【金利が上がるのは悪いこと？】得する人・損する人｜長期金利は誰が決める？黒字の兵庫県が借金に国の許可が必要になった理由（動画書き起こし）",
+   "link": "https://note.com/ymineshima_mirai/n/n26421d8a0613",
+   "date": "2026-11-24T13:36:45.000Z",
+   "type": "member",
+   "kind": "note",
+   "source": "峰島侑也 note",
+   "members": [
+    "mineshima"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340274332/rectangle_large_type_2_21bceaf3a8089ab0d6318e579c554706.png?width=800",
+   "description": "本記事は、2026年11月20日（金）】に峰島侑也＠チームみらいYouTubeチャンネルで公開した以下の動画の内容の書き起こしです。 続きをみる",
+   "firstSeen": "2026-11-24T14:06:05.024Z"
+  },
+  {
+   "title": "【チみラジ】#06「国会議員の1日を教えてください」ゲスト：林士平氏【安野貴博×石井玄｜ポッドキャスト】",
+   "link": "https://www.youtube.com/watch?v=yM_YO5pJg3o",
+   "date": "2026-11-24T13:00:13.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/yM_YO5pJg3o/hqdefault.jpg",
+   "description": "政治の「なんで？」を気軽に聞く逆インタビュー番組『#チみラジ』。ゲストは #林士平 さんです。 ▷ ポッドキャストは毎週火曜日22時公開！︎｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_j",
+   "firstSeen": "2026-11-24T14:06:05.024Z"
+  },
   {
    "title": "重要土地法改正案、今国会成立へ 与野党賛成多数で衆院通過 外国政府の取得原則認めず",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVZkUU53LU04R3FUc2wxc3poR2E4Qk5Jd2lrM1BpVFB6cUt2Q0Y3dDdXSEhaSVVoTnRfZHZYaUE2Wlk1MGY5ODRJNGlDdzFiV3RIQmprZXBGOXFIcTZRR3lnNVJzdll2Zm43NG9jMG5ac29jY3dMUExXN0p0MUsxOHV6elI4RHYxdFBVMQ?oc=5",
@@ -13,17 +55,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-24T12:06:11.408Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T10:05:10.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -45,6 +76,9 @@
    "kind": "article",
    "source": "毎日新聞",
    "mediaId": "mainichi",
+   "members": [
+    "kawai"
+   ],
    "firstSeen": "2026-11-24T10:06:11.377Z",
    "mention": "body"
   },
@@ -83,7 +117,7 @@
   },
   {
    "title": "重要土地法案、衆院通過 許可制導入、取引影響懸念",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UTmd6eW1OQmp4MXJQaENzZ29aYjdXUU1Xek15OWhyX3V5QXFybm9PR2FaZGJDVFF1SWJwSDNSNERCWjdIZElIYzRhSGFvV3RTNTBnMkpZSldiTHBGTXRoNW00eDc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWk1MMEZZWUd5LU9UbkhzSV9TZnRyRDROMUZ5aEZjS2RjeUhNSWdyQkpxTndIUGhTSG5fbWJGT3JFcXNCUml1QVBDSkJlVGxURUdz?oc=5",
    "date": "2026-11-24T07:01:22.000Z",
    "type": "media",
    "kind": "article",
@@ -101,6 +135,17 @@
    "source": "共同通信",
    "mediaId": "kyodo",
    "firstSeen": "2026-11-24T07:06:09.496Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-24T05:36:55.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -123,6 +168,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-24T07:06:09.496Z",
+   "mention": "body"
+  },
+  {
+   "title": "首相は9条2項削除の陣頭に 論壇時評12月号 特別記者・有元隆志",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVBwQzBJdGVCNkE1MnpHdm8xVHdLUWcySjVfVUlhQ2ZiaFBiY0szZ1VnTHlwYTBuWUgxZ2h6RDloa2JaVFhEellGbEpUaGdRejVUNmFzaUxSd3pfbE13akZfUGZhZFdISkxyMTU4NnJvQnNvZTh0OEQ1TTlPX3RWM0t0eWNEaHdNVHM5cw?oc=5",
+   "date": "2026-11-24T05:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-24T14:06:05.024Z",
    "mention": "body"
   },
   {
@@ -162,6 +218,17 @@
    "mention": "body"
   },
   {
+   "title": "“ボキャブラ天国”で大ブレイク お笑いコンビ「X-GUN」が2人とも市議になったワケ 厳しい批判の中でも「タレント議員」だからできること",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15aDBSZ0tzUklyenczRGM3UWEtbVgzaVZ6U2RldjBRUUxOdzFtX0ZYVm9idDRWUmZHQW9WOENHcHh4MGtPeVdiWDJVSnZwNlBtZDkySmx6LU5hdXZQYnVuU24yZnhkU01BMFU1S1p2bDA5ckE?oc=5",
+   "date": "2026-11-24T02:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T14:06:05.024Z",
+   "mention": "body"
+  },
+  {
    "title": "立民、消費減税の対案提出 非課税世帯に５万円",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3TWtBbmJyTVdxSHZlRk51cmxkRXlYc3BaaHFTcURuTWpXSEVKWktWMmhFa0IwdmtZSU5MV1NsQXdGT2tzRkU3c1B6VE9HN0czeW5saEhoNGpTYXl1VGRjbDlfWQ?oc=5",
    "date": "2026-11-24T01:36:00.000Z",
@@ -192,6 +259,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-20T03:06:06.401Z",
+   "mention": "body"
+  },
+  {
+   "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
+   "date": "2026-11-23T12:21:41.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-22T04:06:02.660Z",
    "mention": "body"
   },
   {
@@ -1089,17 +1167,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T23:06:03.161Z",
-   "mention": "body"
-  },
-  {
-   "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
-   "date": "2026-11-22T00:30:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-22T04:06:02.660Z",
    "mention": "body"
   },
   {
