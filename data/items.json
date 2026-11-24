@@ -1,9 +1,53 @@
 {
- "updatedAt": "2026-11-24T06:06:02.126Z",
- "lastAttempt": "2026-11-24T06:06:02.126Z",
+ "updatedAt": "2026-11-24T07:06:09.496Z",
+ "lastAttempt": "2026-11-24T07:06:09.496Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "重要土地法案、衆院通過 許可制導入、取引影響懸念",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UTmd6eW1OQmp4MXJQaENzZ29aYjdXUU1Xek15OWhyX3V5QXFybm9PR2FaZGJDVFF1SWJwSDNSNERCWjdIZElIYzRhSGFvV3RTNTBnMkpZSldiTHBGTXRoNW00eDc?oc=5",
+   "date": "2026-11-24T06:53:05.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-24T07:06:09.496Z",
+   "mention": "body"
+  },
+  {
+   "title": "重要土地法案、衆院通過 許可制導入、取引影響懸念",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xWDFZV0VsQWpsdmxydC1FdFdfQ3pMcDBrdVh5WTNpblBndVctM1ZzWC1aOHJVV3JlcVREcWk3RTRaTUlSeGlsRVBIaw?oc=5",
+   "date": "2026-11-24T06:53:05.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "共同通信",
+   "mediaId": "kyodo",
+   "firstSeen": "2026-11-24T07:06:09.496Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T05:54:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "安全保障上重要な土地の取得規制を強化する法案 衆議院で可決",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRRlFwaUZUS0ZmZkdiMFJ2QkFISDk4TWN2X19fc1VTaTl0cElGOGdWcGpWeUpaajBzc3RaLUNZT3hoZDVqNmlMU0t4MVBBTlRLNXJ2NTJZLWVrMFhwWWVN?oc=5",
+   "date": "2026-11-24T05:19:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-24T07:06:09.496Z",
+   "mention": "body"
+  },
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
@@ -13,17 +57,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T05:01:08.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -2064,7 +2097,7 @@
   },
   {
    "title": "「G7で日本だけ、同性カップルの法的保障がない」…ゲイ公表の英議員講演 法制化めざす企業90社は要望書",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WM2t2WUJMOXgzWE9mQ2hZX1NDWEU1Y2hIV194dnRmbWdDOTVjdE5maU84anE4WDBvR3BFVVB6dmVNV1M2Mzd3VUJ0WWpmeGlTZVhJ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVmgxY3hWLTE3TXhPdGFyeGlOaFE1RUtVT0JKTzRYYjBrZXFTVDVpNVhUT3JUUGVnaURSSVA5azBOSzhuTFRvYWZXVmRaODJfN3c?oc=5",
    "date": "2026-11-19T20:00:00.000Z",
    "type": "media",
    "kind": "article",
