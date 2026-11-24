@@ -1,37 +1,20 @@
 {
- "updatedAt": "2026-11-24T21:14:14.750Z",
- "lastAttempt": "2026-11-24T21:14:14.750Z",
+ "updatedAt": "2026-11-24T22:06:10.758Z",
+ "lastAttempt": "2026-11-24T22:06:10.758Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 党名",
-  "ニュース検索 朝日新聞",
-  "ニュース検索 読売新聞",
-  "ニュース検索 毎日新聞",
-  "ニュース検索 日本経済新聞",
-  "ニュース検索 産経新聞",
-  "ニュース検索 東京新聞",
-  "ニュース検索 共同通信",
-  "ニュース検索 時事通信",
-  "ニュース検索 NHK",
-  "ニュース検索 日本テレビ",
-  "ニュース検索 TBS",
-  "ニュース検索 テレビ朝日",
-  "ニュース検索 フジテレビ",
-  "ニュース検索 テレビ東京",
-  "ニュース検索 安野貴博",
-  "ニュース検索 古川あおい",
-  "ニュース検索 宇佐美登",
-  "ニュース検索 河合道雄",
-  "ニュース検索 小林修平",
-  "ニュース検索 須田英太郎",
-  "ニュース検索 高山聡史",
-  "ニュース検索 土橋章宏",
-  "ニュース検索 林拓海",
-  "ニュース検索 峰島侑也",
-  "ニュース検索 武藤かず子",
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T21:03:49.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "月100万円の調研費、議員は何に使ってる？ #チームみらい #峰島侑也",
    "link": "https://www.youtube.com/shorts/jOBNs-KYAOk",
@@ -59,6 +42,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/340274332/rectangle_large_type_2_21bceaf3a8089ab0d6318e579c554706.png?width=800",
    "description": "本記事は、2026年11月20日（金）】に峰島侑也＠チームみらいYouTubeチャンネルで公開した以下の動画の内容の書き起こしです。 続きをみる",
    "firstSeen": "2026-11-24T14:06:05.024Z"
+  },
+  {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-24T13:27:15.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
+   "mention": "body"
   },
   {
    "title": "【チみラジ】#06「国会議員の1日を教えてください」ゲスト：林士平氏【安野貴博×石井玄｜ポッドキャスト】",
@@ -94,17 +88,6 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-24T11:06:06.015Z",
-   "mention": "body"
-  },
-  {
-   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-24T09:31:35.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
   },
   {
@@ -196,17 +179,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T05:20:48.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
