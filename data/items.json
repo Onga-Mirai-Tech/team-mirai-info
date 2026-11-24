@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-24T10:06:11.377Z",
- "lastAttempt": "2026-11-24T10:06:11.377Z",
+ "updatedAt": "2026-11-24T11:06:06.015Z",
+ "lastAttempt": "2026-11-24T11:06:06.015Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【目的は利益の独占か？安全保障か？】Claudeを解剖「黒塗りの報告書」／ジェンスン・フアンと真逆の思想／アンソロピック上場「時価総額世界一も可能」今井翔太／「リーマン予想」証明か【AI QUEST】",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wcXRWYXItRURWY0x2UUxLbUVlYkNvR3JMdDZ0aHNfR3FuSkNmTnlCTXNmVzBqUEF5WFhuYzBDcWVMZG1RbUQ1U2lXWjFIWGVOdTNoYXJlcmRNN0F5ZHZsNm1fV3BESzdkTGdrSklGVW5aSHNU?oc=5",
+   "date": "2026-11-24T09:56:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-24T11:06:06.015Z",
+   "mention": "body"
+  },
   {
    "title": "プレスリリース：［12/9(水)開催・好評につき定員拡大］鈴木英敬 総務副大臣兼内閣府副大臣と徳島県、Google Cloud、SMBCグループが「地域AX」を議論（PR TIMES）",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NMEZyVVQ0WXBoQ3p5X2Q2N2Y2bTRuWk4wUnlGM2FGeWFhRjZMNUNCY09PVmFxUnREeGhwZkdIVVBiejU2bmJ1eXJPX2dCUVgyZ2ZjQUlTUS0yMUFhZ0R2Qm52OFRmZ1lF?oc=5",
@@ -24,17 +35,6 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-24T10:06:11.377Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T08:48:48.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -84,12 +84,23 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T05:43:35.000Z",
+   "date": "2026-11-24T05:40:10.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T05:22:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -2141,7 +2152,7 @@
   },
   {
    "title": "「G7で日本だけ、同性カップルの法的保障がない」…ゲイ公表の英議員講演 法制化めざす企業90社は要望書",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVmgxY3hWLTE3TXhPdGFyeGlOaFE1RUtVT0JKTzRYYjBrZXFTVDVpNVhUT3JUUGVnaURSSVA5azBOSzhuTFRvYWZXVmRaODJfN3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WM2t2WUJMOXgzWE9mQ2hZX1NDWEU1Y2hIV194dnRmbWdDOTVjdE5maU84anE4WDBvR3BFVVB6dmVNV1M2Mzd3VUJ0WWpmeGlTZVhJ?oc=5",
    "date": "2026-11-19T20:00:00.000Z",
    "type": "media",
    "kind": "article",
