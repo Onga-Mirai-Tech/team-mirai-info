@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T18:06:02.773Z",
- "lastAttempt": "2026-11-24T18:06:02.773Z",
+ "updatedAt": "2026-11-24T19:06:04.862Z",
+ "lastAttempt": "2026-11-24T19:06:04.862Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -696,6 +696,17 @@
    "mention": "body"
   },
   {
+   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
+   "date": "2026-11-22T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-20T20:44:24.813Z",
+   "mention": "body"
+  },
+  {
    "title": "「Asia Pacific’s 100 Best Coffee Shops 2026」にMel Coffee Roastersが選ばれました! 」",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vY1I3UUpTLUlCU3ZoREtyMWE1azFucGVyRUVrejM4M2JpTkNpMjRLeXluTVVlLWZ5SUUxbjBPNGcxMWd5bGdjbVQtb1U0RzFNX3VvdUdGZ1BCcmFaTG0yV3FLcTBNdFliUTlpUU9ZUVZvRExwUGlSV2RNMA?oc=5",
    "date": "2026-11-22T07:59:20.000Z",
@@ -1178,17 +1189,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T23:06:03.161Z",
-   "mention": "body"
-  },
-  {
-   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUdTZFdxZEdzMkFmcFh0OFRvN2cwMWpjbEZOX2RjUTJkbnJDSWFSbDNRN3pXVlJlU01FNkw2VEhUTnRReU5BTE1jSUdqWENEdmZCT2J1VEg2SUpoSjhXdTZCX2w3V0oxc0Z6RDBUcDBiWHEwSFN0NzFBOWwwT0txeDVDRURObGxQMVJqYTQ4OEJKREU?oc=5",
-   "date": "2026-11-22T00:30:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-20T20:44:24.813Z",
    "mention": "body"
   },
   {
@@ -1739,7 +1739,7 @@
   },
   {
    "title": "重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFQzN3bE1pYVdaWlRfOEp0bW5hVlVUT3UyRVlHQ3YtXzFoMFhjUlBwNEhfQmFfVVk3UWhrMnBGUk5nZmdzZ2tMenlVZ1dBTWtZOE9pNGl2djUzS3ZUOEFwY1c4RFlZaXE3dmVnSFA4UjlIMXkwMlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlA0SnBnRXBxbEZUdVR4T1ZhVVhGekJwbVNESVE3RVE5azlySi1FUGxmbUZlQWtJbHp5bHVCMVVIRjhnTEJtS0V0MzVoQU9jel9nTWR1SkYzZkdseU5lWHd1UTRqVE1SSlZKVzc4emNTZHZKMlNlUE5ocV9lMW9ycl9uT2hxLTdEUXR1dA?oc=5",
    "date": "2026-11-20T10:56:08.000Z",
    "type": "media",
    "kind": "article",
@@ -1885,7 +1885,7 @@
   },
   {
    "title": "定数削減、与野党が平行線 自民「正解はない」―衆院委",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wZUFEOVNJWm52emVNVk91VVJzdWo4a3YyNW1wNkVockg0UUZSZTE1NTNlQkdNSFBNai1lY283VnlYc0tQbGx5aXhFdWtXbDVRXzQxZllSTXJWZ0pkaXllSVExOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjkwdUtRTnA3LWdfYTdsMDBvVGdocmVpUUxVUll0bzk1QXp4VEpGS3o4YnhoZTNhbVVIV1JaR0JNdEI3WEFWUnJCN1o3SzdsVWpfa0d1MXMwUlFHVHJQbWFaU29FWkMtdWFDbmhtU1VzeWthZEVZeWF6WG90NDB4bVVn?oc=5",
    "date": "2026-11-20T07:19:00.000Z",
    "type": "media",
    "kind": "article",
