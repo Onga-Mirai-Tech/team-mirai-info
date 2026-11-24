@@ -1,18 +1,29 @@
 {
- "updatedAt": "2026-11-24T05:06:05.797Z",
- "lastAttempt": "2026-11-24T05:06:05.797Z",
+ "updatedAt": "2026-11-24T06:06:02.126Z",
+ "lastAttempt": "2026-11-24T06:06:02.126Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T04:13:03.000Z",
+   "date": "2026-11-24T05:06:31.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T05:01:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -63,14 +74,14 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T01:31:55.000Z",
+   "title": "野党6党が関文科相の問責協議 パーティー問題で辞任要求、参院で進退めぐり攻防",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNmQ2SzdVSHZBQURFLU1Lbm9DZ1l1N2E1aW52NXlQRjhUSGlpTmRHV1VwYnc5ZjItUk9fOUZIM3NWS01IUkx1Y0ozbzJVS2dqbndtUU9aSjhjMkRfa2x6ZTFfdExtZVdHaVo4Wm5YWWtBT2J6anc?oc=5",
+   "date": "2026-11-24T01:24:38.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-24T06:06:02.126Z",
    "mention": "body"
   },
   {
@@ -132,7 +143,7 @@
    "mention": "body"
   },
   {
-   "title": "国会議員は、家に帰る前に何をしているの？ #チームみらい",
+   "title": "国会議員は、家に帰った後に何をしているの？ #チームみらい",
    "link": "https://www.youtube.com/shorts/isZVJQedZD4",
    "date": "2026-11-22T23:57:18.000Z",
    "type": "member",
@@ -142,7 +153,7 @@
     "suda"
    ],
    "thumb": "https://i2.ytimg.com/vi/isZVJQedZD4/hqdefault.jpg",
-   "description": "国会議員は、家に帰る前に何をしているの？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説 ",
+   "description": "国会議員は、家に帰った後に何をしているの？ . . チームみらい・衆議院議員の 須田英太郎です。 📣 国会で起きていることを、できるだけわかりやすくお伝えします。 ✅AI・デジタルなど新しい技術と政治 ✅政策の背景や争点をわかりやすく解説",
    "firstSeen": "2026-11-23T00:06:17.802Z"
   },
   {
@@ -2053,7 +2064,7 @@
   },
   {
    "title": "「G7で日本だけ、同性カップルの法的保障がない」…ゲイ公表の英議員講演 法制化めざす企業90社は要望書",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZVmgxY3hWLTE3TXhPdGFyeGlOaFE1RUtVT0JKTzRYYjBrZXFTVDVpNVhUT3JUUGVnaURSSVA5azBOSzhuTFRvYWZXVmRaODJfN3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WM2t2WUJMOXgzWE9mQ2hZX1NDWEU1Y2hIV194dnRmbWdDOTVjdE5maU84anE4WDBvR3BFVVB6dmVNV1M2Mzd3VUJ0WWpmeGlTZVhJ?oc=5",
    "date": "2026-11-19T20:00:00.000Z",
    "type": "media",
    "kind": "article",
