@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T14:18:14.579Z",
- "lastAttempt": "2026-11-24T14:18:14.579Z",
+ "updatedAt": "2026-11-24T15:06:05.351Z",
+ "lastAttempt": "2026-11-24T15:06:05.351Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -630,17 +630,6 @@
    "mention": "body"
   },
   {
-   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcTFDYmt6dDV3WG5BWmpCWjhId1hucEFFd0VPSkV6UUNleEpwbi1GSHZIblFmVEYxLV9zOWt6TUpWRlJpdUN0ZHFCV0tJeUF6TWdCTFFKTlFPYWtyeFJpWXYyM083VWVRVEp6Mzc1d3d0ZmdSVDVGaEpaOFpmc2lCVFh4TGhaM2JIS1BJaWw5VXIxdw?oc=5",
-   "date": "2026-11-22T08:00:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-20T20:44:24.813Z",
-   "mention": "body"
-  },
-  {
    "title": "「人事・総務部＋3」の実践知を全国へ。11月22日「いい人事の日」にTHE CAREが3つの特別企画",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aWnJvVlF6WWlmNndzaGxuQlBqQVlKeDhUU194d1M0Zi1LR0pFS3VBSzR6TFZtT0FzbEo1eUVJc3JfcTNvOUMyVG1ZOWlPcThPbmRQcF9uRTgxRXB0SFpKcjhZbW9UeWFTbFNqOFctSkJiTHNLRkVpMTZfcw?oc=5",
    "date": "2026-11-22T08:00:00.000Z",
@@ -1167,6 +1156,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T23:06:03.161Z",
+   "mention": "body"
+  },
+  {
+   "title": "日曜サロン【金村龍那（日本維新の会総務会長）…「直近の民意は衆院選」】",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUdTZFdxZEdzMkFmcFh0OFRvN2cwMWpjbEZOX2RjUTJkbnJDSWFSbDNRN3pXVlJlU01FNkw2VEhUTnRReU5BTE1jSUdqWENEdmZCT2J1VEg2SUpoSjhXdTZCX2w3V0oxc0Z6RDBUcDBiWHEwSFN0NzFBOWwwT0txeDVDRURObGxQMVJqYTQ4OEJKREU?oc=5",
+   "date": "2026-11-22T00:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-20T20:44:24.813Z",
    "mention": "body"
   },
   {
