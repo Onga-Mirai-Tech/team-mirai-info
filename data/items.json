@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T15:06:05.351Z",
- "lastAttempt": "2026-11-24T15:06:05.351Z",
+ "updatedAt": "2026-11-24T16:06:12.945Z",
+ "lastAttempt": "2026-11-24T16:06:12.945Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -102,6 +102,17 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-24T09:06:07.234Z",
+   "mention": "body"
+  },
+  {
+   "title": "【動画】高市首相、ICC分担金の年内全額拠出を表明 赤根所長と面会「力強く支援」と伝達",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWhfQVNFOVJFOEVPTG56UDdaSlJ4blRoODM2ZzdwdUE5di00UjBELV8yZ3pMQmlTT1pIS0pHUk1NM3hjSkoxNXMwalg1S0RQeFRJV1dxTDdxVW15eGstQXZPcHI1SDd6SFRiaUdISDU3ZWVtRm1BVU1IdHdFRjN6U2QxMDRvUlEzSEh3QQ?oc=5",
+   "date": "2026-11-24T08:15:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-24T16:06:12.945Z",
    "mention": "body"
   },
   {
