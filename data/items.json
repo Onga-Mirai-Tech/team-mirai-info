@@ -1,26 +1,49 @@
 {
- "updatedAt": "2026-11-24T03:06:05.412Z",
- "lastAttempt": "2026-11-24T03:06:05.412Z",
+ "updatedAt": "2026-11-24T04:06:08.862Z",
+ "lastAttempt": "2026-11-24T04:06:08.862Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 高山聡史"
- ],
+ "failedSources": [],
  "items": [
   {
-   "title": "立民、消費減税の対案提出 非課税世帯に５万円",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3TWtBbmJyTVdxSHZlRk51cmxkRXlYc3BaaHFTcURuTWpXSEVKWktWMmhFa0IwdmtZSU5MV1NsQXdGT2tzRkU3c1B6VE9HN0czeW5saEhoNGpTYXl1VGRjbDlfWQ?oc=5",
-   "date": "2026-11-24T01:36:00.000Z",
+   "title": "【NVIDIAジェンスン・フアン氏がCEOに舞い戻った】「復帰はない」取締役会一転の理由は「トランプの介入」／“革ジャン”不在が安全保障リスク？／アンソロピックは戦々恐々／今井翔太【AI QUEST】",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53NkRjRTZnSU1RaGY1aTZCX3hpMFZDSFh5c2RLRnkwUTBOOEk2dFB3cTcxN19Vc2ZDSWRLdjNPRXR2WUxVSloxd09nOC1GTVpkUnFjS0w4cnZsSExGQUJzaF9rX2s1VXEzbTRyNFZ1RUQ4dzdJ?oc=5",
+   "date": "2026-11-24T03:51:00.000Z",
    "type": "media",
    "kind": "article",
-   "source": "時事通信",
-   "mediaId": "jiji",
-   "firstSeen": "2026-11-24T02:06:02.979Z",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-24T04:06:08.862Z",
+   "mention": "body"
+  },
+  {
+   "title": "【全文】衆議院 経済産業委員会 質疑／小林修平（2026年11月20日）",
+   "link": "https://note.com/team_mirai_log/n/na7b004115e7c",
+   "date": "2026-11-24T03:18:52.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "kobayashi"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340044534/rectangle_large_type_2_23229115ae356c95eece1121d2f3f1df.jpeg?width=800",
+   "description": "2026年11月20日に衆議院 経済産業委員会で行われた質疑における、チームみらい 小林修平の質問と、各答弁者による答弁を全文書き起こしたものです。 案件＝独立行政法人エネルギー・金属鉱物資源機構法の一部を改正する法律案（222国会閣13）",
+   "firstSeen": "2026-11-24T04:06:08.862Z"
+  },
+  {
+   "title": "政府の業務システム 9月に続きまた不正アクセス 個人情報流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TVmZNYUZMWWo4Y3pFODF0UzZWY1FOZkxqcEhHeElCcDczZGN2a05rNnlaUU1ITmFrNkxnWXBHblZVd1g0OHZ5NlBvdGp3WDdpSm5wNWxXSm04cVoxNTh4WGo0dUJzcmpIdDhYYUk2b1V6UQ?oc=5",
+   "date": "2026-11-24T03:11:40.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T04:06:08.862Z",
    "mention": "body"
   },
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T01:35:18.000Z",
+   "date": "2026-11-24T02:58:34.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -31,12 +54,23 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T01:04:11.000Z",
+   "date": "2026-11-24T02:16:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "立民、消費減税の対案提出 非課税世帯に５万円",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3TWtBbmJyTVdxSHZlRk51cmxkRXlYc3BaaHFTcURuTWpXSEVKWktWMmhFa0IwdmtZSU5MV1NsQXdGT2tzRkU3c1B6VE9HN0czeW5saEhoNGpTYXl1VGRjbDlfWQ?oc=5",
+   "date": "2026-11-24T01:36:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-24T02:06:02.979Z",
    "mention": "body"
   },
   {
