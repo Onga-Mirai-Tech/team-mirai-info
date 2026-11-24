@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-24T11:06:06.015Z",
- "lastAttempt": "2026-11-24T11:06:06.015Z",
+ "updatedAt": "2026-11-24T12:06:11.408Z",
+ "lastAttempt": "2026-11-24T12:06:11.408Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "重要土地法改正案、今国会成立へ 与野党賛成多数で衆院通過 外国政府の取得原則認めず",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVZkUU53LU04R3FUc2wxc3poR2E4Qk5Jd2lrM1BpVFB6cUt2Q0Y3dDdXSEhaSVVoTnRfZHZYaUE2Wlk1MGY5ODRJNGlDdzFiV3RIQmprZXBGOXFIcTZRR3lnNVJzdll2Zm43NG9jMG5ac29jY3dMUExXN0p0MUsxOHV6elI4RHYxdFBVMQ?oc=5",
+   "date": "2026-11-24T11:50:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-24T12:06:11.408Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-24T10:05:10.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
   {
    "title": "【目的は利益の独占か？安全保障か？】Claudeを解剖「黒塗りの報告書」／ジェンスン・フアンと真逆の思想／アンソロピック上場「時価総額世界一も可能」今井翔太／「リーマン予想」証明か【AI QUEST】",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wcXRWYXItRURWY0x2UUxLbUVlYkNvR3JMdDZ0aHNfR3FuSkNmTnlCTXNmVzBqUEF5WFhuYzBDcWVMZG1RbUQ1U2lXWjFIWGVOdTNoYXJlcmRNN0F5ZHZsNm1fV3BESzdkTGdrSklGVW5aSHNU?oc=5",
@@ -79,17 +101,6 @@
    "source": "共同通信",
    "mediaId": "kyodo",
    "firstSeen": "2026-11-24T07:06:09.496Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T05:40:10.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
