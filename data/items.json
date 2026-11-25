@@ -1,9 +1,53 @@
 {
- "updatedAt": "2026-11-25T10:06:22.197Z",
- "lastAttempt": "2026-11-25T10:06:22.197Z",
+ "updatedAt": "2026-11-25T11:06:06.784Z",
+ "lastAttempt": "2026-11-25T11:06:06.784Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T10:07:37.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
+   "date": "2026-11-25T10:03:54.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-25T11:06:06.784Z",
+   "mention": "body"
+  },
+  {
+   "title": "文科相問責決議案、27日に採決 与野党、過半数獲得へ攻防",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85ZTh1MGhSRTV4bjR5T2RCR3V2aUE2Q09qaGRFcS1IWHRQSjBuaXpGbjkyeUJJdU5Na1VxNkVfRW1NZGIyTFpqT3F2NA?oc=5",
+   "date": "2026-11-25T10:03:54.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "共同通信",
+   "mediaId": "kyodo",
+   "firstSeen": "2026-11-25T11:06:06.784Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T09:37:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
    "link": "https://note.com/team_mirai_log/n/n572e039018e8",
@@ -41,17 +85,6 @@
    "mention": "body"
   },
   {
-   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T03:41:50.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-24T17:06:27.418Z",
-   "mention": "body"
-  },
-  {
    "title": "重要土地改正案が衆院通過 規制強化と経済性の両立に腐心 迅速かつ厳格な審査体制課題",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNGlGWEhIODlaamNSNG5qREFLdzZZcnVxRnBhTzJjVFpfQVhZZkpEcmRJTzRzaDNmYXhvSGtqTjBNX2dOY2FzYWd6MU1lTEhpTThZR3NYUUtkZFd3NlZ4ZFI5X1gzdXFXZFRNakJwcXQ1ZWs5V2c?oc=5",
    "date": "2026-11-24T23:00:00.000Z",
@@ -71,17 +104,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T21:47:41.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
