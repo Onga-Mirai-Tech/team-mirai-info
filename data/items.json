@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-25T19:36:53.696Z",
- "lastAttempt": "2026-11-25T19:36:53.696Z",
+ "updatedAt": "2026-11-25T20:06:04.307Z",
+ "lastAttempt": "2026-11-25T20:06:04.307Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -76,7 +76,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T23:03:46.000Z",
+   "date": "2026-11-24T23:02:03.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -104,6 +104,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
+   "mention": "body"
+  },
+  {
+   "title": "高市内閣支持率、横ばい62％ 効果のある物価高対策「食料品消費税減税」が54% テレ東・日経10月世論調査",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6eFlrMGpWZTRZNHpBclBjN2NRWEsxNHRFeEItS0tPWW4ySGl4OGhNQS1ZaEhyVjVSRUxKcUUyaFdIQ1IzVFBPcEVsUXgxWXZHaHlyWA?oc=5",
+   "date": "2026-11-24T17:46:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-25T20:06:04.307Z",
    "mention": "body"
   },
   {
