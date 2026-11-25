@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-25T02:06:05.237Z",
- "lastAttempt": "2026-11-25T02:06:05.237Z",
+ "updatedAt": "2026-11-25T03:06:05.338Z",
+ "lastAttempt": "2026-11-25T03:06:05.338Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T00:56:40.000Z",
+   "date": "2026-11-25T00:54:52.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -16,9 +16,20 @@
    "mention": "body"
   },
   {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T00:44:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
+   "mention": "body"
+  },
+  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T00:20:28.000Z",
+   "date": "2026-11-25T00:19:01.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -35,17 +46,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
-   "mention": "body"
-  },
-  {
-   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-24T15:25:50.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
   },
   {
@@ -15591,6 +15591,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・日本共産党 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11TUlQMnF0OVloZFFsck9PS21xUDlzb3NTNHgydTB3SlMtekZhYUxWRkxROVFObm4tNWNSN19iS0pMZm1ZWFNJN19zdUlpWGh3TXdkT0xZeHlWTS1HcWRmMy1zQUJ3ZUtt?oc=5",
+   "date": "2026-02-08T18:33:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-25T03:06:05.338Z",
    "mention": "body"
   },
   {
