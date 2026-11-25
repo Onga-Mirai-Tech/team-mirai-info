@@ -1,21 +1,22 @@
 {
- "updatedAt": "2026-11-25T09:11:29.420Z",
- "lastAttempt": "2026-11-25T09:11:29.420Z",
+ "updatedAt": "2026-11-25T10:06:22.197Z",
+ "lastAttempt": "2026-11-25T10:06:22.197Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T08:07:19.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
+   "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
+   "link": "https://note.com/team_mirai_log/n/n572e039018e8",
+   "date": "2026-11-25T09:18:14.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "mineshima"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340594772/rectangle_large_type_2_4c93b6c314650921b494d7d8a073ecb4.jpeg?width=800",
+   "description": "2026年11月24日に衆議院 政治改革に関する特別委員会で行われた参考人質疑における、チームみらい 広報本部長・峰島侑也の質問と、各参考人による答弁を全文書き起こしたものです。 案件＝現行の衆議院選挙制度の見直しのための公職選挙法の一部を",
+   "firstSeen": "2026-11-25T10:06:22.197Z"
   },
   {
    "title": "進化するAI 可能性とリスクは…",
@@ -70,6 +71,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T21:47:41.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -5557,12 +5569,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【全文】衆議院 財務金融委員会 質疑／広報本部長・峰島侑也（2026年11月6日）",
+   "title": "衆議院財務金融委員会にて峰島侑也が質疑",
    "link": "https://note.com/team_mirai_log/n/n99a8efb6f5f3",
    "date": "2026-11-06T10:32:25.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "mineshima"
    ],
