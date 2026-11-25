@@ -1,18 +1,20 @@
 {
- "updatedAt": "2026-11-25T03:06:05.338Z",
- "lastAttempt": "2026-11-25T03:06:05.338Z",
+ "updatedAt": "2026-11-25T04:06:16.902Z",
+ "lastAttempt": "2026-11-25T04:06:16.902Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 林拓海"
+ ],
  "items": [
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T00:54:52.000Z",
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T02:50:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -27,14 +29,14 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T00:19:01.000Z",
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T22:56:40.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -1907,7 +1909,7 @@
   },
   {
    "title": "定数削減、与野党が平行線 自民「正解はない」―衆院委",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjkwdUtRTnA3LWdfYTdsMDBvVGdocmVpUUxVUll0bzk1QXp4VEpGS3o4YnhoZTNhbVVIV1JaR0JNdEI3WEFWUnJCN1o3SzdsVWpfa0d1MXMwUlFHVHJQbWFaU29FWkMtdWFDbmhtU1VzeWthZEVZeWF6WG90NDB4bVVn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUExcFN6QmlSa2hKN2JaRDYxNDhraUFYVzJtLXdzSXZJS3ppeFBTU0lmdEkzZVM2TGNsOXBPLUhidDVjYXV3VDdBOFFYYkhyb2t0UTl6cUgyV3FaX2U1SEN4R0RCTDFYdzMtUHVFd0F6cE92UzFwS0FxV1NCdzVKdDJB?oc=5",
    "date": "2026-11-20T07:19:00.000Z",
    "type": "media",
    "kind": "article",
@@ -15591,6 +15593,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-18T13:28:18.738Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・他 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RU092Rnd5WmNld093MHZrUC1OM2pJM0pmVDRUbHAyQ0dyc2tqYWE1SW1mbF9HajRCQkk0X2FyM1hUWGs1YUJhSThLY3hZLUlBdXlIRkVDX0hVUVNZenhuRDluaWN1ZVplYmc?oc=5",
+   "date": "2026-02-08T18:59:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-25T04:06:16.902Z",
    "mention": "body"
   },
   {
