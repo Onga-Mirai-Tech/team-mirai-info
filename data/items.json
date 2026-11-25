@@ -1,20 +1,9 @@
 {
- "updatedAt": "2026-11-25T11:06:06.784Z",
- "lastAttempt": "2026-11-25T11:06:06.784Z",
+ "updatedAt": "2026-11-25T12:06:04.538Z",
+ "lastAttempt": "2026-11-25T12:06:04.538Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T10:07:37.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
   {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
@@ -61,6 +50,17 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/340594772/rectangle_large_type_2_4c93b6c314650921b494d7d8a073ecb4.jpeg?width=800",
    "description": "2026年11月24日に衆議院 政治改革に関する特別委員会で行われた参考人質疑における、チームみらい 広報本部長・峰島侑也の質問と、各参考人による答弁を全文書き起こしたものです。 案件＝現行の衆議院選挙制度の見直しのための公職選挙法の一部を",
    "firstSeen": "2026-11-25T10:06:22.197Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T08:56:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
   },
   {
    "title": "進化するAI 可能性とリスクは…",
@@ -15696,6 +15696,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-18T13:38:00.416Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・日本維新の会 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MbjRnT1ZTVDJTQWpWZ3lzdEFsM3pXUkxLQ1BLU3Vrc2JucmdWMjE5cm5LanRNbDM0Qnp0QlNsRjUtdFJILXIwRmVGWVgyY0tVT29iRjNJLWc2dWZpYllHY28xZk93SVJtM21v?oc=5",
+   "date": "2026-02-08T15:18:54.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-25T12:06:04.538Z",
    "mention": "body"
   },
   {
