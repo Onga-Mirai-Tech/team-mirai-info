@@ -1,13 +1,24 @@
 {
- "updatedAt": "2026-11-24T23:06:02.644Z",
- "lastAttempt": "2026-11-24T23:06:02.644Z",
+ "updatedAt": "2026-11-25T00:06:09.905Z",
+ "lastAttempt": "2026-11-25T00:06:09.905Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
+   "title": "「キレすぎやろ」タオルぶん投げ、蹴り… 交代直後に“ブチギレ大暴れ”「態度悪っw」バイエルンDF、ゆっくり交代→ベンチで八つ当たり",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nU2phWXlCRDk4MDBDSTg0NUwwUDZWUUpHcDE3N3JtMF9KZmhuN2l4Rk1aT3A2VGRZdkY4X3g1ckpDODBuSEpTSFFtUW11ZTFOR2RuMFRtZ2lscXF5N29CeW9WSTJyaEYtYjlCMmlMcTM?oc=5",
+   "date": "2026-11-24T22:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-25T00:06:09.905Z",
+   "mention": "body"
+  },
+  {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T22:14:06.000Z",
+   "date": "2026-11-24T21:00:15.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -627,6 +638,20 @@
    "mention": "title"
   },
   {
+   "title": "インタビューに答えるチームみらいの安野貴博党首＝東京都千代田区（近藤豊和撮影）",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1JNb3dPZUtWczk3UFVyd0g1VUpFbXVjVDU2U0l2ekJDcXl0MnpVR095MGNsbG9LR2pwUUlZZ2ZPN2FYSW9YSVV3UUEya09qMW5oeUliWlZMMFJ2YW1IM0NDSFVZYTBGSTVMbDhqNzc5dnluUTljUFJ0NW5uWmV5WEQ1czh3QUF1N0V1UVpGMmhfQU5oZDFuU3RDVmowLTR3aXc?oc=5",
+   "date": "2026-11-22T08:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-22T10:06:02.735Z",
+   "mention": "title"
+  },
+  {
    "title": "日曜劇場『VIVANT』より （C）TBS",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFotSjFZV0M4ZGc4OXpyRmszZTlJSGNGdk9yY293elI3Y0dPaVJ0SHY4UFBaWDVvX25ZUzY0YW9lVGVnV2NZZDR3ZGJfMnFzR3FTRkZDazVEbU1GUGcwMGtkbnlqdUszZFVpcW1rZnJvV2pkb29VSk43T2RRV2ViRFVYNXZyWEFsTlB0SDl0dlVqeUJOejdfaU90SXVTN0RIMUE?oc=5",
    "date": "2026-11-22T08:01:08.000Z",
@@ -702,20 +727,6 @@
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T10:06:02.735Z",
    "mention": "body"
-  },
-  {
-   "title": "インタビューに答えるチームみらいの安野貴博党首＝東京都千代田区（近藤豊和撮影）",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONE0zcHFDcThfbHI1RGV1bERNWFdWM3FQRGhyWGRvcXhldVlGMFJQMkN4YnpURkVFWTh6QnVsMThHdDRPN2NYYWRIcmJyTER2aDJhRnREMEdfTkkwRjVUWGFqdzlENWZJZmE4YjNPT3hZQ3FCVmlEWWZHUXVxODNQb255Um9aY3ZYdmVlLXJNdkgwUDVhT2VrOWlUTDdoelgyNlE?oc=5",
-   "date": "2026-11-22T07:30:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "産経新聞",
-   "mediaId": "sankei",
-   "members": [
-    "anno"
-   ],
-   "firstSeen": "2026-11-22T10:06:02.735Z",
-   "mention": "title"
   },
   {
    "title": "国会審議をAIで壁打ち 東大松尾研出身、チームみらい安野貴博氏と「AIインタビュー」 AI×人間",
