@@ -1,18 +1,40 @@
 {
- "updatedAt": "2026-11-25T06:06:07.101Z",
- "lastAttempt": "2026-11-25T06:06:07.101Z",
+ "updatedAt": "2026-11-25T07:06:07.753Z",
+ "lastAttempt": "2026-11-25T07:06:07.753Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T04:20:25.000Z",
+   "date": "2026-11-25T05:50:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "飛ばない戦闘機、動かない戦車が増える 防衛費50兆円台に佐藤正久氏が危機感",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvem1XMzZoM0FKNHBHMHk1aG5jUnBPcEN6UEN2eGZ2YXpXSEZqLUFjUUxKUWdMTjBUQ1AtNTRDYXNGakpkaHVzVHA3UEVaa3JWd0ZOX3huWXEtZVdLbmI5UmdrVDNzcThCVklOV3pUSlp4VHVId1E?oc=5",
+   "date": "2026-11-25T05:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "産経新聞",
+   "mediaId": "sankei",
+   "firstSeen": "2026-11-25T07:06:07.753Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T05:16:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -24,17 +46,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-24T17:06:27.418Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T02:16:09.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -100,6 +111,20 @@
    "mediaId": "sankei",
    "firstSeen": "2026-11-24T12:06:11.408Z",
    "mention": "body"
+  },
+  {
+   "title": "【チームみらい】定例会見 (2026年11月26日）開始予定15:30〜 #古川あおい",
+   "link": "https://www.youtube.com/watch?v=YlVU1h-6DDU",
+   "date": "2026-11-24T11:41:38.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "furukawa"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/YlVU1h-6DDU/hqdefault.jpg",
+   "description": "【チームみらい】幹事長 古川あおいによる記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼",
+   "firstSeen": "2026-11-25T07:06:07.753Z"
   },
   {
    "title": "【目的は利益の独占か？安全保障か？】Claudeを解剖「黒塗りの報告書」／ジェンスン・フアンと真逆の思想／アンソロピック上場「時価総額世界一も可能」今井翔太／「リーマン予想」証明か【AI QUEST】",
@@ -292,17 +317,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-20T03:06:06.401Z",
-   "mention": "body"
-  },
-  {
-   "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
-   "date": "2026-11-23T12:21:41.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-22T04:06:02.660Z",
    "mention": "body"
   },
   {
@@ -1200,6 +1214,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T23:06:03.161Z",
+   "mention": "body"
+  },
+  {
+   "title": "【直近の民意は衆院選】日本維新の会 総務会長 金村 龍那｜NIKKEI 日曜サロン",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZTZ5Rml0UnFQdmRaWmRDcThoLTBzVEdITk1rVkx4VllhQ0tzNmI3X1luTmtOSy1YWDd4ZFZlbWE0Mm1pS2JjUzRleW0tMk1YWlFOSF9JX04tbldpMUlEU1l4YTR0Q2s?oc=5",
+   "date": "2026-11-22T00:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-22T04:06:02.660Z",
    "mention": "body"
   },
   {
