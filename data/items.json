@@ -1,13 +1,108 @@
 {
- "updatedAt": "2026-11-25T21:06:04.732Z",
- "lastAttempt": "2026-11-25T21:06:04.732Z",
+ "updatedAt": "2026-11-25T22:06:04.191Z",
+ "lastAttempt": "2026-11-25T22:06:04.191Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
+   "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月25日）",
+   "link": "https://note.com/team_mirai_log/n/n04d60170be77",
+   "date": "2026-11-25T22:02:53.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "takayama"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340787841/rectangle_large_type_2_538088811dfdded88cd5003eeddf1a3e.jpeg?width=800",
+   "description": "2026年11月25日に衆議院 内閣委員会で行われた質疑における、チームみらい 国会対策委員長・高山聡史の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 国会対策委員長・高山聡史 答弁者＝小野田紀美 経済安全保",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
+   "title": "崩れぬ「自民1強」なのに 支持率、高市政権で最低水準 原因は",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMWFHRTNhZE15eWZIc280SlByWlJtSUc2MWxaQW5NeDNwTi13eXlSM1NOR3NLRnoyQXJXanFNdXhzb3NXcXNEUmt0UXhDcmVxeVM2Z0RsaUlkdDJLNkNSMGJTRmFaM3Ex?oc=5",
+   "date": "2026-11-25T22:01:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-25T22:06:04.191Z",
+   "mention": "body"
+  },
+  {
+   "title": "【全文】衆議院 経済産業委員会 質疑／小林修平（2026年11月25日）",
+   "link": "https://note.com/team_mirai_log/n/n3f96c5148eac",
+   "date": "2026-11-25T21:58:38.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "kobayashi"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340786749/rectangle_large_type_2_893172dfa14107cb613ed0bdae3aa0c2.jpeg?width=800",
+   "description": "2026年11月25日に衆議院 経済産業委員会で行われた質疑における、チームみらい 小林修平の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 小林修平 答弁者＝畑田 政府参考人、奥家 政府参考人、小林 政府参考",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
+   "title": "【全文】衆議院 国土交通委員会 質疑／組織活動本部長・須田英太郎（2026年11月25日）",
+   "link": "https://note.com/team_mirai_log/n/n9e75b6f227ae",
+   "date": "2026-11-25T21:51:52.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "suda"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340785337/rectangle_large_type_2_256901a5afab1277fdbce2730a3d9f98.jpeg?width=800",
+   "description": "2026年11月25日に衆議院 国土交通委員会で行われた質疑における、チームみらい 組織活動本部長・須田英太郎の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 組織活動本部長・須田英太郎 答弁者＝波々伯部 政府",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
+   "title": "【全文】衆議院 東日本大震災復興及び原子力問題調査特別委員会 質疑／政調会長・河合道雄（2026年11月24日）",
+   "link": "https://note.com/team_mirai_log/n/na96db9eb6ac1",
+   "date": "2026-11-25T21:45:30.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "kawai"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340783921/rectangle_large_type_2_f26cba47e752eb653b086d77d3e2b383.jpeg?width=800",
+   "description": "2026年11月24日に衆議院 東日本大震災復興及び原子力問題調査特別委員会で行われた質疑における、チームみらい 政調会長・河合道雄の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 政調会長・河合道雄 答弁者＝",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
+   "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月20日）",
+   "link": "https://note.com/team_mirai_log/n/n9c4ce56c22e2",
+   "date": "2026-11-25T21:34:06.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "mineshima"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340781944/rectangle_large_type_2_6ace144b673bd6ae33e88b1646671cd2.jpeg?width=800",
+   "description": "2026年11月20日に衆議院 政治改革に関する特別委員会で行われた質疑における、チームみらい 広報本部長・峰島侑也の質問と、各答弁者による答弁を全文書き起こしたものです。 案件＝現行の衆議院選挙制度の見直しのための公職選挙法の一部を改正す",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
+   "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月20日）",
+   "link": "https://note.com/team_mirai_log/n/n0257293c0473",
+   "date": "2026-11-25T21:23:46.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "takayama"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340779912/rectangle_large_type_2_7b6d8ad81c524f01cf298d494034c39c.jpeg?width=800",
+   "description": "2026年11月20日に衆議院 内閣委員会で行われた質疑における、チームみらい 国会対策委員長・高山聡史の質問と、各答弁者による答弁を全文書き起こしたものです。本稿の末尾には、高山聡史が行った付帯決議の趣旨説明も掲載しています。 案件＝ ・",
+   "firstSeen": "2026-11-25T22:06:04.191Z"
+  },
+  {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T16:35:51.000Z",
+   "date": "2026-11-25T18:32:47.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -5287,12 +5382,12 @@
    "mention": "body"
   },
   {
-   "title": "【全文】衆議院 経済産業委員会 質疑／小林修平（2026年11月6日）",
+   "title": "衆議院経済産業委員会にて小林修平が質疑",
    "link": "https://note.com/team_mirai_log/n/ne6109e5aa877",
    "date": "2026-11-09T10:33:00.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "kobayashi"
    ],
@@ -5301,12 +5396,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月6日）",
+   "title": "衆議院内閣委員会にて高山聡史が質疑",
    "link": "https://note.com/team_mirai_log/n/nbdcc66cb0346",
    "date": "2026-11-09T10:26:28.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "takayama"
    ],
@@ -5315,12 +5410,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【全文】衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 質疑／国会対策委員長代理・武藤かず子（2026年11月6日）",
+   "title": "衆議院地域活性化・こども政策・デジタル社会形成に関する特別委員会にて武藤かず子が質疑",
    "link": "https://note.com/team_mirai_log/n/ne661d5423d01",
    "date": "2026-11-09T10:17:31.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "muto"
    ],
@@ -5574,12 +5669,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【全文】衆議院 本会議 討論／広報本部長・峰島侑也（2026年11月6日）",
+   "title": "衆議院本会議にて峰島侑也が討論",
    "link": "https://note.com/team_mirai_log/n/ncfdb88fbcc51",
    "date": "2026-11-06T11:04:03.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "mineshima"
    ],
