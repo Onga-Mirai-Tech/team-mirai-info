@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-25T09:06:09.401Z",
- "lastAttempt": "2026-11-25T09:06:09.401Z",
+ "updatedAt": "2026-11-25T09:11:29.420Z",
+ "lastAttempt": "2026-11-25T09:11:29.420Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 山田瑛理"
+ ],
  "items": [
   {
    "title": "月間のサイバー攻撃 過去最多に",
@@ -18,7 +20,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T06:35:04.000Z",
+   "date": "2026-11-25T05:50:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
