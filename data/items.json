@@ -1,20 +1,9 @@
 {
- "updatedAt": "2026-11-25T13:06:05.178Z",
- "lastAttempt": "2026-11-25T13:06:05.178Z",
+ "updatedAt": "2026-11-25T14:06:05.447Z",
+ "lastAttempt": "2026-11-25T14:06:05.447Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T12:04:11.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
   {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
@@ -104,6 +93,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-24T21:42:22.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -1711,7 +1711,7 @@
   },
   {
    "title": "「中道」に投票した人、後継政党への支持は2割だけ 朝日阪大調査",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2RDJJRndSMVpkU29sWjVoRTJ6dlJGOWx4S3J3SnBtOVVYWlc5ZDM3cllRQXVuekNpdEs2Vm1NMUlHUF9ReHVGWkRobGY1aEtzbnVfM2pmRU9FWkZRWXYwYVlmVURCQ2J0eVVwdllGZzlBQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZU90eEkxZHRCWlpOZVpVQU9nZ2tWRHJUX19adEZQOHROTmVEZUxqVHZFZHZuYVQxbWhIaE9QNWFid1BfdDBaUXZTQmF1aEJOaWhZRTBtRWplZ2NzY1UwRVlrTlVReW8?oc=5",
    "date": "2026-11-20T22:00:00.000Z",
    "type": "media",
    "kind": "article",
@@ -1844,7 +1844,7 @@
   },
   {
    "title": "公明、消費減税で修正案 政府拒否なら「反対」―西田幹事長",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15bzk4c1R6T1lhQ3ltNFdYZHdFU3REd1lIdk9GT25zM09FM3c1T0VPNkRBOWZCMjJ0VmlzanZuOExIWkRsa1VVb1BSaVc3THdTaHJZaWxaWVBKLWs2V1prVXd5WQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3LW1HWEU2VWVKRC1MdjNjeGJ0Qm5BUTFRQVhIRG1kQ2M4a3FudVhZd0VUZjgwWHluazFuOXU2VmRzNWJ0NHpvN2tyVnUyWXY1elNoTzRmbTlLeGRkY1E3ZkU5cw?oc=5",
    "date": "2026-11-20T10:34:00.000Z",
    "type": "media",
    "kind": "article",
