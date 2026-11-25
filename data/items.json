@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-25T19:06:05.723Z",
- "lastAttempt": "2026-11-25T19:06:05.723Z",
+ "updatedAt": "2026-11-25T19:36:53.696Z",
+ "lastAttempt": "2026-11-25T19:36:53.696Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T14:37:16.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
   {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
@@ -93,17 +104,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-24T21:37:16.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -1910,7 +1910,7 @@
   },
   {
    "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ccmg1LXJfem55QkFuT2VLcE5nWmlLNW96TEFQMUhrT1ZtakNGWXUzWkpzUFlkeGs3MF95Qy1QbXVGd053Vmw5MU01MWlKekNzdDIw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
    "date": "2026-11-20T08:55:00.000Z",
    "type": "media",
    "kind": "article",
