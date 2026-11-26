@@ -1,13 +1,27 @@
 {
- "updatedAt": "2026-11-26T06:06:04.536Z",
- "lastAttempt": "2026-11-26T06:06:04.536Z",
+ "updatedAt": "2026-11-26T07:06:09.684Z",
+ "lastAttempt": "2026-11-26T07:06:09.684Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
+   "title": "チームみらい 定例会見 原稿（2026年11月26日）",
+   "link": "https://note.com/team_mirai_jp/n/n417b2ae693f2",
+   "date": "2026-11-26T06:30:00.000Z",
+   "type": "official",
+   "kind": "note",
+   "source": "党公式 note",
+   "members": [
+    "furukawa"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/340921978/rectangle_large_type_2_1db6deadce663d653d3023dac194887e.jpeg?width=800",
+   "description": "皆さま、本日はお忙しいところ、チームみらいの定例会見にお集まりいただき、誠にありがとうございます。幹事長の古川あおいです。 本日は、 続きをみる",
+   "firstSeen": "2026-11-26T07:06:09.684Z"
+  },
+  {
    "title": "衆院憲法審査会 9条と自衛隊の位置づけで3回目の集中的討議",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrcU1jaUVnUWFKc0ZNWGZFUVVuaGptS2o5VlA2emZqLUF4RThyTzRzT1NzZml3TkVDSXc3Z1JuVFVmUXF3M25nYTFQSG1xRTh4YUJCa3FHZHJHT0VCblZN?oc=5",
-   "date": "2026-11-26T05:29:52.000Z",
+   "date": "2026-11-26T05:29:00.000Z",
    "type": "media",
    "kind": "article",
    "source": "NHK",
@@ -53,13 +67,24 @@
   },
   {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY0lJQ2FSbDM3WndvWmhGV0tMSm5RSl9nNERzWkxHYzNZaUlsNmR0UXBvRkQxUVU1MUdXbnRCNUotU21iaVh5VFJaWHlpV1M4NENRMGdKQ3l5d3huNlhMOVhyVkk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
    "date": "2026-11-26T03:47:20.000Z",
    "type": "media",
    "kind": "article",
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-26T04:06:04.692Z",
+   "mention": "body"
+  },
+  {
+   "title": "アマダと日立、AIエージェントとフィジカルAIの実装によりお客さま工場の自律化に向けた協創を加速",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMWVLYnVmRzFIQ19DanFiVHc0R3hrSlgybDBSV0ZGeDNQN003VlBPb29aTFBRU3BKWnNhUklxOEpHWDdnd1F6cXAwX2JRSjNkNnJpbzZlUHhlRmxiVng1U3IxNV9EVkp6UTdkYw?oc=5",
+   "date": "2026-11-26T03:18:59.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
    "mention": "body"
   },
   {
@@ -82,17 +107,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:50:14.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -356,6 +370,17 @@
    "mention": "body"
   },
   {
+   "title": "不確実な時代でも脱炭素 理想高く歩みは着実に",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdzhlVENldWFpM0FLTERkdERCbkR0Q2VnT1k4Y1ljTTdNTHNqTWRnaXc1NGRNMURkWlN1dEZSN0NUNGxKZDRtaERPSmRSeVRfQlNEY2Vsd1llUlJ6NkFzdzRlLTU0LVZZc1d1Rw?oc=5",
+   "date": "2026-11-25T17:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
+   "mention": "body"
+  },
+  {
    "title": "外国人労働者、東北GDP底上げ 農・水産業「いないと成り立たず」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybVlJVG5uV2VGMTRwOG5DLWFORWNteDZwcUIyTXdVRHRoVWotUEdQNWV5bTdzamFva245RENuTWpqNHFQcWdMOFJyUF92T2I1T1F2MFpoOXRFNUtoak5zLTJyNnJtN2JUS3dWSw?oc=5",
    "date": "2026-11-25T16:49:00.000Z",
@@ -441,6 +466,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-24T17:06:27.418Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T09:46:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -629,6 +665,17 @@
    "firstSeen": "2026-11-24T14:06:05.024Z"
   },
   {
+   "title": "化粧品のヴェレダ・ジャパン、クレカ情報4.5万件漏洩か",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0UHBwTkEwNVJoV0dGS3JraU1UNDVOcldTQ1RxajJ4Xzl6bzNJQzlablZnd2ZrakZrV1hBelMyMGZxZ1B5Rm1VcS1TUi1yb0ZkdFB5Tm1iMWllMlVZVV9FRnBhYjB6NzJLQmRKUg?oc=5",
+   "date": "2026-11-24T13:18:09.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
+   "mention": "body"
+  },
+  {
    "title": "【チみラジ】#06「国会議員の1日を教えてください」ゲスト：林士平氏【安野貴博×石井玄｜ポッドキャスト】",
    "link": "https://www.youtube.com/watch?v=yM_YO5pJg3o",
    "date": "2026-11-24T13:00:13.000Z",
@@ -641,6 +688,17 @@
    "thumb": "https://i2.ytimg.com/vi/yM_YO5pJg3o/hqdefault.jpg",
    "description": "政治の「なんで？」を気軽に聞く逆インタビュー番組『#チみラジ』。ゲストは #林士平 さんです。 ▷ ポッドキャストは毎週火曜日22時公開！︎｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_j",
    "firstSeen": "2026-11-24T14:06:05.024Z"
+  },
+  {
+   "title": "ファーウェイ、25年の特許収入3割増の1300億円 AIインフラに注力",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YcnJYMlJ2U3dNNnR1bm9rcllvLUxrMHdkUFBGTWR2RzlhWlptc2lDMHZQUnNOdGhOazl2SmJGeExNOE82MnlFMjBrU3ljS2xFdlR2YmgxZkpuQnFKZXdsd1VyODVNMFZacXRUTw?oc=5",
+   "date": "2026-11-24T12:10:17.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
+   "mention": "body"
   },
   {
    "title": "重要土地法改正案、今国会成立へ 与野党賛成多数で衆院通過 外国政府の取得原則認めず",
@@ -723,6 +781,17 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-24T10:06:11.377Z",
+   "mention": "body"
+  },
+  {
+   "title": "人事、ポーラ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSUxSaFVVaEVPeVJPVTVwWDNPaC1Jb2kwZ21NR1o4VHNpSVpjOW82TVFWNkMzdXNsa0F6cU5XYzVJT21uTElmeEN3Sm9LNHFyWVJoR2EwSmVzdHFjcXVNNFh2MVZmc3pMei1Wbg?oc=5",
+   "date": "2026-11-24T08:55:13.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
    "mention": "body"
   },
   {
@@ -2099,6 +2168,17 @@
    "mention": "body"
   },
   {
+   "title": "欧州25カ国超で学生らがデモ、教育・住宅への予算要求",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lTHFyajRvb0lKSmdHSkY3Q1lSaGhEakhyUFViSUVvN2RIZDljLWt1LTNPMHRqME1NS3BQbEJ0UURrNENtUHExVnlaYU9rSmlHUURHbUZGUVNHMkgtU1hEbU8yQnlrSmY5cXItdA?oc=5",
+   "date": "2026-11-21T09:53:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
+   "mention": "body"
+  },
+  {
    "title": "「闇バイト」に関与した経験について語る男性（安元雄太撮影）",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVZLSFpyelhOVG5WN2pLYmN3OUgyOGdQb21CX2wxSGYzOUNueG1hRFVkMUc2VDRtUmp0Um9ZVzFMUzVWRGVRMXlmMkUtczlLdUJjcTRGT05pdllQQ0JwYjVuQ0NJWUFxemNIamFNTkZrZmZPMlZPSnc5b09GbHpWUmZKaUE1alZiNGtGS3V6eWVIX3dER2x6blZZRWpYdWFQalE?oc=5",
    "date": "2026-11-21T08:45:00.000Z",
@@ -2140,6 +2220,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-23T06:06:03.094Z",
+   "mention": "body"
+  },
+  {
+   "title": "大雪で住民や観光客孤立、福島・裏磐梯 山形新幹線は山形―新庄間運休",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UU1luRkhkZC1sXzBGdFBqUWlEOFhuSjEyYnd4TXZ5czFLaXlGUWs5T3kxT1pyS3NYMWxmN0p6SnNMY1hQeXRDM3Azd0d1ZzBBYjZuT0l5OUZuTDU0OGlXQkZLb2ktazRKOUo0Rg?oc=5",
+   "date": "2026-11-21T06:28:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
    "mention": "body"
   },
   {
@@ -2289,6 +2380,28 @@
    "source": "朝日新聞",
    "mediaId": "asahi",
    "firstSeen": "2026-11-20T23:06:06.089Z",
+   "mention": "body"
+  },
+  {
+   "title": "バンス氏、対イラン巡り「大統領支える」 トランプ氏と記者会見",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZamNqQWhCT1BweWtiYzZ1T0k5THY3X0w0MXZueGZrSjlLOFJrUUVZRTZrVHVreTBKZnJORVloaDdNTVhfUktBYlM5eDJWMWpwWnE1MjdwZjdHMzhZR2pkQXNzcHhJVE9XbU5tbw?oc=5",
+   "date": "2026-11-20T20:33:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
+   "mention": "body"
+  },
+  {
+   "title": "元米運輸長官「造船業再生、日米連携で」 次世代交通で世界主導",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVUtuYWpGRGE0bHFnZDU0bEllWGdVLTFnRG00dnI3cHdQRWtOcmFyU3Z5S2owTmpGU1ZiODZBVWJfci0xT2xHUU9TT0I4Y3NIOUdBVzdIY0otSEJ2dktwX1JSWWYwR2o5V25zcQ?oc=5",
+   "date": "2026-11-20T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
    "mention": "body"
   },
   {
@@ -2902,6 +3015,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T17:06:05.830Z",
+   "mention": "body"
+  },
+  {
+   "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
+   "date": "2026-11-20T00:08:15.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T07:06:09.684Z",
    "mention": "body"
   },
   {
@@ -9607,12 +9731,12 @@
    "mention": "body"
   },
   {
-   "title": "チームみらい 党首会見 原稿(2026年9月17日）",
+   "title": "党首会見を実施（新体制の人事を発表、広聴本部を新設）",
    "link": "https://note.com/team_mirai_jp/n/n10f5d4ab80eb",
    "date": "2026-09-17T02:00:00.000Z",
    "type": "official",
    "kind": "note",
-   "source": "党公式 note",
+   "source": "党公式サイト",
    "members": [
     "anno"
    ],
