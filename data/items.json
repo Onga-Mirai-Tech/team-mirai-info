@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T09:06:12.458Z",
- "lastAttempt": "2026-11-26T09:06:12.458Z",
+ "updatedAt": "2026-11-26T10:06:05.047Z",
+ "lastAttempt": "2026-11-26T10:06:05.047Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -121,14 +121,14 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:43:27.000Z",
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:17:31.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -173,17 +173,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T00:19:04.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -436,6 +425,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T16:41:43.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "日立、ファナックとAIロボットアーム開発 「自律型工場」へ布石",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kbm1EWFJLMjVINHFjRy1uaF9qNWpFREU4RkxFMGxMV29WQUd5Vkd4WDZDNVQxc3BJcDQ4clJUaDRpcTRGMjNPeWtZR19kWExFZ1VRdVZUSGVXNFppVnA3azUyQVdLZkJNbTNjag?oc=5",
    "date": "2026-11-25T11:00:00.000Z",
@@ -500,6 +500,21 @@
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
+  },
+  {
+   "title": "【生配信】週刊チームみらいNEWS (2026年11月27日19:00頃開始予定) #峰島侑也 #山田瑛理",
+   "link": "https://www.youtube.com/watch?v=19RTp_BQrAc",
+   "date": "2026-11-25T09:50:08.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "mineshima",
+    "yamada"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/19RTp_BQrAc/hqdefault.jpg",
+   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼出演",
+   "firstSeen": "2026-11-26T10:06:05.047Z"
   },
   {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
