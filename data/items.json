@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T01:06:04.662Z",
- "lastAttempt": "2026-11-26T01:06:04.662Z",
+ "updatedAt": "2026-11-26T02:06:04.315Z",
+ "lastAttempt": "2026-11-26T02:06:04.315Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -155,17 +155,6 @@
    "mention": "body"
   },
   {
-   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T09:37:27.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-24T17:06:27.418Z",
-   "mention": "body"
-  },
-  {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
    "link": "https://note.com/team_mirai_log/n/n572e039018e8",
    "date": "2026-11-25T09:18:14.000Z",
@@ -182,12 +171,23 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T07:55:29.000Z",
+   "date": "2026-11-25T08:55:30.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T07:55:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
   },
   {
@@ -1433,6 +1433,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T16:06:03.521Z",
+   "mention": "body"
+  },
+  {
+   "title": "長野県 小海町長選挙（2026年11月）候補者一覧・開票速報【朝日選挙】",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HejJsb2R5c0NueWFaSFhVMkhJcTNZamt0TVRDN1BRR2FnRlBQTkJnQzdWdEZMZU5qMVc2eS1ta2lVTGNIMTk1eUk4Rkl3QzFFSy01cU0tY1dIc2M?oc=5",
+   "date": "2026-11-21T22:42:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-22T20:06:02.925Z",
    "mention": "body"
   },
   {
@@ -3745,17 +3756,6 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/337236739/rectangle_large_type_2_7eb72e4824341b57b3cfd9ce73646db1.jpeg?width=800",
    "description": "2026年11月13日に衆議院 内閣委員会で行われた質疑における、チームみらい 国会対策委員長・高山聡史の質問と、各答弁者による答弁を全文書き起こしたものです。 案件＝ ・重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規",
    "firstSeen": "2026-11-18T13:28:18.738Z"
-  },
-  {
-   "title": "長野県 小海町長選挙（2026年11月）候補者一覧・開票速報【朝日選挙】",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HejJsb2R5c0NueWFaSFhVMkhJcTNZamt0TVRDN1BRR2FnRlBQTkJnQzdWdEZMZU5qMVc2eS1ta2lVTGNIMTk1eUk4Rkl3QzFFSy01cU0tY1dIc2M?oc=5",
-   "date": "2026-11-17T08:00:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "朝日新聞",
-   "mediaId": "asahi",
-   "firstSeen": "2026-11-22T20:06:02.925Z",
-   "mention": "body"
   },
   {
    "title": "高市首相、中国でプーチン露大統領と接触へ 道新記者の即時解放要求",
