@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T00:06:06.249Z",
- "lastAttempt": "2026-11-26T00:06:06.249Z",
+ "updatedAt": "2026-11-26T01:06:04.662Z",
+ "lastAttempt": "2026-11-26T01:06:04.662Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -122,6 +122,17 @@
    "firstSeen": "2026-11-25T22:06:04.191Z"
   },
   {
+   "title": "関文科相の問責決議案、無所属議員が採決のカギ…与野党ギリギリの攻防・双方が直前まで取り込み",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMGhZOVROZ0oyNTFkRmdibnVxbE9UUTQxSnZFWjJEVlZmaE5FcDhpdjJzWFVhWU9rVW1RbXlHM3Jfc0VvWFViOVBzUmwtelNPaHNYcEl2UGk0ZWxLcm9PUGU0Vmhidw?oc=5",
+   "date": "2026-11-25T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-26T01:06:04.662Z",
+   "mention": "body"
+  },
+  {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
    "date": "2026-11-25T10:03:54.000Z",
@@ -169,6 +180,17 @@
    "firstSeen": "2026-11-25T10:06:22.197Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T07:55:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "飛ばない戦闘機、動かない戦車が増える 防衛費50兆円台に佐藤正久氏が危機感",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvem1XMzZoM0FKNHBHMHk1aG5jUnBPcEN6UEN2eGZ2YXpXSEZqLUFjUUxKUWdMTjBUQ1AtNTRDYXNGakpkaHVzVHA3UEVaa3JWd0ZOX3huWXEtZVdLbmI5UmdrVDNzcThCVklOV3pUSlp4VHVId1E?oc=5",
    "date": "2026-11-25T05:30:00.000Z",
@@ -177,17 +199,6 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-25T07:06:07.753Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-24T23:00:14.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -15868,6 +15879,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-22T01:35:55.276Z",
+   "mention": "body"
+  },
+  {
+   "title": "小選挙区・自由民主党 | 2026 衆議院選挙 特設サイト・開票結果",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56SzBCRld1aTZFeTg1ZHRoRlk0LXN3aEpHa25McnFJN2o3bjlJNi1HNS1PbzlobWEyaGkwSG5wRlBHMWpkbU5tbm91dENHLTMxcXBySG8wbUFpU3JIbjQtOHUyTEZlYjRK?oc=5",
+   "date": "2026-02-08T13:35:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "TBS",
+   "mediaId": "tbs",
+   "firstSeen": "2026-11-26T01:06:04.662Z",
    "mention": "body"
   },
   {
