@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-26T10:06:05.047Z",
- "lastAttempt": "2026-11-26T10:06:05.047Z",
+ "updatedAt": "2026-11-26T11:06:03.675Z",
+ "lastAttempt": "2026-11-26T11:06:03.675Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "文科相問責案が数票差の攻防 与野党、保守・無所属の取り込み狙う",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YalFubWt4YTBGSWx6bkFRdVlLZVJOcWVoTldTcFU0SC1RU2twRVlweERtVVp2ZUhwVmZydDdmczRZd2VqcmdwVjY5X1FvRGtfbGF3YkhxV1V0Q29MUGhRVklqVEs0OExvUGFJMg?oc=5",
+   "date": "2026-11-26T10:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
+  {
+   "title": "「行政の公正損なう」問責決議案で批判 関文科相、進退明言せず",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQ0ZVcmptNlg4Q01MQnFwU20xQTM5ZTdUT0dVZVN4T2Vqd2hBYk9GdXNyWnFqclFVc3VMYzZ0SWdCYU10azdBVGJnbHJ5bTJlSUhyY2tiWDZLa1NLd2dQTE85c1dibXZn?oc=5",
+   "date": "2026-11-26T10:15:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
   {
    "title": "倉田真由美さん “クマ殺さないで”群馬県や前橋市への抗議に疑問「鹿や猪…こう言わないのは何故」（スポニチ）",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVm9LdVJHelhQVFJRY1h1cFkwR1JtVUVqaEQyS05nUXFMcnc2MkNIcEdRdHN2b28zbzVZbWwtNnRDRDl0VlZvaUhaMGVHOUZfTjB3aThLUUIxMTcxVmxkWTlJWFFLZU1Q?oc=5",
@@ -78,7 +100,7 @@
   },
   {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY0lJQ2FSbDM3WndvWmhGV0tMSm5RSl9nNERzWkxHYzNZaUlsNmR0UXBvRkQxUVU1MUdXbnRCNUotU21iaVh5VFJaWHlpV1M4NENRMGdKQ3l5d3huNlhMOVhyVkk?oc=5",
    "date": "2026-11-26T03:47:20.000Z",
    "type": "media",
    "kind": "article",
@@ -381,6 +403,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T17:39:53.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "為替変動と企業の行動（4）「安い円」が定着した3要因",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fTWxvUXZsVVoxbEdTaE5mQ2EzUFZnWTlPa2JkaUUxa0NJb1QwdEVGaWd6eUlhWGhYVXgzVXBpcG5aeWZ6Wmt1dTdteXRUU0ZoZDZRbG93ejJ2WDNzNUs3aDB2S1Z1SlVINV9mWA?oc=5",
    "date": "2026-11-25T17:00:00.000Z",
@@ -425,15 +458,29 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-25T16:41:43.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
+  },
+  {
+   "title": "【緊急実験】安野がバイブコーディングで政府チャットボットをつくってみる(2026年11月27日20:00頃開始予定) #安野貴博",
+   "link": "https://www.youtube.com/watch?v=hT2pg7H5IFA",
+   "date": "2026-11-25T12:48:53.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/hT2pg7H5IFA/hqdefault.jpg",
+   "description": "政府のチャットボット「Govbot（ガボット）」 さまざまな課題が認識されていたはずのガボットが、生成AIの進化も踏まえないまま、同じ運用方式で次の4年間に入ろうとしています。こうしたシステム調達のあり方には、大きな問題があると考えます。 ",
+   "firstSeen": "2026-11-26T11:06:03.675Z"
   },
   {
    "title": "日立、ファナックとAIロボットアーム開発 「自律型工場」へ布石",
@@ -470,7 +517,7 @@
   },
   {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MG5SNzZlc0JUeWVFcktZdWNWc1BDcHN3WGo0T0dSdTN4TmlHblRicEFWcnQtZ3hTS0NuY0hnaEU5QVRZWmVZLUJFVVRHSlF3SExmcHg5bWFlNDloazlHOUY3Qlo?oc=5",
    "date": "2026-11-25T10:03:54.000Z",
    "type": "media",
    "kind": "article",
