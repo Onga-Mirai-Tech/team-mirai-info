@@ -1,9 +1,42 @@
 {
- "updatedAt": "2026-11-26T02:06:04.315Z",
- "lastAttempt": "2026-11-26T02:06:04.315Z",
+ "updatedAt": "2026-11-26T03:06:07.724Z",
+ "lastAttempt": "2026-11-26T03:06:07.724Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "野党、文科相問責決議案提出 27日採決、与野党拮抗",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdURCSXBiM0t6anpncVZrbUhnWDlsbk1pWWVxdnVReGJOU3FrVXg0MExBZ2VzckR1UmRqYXF2cTFHVEp2M284bFByZw?oc=5",
+   "date": "2026-11-26T02:11:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "共同通信",
+   "mediaId": "kyodo",
+   "firstSeen": "2026-11-26T03:06:07.724Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T01:53:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "野党、文科相問責決議案提出 ２７日採決、与野党拮抗",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZSTE4QXpkWXhZN2ZqWDRnMVh3OEo5YzQ0VE9KeEllMkpDcUpLUnN3a3FUalY3bl9qT0lUNHBrRldLVXN5N0Y2TC1faldUanJQRlJV?oc=5",
+   "date": "2026-11-26T01:41:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-26T03:06:07.724Z",
+   "mention": "body"
+  },
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
@@ -169,20 +202,9 @@
    "firstSeen": "2026-11-25T10:06:22.197Z"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T08:55:30.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T07:55:23.000Z",
+   "date": "2026-11-25T08:20:08.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
