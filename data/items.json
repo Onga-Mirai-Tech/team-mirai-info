@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-26T16:06:03.660Z",
- "lastAttempt": "2026-11-26T16:06:03.660Z",
+ "updatedAt": "2026-11-26T17:06:03.531Z",
+ "lastAttempt": "2026-11-26T17:06:03.531Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "関文科相：関氏問責 参院に提出 きょう採決、可否不透明",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uRlF6VG1LM1V3Q2R2X1g1UVRWTnJ4ZkhXQ3FEc19qU2ctTHFpRUpuNGVldXBmYzlaWExPSzVpcWZISlRaU25QMDNCRlVEN1BsY1FUUFVfYWdMbDV0UzhSWHpmenZqOXVw?oc=5",
+   "date": "2026-11-26T17:02:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-26T17:06:03.531Z",
+   "mention": "body"
+  },
   {
    "title": "【チームみらい】第2回 AI時代のサイバーセキュリティを考える勉強会 (2026年11月26日11:00〜開始予定） #安野貴博",
    "link": "https://www.youtube.com/watch?v=PkK5_ULFc4c",
@@ -17,17 +28,6 @@
    "thumb": "https://i1.ytimg.com/vi/PkK5_ULFc4c/hqdefault.jpg",
    "description": "AIの進化でサイバー攻撃の脅威が高まるなか、能動的サイバー防御の運用といま必要な政策を、専門家3名を招いて党派を超えて議論する国会議員向けの勉強会です。 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.yout",
    "firstSeen": "2026-11-23T05:06:04.887Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T15:23:01.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
@@ -226,17 +226,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T02:08:40.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "EY新日本、1時間で有報数値の整合性確認 総会前開示を後押し",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSGFBNE9UM2N5ZmtPaHRGX0VGQWdlOW9VbzNQekZFRW5jcWVRQU5BUkkyaWFBOWtldjd5UVNxWHFsRnpNVDJYd0lleWF2dFBRVnAwQzdRX3JSd2dnTF9vZ2FhV0lhS0dYaEpXdQ?oc=5",
    "date": "2026-11-26T02:00:00.000Z",
@@ -267,6 +256,28 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T23:31:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T23:07:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
