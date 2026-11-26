@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-26T20:06:02.875Z",
- "lastAttempt": "2026-11-26T20:06:02.875Z",
+ "updatedAt": "2026-11-26T21:06:09.390Z",
+ "lastAttempt": "2026-11-26T21:06:09.390Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【全文】衆議院 憲法審査会 発言／幹事長・古川あおい（2026年11月26日）",
+   "link": "https://note.com/team_mirai_log/n/n13603e6da6c5",
+   "date": "2026-11-26T20:13:15.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "furukawa"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/341194772/rectangle_large_type_2_98e5d5469075db1d88ff006fe4ddcaf1.jpeg?width=800",
+   "description": "2026年11月26日に衆議院 憲法審査会におけるチームみらい 幹事長・古川あおいの発言を全文書き起こしたものです。 案件＝「9条及び自衛隊の位置づけ」に関する集中的な討議 質問者＝チームみらい 幹事長・古川あおい 続きをみる",
+   "firstSeen": "2026-11-26T21:06:09.390Z"
+  },
   {
    "title": "関芳弘文科相の問責案、27日参院本会議で採決 高市政権は否決狙い",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLRUdKZ204ZTF2MzBhVGlFaDlNa0VldjF6Y2Focm9xRk5jUy0tLVhBYWhRWk5JV1Fic0VGSUhHclh1U3JFNmRxbjlFMW1PUE14SW9lY0FBLXpUX2FaNGFZMjBRcEZaOFVhV2hUbg?oc=5",
@@ -251,14 +265,14 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:25:42.000Z",
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-26T02:25:40.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
@@ -295,14 +309,14 @@
    "mention": "body"
   },
   {
-   "title": "関文科大臣への問責決議案を参議院に提出",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
    "date": "2026-11-26T01:27:27.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-26T11:06:03.675Z",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -1018,7 +1032,7 @@
   },
   {
    "title": "安全保障上重要な施設周辺の土地取得に「許可制」を導入する法案が衆院で可決 与党などの賛成多数で",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NY051enh0TlpOR2pFci1qRGROZVhwTmEtZWxMRXBSUkp2UllieXB6aEF6NlJodXd3VlhCay1YVnZlaG5rUDZJNGI1Y3FzYkFtNTZ0QUFrVE5KZm1vS0VEX05EWFQtb3hZS3NsVktCb3E2ZTBq?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSGpWbHZqbjhGajRkVFVjLVRDd1JLbXBzR3g2RWtLaUNYWGE3NE5tbEowcnVtTmttdmMwUjlYV3NMSzI0LVM5ei1IS1BENjNLc0phcjNhcENBSVFLQkZfc2Q5ZTQ?oc=5",
    "date": "2026-11-24T07:42:38.000Z",
    "type": "media",
    "kind": "article",
@@ -6090,12 +6104,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "【全文】衆議院 本会議 討論／国会対策委員長・高山聡史（2026年11月10日）",
+   "title": "衆議院本会議にて高山聡史が討論",
    "link": "https://note.com/team_mirai_log/n/n55a5e6391e74",
    "date": "2026-11-10T23:50:26.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "takayama"
    ],
