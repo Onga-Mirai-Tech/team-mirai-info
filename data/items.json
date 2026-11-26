@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T21:06:09.390Z",
- "lastAttempt": "2026-11-26T21:06:09.390Z",
+ "updatedAt": "2026-11-26T22:06:02.261Z",
+ "lastAttempt": "2026-11-26T22:06:02.261Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -221,6 +221,28 @@
    "mention": "title"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T04:23:53.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T04:01:50.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY0lJQ2FSbDM3WndvWmhGV0tMSm5RSl9nNERzWkxHYzNZaUlsNmR0UXBvRkQxUVU1MUdXbnRCNUotU21iaVh5VFJaWHlpV1M4NENRMGdKQ3l5d3huNlhMOVhyVkk?oc=5",
    "date": "2026-11-26T03:47:20.000Z",
@@ -309,17 +331,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T01:27:27.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "関芳弘文科相の問責決議案、野党8党派が提出 27日採決へ賛否拮抗",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaW0xd1FNdUpDZWNBeG9wdVcxOFpIMkVwRjZYXzRFeWgzVGlFcExUdXBqajB2OUU0U2RRN3dUWHp3M3psdVMzajgxMWsxOE1NeEtiTFk4SVZuWXc0cGR1TVc0N1poWXpNbEdzQw?oc=5",
    "date": "2026-11-26T01:19:22.000Z",
@@ -328,17 +339,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T00:07:10.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
