@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-26T07:06:09.684Z",
- "lastAttempt": "2026-11-26T07:06:09.684Z",
+ "updatedAt": "2026-11-26T08:06:05.007Z",
+ "lastAttempt": "2026-11-26T08:06:05.007Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T06:44:54.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
   {
    "title": "チームみらい 定例会見 原稿（2026年11月26日）",
    "link": "https://note.com/team_mirai_jp/n/n417b2ae693f2",
@@ -107,6 +118,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:20:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -282,6 +304,17 @@
    "mention": "body"
   },
   {
+   "title": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNjJxQTRMdU5OUlE5XzJrOHNzcF8xTWZyS05GREd0b3VwOGJTZ3dVejhfMFkxa290S1I2Sy1VQUs4dUJXX2NKeEs5Rml3azU4eUR3YzBvcXhGMVFDRnlF?oc=5",
+   "date": "2026-11-25T20:04:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-26T08:06:05.007Z",
+   "mention": "body"
+  },
+  {
    "title": "関文科相の問責決議案、無所属議員が採決のカギ…与野党ギリギリの攻防・双方が直前まで取り込み",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMGhZOVROZ0oyNTFkRmdibnVxbE9UUTQxSnZFWjJEVlZmaE5FcDhpdjJzWFVhWU9rVW1RbXlHM3Jfc0VvWFViOVBzUmwtelNPaHNYcEl2UGk0ZWxLcm9PUGU0Vmhidw?oc=5",
    "date": "2026-11-25T20:00:00.000Z",
@@ -425,17 +458,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T10:22:20.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
    "date": "2026-11-25T10:03:54.000Z",
@@ -466,17 +488,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-24T17:06:27.418Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T09:46:45.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -535,6 +546,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "人事、大林組",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GQ3VnakFYRUtPWm9OUGlQX0Rnc1ZsMmRMeDloZjZ1MmgxU3VGbDZKYWhrRnRHYjA4eXdtVTQ0ZFVvT1owNW0tN3R6ZXdoQkF3bTlYdE9NSWh3RlJLT21iRU0zSDNDaHVFa2RubA?oc=5",
+   "date": "2026-11-25T06:00:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T08:06:05.007Z",
    "mention": "body"
   },
   {
@@ -1201,6 +1223,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-22T13:06:10.863Z",
+   "mention": "body"
+  },
+  {
+   "title": "アヴァンシアやセリカ、往年の車名復活 新興勢にない「歴史」で勝負",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZlUyaUJDT3ptSlBuNnlGdUJzRl9rQlQtRXFoVHA1UkFROFV6bEpaZkViQWxBLWtkdnJPOG94bnh1M1UycmxrNk9PczIxdE1DU2JjLVEzVFZCU2NMMDNtRldzV3ZQYW9YUi1MTg?oc=5",
+   "date": "2026-11-22T09:08:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T08:06:05.007Z",
    "mention": "body"
   },
   {
