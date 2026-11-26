@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T22:06:02.261Z",
- "lastAttempt": "2026-11-26T22:06:02.261Z",
+ "updatedAt": "2026-11-26T23:06:13.574Z",
+ "lastAttempt": "2026-11-26T23:06:13.574Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -38,6 +38,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-26T20:06:02.875Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か | NHKニュース | 国会、参議院、文部科学省",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
+   "date": "2026-11-26T19:45:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-26T23:06:13.574Z",
    "mention": "body"
   },
   {
