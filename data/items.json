@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-26T19:06:03.432Z",
- "lastAttempt": "2026-11-26T19:06:03.432Z",
+ "updatedAt": "2026-11-26T20:06:02.875Z",
+ "lastAttempt": "2026-11-26T20:06:02.875Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "関芳弘文科相の問責案、27日参院本会議で採決 高市政権は否決狙い",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLRUdKZ204ZTF2MzBhVGlFaDlNa0VldjF6Y2Focm9xRk5jUy0tLVhBYWhRWk5JV1Fic0VGSUhHclh1U3JFNmRxbjlFMW1PUE14SW9lY0FBLXpUX2FaNGFZMjBRcEZaOFVhV2hUbg?oc=5",
+   "date": "2026-11-26T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T20:06:02.875Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
+   "date": "2026-11-26T19:45:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-26T20:06:02.875Z",
+   "mention": "body"
+  },
   {
    "title": "【チームみらい】定例会見 (2026年11月26日）開始予定15:30〜 #古川あおい",
    "link": "https://www.youtube.com/watch?v=YlVU1h-6DDU",
@@ -229,6 +251,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T02:25:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "野党、文科相問責決議案提出 27日採決、与野党拮抗",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdURCSXBiM0t6anpncVZrbUhnWDlsbk1pWWVxdnVReGJOU3FrVXg0MExBZ2VzckR1UmRqYXF2cTFHVEp2M284bFByZw?oc=5",
    "date": "2026-11-26T02:11:00.000Z",
@@ -262,14 +295,14 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-26T01:27:27.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
@@ -281,17 +314,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
-   "mention": "body"
-  },
-  {
-   "title": "関文科大臣への問責決議案を参議院に提出",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-26T00:29:20.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
