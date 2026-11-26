@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-11-26T08:06:05.007Z",
- "lastAttempt": "2026-11-26T08:06:05.007Z",
+ "updatedAt": "2026-11-26T09:06:12.458Z",
+ "lastAttempt": "2026-11-26T09:06:12.458Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T06:44:54.000Z",
+   "title": "倉田真由美さん “クマ殺さないで”群馬県や前橋市への抗議に疑問「鹿や猪…こう言わないのは何故」（スポニチ）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVm9LdVJHelhQVFJRY1h1cFkwR1JtVUVqaEQyS05nUXFMcnc2MkNIcEdRdHN2b28zbzVZbWwtNnRDRDl0VlZvaUhaMGVHOUZfTjB3aThLUUIxMTcxVmxkWTlJWFFLZU1Q?oc=5",
+   "date": "2026-11-26T06:36:05.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-26T09:06:12.458Z",
    "mention": "body"
   },
   {
@@ -121,14 +121,14 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T02:20:46.000Z",
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T02:43:27.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -173,6 +173,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T00:19:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
