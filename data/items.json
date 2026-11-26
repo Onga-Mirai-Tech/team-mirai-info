@@ -1,13 +1,26 @@
 {
- "updatedAt": "2026-11-26T03:47:36.762Z",
- "lastAttempt": "2026-11-26T03:47:36.762Z",
+ "updatedAt": "2026-11-26T04:06:04.692Z",
+ "lastAttempt": "2026-11-26T04:06:04.692Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 武藤かず子"
+ ],
  "items": [
+  {
+   "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
+   "date": "2026-11-26T03:47:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-26T04:06:04.692Z",
+   "mention": "body"
+  },
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:30:27.000Z",
+   "date": "2026-11-26T02:51:53.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -2071,7 +2084,7 @@
   },
   {
    "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ccmg1LXJfem55QkFuT2VLcE5nWmlLNW96TEFQMUhrT1ZtakNGWXUzWkpzUFlkeGs3MF95Qy1QbXVGd053Vmw5MU01MWlKekNzdDIw?oc=5",
    "date": "2026-11-20T08:55:00.000Z",
    "type": "media",
    "kind": "article",
