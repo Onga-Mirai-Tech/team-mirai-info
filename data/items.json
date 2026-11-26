@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-26T18:06:05.634Z",
- "lastAttempt": "2026-11-26T18:06:05.634Z",
+ "updatedAt": "2026-11-26T19:06:03.432Z",
+ "lastAttempt": "2026-11-26T19:06:03.432Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【チームみらい】定例会見 (2026年11月26日）開始予定15:30〜 #古川あおい",
+   "link": "https://www.youtube.com/watch?v=YlVU1h-6DDU",
+   "date": "2026-11-26T18:57:04.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "furukawa"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/YlVU1h-6DDU/hqdefault.jpg",
+   "description": "【チームみらい】幹事長 古川あおいによる記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼",
+   "firstSeen": "2026-11-25T07:06:07.753Z"
+  },
   {
    "title": "関文科相：関氏問責 参院に提出 きょう採決、可否不透明",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uRlF6VG1LM1V3Q2R2X1g1UVRWTnJ4ZkhXQ3FEc19qU2ctTHFpRUpuNGVldXBmYzlaWExPSzVpcWZISlRaU25QMDNCRlVEN1BsY1FUUFVfYWdMbDV0UzhSWHpmenZqOXVw?oc=5",
@@ -28,17 +42,6 @@
    "thumb": "https://i1.ytimg.com/vi/PkK5_ULFc4c/hqdefault.jpg",
    "description": "AIの進化でサイバー攻撃の脅威が高まるなか、能動的サイバー防御の運用といま必要な政策を、専門家3名を招いて党派を超えて議論する国会議員向けの勉強会です。 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.yout",
    "firstSeen": "2026-11-23T05:06:04.887Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T15:29:19.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
@@ -259,6 +262,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T01:27:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "関芳弘文科相の問責決議案、野党8党派が提出 27日採決へ賛否拮抗",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaW0xd1FNdUpDZWNBeG9wdVcxOFpIMkVwRjZYXzRFeWgzVGlFcExUdXBqajB2OUU0U2RRN3dUWHp3M3psdVMzajgxMWsxOE1NeEtiTFk4SVZuWXc0cGR1TVc0N1poWXpNbEdzQw?oc=5",
    "date": "2026-11-26T01:19:22.000Z",
@@ -267,6 +281,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-26T00:29:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
@@ -289,17 +314,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
-   "mention": "body"
-  },
-  {
-   "title": "関文科大臣への問責決議案を参議院に提出",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T22:31:01.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
@@ -888,20 +902,6 @@
    "mediaId": "sankei",
    "firstSeen": "2026-11-24T12:06:11.408Z",
    "mention": "body"
-  },
-  {
-   "title": "【チームみらい】定例会見 (2026年11月26日）開始予定15:30〜 #古川あおい",
-   "link": "https://www.youtube.com/watch?v=YlVU1h-6DDU",
-   "date": "2026-11-24T11:41:38.000Z",
-   "type": "official",
-   "kind": "video",
-   "source": "党公式 YouTube",
-   "members": [
-    "furukawa"
-   ],
-   "thumb": "https://i2.ytimg.com/vi/YlVU1h-6DDU/hqdefault.jpg",
-   "description": "【チームみらい】幹事長 古川あおいによる記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼",
-   "firstSeen": "2026-11-25T07:06:07.753Z"
   },
   {
    "title": "トヨタ、タイで二輪駆動のピックアップトラック 車高低く燃費も改善",
