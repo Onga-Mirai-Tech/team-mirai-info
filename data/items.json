@@ -1,9 +1,34 @@
 {
- "updatedAt": "2026-11-26T11:06:03.675Z",
- "lastAttempt": "2026-11-26T11:06:03.675Z",
+ "updatedAt": "2026-11-26T12:06:03.728Z",
+ "lastAttempt": "2026-11-26T12:06:03.728Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
+   "link": "https://note.com/team_mirai_log/n/ned7433ec3f41",
+   "date": "2026-11-26T11:54:02.000Z",
+   "type": "official",
+   "kind": "diet",
+   "source": "党公式 note（国会記録）",
+   "members": [
+    "usami"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/341080857/rectangle_large_type_2_7d5756e91c828a50c7c7b22b3d63d612.jpeg?width=800",
+   "description": "2026年11月25日に衆議院 北朝鮮による拉致問題等に関する特別委員会で行われた質疑における、チームみらい 宇佐美登の質問と、各答弁者による答弁を全文書き起こしたものです。 質問者＝チームみらい 宇佐美登 答弁者＝葉梨康弘 国家公安委員会",
+   "firstSeen": "2026-11-26T12:06:03.728Z"
+  },
+  {
+   "title": "「可否同数」の見方も 関氏の問責案巡り与野党拮抗、自民危機感",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmaV91WV8xQ3NaRmRQbEFnVU95ZVRjU3ZKUGhjcFRuRmRfUjFXS05JVW9PZm5CYk1YVEN4V2xYSDZWM2FMSTVraDlZWDdmN0VPM0RGNklCdHB4WV81VHI0dk1qbzRpMzl5?oc=5",
+   "date": "2026-11-26T11:17:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-26T12:06:03.728Z",
+   "mention": "body"
+  },
   {
    "title": "文科相問責案が数票差の攻防 与野党、保守・無所属の取り込み狙う",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YalFubWt4YTBGSWx6bkFRdVlLZVJOcWVoTldTcFU0SC1RU2twRVlweERtVVp2ZUhwVmZydDdmczRZd2VqcmdwVjY5X1FvRGtfbGF3YkhxV1V0Q29MUGhRVklqVEs0OExvUGFJMg?oc=5",
@@ -16,6 +41,17 @@
    "mention": "body"
   },
   {
+   "title": "関芳弘文科相の問責案が数票差の攻防 与野党、保守・無所属の取り込み狙う",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YalFubWt4YTBGSWx6bkFRdVlLZVJOcWVoTldTcFU0SC1RU2twRVlweERtVVp2ZUhwVmZydDdmczRZd2VqcmdwVjY5X1FvRGtfbGF3YkhxV1V0Q29MUGhRVklqVEs0OExvUGFJMg?oc=5",
+   "date": "2026-11-26T10:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T12:06:03.728Z",
+   "mention": "body"
+  },
+  {
    "title": "「行政の公正損なう」問責決議案で批判 関文科相、進退明言せず",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QQ0ZVcmptNlg4Q01MQnFwU20xQTM5ZTdUT0dVZVN4T2Vqd2hBYk9GdXNyWnFqclFVc3VMYzZ0SWdCYU10azdBVGJnbHJ5bTJlSUhyY2tiWDZLa1NLd2dQTE85c1dibXZn?oc=5",
    "date": "2026-11-26T10:15:04.000Z",
@@ -24,6 +60,17 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
+  {
+   "title": "関芳弘文科相への問責決議案、維新内にも棄権の観測…僅差の攻防の鍵を握る日本保守党と無所属",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
+   "date": "2026-11-26T10:03:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-26T12:06:03.728Z",
    "mention": "body"
   },
   {
@@ -143,17 +190,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T02:17:31.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "野党、文科相問責決議案提出 27日採決、与野党拮抗",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdURCSXBiM0t6anpncVZrbUhnWDlsbk1pWWVxdnVReGJOU3FrVXg0MExBZ2VzckR1UmRqYXF2cTFHVEp2M284bFByZw?oc=5",
    "date": "2026-11-26T02:11:00.000Z",
@@ -195,6 +231,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T00:13:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -517,7 +564,7 @@
   },
   {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MG5SNzZlc0JUeWVFcktZdWNWc1BDcHN3WGo0T0dSdTN4TmlHblRicEFWcnQtZ3hTS0NuY0hnaEU5QVRZWmVZLUJFVVRHSlF3SExmcHg5bWFlNDloazlHOUY3Qlo?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
    "date": "2026-11-25T10:03:54.000Z",
    "type": "media",
    "kind": "article",
@@ -6024,12 +6071,12 @@
    "mention": "body"
   },
   {
-   "title": "【全文】衆議院 本会議 質疑／土橋章宏（2026年11月10日）",
+   "title": "衆議院本会議にて土橋章宏が質疑",
    "link": "https://note.com/team_mirai_log/n/n265e0cd42952",
    "date": "2026-11-10T21:53:52.000Z",
    "type": "official",
    "kind": "diet",
-   "source": "党公式 note（国会記録）",
+   "source": "党公式サイト",
    "members": [
     "dobashi"
    ],
