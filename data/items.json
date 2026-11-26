@@ -1,11 +1,45 @@
 {
- "updatedAt": "2026-11-26T04:06:04.692Z",
- "lastAttempt": "2026-11-26T04:06:04.692Z",
+ "updatedAt": "2026-11-26T05:06:03.973Z",
+ "lastAttempt": "2026-11-26T05:06:03.973Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 武藤かず子"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "富士経済、菓子・ヨーグルト・パンなど主要96品目の動向調査結果を発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4VnNzYUlzOURmdENjQVlxczhCRzY0RTVJdjlEYTJDc19NREJLcjJGbE9KMUdHRmViMlIxZ3BmdUhpVV9nanFrdVZ0QjhDc3pSVENzN3lxYmlJVGhhdnIyQlRvMWZPZlJvVktSMA?oc=5",
+   "date": "2026-11-26T04:47:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "アンソロピックCEO「AIに社会の統治任せるべきでない」 批判に反論",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNEozYkJtMy1hcWZPeVh5MjA3RzhlWW1PYkE5YS1VNWpBT3FkSWwzMHBQY3VpTFd5dmJDVjA2SDc0LUFRZ1cxbkprWVRHZ25fc3gzblV4Z2pKd3VJaXhDUWxqVmZLeHR3OGtjdA?oc=5",
+   "date": "2026-11-26T04:39:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "チームみらい・安野党首、関文科相への問責に賛成方針",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3SVk3OUV2OTBEUDJVS3N5YkRSNG81SWEzR3M4SU1TUU9KenRGXy1TbXBVRjJCbVpPTGgwd0JQdXlQV2lvVy14NjZGYlV2VFA3QXZWZnVSNUFESzBCeThVUENlTmxiWFBuV0N2Sw?oc=5",
+   "date": "2026-11-26T04:28:54.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "members": [
+    "anno"
+   ],
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "title"
+  },
   {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
@@ -18,9 +52,20 @@
    "mention": "body"
   },
   {
+   "title": "京セラ、部品事業に8100億円投資 AI需要取り込みへ従来計画上積み",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91cUtjMVdFU3V4dVlraDBMNXppU3Jrd2Z6RjV4VG1ObVExQ1dKVXl5alJwN1NFVExKSk1Ub2RlMVRrMUdkZ3BVMVBOOTU1SHY3UDVlV0hwcEZIdUdxVDUtR1V6Q1k3ZjdmQ3hwYQ?oc=5",
+   "date": "2026-11-26T03:05:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:51:53.000Z",
+   "date": "2026-11-26T02:50:14.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -40,6 +85,17 @@
    "mention": "body"
   },
   {
+   "title": "EY新日本、1時間で有報数値の整合性確認 総会前開示を後押し",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSGFBNE9UM2N5ZmtPaHRGX0VGQWdlOW9VbzNQekZFRW5jcWVRQU5BUkkyaWFBOWtldjd5UVNxWHFsRnpNVDJYd0lleWF2dFBRVnAwQzdRX3JSd2dnTF9vZ2FhV0lhS0dYaEpXdQ?oc=5",
+   "date": "2026-11-26T02:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
    "title": "野党、文科相問責決議案提出 ２７日採決、与野党拮抗",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZSTE4QXpkWXhZN2ZqWDRnMVh3OEo5YzQ0VE9KeEllMkpDcUpLUnN3a3FUalY3bl9qT0lUNHBrRldLVXN5N0Y2TC1faldUanJQRlJV?oc=5",
    "date": "2026-11-26T01:41:00.000Z",
@@ -51,14 +107,14 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T23:16:10.000Z",
+   "title": "芥川賞作家に罰金30万円、沖縄防衛局のフェンス損壊 那覇地裁判決",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Q21BRnFFUkdfaDZucE54NmVSWWl2ZUt6NXhsOWx0Z0NYdE5FaDV2NG5pbXRGTnkzVlVtTlhzZUdSSFZlVmY1ZldlZExvSDg5RFFJMnBKLXJLcW56UEpsOHNiaC0tSHdVMDBhSw?oc=5",
+   "date": "2026-11-25T23:00:00.000Z",
    "type": "media",
    "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
    "mention": "body"
   },
   {
@@ -168,6 +224,17 @@
    "firstSeen": "2026-11-25T22:06:04.191Z"
   },
   {
+   "title": "米感謝祭の航空便数、16年ぶり高水準 運賃4割高でも崩れぬ旅行意欲",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zdGotQzdrYkpDNlNlTFpoV2tOM2JsMjhZRlVUcmdrQjQwaTdKeEtfUWplNllsR2VXWm5LSkV4OFRFSURaNjItX09rTDdPaGJKQWtKa0hqdV9iVHlXcEotZjA0cjhUSm5NZlA0ZQ?oc=5",
+   "date": "2026-11-25T21:01:15.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
    "title": "関文科相の問責決議案、無所属議員が採決のカギ…与野党ギリギリの攻防・双方が直前まで取り込み",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMGhZOVROZ0oyNTFkRmdibnVxbE9UUTQxSnZFWjJEVlZmaE5FcDhpdjJzWFVhWU9rVW1RbXlHM3Jfc0VvWFViOVBzUmwtelNPaHNYcEl2UGk0ZWxLcm9PUGU0Vmhidw?oc=5",
    "date": "2026-11-25T20:00:00.000Z",
@@ -176,6 +243,105 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-26T01:06:04.662Z",
+   "mention": "body"
+  },
+  {
+   "title": "三菱UFJの自己資本規制が緩和、上乗せ幅1%に低下 金融安定理事会",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU0VjN2IyQ1g2Z0tHTTlvQk56dE1wektSeUJ3VjRLcEZ4c2NiNGZGYjZjbnpfcXJNZ3NoTmhmUUwwd3ZWYXpuV2NPdl9MQndQaUxqZm5hN1E3Z0M1amc3R05MU2VpWGtoV2dHSw?oc=5",
+   "date": "2026-11-25T19:46:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "北朝鮮、スイスに平壌事務所の閉鎖要求 「制裁は敵対行為」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVEFzQWNNaGp0eFhfckg2QUIxeGZSRW1RMVlCV0pZOHN5TE1EeWtGUXhmZU1PZXBvdDRkQTJWYmtYLVFXbTloZ1ZiWmVCc01RSVYtYXdXa1l0YWhoY3c4LXdrQW9zcjF3bGU1MQ?oc=5",
+   "date": "2026-11-25T19:35:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "英国版の百均「パウンドランド」が経営破綻、インフレで採算悪化",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ3hFWURRNDVmVmdOU0tlbjk5U2EteTlwX0xnMDFOYU5BZE9wbk15WVlYR2k4QXQxT25MMWw2WC15RkxPSmdRNmVvMFFwMC0wWUttWms1LVZ2V191aWd3eWlva1k5X25hY2NWVg?oc=5",
+   "date": "2026-11-25T18:26:15.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "為替変動と企業の行動（4）「安い円」が定着した3要因",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fTWxvUXZsVVoxbEdTaE5mQ2EzUFZnWTlPa2JkaUUxa0NJb1QwdEVGaWd6eUlhWGhYVXgzVXBpcG5aeWZ6Wmt1dTdteXRUU0ZoZDZRbG93ejJ2WDNzNUs3aDB2S1Z1SlVINV9mWA?oc=5",
+   "date": "2026-11-25T17:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "カスハラ客は降りてください バス・タクシー業界の約款で下車要求可能を明示、国土交通省が12月に改正",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VQmg4WVJmdUhXNm82MXVwSHh5akg2Uy1FczJ3SmdWTWR4bHFfYXF1OWZNemFTR2hrNElDaVVGX25FSTIxYzY3aXg1b3FqekQ4XzFHY3RLTER0ZTgwRy1GQllMNWxpN0k1LUlBMw?oc=5",
+   "date": "2026-11-25T17:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "外国人労働者、東北GDP底上げ 農・水産業「いないと成り立たず」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybVlJVG5uV2VGMTRwOG5DLWFORWNteDZwcUIyTXdVRHRoVWotUEdQNWV5bTdzamFva245RENuTWpqNHFQcWdMOFJyUF92T2I1T1F2MFpoOXRFNUtoak5zLTJyNnJtN2JUS3dWSw?oc=5",
+   "date": "2026-11-25T16:49:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "日立、ファナックとAIロボットアーム開発 「自律型工場」へ布石",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kbm1EWFJLMjVINHFjRy1uaF9qNWpFREU4RkxFMGxMV29WQUd5Vkd4WDZDNVQxc3BJcDQ4clJUaDRpcTRGMjNPeWtZR19kWExFZ1VRdVZUSGVXNFppVnA3azUyQVdLZkJNbTNjag?oc=5",
+   "date": "2026-11-25T11:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "インドネシア政府系ファンド、25年純利益2.3兆円 初の決算発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeFlqV0sxX1F0VDhIc2ttcUNDZ01PYVBxT2JFeXJjTUtFVlYyU3BiS3FIa0YyMDZQWm5LWFd5RU1FRTAtNlVrQVhfMDE5NE9hd0hmZ1pjbVN5YW85RE9nNUhfb0RVN2syb1MtYw?oc=5",
+   "date": "2026-11-25T10:46:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "和装販売のヤマノHD、まつ毛サロン譲り受け 運営の知見取り込む",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiOVhmeU9uQjgwWjZ0ZTJmaDAzQlhkbFlSYjJyMzN3eEVNZ0dtMlJiX1JhaVdpNkpKU3hNeUpEX3lOUDg1cmZ2OFNqS2lIVDZEN01kRDFOV1NGYXp4R3hVc25TdWhzb2FXdWJOeQ?oc=5",
+   "date": "2026-11-25T10:44:49.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
    "mention": "body"
   },
   {
@@ -201,6 +367,17 @@
    "mention": "body"
   },
   {
+   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T09:53:43.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-24T17:06:27.418Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
    "link": "https://note.com/team_mirai_log/n/n572e039018e8",
    "date": "2026-11-25T09:18:14.000Z",
@@ -215,14 +392,36 @@
    "firstSeen": "2026-11-25T10:06:22.197Z"
   },
   {
-   "title": "関文科大臣 高まる辞任論 官邸は辞任ドミノ警戒",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T08:20:08.000Z",
+   "title": "半導体や先端部品、企業に安定調達の計画義務づけ 経済安保で政府検討",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hU21hZkg5YkNrOWd2QmZVOTV4UVI1ejlDVW9lSk1qaHZpRWdUeXk0bU1yM2wwOGZXQVFJREJiYWlsRnlaN3dXM0FQN2NCeDhMbndCYW9OX0RNSkRkNWtFaXFETXF1OTRydk5LVA?oc=5",
+   "date": "2026-11-25T09:10:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "人事、鈴与",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GdnFlUVJJWFo2akNLdTFpMmRKZGU3cnlDQk5BSF90cWtqbUpLRGtobUxiVE1nTTFESlNHaFJMcS1lWHlBQVRwWkR4eENTd3o2VEdmZlBvRW5WWjlZYU5mRl9xZFN4Z254aW02ZA?oc=5",
+   "date": "2026-11-25T08:34:51.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T07:23:59.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
-   "firstSeen": "2026-11-24T17:06:27.418Z",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -234,6 +433,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-25T07:06:07.753Z",
+   "mention": "body"
+  },
+  {
+   "title": "第一三共ヘルスケア、皮脂・毛穴悩み対応の導入美容液 敏感肌向け",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWM3NMYWwxcnV6OU1aajIxcndqc19aeGdBUFg3dUwzZDBydGZJOEtIYUoyMWJJdDVxTFpmdlNXdmlKd1J6dnA0MW1CSzZoQktUVElKdnFvdGp3M3JVMHo1RnE2OFpsWGhZN3pTeQ?oc=5",
+   "date": "2026-11-25T03:47:36.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
    "mention": "body"
   },
   {
@@ -256,6 +466,39 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-25T00:06:09.905Z",
+   "mention": "body"
+  },
+  {
+   "title": "EV補助金予算切れで年内ゼロ 再開見通せず、日産系は納車延期",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XYkZac253MlIzNFNSTkVZS2hhaHJycW9XU0R1UnFVSGI3U2RucUY4NF9IbVc5dmdOSFlpTWVaQVlwdVhhWUVhX2tLOVlYQ1RDTE9FYlZYTENhUnlMY2J4M3RITzVaOHJtWENVQg?oc=5",
+   "date": "2026-11-24T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "核ごみ、最後はどこへ フィンランドは「超地下洞窟」で10万年隔離",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVFBIbmNHOGJnWTBDZHVPdkhnUzhCVmxNSzloRndxXzRKcVl0cGhiY2lpMjlteXg4THBaMFlSWWRFTlNEQlZXNE83Q3N5NzRQUUpuaHowbnN6c0ZRZkZEbjVNTzFwZXNHekJmRA?oc=5",
+   "date": "2026-11-24T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "AI、なぜ数学が得意に？ついにリーマン予想まで 能力爆増の理由",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94ckpLZVQyLWRHalRzbm12Y0dOeElKSmxqRW4zc3B5emg4NUxlaEVWSEFQcGNXM2xQc2lSVXZrVDVvVno5bDhYSlZVOUNzN1M4bkNPYW9XaEdXbDRqVTZHM2JfTkJkb190Z1NpRA?oc=5",
+   "date": "2026-11-24T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
    "mention": "body"
   },
   {
@@ -335,6 +578,17 @@
    "thumb": "https://i2.ytimg.com/vi/YlVU1h-6DDU/hqdefault.jpg",
    "description": "【チームみらい】幹事長 古川あおいによる記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼",
    "firstSeen": "2026-11-25T07:06:07.753Z"
+  },
+  {
+   "title": "トヨタ、タイで二輪駆動のピックアップトラック 車高低く燃費も改善",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMTnJHanRqMFRBMFZjMlU3OGQ3SlhrUTdGa0hYbFY3M2hKUVhQMDdoelRFSGxpckdJZ1lwTFhNSElXeGMwYUpGNUdqaTNYdWNWLVZUOHpxU3RQUDVQUzFNcG9Eb1FMZ2JaM3NIRg?oc=5",
+   "date": "2026-11-24T10:54:31.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
   },
   {
    "title": "【目的は利益の独占か？安全保障か？】Claudeを解剖「黒塗りの報告書」／ジェンスン・フアンと真逆の思想／アンソロピック上場「時価総額世界一も可能」今井翔太／「リーマン予想」証明か【AI QUEST】",
@@ -519,6 +773,17 @@
    "mention": "body"
   },
   {
+   "title": "子育て支援や教育、進学｜日経電子版ライフスタイル・子育て",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zNmRxNmhab0t1RlZ4VTAtODJqSGp6N3JXcnlmZWpZeVBFQjVqZzVxRERHTE92SC12M2Y1THVpclI5Z3l6ek1na09EYWFySDhYYzFYZm1R?oc=5",
+   "date": "2026-11-23T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
    "title": "初訪中終え「建設的かつ安定的な関係を」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-23T18:50:57.000Z",
@@ -631,6 +896,28 @@
    "thumb": "https://assets.st-note.com/production/uploads/images/339483147/rectangle_large_type_2_cdbbb0988fb71e70a978a7c57f8eda0a.jpeg?width=800",
    "description": "2026年11月19日に衆議院 憲法審査会で行われたチームみらい 幹事長・古川あおいの発言を全文書き起こしたものです。 案件＝「9条及び自衛隊の位置づけ」に関する集中的な討議 発言者＝チームみらい 幹事長・古川あおい 続きをみる",
    "firstSeen": "2026-11-22T21:06:02.909Z"
+  },
+  {
+   "title": "投資に役立つ日経電子版 株価・検索ランキングで新たな銘柄発見",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ZUpEdi0zZERpVk9QN1BPV0hlcVFKTy1BTTUzb3NyOG1CMElPVkJKbFRXTGY1T0hjTWt2VDNvZEdwZ1BDQ3VNYzFtd2ROVGtsWjByYk9INHZBYXhhdTF3dXBZNDE2aEJlOERfWA?oc=5",
+   "date": "2026-11-22T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "なぜ世界がICCと距離、識者「米欧が自国第一」「対米リスクとらず」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WeFcycmh5U3FrQWRmd3hoWUo1cXlhYW1DMWhCT3lHRFMxQjhGNHpZRWMwR0g5MlhiZUVyWnVpMkQ4X2pobHF1VndtNzB1YjdmY2JvVWk1NUZLbEVxR0dIb2tYTW4wZkp0RW9DYQ?oc=5",
+   "date": "2026-11-22T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
   },
   {
    "title": "米中露首脳会談は歴史を変えず、ヤルタの再来とみるのは早計 戦略的思考が問われる日本 立命館大学教授・垂秀夫",
@@ -2084,7 +2371,7 @@
   },
   {
    "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ccmg1LXJfem55QkFuT2VLcE5nWmlLNW96TEFQMUhrT1ZtakNGWXUzWkpzUFlkeGs3MF95Qy1QbXVGd053Vmw5MU01MWlKekNzdDIw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
    "date": "2026-11-20T08:55:00.000Z",
    "type": "media",
    "kind": "article",
