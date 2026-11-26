@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-26T13:06:04.794Z",
- "lastAttempt": "2026-11-26T13:06:04.794Z",
+ "updatedAt": "2026-11-26T13:14:39.952Z",
+ "lastAttempt": "2026-11-26T13:14:39.952Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -201,6 +201,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:10:17.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "EY新日本、1時間で有報数値の整合性確認 総会前開示を後押し",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkSGFBNE9UM2N5ZmtPaHRGX0VGQWdlOW9VbzNQekZFRW5jcWVRQU5BUkkyaWFBOWtldjd5UVNxWHFsRnpNVDJYd0lleWF2dFBRVnAwQzdRX3JSd2dnTF9vZ2FhV0lhS0dYaEpXdQ?oc=5",
    "date": "2026-11-26T02:00:00.000Z",
@@ -231,17 +242,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T00:12:10.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
