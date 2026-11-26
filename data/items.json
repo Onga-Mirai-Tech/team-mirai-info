@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-26T05:06:03.973Z",
- "lastAttempt": "2026-11-26T05:06:03.973Z",
+ "updatedAt": "2026-11-26T06:06:04.536Z",
+ "lastAttempt": "2026-11-26T06:06:04.536Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "衆院憲法審査会 9条と自衛隊の位置づけで3回目の集中的討議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrcU1jaUVnUWFKc0ZNWGZFUVVuaGptS2o5VlA2emZqLUF4RThyTzRzT1NzZml3TkVDSXc3Z1JuVFVmUXF3M25nYTFQSG1xRTh4YUJCa3FHZHJHT0VCblZN?oc=5",
+   "date": "2026-11-26T05:29:52.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
   {
    "title": "富士経済、菓子・ヨーグルト・パンなど主要96品目の動向調査結果を発表",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4VnNzYUlzOURmdENjQVlxczhCRzY0RTVJdjlEYTJDc19NREJLcjJGbE9KMUdHRmViMlIxZ3BmdUhpVV9nanFrdVZ0QjhDc3pSVENzN3lxYmlJVGhhdnIyQlRvMWZPZlJvVktSMA?oc=5",
@@ -42,13 +53,24 @@
   },
   {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY0lJQ2FSbDM3WndvWmhGV0tMSm5RSl9nNERzWkxHYzNZaUlsNmR0UXBvRkQxUVU1MUdXbnRCNUotU21iaVh5VFJaWHlpV1M4NENRMGdKQ3l5d3huNlhMOVhyVkk?oc=5",
    "date": "2026-11-26T03:47:20.000Z",
    "type": "media",
    "kind": "article",
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-26T04:06:04.692Z",
+   "mention": "body"
+  },
+  {
+   "title": "ココス、ビスクソースの「包み焼きハンバーグ」 12月から期間限定",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91cjZuaEtENDU2a2R3Y3dMQkVCcjJwbmJ1NzdUQnFFYm5ocjV2YktGRkl0RFA1YXowSW8wLUhRckJXSWxCOEtKUWVmUkxEbHBTMG1jNnp2WHJZaUZMdHZPRl9TUnVYYUFEcE9BeA?oc=5",
+   "date": "2026-11-26T03:13:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
@@ -104,6 +126,17 @@
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-26T03:06:07.724Z",
+   "mention": "body"
+  },
+  {
+   "title": "関芳弘文科相の問責決議案、野党8党派が提出 27日採決へ賛否拮抗",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaW0xd1FNdUpDZWNBeG9wdVcxOFpIMkVwRjZYXzRFeWgzVGlFcExUdXBqajB2OUU0U2RRN3dUWHp3M3psdVMzajgxMWsxOE1NeEtiTFk4SVZuWXc0cGR1TVc0N1poWXpNbEdzQw?oc=5",
+   "date": "2026-11-26T01:19:22.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
@@ -246,6 +279,17 @@
    "mention": "body"
   },
   {
+   "title": "訪日客「手ぶら」で中部周遊 愛知県と名古屋市、荷物配送網づくり",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXd2U2QUZJVXZxcFRfNTF1RWJ1VHJPSkJrVmhDbHlscFJrQUszUWVrcVFiSHJ6WG5fcm5zVHI1X3lSYVYwS3BTNERablVOS3ZwaDJqSHpIelVZbVJCUS1KenQ0YnZCM2R5WGg3bw?oc=5",
+   "date": "2026-11-25T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
    "title": "三菱UFJの自己資本規制が緩和、上乗せ幅1%に低下 金融安定理事会",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BU0VjN2IyQ1g2Z0tHTTlvQk56dE1wektSeUJ3VjRLcEZ4c2NiNGZGYjZjbnpfcXJNZ3NoTmhmUUwwd3ZWYXpuV2NPdl9MQndQaUxqZm5hN1E3Z0M1amc3R05MU2VpWGtoV2dHSw?oc=5",
    "date": "2026-11-25T19:46:39.000Z",
@@ -265,6 +309,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "ベネズエラ債務38兆円、GDP2.4倍 過去最大級の債務整理の可能性",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wY2p5d1AtU1REcTNrLUVIOTNKV1pXT09FMldUckFjcFBKeVB0S0tFaVB6TjF5a0tOekNRb3I4UHlmWlo1elN2c1o1Qm9iUmdhOVRKaXpRTW1sUkFsYnhpWEl1OG5Uc2lIb19rNA?oc=5",
+   "date": "2026-11-25T18:59:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
@@ -345,6 +400,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-25T10:22:20.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "文科相問責決議案、２７日に採決 与野党、過半数獲得へ攻防",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW5lM3lIYjZEMlpHLUo0aEtnNXNIZXJSejBYVlNFeU9YSWxlME5vS25iTU05Zi1saVFHUFRxOFpMWVctNVZTaHR3MkFnQTh3a1Fz?oc=5",
    "date": "2026-11-25T10:03:54.000Z",
@@ -403,6 +469,28 @@
    "mention": "body"
   },
   {
+   "title": "10月の外食売上高8.2%増、好天で週末客伸びる",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMU9TNDJ1NmlFUXBRM0FEYVRITEhSYlFOSW5KeVdBaFRXbjktQWxVOGsybndLSDJDWEE2NTVUZ1g4T0lHZDlYMGxHR3hYSnJDd0QzMzlHYjNBNHB3NjRxN3BwbEVENXB5aUQ5MQ?oc=5",
+   "date": "2026-11-25T09:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "シーイン、米当局に160億円支払い 消費者保護めぐる訴訟で和解",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05Z0g5UVFIRnEwLVl6WDRaWjlCQXNZNkluOFBRRmNQX3Iya2RRc2MycFdGanVRSnBnRGR4YUlHdUZ1S01vVWF4S2xtaEVkQWV1b3ZJNnU4Y0ZfcGZGczZoU3R4Sm9XMTUyOTJYQQ?oc=5",
+   "date": "2026-11-25T08:57:33.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
    "title": "人事、鈴与",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GdnFlUVJJWFo2akNLdTFpMmRKZGU3cnlDQk5BSF90cWtqbUpLRGtobUxiVE1nTTFESlNHaFJMcS1lWHlBQVRwWkR4eENTd3o2VEdmZlBvRW5WWjlZYU5mRl9xZFN4Z254aW02ZA?oc=5",
    "date": "2026-11-25T08:34:51.000Z",
@@ -414,17 +502,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T07:23:59.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "飛ばない戦闘機、動かない戦車が増える 防衛費50兆円台に佐藤正久氏が危機感",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvem1XMzZoM0FKNHBHMHk1aG5jUnBPcEN6UEN2eGZ2YXpXSEZqLUFjUUxKUWdMTjBUQ1AtNTRDYXNGakpkaHVzVHA3UEVaa3JWd0ZOX3huWXEtZVdLbmI5UmdrVDNzcThCVklOV3pUSlp4VHVId1E?oc=5",
    "date": "2026-11-25T05:30:00.000Z",
@@ -433,6 +510,17 @@
    "source": "産経新聞",
    "mediaId": "sankei",
    "firstSeen": "2026-11-25T07:06:07.753Z",
+   "mention": "body"
+  },
+  {
+   "title": "イオン系、世界最多台数のクレーンゲーム専門店 600台でギネス認定",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OakNTTGphTnhOdVlzTDdOVmZaX0toT20xNUtXbW41N2hKa2dnWUhfeUhVc3FpaWIyMEpqX2FnVmxfeUhtLVNSMExjTWpRdUZpTy11RDR1TXNLdnlWY0F0SjF0ZXVKSkJXclVBOA?oc=5",
+   "date": "2026-11-25T04:13:42.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
@@ -599,6 +687,17 @@
    "source": "TBS",
    "mediaId": "tbs",
    "firstSeen": "2026-11-24T11:06:06.015Z",
+   "mention": "body"
+  },
+  {
+   "title": "野村総合研究所、最高益",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kclBXMXJFTDB5VnNVa3RQeWgwWGRNTmVxUTR4NkNzNFpNckJqaEl2Q2VUeTBOeXQ4d05ycUVfRDlFaDBUdDgydDBsb2Q0MW9UcnZGRDVtaHdLMVRqVEthcHphU3ZCTjkzZUNjZQ?oc=5",
+   "date": "2026-11-24T09:41:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
@@ -818,6 +917,17 @@
    "thumb": "https://i3.ytimg.com/vi/NtSiCVd8N-4/hqdefault.jpg",
    "description": "障害のある方の暮らしの節目について、AIインタビューでいただいた声とこれからをお伝えします。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_",
    "firstSeen": "2026-11-23T09:06:03.201Z"
+  },
+  {
+   "title": "韓国大統領、外相に任雄淳氏指名 情報機関トップは初の女性起用へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nSGIxeGpxNFUzcXVyRDhoLTdMZjdJNGUtSmdsbVpTX3JDUUdfMFkzelVWaDB1MDJaOXc4Q00tRFF1ZnVGMTY0Y21KUXE1dmxyN1NfdFRXZ25XSW1QWmtwMGx5SWZROUlQa2E3bw?oc=5",
+   "date": "2026-11-23T07:42:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
   },
   {
    "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図",
@@ -2439,6 +2549,17 @@
    "mention": "body"
   },
   {
+   "title": "不正アクセス被害企業に警察が初動チーム 通信記録保全や復旧助言",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ETkFidDljUDBxbGRicUg5LW4zSjBXQXVYQnJxV2k4OVNmWmpYdWg1ck4yMkljb3VwY1pFbWEzbHZhWExWZ3BQSk5Cd0NoblNnNEdfWmgzd24wcEcwbDZPMDdKeklZZ1NuQ3RUUw?oc=5",
+   "date": "2026-11-20T07:30:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
    "title": "定数削減、与野党が平行線 自民「正解はない」―衆院委",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjkwdUtRTnA3LWdfYTdsMDBvVGdocmVpUUxVUll0bzk1QXp4VEpGS3o4YnhoZTNhbVVIV1JaR0JNdEI3WEFWUnJCN1o3SzdsVWpfa0d1MXMwUlFHVHJQbWFaU29FWkMtdWFDbmhtU1VzeWthZEVZeWF6WG90NDB4bVVn?oc=5",
    "date": "2026-11-20T07:19:00.000Z",
@@ -2740,6 +2861,17 @@
    "mention": "body"
   },
   {
+   "title": "「世界基準の教育」中四国でも バカロレア導入、海外大学進学に道",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IMFFKUkNOcGs3bFNITjVIcmJEMDhvNHVFWnRmYUhCZFhScmlCcnY5YzRBUWtYd2hEcUN0RERsbVhZZ2wtQ1hJZWVUVmppWHV0eFBBREcxSVVERnZKM2RuN3lPT0dGWkt3eHdpdA?oc=5",
+   "date": "2026-11-20T02:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
    "title": "EV移行に続く荒波、優勝劣敗鮮明に 自工会が部品共通化表明、「脱下請け意識」急務",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtOXJNU0FLSXdGRW9PZHFWT0pfSHhBeGkwclAzY1pjX3QxejJtU2g0T2xVV1JZeERveHFVSWpxdlhqZ0xJdERRWHdWdHhIS0ZrR2JiTk5HTHNMMEpwSGFEQmU1VFJnaXl2N0NZN1F2a2lxUmdhM0E?oc=5",
    "date": "2026-11-20T01:00:00.000Z",
@@ -2817,6 +2949,28 @@
     "mineshima"
    ],
    "firstSeen": "2026-11-19T20:06:04.831Z",
+   "mention": "body"
+  },
+  {
+   "title": "UAE原油、ホルムズ迂回で供給網再構築 世界消費の5%を生産へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWmhzY3BCa3ZaNlZLT2lyemlPa3ZaUHotUmNUamxzWUZNWVFZN3NXWk03UzREc0xZUnVPTzJGeTlaN3hrUmI0Um0tVC11ZzBHOXliTjZCSU1jb3FrZU5PZ2ZoclE0N0lmRWI3dA?oc=5",
+   "date": "2026-11-19T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "岡本全勝（元復興庁事務次官） 私の履歴書（19）省庁改革本部",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TaTRoSVhMQUVGR29MTG9mMnR1dUxESGN1WWJEcmdqckt1Y1UtUndkS1pITVh5N1dGcHJfTFdkT3MyS3VsY2FRdFREODhGUDlyZlE5d2JoR3FQSTd0cVhQdGZXVmJiQS1MV3RDeQ?oc=5",
+   "date": "2026-11-19T17:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-26T06:06:04.536Z",
    "mention": "body"
   },
   {
