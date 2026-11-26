@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-26T12:06:03.728Z",
- "lastAttempt": "2026-11-26T12:06:03.728Z",
+ "updatedAt": "2026-11-26T13:06:04.794Z",
+ "lastAttempt": "2026-11-26T13:06:04.794Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "関芳弘文科相への問責決議案、維新内にも棄権の観測…僅差の攻防の鍵を握る日本保守党と無所属",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
+   "date": "2026-11-26T12:24:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "東京新聞",
+   "mediaId": "tokyo",
+   "firstSeen": "2026-11-26T12:06:03.728Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
    "link": "https://note.com/team_mirai_log/n/ned7433ec3f41",
@@ -60,17 +71,6 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-26T11:06:03.675Z",
-   "mention": "body"
-  },
-  {
-   "title": "関芳弘文科相への問責決議案、維新内にも棄権の観測…僅差の攻防の鍵を握る日本保守党と無所属",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5",
-   "date": "2026-11-26T10:03:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "東京新聞",
-   "mediaId": "tokyo",
-   "firstSeen": "2026-11-26T12:06:03.728Z",
    "mention": "body"
   },
   {
@@ -236,7 +236,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T00:13:58.000Z",
+   "date": "2026-11-26T00:12:10.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -417,6 +417,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-25T19:36:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "北朝鮮、スイスに平壌事務所の閉鎖要求 「制裁は敵対行為」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVEFzQWNNaGp0eFhfckg2QUIxeGZSRW1RMVlCV0pZOHN5TE1EeWtGUXhmZU1PZXBvdDRkQTJWYmtYLVFXbTloZ1ZiWmVCc01RSVYtYXdXa1l0YWhoY3c4LXdrQW9zcjF3bGU1MQ?oc=5",
    "date": "2026-11-25T19:35:29.000Z",
@@ -439,6 +450,17 @@
    "mention": "body"
   },
   {
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T18:37:59.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
+  {
    "title": "英国版の百均「パウンドランド」が経営破綻、インフレで採算悪化",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CQ3hFWURRNDVmVmdOU0tlbjk5U2EteTlwX0xnMDFOYU5BZE9wbk15WVlYR2k4QXQxT25MMWw2WC15RkxPSmdRNmVvMFFwMC0wWUttWms1LVZ2V191aWd3eWlva1k5X25hY2NWVg?oc=5",
    "date": "2026-11-25T18:26:15.000Z",
@@ -447,17 +469,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-25T17:39:53.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -502,17 +513,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
-   "mention": "body"
-  },
-  {
-   "title": "関文科大臣への問責決議案を参議院に提出",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T16:41:43.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-26T11:06:03.675Z",
    "mention": "body"
   },
   {
@@ -2747,7 +2747,7 @@
   },
   {
    "title": "土地利用規制法改正案を可決 衆院委、基準の明確化要求",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUE84eHBKekswN1FVRGVUdlpWSlg2ZUo1TWh4N21LMl9lZDJhLWRjeHRnMDRBa1VVT1NVN2p6OXNBS2Zla3FPbnMxYTF4dFg1U3A4X3ZDR21kbndRUWJ2UV85YXk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ccmg1LXJfem55QkFuT2VLcE5nWmlLNW96TEFQMUhrT1ZtakNGWXUzWkpzUFlkeGs3MF95Qy1QbXVGd053Vmw5MU01MWlKekNzdDIw?oc=5",
    "date": "2026-11-20T08:55:00.000Z",
    "type": "media",
    "kind": "article",
