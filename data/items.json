@@ -1,9 +1,34 @@
 {
- "updatedAt": "2026-11-26T15:06:18.018Z",
- "lastAttempt": "2026-11-26T15:06:18.018Z",
+ "updatedAt": "2026-11-26T16:06:03.660Z",
+ "lastAttempt": "2026-11-26T16:06:03.660Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【チームみらい】第2回 AI時代のサイバーセキュリティを考える勉強会 (2026年11月26日11:00〜開始予定） #安野貴博",
+   "link": "https://www.youtube.com/watch?v=PkK5_ULFc4c",
+   "date": "2026-11-26T15:33:03.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/PkK5_ULFc4c/hqdefault.jpg",
+   "description": "AIの進化でサイバー攻撃の脅威が高まるなか、能動的サイバー防御の運用といま必要な政策を、専門家3名を招いて党派を超えて議論する国会議員向けの勉強会です。 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.yout",
+   "firstSeen": "2026-11-23T05:06:04.887Z"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T15:23:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
    "link": "https://note.com/team_mirai_log/n/ned7433ec3f41",
@@ -190,17 +215,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T02:32:33.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "野党、文科相問責決議案提出 27日採決、与野党拮抗",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdURCSXBiM0t6anpncVZrbUhnWDlsbk1pWWVxdnVReGJOU3FrVXg0MExBZ2VzckR1UmRqYXF2cTFHVEp2M284bFByZw?oc=5",
    "date": "2026-11-26T02:11:00.000Z",
@@ -209,6 +223,17 @@
    "source": "共同通信",
    "mediaId": "kyodo",
    "firstSeen": "2026-11-26T03:06:07.724Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:08:40.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -348,6 +373,17 @@
    "firstSeen": "2026-11-25T22:06:04.191Z"
   },
   {
+   "title": "関文科大臣への問責決議案を参議院に提出",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
+   "date": "2026-11-25T21:32:34.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
+  {
    "title": "【全文】衆議院 内閣委員会 質疑／国会対策委員長・高山聡史（2026年11月20日）",
    "link": "https://note.com/team_mirai_log/n/n0257293c0473",
    "date": "2026-11-25T21:23:46.000Z",
@@ -362,17 +398,6 @@
    "firstSeen": "2026-11-25T22:06:04.191Z"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-25T21:08:35.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "米感謝祭の航空便数、16年ぶり高水準 運賃4割高でも崩れぬ旅行意欲",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zdGotQzdrYkpDNlNlTFpoV2tOM2JsMjhZRlVUcmdrQjQwaTdKeEtfUWplNllsR2VXWm5LSkV4OFRFSURaNjItX09rTDdPaGJKQWtKa0hqdV9iVHlXcEotZjA0cjhUSm5NZlA0ZQ?oc=5",
    "date": "2026-11-25T21:01:15.000Z",
@@ -384,17 +409,6 @@
    "mention": "body"
   },
   {
-   "title": "関文科大臣への問責決議案を参議院に提出",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
-   "date": "2026-11-25T20:34:23.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-26T11:06:03.675Z",
-   "mention": "body"
-  },
-  {
    "title": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNjJxQTRMdU5OUlE5XzJrOHNzcF8xTWZyS05GREd0b3VwOGJTZ3dVejhfMFkxa290S1I2Sy1VQUs4dUJXX2NKeEs5Rml3azU4eUR3YzBvcXhGMVFDRnlF?oc=5",
    "date": "2026-11-25T20:04:06.000Z",
@@ -403,6 +417,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-26T08:06:05.007Z",
+   "mention": "body"
+  },
+  {
+   "title": "参院 野党側 関文科相の問責決議案を提出 27日に採決へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wNjJxQTRMdU5OUlE5XzJrOHNzcF8xTWZyS05GREd0b3VwOGJTZ3dVejhfMFkxa290S1I2Sy1VQUs4dUJXX2NKeEs5Rml3azU4eUR3YzBvcXhGMVFDRnlF?oc=5",
+   "date": "2026-11-25T20:04:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-26T16:06:03.660Z",
    "mention": "body"
   },
   {
@@ -4007,20 +4032,6 @@
    "thumb": "https://i3.ytimg.com/vi/z7uC_DtjJpk/hqdefault.jpg",
    "description": "自民・維新・国民民主の3党が提出した衆議院の比例定数削減法案について、4つの論点と受け止めをお話しします。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_",
    "firstSeen": "2026-11-18T13:28:18.738Z"
-  },
-  {
-   "title": "【チームみらい】第2回 AI時代のサイバーセキュリティを考える勉強会 (2026年11月26日11:00〜開始予定） #安野貴博",
-   "link": "https://www.youtube.com/watch?v=PkK5_ULFc4c",
-   "date": "2026-11-18T08:57:52.000Z",
-   "type": "official",
-   "kind": "video",
-   "source": "党公式 YouTube",
-   "members": [
-    "anno"
-   ],
-   "thumb": "https://i1.ytimg.com/vi/PkK5_ULFc4c/hqdefault.jpg",
-   "description": "AIの進化でサイバー攻撃の脅威が高まるなか、能動的サイバー防御の運用といま必要な政策を、専門家3名を招いて党派を超えて議論する国会議員向けの勉強会です。 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.yout",
-   "firstSeen": "2026-11-23T05:06:04.887Z"
   },
   {
    "title": "【画像まとめ】広瀬アリス、中学生のエッセーから気付き「ご飯を食べることは、当たり前になってはいけない」",
