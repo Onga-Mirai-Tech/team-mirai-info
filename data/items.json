@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T04:06:01.746Z",
- "lastAttempt": "2026-11-27T04:06:01.746Z",
+ "updatedAt": "2026-11-27T05:06:02.872Z",
+ "lastAttempt": "2026-11-27T05:06:02.872Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -24,6 +24,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-27T03:06:08.135Z",
+   "mention": "body"
+  },
+  {
+   "title": "関芳弘文部科学相の問責決議案、4票差で否決 与党などが反対",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5",
+   "date": "2026-11-27T02:33:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T05:06:02.872Z",
    "mention": "body"
   },
   {
@@ -107,6 +118,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T19:24:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "【チームみらい】定例会見 (2026年11月26日）開始予定15:30〜 #古川あおい",
    "link": "https://www.youtube.com/watch?v=YlVU1h-6DDU",
    "date": "2026-11-26T18:57:04.000Z",
@@ -119,17 +141,6 @@
    "thumb": "https://i2.ytimg.com/vi/YlVU1h-6DDU/hqdefault.jpg",
    "description": "【チームみらい】幹事長 古川あおいによる記者会見となります。 ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼",
    "firstSeen": "2026-11-25T07:06:07.753Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T18:16:52.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "関文科相：関氏問責 参院に提出 きょう採決、可否不透明",
@@ -262,17 +273,6 @@
    "firstSeen": "2026-11-26T07:06:09.684Z"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T05:54:47.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "衆院憲法審査会 9条と自衛隊の位置づけで3回目の集中的討議",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrcU1jaUVnUWFKc0ZNWGZFUVVuaGptS2o5VlA2emZqLUF4RThyTzRzT1NzZml3TkVDSXc3Z1JuVFVmUXF3M25nYTFQSG1xRTh4YUJCa3FHZHJHT0VCblZN?oc=5",
    "date": "2026-11-26T05:29:00.000Z",
@@ -328,6 +328,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-26T11:06:03.675Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T03:54:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -690,7 +701,7 @@
    "mention": "body"
   },
   {
-   "title": "【緊急実験】安野がバイブコーディングで政府チャットボットをつくってみる(2026年11月27日20:00頃開始予定) #安野貴博",
+   "title": "【緊急実験】安野がバイブコーディングでチャットボットをつくってみる(2026年11月27日20:00頃開始予定) #安野貴博",
    "link": "https://www.youtube.com/watch?v=hT2pg7H5IFA",
    "date": "2026-11-25T12:48:53.000Z",
    "type": "official",
