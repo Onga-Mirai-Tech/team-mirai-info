@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-27T08:06:02.728Z",
- "lastAttempt": "2026-11-27T08:06:02.728Z",
+ "updatedAt": "2026-11-27T09:06:05.182Z",
+ "lastAttempt": "2026-11-27T09:06:05.182Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
+   "date": "2026-11-27T08:01:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "朝日新聞",
+   "mediaId": "asahi",
+   "firstSeen": "2026-11-27T09:06:05.182Z",
+   "mention": "body"
+  },
   {
    "title": "政治資金パーティー収入37%増 25年報告書、自民の自粛緩む",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYT0lnVHpKZTZuSjhDeFZPazVGSEo0LWlQMDVkeGh4cUttSnhSa0ZvS0E0dTNCVEQ0bUhfelV5dmhpUXFMaGNvNjBLdjViYTBHWDZKNmNfSTJiVmZiNXJBeVBJUkpFTUVTZjFxWg?oc=5",
@@ -28,28 +39,6 @@
    "thumb": "https://i3.ytimg.com/vi/BM-ZUkrTLy8/hqdefault.jpg",
    "description": "ついに国会でタブレットが使えるようになります！ ※11/24付けで、衆議院の本会議場でも、 タブレットなどを使うためのルールがまとまりました！ まずは2027年1〜3月に試して、 問題がなければ本格的に導入する方針です。 . . チームみら",
    "firstSeen": "2026-11-27T06:06:17.395Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T04:47:41.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T04:11:23.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "個人情報の流出被害対策 政府が企業支援チームを発足",
@@ -104,6 +93,28 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-27T07:06:14.909Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T23:47:46.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T22:24:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
