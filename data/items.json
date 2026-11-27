@@ -1,11 +1,20 @@
 {
- "updatedAt": "2026-11-27T21:06:11.598Z",
- "lastAttempt": "2026-11-27T21:06:11.598Z",
+ "updatedAt": "2026-11-27T22:06:07.222Z",
+ "lastAttempt": "2026-11-27T22:06:07.222Z",
  "fetchOk": true,
- "failedSources": [
-  "YouTube 党公式"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "ＳＮＳ向け動画費用３年前の２・６倍、有権者の支持狙い各党注力…所属議員に発信方法教える研修も",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbzBvLTk4UWFqT2hIdFFOZENLaGNlckJqdUxsTEVGTmpWYkJ3VVptY2dGY2Vjd3B3MmhpWDNfUWUxU2hvcGxiaFhLN19KV01abVdKeDFEWllRXzg0QTRTNkNJaW42dw?oc=5",
+   "date": "2026-11-27T21:46:43.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T22:06:07.222Z",
+   "mention": "body"
+  },
   {
    "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
@@ -65,6 +74,17 @@
    "firstSeen": "2026-11-26T11:06:03.675Z"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T12:26:26.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "参政、グーグル広告に１億円超 動画製作やライブ配信、各党注力―２５年政治資金収支報告書",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FREtVY3JQdEJlaDBWWmlsZTRDRVBGZjB5QlVBbWN0NEdDV0VMNUJxRXFLSktabFltZk5IMEszUTMwWkRjVWNGNDZsMFhwbFhPa0pPbzRnblpiN0hhR3hqN3hGQQ?oc=5",
    "date": "2026-11-27T12:17:00.000Z",
@@ -95,17 +115,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T11:28:07.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
