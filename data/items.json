@@ -1,9 +1,45 @@
 {
- "updatedAt": "2026-11-27T12:06:15.018Z",
- "lastAttempt": "2026-11-27T12:06:15.018Z",
+ "updatedAt": "2026-11-27T13:06:04.302Z",
+ "lastAttempt": "2026-11-27T13:06:04.302Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "自民党と立憲民主党、25年参議院選挙で接戦区てこ入れ 政治資金報告書から見えた戦略",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teFhPVnNrMVp4ZEsyQThHZDh2c2ppa3U2OTUxcGtBOVIxSXZ1OXlaaUpJbkdkdnViX3kwQlEwTkxja2lWZXh5cG40bE8xdGpZcFlRWm5udXZKRzlzV2dpbkYtQ1drcUJOa0luRA?oc=5",
+   "date": "2026-11-27T13:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T13:06:04.302Z",
+   "mention": "body"
+  },
+  {
+   "title": "【緊急実験】安野がバイブコーディングでチャットボットをつくってみる(2026年11月27日20:00頃開始予定) #安野貴博",
+   "link": "https://www.youtube.com/watch?v=hT2pg7H5IFA",
+   "date": "2026-11-27T12:57:32.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/hT2pg7H5IFA/hqdefault.jpg",
+   "description": "政府のチャットボット「Govbot（ガボット）」 さまざまな課題が認識されていたはずのガボットが、生成AIの進化も踏まえないまま、同じ運用方式で次の4年間に入ろうとしています。こうしたシステム調達のあり方には、大きな問題があると考えます。 ",
+   "firstSeen": "2026-11-26T11:06:03.675Z"
+  },
+  {
+   "title": "＜社説＞文科相問責否決疑問解消せずに続投か",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMVkRJQVdBZ1hLTWFuZmxiOHdwOHZxSTFMUUdlc2NuaENnUUpsOGdUNXRGSEt5WFFMaDJ6TU1zT2xRUXhvVGN0U1h4OA?oc=5",
+   "date": "2026-11-27T12:10:24.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "共同通信",
+   "mediaId": "kyodo",
+   "firstSeen": "2026-11-27T13:06:04.302Z",
+   "mention": "body"
+  },
   {
    "title": "参政、グーグル広告に１億円超 動画製作やライブ配信、各党注力―２５年政治資金収支報告書",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FREtVY3JQdEJlaDBWWmlsZTRDRVBGZjB5QlVBbWN0NEdDV0VMNUJxRXFLSktabFltZk5IMEszUTMwWkRjVWNGNDZsMFhwbFhPa0pPbzRnblpiN0hhR3hqN3hGQQ?oc=5",
@@ -135,6 +171,17 @@
    "firstSeen": "2026-11-27T06:06:17.395Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T03:04:24.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "個人情報の流出被害対策 政府が企業支援チームを発足",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13TGZ1VUVUTGxFbmNjMUJBMkVEV1BRLVc3Z2xhTWMteU5RNW1kOXF2VGhfSnFycVVma3FhUHB0ZHdkdXpudUdYUmhaa1drQ1hPbkdxTkdIYWZCOWllTUc5WGI1eVRBUnhGdU9MNmZsTE9Tdw?oc=5",
    "date": "2026-11-27T03:02:18.000Z",
@@ -143,6 +190,17 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-27T08:06:02.728Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T02:56:43.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -187,28 +245,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-27T07:06:14.909Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T01:44:07.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T01:24:11.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -884,20 +920,6 @@
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
    "mention": "body"
-  },
-  {
-   "title": "【緊急実験】安野がバイブコーディングでチャットボットをつくってみる(2026年11月27日20:00頃開始予定) #安野貴博",
-   "link": "https://www.youtube.com/watch?v=hT2pg7H5IFA",
-   "date": "2026-11-25T12:48:53.000Z",
-   "type": "official",
-   "kind": "video",
-   "source": "党公式 YouTube",
-   "members": [
-    "anno"
-   ],
-   "thumb": "https://i1.ytimg.com/vi/hT2pg7H5IFA/hqdefault.jpg",
-   "description": "政府のチャットボット「Govbot（ガボット）」 さまざまな課題が認識されていたはずのガボットが、生成AIの進化も踏まえないまま、同じ運用方式で次の4年間に入ろうとしています。こうしたシステム調達のあり方には、大きな問題があると考えます。 ",
-   "firstSeen": "2026-11-26T11:06:03.675Z"
   },
   {
    "title": "日立、ファナックとAIロボットアーム開発 「自律型工場」へ布石",
