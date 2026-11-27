@@ -1,9 +1,29 @@
 {
- "updatedAt": "2026-11-27T05:06:02.872Z",
- "lastAttempt": "2026-11-27T05:06:02.872Z",
+ "updatedAt": "2026-11-27T06:06:17.395Z",
+ "lastAttempt": "2026-11-27T06:06:17.395Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "YouTube 党公式",
+  "YouTube 安野貴博",
+  "YouTube 小林修平",
+  "YouTube 高山聡史",
+  "ニュース検索 小林修平"
+ ],
  "items": [
+  {
+   "title": "ついに国会の本会議でタブレットが使えるようになります！ #チームみらい",
+   "link": "https://www.youtube.com/shorts/BM-ZUkrTLy8",
+   "date": "2026-11-27T05:34:05.000Z",
+   "type": "member",
+   "kind": "video",
+   "source": "須田英太郎 YouTube",
+   "members": [
+    "suda"
+   ],
+   "thumb": "https://i3.ytimg.com/vi/BM-ZUkrTLy8/hqdefault.jpg",
+   "description": "ついに国会でタブレットが使えるようになります！ ※11/24付けで、衆議院の本会議場でも、 タブレットなどを使うためのルールがまとまりました！ まずは2027年1〜3月に試して、 問題がなければ本格的に導入する方針です。 . . チームみら",
+   "firstSeen": "2026-11-27T06:06:17.395Z"
+  },
   {
    "title": "【更新中】関文科相への問責決議案 与党側など反対多数で否決",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
@@ -35,6 +55,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-27T05:06:02.872Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T20:15:02.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -107,6 +138,17 @@
    "mention": "body"
   },
   {
+   "title": "【更新中】関文科相への問責決議案 4票差で否決 参院本会議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
+   "date": "2026-11-26T19:45:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-27T06:06:17.395Z",
+   "mention": "body"
+  },
+  {
    "title": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か | NHKニュース | 国会、参議院、文部科学省",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
    "date": "2026-11-26T19:45:00.000Z",
@@ -115,17 +157,6 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-26T23:06:13.574Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T19:24:11.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -248,6 +279,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T07:51:03.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "倉田真由美さん “クマ殺さないで”群馬県や前橋市への抗議に疑問「鹿や猪…こう言わないのは何故」（スポニチ）",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uVm9LdVJHelhQVFJRY1h1cFkwR1JtVUVqaEQyS05nUXFMcnc2MkNIcEdRdHN2b28zbzVZbWwtNnRDRDl0VlZvaUhaMGVHOUZfTjB3aThLUUIxMTcxVmxkWTlJWFFLZU1Q?oc=5",
    "date": "2026-11-26T06:36:05.000Z",
@@ -328,17 +370,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-26T11:06:03.675Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T03:54:39.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
