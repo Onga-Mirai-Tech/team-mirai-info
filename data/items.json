@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-27T19:12:10.125Z",
- "lastAttempt": "2026-11-27T19:12:10.125Z",
+ "updatedAt": "2026-11-27T20:06:06.661Z",
+ "lastAttempt": "2026-11-27T20:06:06.661Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "参政党はグーグルに１億円超を支出…２０２５年参院選、新興政党中心に多額の「ＳＮＳ広告費」",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mdmNEaXRJUzdfNlJQbURicWJnVjVndlZodGF5amczaW5aZmpwU210YzRKWmVtUXczZ3pCRzN1YjcyOW9WRmEya1I1WG95RGFnYWRrVUMzQ2dWcXdqdnFDRUNyVWZsQQ?oc=5",
+   "date": "2026-11-27T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T20:06:06.661Z",
+   "mention": "body"
+  },
   {
    "title": "自民党と立憲民主党、25年参議院選挙で接戦区てこ入れ 政治資金報告書から見えた戦略",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teFhPVnNrMVp4ZEsyQThHZDh2c2ppa3U2OTUxcGtBOVIxSXZ1OXlaaUpJbkdkdnViX3kwQlEwTkxja2lWZXh5cG40bE8xdGpZcFlRWm5udXZKRzlzV2dpbkYtQ1drcUJOa0luRA?oc=5",
@@ -102,6 +113,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T10:24:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "参院、関文科相問責を否決 ４票差、首相が続投支持―消費税審議、１２月２日再開",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HSzllOWRENUtkWGJqNklOdUZDa0dMZFMtaXcyLVBQdWRwMG45MzBENWtKOHl2U0E4RUVudEloRjR4ak5iVXhtaVZoa0I4MUxnNEhyaTlpaDN5MjJKZjVXWGNidw?oc=5",
    "date": "2026-11-27T10:23:00.000Z",
@@ -126,7 +148,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T09:31:45.000Z",
+   "date": "2026-11-27T09:45:43.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -176,17 +198,6 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-27T08:06:02.728Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T07:24:11.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
