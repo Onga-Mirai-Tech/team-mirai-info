@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T18:06:03.703Z",
- "lastAttempt": "2026-11-27T18:06:03.703Z",
+ "updatedAt": "2026-11-27T19:06:07.812Z",
+ "lastAttempt": "2026-11-27T19:06:07.812Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -146,6 +146,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T08:33:27.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
    "date": "2026-11-27T08:01:00.000Z",
@@ -168,20 +179,9 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T07:33:25.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T06:00:54.000Z",
+   "date": "2026-11-27T07:24:11.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
