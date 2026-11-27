@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T03:06:08.135Z",
- "lastAttempt": "2026-11-27T03:06:08.135Z",
+ "updatedAt": "2026-11-27T04:06:01.746Z",
+ "lastAttempt": "2026-11-27T04:06:01.746Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -85,6 +85,17 @@
    "mention": "body"
   },
   {
+   "title": "【更新中】関文科相への問責決議案 反対多数で否決 参院本会議",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
+   "date": "2026-11-26T19:45:08.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-27T04:06:01.746Z",
+   "mention": "body"
+  },
+  {
    "title": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か | NHKニュース | 国会、参議院、文部科学省",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
    "date": "2026-11-26T19:45:00.000Z",
@@ -112,7 +123,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T17:54:11.000Z",
+   "date": "2026-11-26T18:16:52.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -129,6 +140,17 @@
    "source": "毎日新聞",
    "mediaId": "mainichi",
    "firstSeen": "2026-11-26T17:06:03.531Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科相：関氏問責、参院に提出 きょう採決、可否不透明",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uRlF6VG1LM1V3Q2R2X1g1UVRWTnJ4ZkhXQ3FEc19qU2ctTHFpRUpuNGVldXBmYzlaWExPSzVpcWZISlRaU25QMDNCRlVEN1BsY1FUUFVfYWdMbDV0UzhSWHpmenZqOXVw?oc=5",
+   "date": "2026-11-26T17:02:01.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "毎日新聞",
+   "mediaId": "mainichi",
+   "firstSeen": "2026-11-27T04:06:01.746Z",
    "mention": "body"
   },
   {
@@ -240,6 +262,17 @@
    "firstSeen": "2026-11-26T07:06:09.684Z"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T05:54:47.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "衆院憲法審査会 9条と自衛隊の位置づけで3回目の集中的討議",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrcU1jaUVnUWFKc0ZNWGZFUVVuaGptS2o5VlA2emZqLUF4RThyTzRzT1NzZml3TkVDSXc3Z1JuVFVmUXF3M25nYTFQSG1xRTh4YUJCa3FHZHJHT0VCblZN?oc=5",
    "date": "2026-11-26T05:29:00.000Z",
@@ -342,17 +375,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T02:54:39.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "野党、文科相問責決議案提出 27日採決、与野党拮抗",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdURCSXBiM0t6anpncVZrbUhnWDlsbk1pWWVxdnVReGJOU3FrVXg0MExBZ2VzckR1UmRqYXF2cTFHVEp2M284bFByZw?oc=5",
    "date": "2026-11-26T02:11:00.000Z",
@@ -394,6 +416,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T06:06:04.536Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科大臣の問責決議案 27日採決 今後の高市政権に影響は?",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBV1NxUUxpQ2xENG5zRTNKeHZraE5rN2liQ2l0amFaYkFqcWNxSG5GQWM4ZE90VHFCMDBVaUd0Zk9sclE3blRRVkNiaW5NLXR5ZkM5bUtVb0pfZlZWWDR3MHBB?oc=5",
+   "date": "2026-11-26T01:00:29.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-27T04:06:01.746Z",
    "mention": "body"
   },
   {
