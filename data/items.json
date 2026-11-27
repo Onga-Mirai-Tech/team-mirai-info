@@ -1,9 +1,20 @@
 {
- "updatedAt": "2026-11-27T14:06:14.824Z",
- "lastAttempt": "2026-11-27T14:06:14.824Z",
+ "updatedAt": "2026-11-27T15:06:04.914Z",
+ "lastAttempt": "2026-11-27T15:06:04.914Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5",
+   "date": "2026-11-27T14:31:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T15:06:04.914Z",
+   "mention": "body"
+  },
   {
    "title": "自民党と立憲民主党、25年参議院選挙で接戦区てこ入れ 政治資金報告書から見えた戦略",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teFhPVnNrMVp4ZEsyQThHZDh2c2ppa3U2OTUxcGtBOVIxSXZ1OXlaaUpJbkdkdnViX3kwQlEwTkxja2lWZXh5cG40bE8xdGpZcFlRWm5udXZKRzlzV2dpbkYtQ1drcUJOa0luRA?oc=5",
@@ -184,7 +195,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T03:04:24.000Z",
+   "date": "2026-11-27T04:02:51.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
