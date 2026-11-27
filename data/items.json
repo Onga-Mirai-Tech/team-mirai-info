@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T19:06:07.812Z",
- "lastAttempt": "2026-11-27T19:06:07.812Z",
+ "updatedAt": "2026-11-27T19:12:10.125Z",
+ "lastAttempt": "2026-11-27T19:12:10.125Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -124,6 +124,17 @@
    "mention": "body"
   },
   {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T09:31:45.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "去年の政治資金収入11％余増加 パーティー収入は37％余の増加",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT2VNR25VTXA4TTBrV1RNd1VJNU1WVF9TTmJ1d1RETlJMa1FiWlVXZVdsbzZsY3RuVVV3dllUdWZuNkZzUHVCY3hXUkZjdEkzSWU4RmNtRTNSNUNPM2NR?oc=5",
    "date": "2026-11-27T09:14:32.000Z",
@@ -143,17 +154,6 @@
    "source": "時事通信",
    "mediaId": "jiji",
    "firstSeen": "2026-11-27T10:06:05.404Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T08:33:27.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
