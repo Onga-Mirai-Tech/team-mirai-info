@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-27T02:06:05.391Z",
- "lastAttempt": "2026-11-27T02:06:05.391Z",
+ "updatedAt": "2026-11-27T03:06:08.135Z",
+ "lastAttempt": "2026-11-27T03:06:08.135Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "【更新中】関文科相への問責決議案 与党側など反対多数で否決",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnajZkNFFlUzNHX1ZPQWhVRVp2ZUhuVHJPQ3dvTFpGRnVzS3JLNlV1SktpWHFyRzlOQ2RwMC1zaXl5WEM4Znh1M0htWlRkM0kzY1pkQWFrdUMyeV9CWEFJ?oc=5",
+   "date": "2026-11-27T02:39:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-27T03:06:08.135Z",
+   "mention": "body"
+  },
+  {
+   "title": "関芳弘文部科学相の問責、参院本会議で否決 与党などが反対",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5",
+   "date": "2026-11-27T02:33:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T03:06:08.135Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 憲法審査会 発言／幹事長・古川あおい（2026年11月26日）",
    "link": "https://note.com/team_mirai_log/n/n13603e6da6c5",
@@ -88,6 +110,17 @@
    "firstSeen": "2026-11-25T07:06:07.753Z"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T17:54:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "関文科相：関氏問責 参院に提出 きょう採決、可否不透明",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uRlF6VG1LM1V3Q2R2X1g1UVRWTnJ4ZkhXQ3FEc19qU2ctTHFpRUpuNGVldXBmYzlaWExPSzVpcWZISlRaU25QMDNCRlVEN1BsY1FUUFVfYWdMbDV0UzhSWHpmenZqOXVw?oc=5",
    "date": "2026-11-26T17:02:01.000Z",
@@ -111,17 +144,6 @@
    "thumb": "https://i1.ytimg.com/vi/PkK5_ULFc4c/hqdefault.jpg",
    "description": "AIの進化でサイバー攻撃の脅威が高まるなか、能動的サイバー防御の運用といま必要な政策を、専門家3名を招いて党派を超えて議論する国会議員向けの勉強会です。 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.yout",
    "firstSeen": "2026-11-23T05:06:04.887Z"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T15:18:32.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "【全文】衆議院 北朝鮮による拉致問題等に関する特別委員会 質疑／宇佐美登（2026年11月25日）",
@@ -276,17 +298,6 @@
    "mention": "body"
   },
   {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T03:54:39.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
    "title": "関芳弘文科相の問責決議案、野党が参院提出 27日採決へ…教育現場から憤りの声「なぜセーフなんですか」",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY0lJQ2FSbDM3WndvWmhGV0tMSm5RSl9nNERzWkxHYzNZaUlsNmR0UXBvRkQxUVU1MUdXbnRCNUotU21iaVh5VFJaWHlpV1M4NENRMGdKQ3l5d3huNlhMOVhyVkk?oc=5",
    "date": "2026-11-26T03:47:20.000Z",
@@ -328,6 +339,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:54:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
