@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T10:06:05.404Z",
- "lastAttempt": "2026-11-27T10:06:05.404Z",
+ "updatedAt": "2026-11-27T11:06:06.611Z",
+ "lastAttempt": "2026-11-27T11:06:06.611Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -129,6 +129,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T01:24:11.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "政府がBCP＝事業継続計画を12年ぶりに見直し 首都直下地震で被害長期化も見据え",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15WTdEd3dncWhFYWZvTzlkNmhZSU9JVnBDQ1pzbmpZbE9NX2MxOEdIc0JMZmsza2JaaE5QaExBcjJYU09zU1pwZDBHQlNjT0VfWDA0UjNtUlJHLXByTUJYU1FfNHc0a0V0VFFRV2pZT3hkZw?oc=5",
    "date": "2026-11-27T00:52:13.000Z",
@@ -142,23 +153,12 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T00:45:59.000Z",
+   "date": "2026-11-26T23:56:43.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T00:07:45.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
