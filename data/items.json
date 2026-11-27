@@ -1,16 +1,20 @@
 {
- "updatedAt": "2026-11-27T07:06:14.909Z",
- "lastAttempt": "2026-11-27T07:06:14.909Z",
+ "updatedAt": "2026-11-27T08:06:02.728Z",
+ "lastAttempt": "2026-11-27T08:06:02.728Z",
  "fetchOk": true,
- "failedSources": [
-  "YouTube 党公式",
-  "YouTube 安野貴博",
-  "YouTube 古川あおい",
-  "YouTube 小林修平",
-  "YouTube 須田英太郎",
-  "YouTube 武藤かず子"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "政治資金パーティー収入37%増 25年報告書、自民の自粛緩む",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYT0lnVHpKZTZuSjhDeFZPazVGSEo0LWlQMDVkeGh4cUttSnhSa0ZvS0E0dTNCVEQ0bUhfelV5dmhpUXFMaGNvNjBLdjViYTBHWDZKNmNfSTJiVmZiNXJBeVBJUkpFTUVTZjFxWg?oc=5",
+   "date": "2026-11-27T08:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T08:06:02.728Z",
+   "mention": "body"
+  },
   {
    "title": "ついに国会の本会議でタブレットが使えるようになります！ #チームみらい",
    "link": "https://www.youtube.com/shorts/BM-ZUkrTLy8",
@@ -24,6 +28,39 @@
    "thumb": "https://i3.ytimg.com/vi/BM-ZUkrTLy8/hqdefault.jpg",
    "description": "ついに国会でタブレットが使えるようになります！ ※11/24付けで、衆議院の本会議場でも、 タブレットなどを使うためのルールがまとまりました！ まずは2027年1〜3月に試して、 問題がなければ本格的に導入する方針です。 . . チームみら",
    "firstSeen": "2026-11-27T06:06:17.395Z"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T04:47:41.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T04:11:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "個人情報の流出被害対策 政府が企業支援チームを発足",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13TGZ1VUVUTGxFbmNjMUJBMkVEV1BRLVc3Z2xhTWMteU5RNW1kOXF2VGhfSnFycVVma3FhUHB0ZHdkdXpudUdYUmhaa1drQ1hPbkdxTkdIYWZCOWllTUc5WGI1eVRBUnhGdU9MNmZsTE9Tdw?oc=5",
+   "date": "2026-11-27T03:02:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-27T08:06:02.728Z",
+   "mention": "body"
   },
   {
    "title": "【更新中】関文科相への問責決議案 与党側など反対多数で否決",
@@ -67,17 +104,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-27T07:06:14.909Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T21:13:13.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -288,17 +314,6 @@
    "source": "東京新聞",
    "mediaId": "tokyo",
    "firstSeen": "2026-11-26T12:06:03.728Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T07:51:03.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -2934,6 +2949,9 @@
    "kind": "article",
    "source": "朝日新聞",
    "mediaId": "asahi",
+   "members": [
+    "mineshima"
+   ],
    "firstSeen": "2026-11-20T10:06:03.632Z",
    "mention": "body"
   },
