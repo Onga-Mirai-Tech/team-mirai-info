@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-11-27T15:06:04.914Z",
- "lastAttempt": "2026-11-27T15:06:04.914Z",
+ "updatedAt": "2026-11-27T16:06:03.768Z",
+ "lastAttempt": "2026-11-27T16:06:03.768Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5",
-   "date": "2026-11-27T14:31:00.000Z",
+   "title": "２５年の政治資金パーティー収入３７％増、自民派閥問題での自粛から一転",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybmI4NW5JR2dfMUF3a1F0RjBSWHQ5dUt6ck9TRzd5SEFrRmN6QTVMM1hVUmptNE5WR1ZpM0ZxbHlINGllQ05yYnAzaDhlVU5kTHZ6bktwOXU2b2lCSFFqaVlSb1dlUQ?oc=5",
+   "date": "2026-11-27T15:56:18.000Z",
    "type": "media",
    "kind": "article",
-   "source": "日本経済新聞",
-   "mediaId": "nikkei",
-   "firstSeen": "2026-11-27T15:06:04.914Z",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
    "mention": "body"
   },
   {
@@ -24,6 +24,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-27T13:06:04.302Z",
+   "mention": "body"
+  },
+  {
+   "title": "自民党と立憲民主党、25年参院選で接戦区てこ入れ 政治資金報告書",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teFhPVnNrMVp4ZEsyQThHZDh2c2ppa3U2OTUxcGtBOVIxSXZ1OXlaaUpJbkdkdnViX3kwQlEwTkxja2lWZXh5cG40bE8xdGpZcFlRWm5udXZKRzlzV2dpbkYtQ1drcUJOa0luRA?oc=5",
+   "date": "2026-11-27T13:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T16:06:03.768Z",
    "mention": "body"
   },
   {
@@ -113,17 +124,6 @@
    "mention": "body"
   },
   {
-   "title": "２５年の政治資金パーティー収入３７％増、自民派閥問題での自粛から一転",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybmI4NW5JR2dfMUF3a1F0RjBSWHQ5dUt6ck9TRzd5SEFrRmN6QTVMM1hVUmptNE5WR1ZpM0ZxbHlINGllQ05yYnAzaDhlVU5kTHZ6bktwOXU2b2lCSFFqaVlSb1dlUQ?oc=5",
-   "date": "2026-11-27T10:00:00.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "読売新聞",
-   "mediaId": "yomiuri",
-   "firstSeen": "2026-11-27T10:06:05.404Z",
-   "mention": "body"
-  },
-  {
    "title": "去年の政治資金収入11％余増加 パーティー収入は37％余の増加",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT2VNR25VTXA4TTBrV1RNd1VJNU1WVF9TTmJ1d1RETlJMa1FiWlVXZVdsbzZsY3RuVVV3dllUdWZuNkZzUHVCY3hXUkZjdEkzSWU4RmNtRTNSNUNPM2NR?oc=5",
    "date": "2026-11-27T09:14:32.000Z",
@@ -168,6 +168,28 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T06:59:14.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T06:35:04.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "ついに国会の本会議でタブレットが使えるようになります！ #チームみらい",
    "link": "https://www.youtube.com/shorts/BM-ZUkrTLy8",
    "date": "2026-11-27T05:34:05.000Z",
@@ -180,28 +202,6 @@
    "thumb": "https://i3.ytimg.com/vi/BM-ZUkrTLy8/hqdefault.jpg",
    "description": "ついに国会でタブレットが使えるようになります！ ※11/24付けで、衆議院の本会議場でも、 タブレットなどを使うためのルールがまとまりました！ まずは2027年1〜3月に試して、 問題がなければ本格的に導入する方針です。 . . チームみら",
    "firstSeen": "2026-11-27T06:06:17.395Z"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T04:38:41.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T04:02:51.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
   },
   {
    "title": "個人情報の流出被害対策 政府が企業支援チームを発足",
@@ -223,6 +223,17 @@
    "source": "NHK",
    "mediaId": "nhk",
    "firstSeen": "2026-11-27T03:06:08.135Z",
+   "mention": "body"
+  },
+  {
+   "title": "関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5",
+   "date": "2026-11-27T02:33:18.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T15:06:04.914Z",
    "mention": "body"
   },
   {
