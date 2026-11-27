@@ -1,13 +1,14 @@
 {
- "updatedAt": "2026-11-27T06:06:17.395Z",
- "lastAttempt": "2026-11-27T06:06:17.395Z",
+ "updatedAt": "2026-11-27T07:06:14.909Z",
+ "lastAttempt": "2026-11-27T07:06:14.909Z",
  "fetchOk": true,
  "failedSources": [
   "YouTube 党公式",
   "YouTube 安野貴博",
+  "YouTube 古川あおい",
   "YouTube 小林修平",
-  "YouTube 高山聡史",
-  "ニュース検索 小林修平"
+  "YouTube 須田英太郎",
+  "YouTube 武藤かず子"
  ],
  "items": [
   {
@@ -58,9 +59,20 @@
    "mention": "body"
   },
   {
+   "title": "「副首都」2028年4月ごろに制度の運用開始 政府が発表",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByb0FKZkdHWHNkdkhYanNSdzNhbVpnQXFycDNCX1IySTBUTTM0ZEhFX0tXejJhMXpXODRnZm5VQzQ4OEJDcE4wTk5zYmxnX2NhWFVhcFBPMEZlVU5Ld0FiU0plVFNpTHNUVEhndGM0MDFFVTA?oc=5",
+   "date": "2026-11-27T02:03:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-27T07:06:14.909Z",
+   "mention": "body"
+  },
+  {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T20:15:02.000Z",
+   "date": "2026-11-26T21:13:13.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
