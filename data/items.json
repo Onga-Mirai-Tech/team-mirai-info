@@ -1,20 +1,9 @@
 {
- "updatedAt": "2026-11-27T17:06:04.891Z",
- "lastAttempt": "2026-11-27T17:06:04.891Z",
+ "updatedAt": "2026-11-27T18:06:03.703Z",
+ "lastAttempt": "2026-11-27T18:06:03.703Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
-  {
-   "title": "２５年の政治資金パーティー収入３７％増、自民派閥問題での自粛から一転",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybmI4NW5JR2dfMUF3a1F0RjBSWHQ5dUt6ck9TRzd5SEFrRmN6QTVMM1hVUmptNE5WR1ZpM0ZxbHlINGllQ05yYnAzaDhlVU5kTHZ6bktwOXU2b2lCSFFqaVlSb1dlUQ?oc=5",
-   "date": "2026-11-27T15:56:18.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "読売新聞",
-   "mediaId": "yomiuri",
-   "firstSeen": "2026-11-27T10:06:05.404Z",
-   "mention": "body"
-  },
   {
    "title": "自民党と立憲民主党、25年参議院選挙で接戦区てこ入れ 政治資金報告書から見えた戦略",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teFhPVnNrMVp4ZEsyQThHZDh2c2ppa3U2OTUxcGtBOVIxSXZ1OXlaaUpJbkdkdnViX3kwQlEwTkxja2lWZXh5cG40bE8xdGpZcFlRWm5udXZKRzlzV2dpbkYtQ1drcUJOa0luRA?oc=5",
@@ -124,6 +113,17 @@
    "mention": "body"
   },
   {
+   "title": "２５年の政治資金パーティー収入３７％増、自民派閥問題での自粛から一転",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybmI4NW5JR2dfMUF3a1F0RjBSWHQ5dUt6ck9TRzd5SEFrRmN6QTVMM1hVUmptNE5WR1ZpM0ZxbHlINGllQ05yYnAzaDhlVU5kTHZ6bktwOXU2b2lCSFFqaVlSb1dlUQ?oc=5",
+   "date": "2026-11-27T10:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
+  {
    "title": "去年の政治資金収入11％余増加 パーティー収入は37％余の増加",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT2VNR25VTXA4TTBrV1RNd1VJNU1WVF9TTmJ1d1RETlJMa1FiWlVXZVdsbzZsY3RuVVV3dllUdWZuNkZzUHVCY3hXUkZjdEkzSWU4RmNtRTNSNUNPM2NR?oc=5",
    "date": "2026-11-27T09:14:32.000Z",
@@ -181,7 +181,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T06:57:25.000Z",
+   "date": "2026-11-27T06:00:54.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
