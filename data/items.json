@@ -1,37 +1,42 @@
 {
- "updatedAt": "2026-11-27T09:14:26.963Z",
- "lastAttempt": "2026-11-27T09:14:26.963Z",
+ "updatedAt": "2026-11-27T10:06:05.404Z",
+ "lastAttempt": "2026-11-27T10:06:05.404Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 党名",
-  "ニュース検索 朝日新聞",
-  "ニュース検索 読売新聞",
-  "ニュース検索 毎日新聞",
-  "ニュース検索 日本経済新聞",
-  "ニュース検索 産経新聞",
-  "ニュース検索 東京新聞",
-  "ニュース検索 共同通信",
-  "ニュース検索 時事通信",
-  "ニュース検索 NHK",
-  "ニュース検索 日本テレビ",
-  "ニュース検索 TBS",
-  "ニュース検索 テレビ朝日",
-  "ニュース検索 フジテレビ",
-  "ニュース検索 テレビ東京",
-  "ニュース検索 安野貴博",
-  "ニュース検索 古川あおい",
-  "ニュース検索 宇佐美登",
-  "ニュース検索 河合道雄",
-  "ニュース検索 小林修平",
-  "ニュース検索 須田英太郎",
-  "ニュース検索 高山聡史",
-  "ニュース検索 土橋章宏",
-  "ニュース検索 林拓海",
-  "ニュース検索 峰島侑也",
-  "ニュース検索 武藤かず子",
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "２５年の政治資金パーティー収入３７％増、自民派閥問題での自粛から一転",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybmI4NW5JR2dfMUF3a1F0RjBSWHQ5dUt6ck9TRzd5SEFrRmN6QTVMM1hVUmptNE5WR1ZpM0ZxbHlINGllQ05yYnAzaDhlVU5kTHZ6bktwOXU2b2lCSFFqaVlSb1dlUQ?oc=5",
+   "date": "2026-11-27T10:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
+  {
+   "title": "去年の政治資金収入11％余増加 パーティー収入は37％余の増加",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pT2VNR25VTXA4TTBrV1RNd1VJNU1WVF9TTmJ1d1RETlJMa1FiWlVXZVdsbzZsY3RuVVV3dllUdWZuNkZzUHVCY3hXUkZjdEkzSWU4RmNtRTNSNUNPM2NR?oc=5",
+   "date": "2026-11-27T09:14:32.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "NHK",
+   "mediaId": "nhk",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
+  {
+   "title": "参院、関文科相問責を否決 ４票差、首相が続投表明へ―消費税審議、来月２日再開",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HSzllOWRENUtkWGJqNklOdUZDa0dMZFMtaXcyLVBQdWRwMG45MzBENWtKOHl2U0E4RUVudEloRjR4ak5iVXhtaVZoa0I4MUxnNEhyaTlpaDN5MjJKZjVXWGNidw?oc=5",
+   "date": "2026-11-27T08:56:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "時事通信",
+   "mediaId": "jiji",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
   {
    "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
@@ -124,9 +129,20 @@
    "mention": "body"
   },
   {
+   "title": "政府がBCP＝事業継続計画を12年ぶりに見直し 首都直下地震で被害長期化も見据え",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15WTdEd3dncWhFYWZvTzlkNmhZSU9JVnBDQ1pzbmpZbE9NX2MxOEdIc0JMZmsza2JaaE5QaExBcjJYU09zU1pwZDBHQlNjT0VfWDA0UjNtUlJHLXByTUJYU1FfNHc0a0V0VFFRV2pZT3hkZw?oc=5",
+   "date": "2026-11-27T00:52:13.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
+  {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T23:47:46.000Z",
+   "date": "2026-11-27T00:45:59.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -137,7 +153,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T22:24:11.000Z",
+   "date": "2026-11-27T00:07:45.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -889,7 +905,7 @@
     "yamada"
    ],
    "thumb": "https://i2.ytimg.com/vi/19RTp_BQrAc/hqdefault.jpg",
-   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼出演",
+   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼国会",
    "firstSeen": "2026-11-26T10:06:05.047Z"
   },
   {
