@@ -1,19 +1,37 @@
 {
- "updatedAt": "2026-11-27T22:06:07.222Z",
- "lastAttempt": "2026-11-27T22:06:07.222Z",
+ "updatedAt": "2026-11-27T23:06:01.574Z",
+ "lastAttempt": "2026-11-27T23:06:01.574Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "ＳＮＳ向け動画費用３年前の２・６倍、有権者の支持狙い各党注力…所属議員に発信方法教える研修も",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbzBvLTk4UWFqT2hIdFFOZENLaGNlckJqdUxsTEVGTmpWYkJ3VVptY2dGY2Vjd3B3MmhpWDNfUWUxU2hvcGxiaFhLN19KV01abVdKeDFEWllRXzg0QTRTNkNJaW42dw?oc=5",
-   "date": "2026-11-27T21:46:43.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "読売新聞",
-   "mediaId": "yomiuri",
-   "firstSeen": "2026-11-27T22:06:07.222Z",
-   "mention": "body"
+   "title": "スマート農業は「数百万円」からしか始められないのか｜北海道むかわ町、LINEと生成AIの100ha農場を訪ねて",
+   "link": "https://note.com/team_mirai_jp/n/n4d942497ef29",
+   "date": "2026-11-27T23:00:15.000Z",
+   "type": "official",
+   "kind": "note",
+   "source": "党公式 note",
+   "members": [
+    "hayashi"
+   ],
+   "thumb": "https://assets.st-note.com/production/uploads/images/337224791/rectangle_large_type_2_75975e9180e10de69476853f49aad2b3.png?width=800",
+   "description": "チームみらいは2026年7月29日から31日にかけて、北海道の室蘭市・千歳市・石狩市・むかわ町の4か所を視察で訪れました。この記事では、7月30日に訪ねたむかわ町の「WFPダチョウファーム」について、農林水産委員会に所属する林拓海が報告しま",
+   "firstSeen": "2026-11-27T23:06:01.574Z"
+  },
+  {
+   "title": "【生配信】週刊チームみらいNEWS (2026年11月27日19:00頃開始予定) #峰島侑也 #山田瑛理",
+   "link": "https://www.youtube.com/watch?v=19RTp_BQrAc",
+   "date": "2026-11-27T22:32:55.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "mineshima",
+    "yamada"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/19RTp_BQrAc/hqdefault.jpg",
+   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼国会",
+   "firstSeen": "2026-11-26T10:06:05.047Z"
   },
   {
    "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
@@ -24,6 +42,17 @@
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-27T21:06:11.598Z",
+   "mention": "body"
+  },
+  {
+   "title": "ＳＮＳ向け動画費用３年前の２・６倍、有権者の支持狙い各党注力…所属議員に発信方法教える研修も",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbzBvLTk4UWFqT2hIdFFOZENLaGNlckJqdUxsTEVGTmpWYkJ3VVptY2dGY2Vjd3B3MmhpWDNfUWUxU2hvcGxiaFhLN19KV01abVdKeDFEWllRXzg0QTRTNkNJaW42dw?oc=5",
+   "date": "2026-11-27T20:00:00.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T22:06:07.222Z",
    "mention": "body"
   },
   {
@@ -76,7 +105,7 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T12:26:26.000Z",
+   "date": "2026-11-27T12:45:43.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -109,7 +138,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T11:54:12.000Z",
+   "date": "2026-11-27T11:50:13.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
@@ -1041,21 +1070,6 @@
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-24T17:06:27.418Z",
    "mention": "body"
-  },
-  {
-   "title": "【生配信】週刊チームみらいNEWS (2026年11月27日19:00頃開始予定) #峰島侑也 #山田瑛理",
-   "link": "https://www.youtube.com/watch?v=19RTp_BQrAc",
-   "date": "2026-11-25T09:50:08.000Z",
-   "type": "official",
-   "kind": "video",
-   "source": "党公式 YouTube",
-   "members": [
-    "mineshima",
-    "yamada"
-   ],
-   "thumb": "https://i2.ytimg.com/vi/19RTp_BQrAc/hqdefault.jpg",
-   "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼国会",
-   "firstSeen": "2026-11-26T10:06:05.047Z"
   },
   {
    "title": "【全文】衆議院 政治改革に関する特別委員会 質疑／広報本部長・峰島侑也（2026年11月24日）",
@@ -10058,12 +10072,12 @@
    "firstSeen": "2026-11-18T13:28:18.738Z"
   },
   {
-   "title": "国会にAIを、政治にもっと多くの声を──私たちが総理や議員にAIを伝える理由",
+   "title": "note「国会にAIを、政治にもっと多くの声を」",
    "link": "https://note.com/team_mirai_jp/n/n33b7cbce0785",
    "date": "2026-09-24T22:54:27.000Z",
    "type": "official",
    "kind": "note",
-   "source": "党公式 note",
+   "source": "党公式サイト",
    "members": [
     "anno"
    ],
@@ -18672,6 +18686,17 @@
    "thumb": "https://i1.ytimg.com/vi/DNxWvOcOFk0/hqdefault.jpg",
    "description": "#武藤かず子 #チームみらい #比例はみらい",
    "firstSeen": "2026-11-18T13:28:18.738Z"
+  },
+  {
+   "title": "比例代表 四国【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUSTdnT0lRQlRNNWl2TUdVUXE3NWhUbXBTZ3Jyd3JXbENsRDRuMEhfMXhxTHRnUmxzaWpVd2pIRVBrZFNfS0ExN2o2MDlNZkw5MUwzQXFhOXgtNVQwTW1qamY0WEI5THZyY2Z3bVNCOA?oc=5",
+   "date": "2026-01-29T08:36:40.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T23:06:01.574Z",
+   "mention": "body"
   },
   {
    "title": "旧統一教会との関係をどうするか 弁護士らが質問、各政党の答えは",
