@@ -1,37 +1,20 @@
 {
- "updatedAt": "2026-11-27T00:13:25.803Z",
- "lastAttempt": "2026-11-27T00:13:25.803Z",
+ "updatedAt": "2026-11-27T01:06:03.788Z",
+ "lastAttempt": "2026-11-27T01:06:03.788Z",
  "fetchOk": true,
- "failedSources": [
-  "ニュース検索 党名",
-  "ニュース検索 朝日新聞",
-  "ニュース検索 読売新聞",
-  "ニュース検索 毎日新聞",
-  "ニュース検索 日本経済新聞",
-  "ニュース検索 産経新聞",
-  "ニュース検索 東京新聞",
-  "ニュース検索 共同通信",
-  "ニュース検索 時事通信",
-  "ニュース検索 NHK",
-  "ニュース検索 日本テレビ",
-  "ニュース検索 TBS",
-  "ニュース検索 テレビ朝日",
-  "ニュース検索 フジテレビ",
-  "ニュース検索 テレビ東京",
-  "ニュース検索 安野貴博",
-  "ニュース検索 古川あおい",
-  "ニュース検索 宇佐美登",
-  "ニュース検索 河合道雄",
-  "ニュース検索 小林修平",
-  "ニュース検索 須田英太郎",
-  "ニュース検索 高山聡史",
-  "ニュース検索 土橋章宏",
-  "ニュース検索 林拓海",
-  "ニュース検索 峰島侑也",
-  "ニュース検索 武藤かず子",
-  "ニュース検索 山田瑛理"
- ],
+ "failedSources": [],
  "items": [
+  {
+   "title": "関芳弘文科相の問責案、27日参院本会議で採決 高市政権は否決狙う",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLRUdKZ204ZTF2MzBhVGlFaDlNa0VldjF6Y2Focm9xRk5jUy0tLVhBYWhRWk5JV1Fic0VGSUhHclh1U3JFNmRxbjlFMW1PUE14SW9lY0FBLXpUX2FaNGFZMjBRcEZaOFVhV2hUbg?oc=5",
+   "date": "2026-11-27T00:14:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-27T01:06:03.788Z",
+   "mention": "body"
+  },
   {
    "title": "【全文】衆議院 憲法審査会 発言／幹事長・古川あおい（2026年11月26日）",
    "link": "https://note.com/team_mirai_log/n/n13603e6da6c5",
@@ -224,6 +207,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-26T05:22:05.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "富士経済、菓子・ヨーグルト・パンなど主要96品目の動向調査結果を発表",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4VnNzYUlzOURmdENjQVlxczhCRzY0RTVJdjlEYTJDc19NREJLcjJGbE9KMUdHRmViMlIxZ3BmdUhpVV9nanFrdVZ0QjhDc3pSVENzN3lxYmlJVGhhdnIyQlRvMWZPZlJvVktSMA?oc=5",
    "date": "2026-11-26T04:47:02.000Z",
@@ -260,17 +254,6 @@
    "mention": "title"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-26T04:23:53.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "関文科大臣への問責決議案を参議院に提出",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Nb2FiaGplSWVJMWdlMjZSX0hrOUM5b0tGVVhhRXI2U0wzR0Y4eWM2cE5Jb19pU05BNXZ2V0cyTk9IYUpaZTRIR1RQTDV5VHNrd00wYmJuUUZxTjdZNVRiSzNn?oc=5",
    "date": "2026-11-26T04:21:54.000Z",
@@ -279,17 +262,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-26T11:06:03.675Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-26T04:01:50.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -334,6 +306,17 @@
    "source": "日本経済新聞",
    "mediaId": "nikkei",
    "firstSeen": "2026-11-26T05:06:03.973Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-26T02:54:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
@@ -18606,6 +18589,17 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-19T07:57:27.230Z",
+   "mention": "body"
+  },
+  {
+   "title": "岐阜 選挙区【衆議院選挙】開票速報・結果 衆院選2026",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51MW9yVzljUk5hNElvRTJjT1hTY04tdlQ3MHRRV3RaNkZCYnAwZkpUaEFlendzZFdGeG9RX0hyZmV1OGkyTDBlemNDOXo3MFNYWHE1UXVQMmFMSGFCNWlUYTZCY2NHczZjTi1hdjJvNA?oc=5",
+   "date": "2026-01-27T17:56:06.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "読売新聞",
+   "mediaId": "yomiuri",
+   "firstSeen": "2026-11-27T01:06:03.788Z",
    "mention": "body"
   },
   {
