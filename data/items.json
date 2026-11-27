@@ -1,9 +1,22 @@
 {
- "updatedAt": "2026-11-27T20:06:06.661Z",
- "lastAttempt": "2026-11-27T20:06:06.661Z",
+ "updatedAt": "2026-11-27T21:06:11.598Z",
+ "lastAttempt": "2026-11-27T21:06:11.598Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "YouTube 党公式"
+ ],
  "items": [
+  {
+   "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
+   "date": "2026-11-27T20:08:25.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-27T21:06:11.598Z",
+   "mention": "body"
+  },
   {
    "title": "参政党はグーグルに１億円超を支出…２０２５年参院選、新興政党中心に多額の「ＳＮＳ広告費」",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mdmNEaXRJUzdfNlJQbURicWJnVjVndlZodGF5amczaW5aZmpwU210YzRKWmVtUXczZ3pCRzN1YjcyOW9WRmEya1I1WG95RGFnYWRrVUMzQ2dWcXdqdnFDRUNyVWZsQQ?oc=5",
@@ -74,6 +87,28 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T11:54:12.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
+   "title": "月間のサイバー攻撃 過去最多に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "date": "2026-11-27T11:28:07.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
    "title": "【ゆる考察】「AIワーム」とは？ #安野貴博 #ai",
    "link": "https://www.youtube.com/shorts/TIebep5T9jU",
    "date": "2026-11-27T11:15:00.000Z",
@@ -113,17 +148,6 @@
    "mention": "body"
   },
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T10:24:12.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "参院、関文科相問責を否決 ４票差、首相が続投支持―消費税審議、１２月２日再開",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HSzllOWRENUtkWGJqNklOdUZDa0dMZFMtaXcyLVBQdWRwMG45MzBENWtKOHl2U0E4RUVudEloRjR4ak5iVXhtaVZoa0I4MUxnNEhyaTlpaDN5MjJKZjVXWGNidw?oc=5",
    "date": "2026-11-27T10:23:00.000Z",
@@ -143,17 +167,6 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-27T10:06:05.404Z",
-   "mention": "body"
-  },
-  {
-   "title": "月間のサイバー攻撃 過去最多に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-27T09:45:43.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T20:06:18.181Z",
    "mention": "body"
   },
   {
