@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-28T12:23:41.887Z",
- "lastAttempt": "2026-11-28T12:23:41.887Z",
+ "updatedAt": "2026-11-28T13:06:02.231Z",
+ "lastAttempt": "2026-11-28T13:06:02.231Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -55,6 +55,17 @@
    "mention": "body"
   },
   {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-28T05:23:19.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
+  {
    "title": "スマート農業は「数百万円」からしか始められないのか｜北海道むかわ町、LINEと生成AIの100ha農場を訪ねて",
    "link": "https://note.com/team_mirai_jp/n/n4d942497ef29",
    "date": "2026-11-27T23:00:15.000Z",
@@ -103,17 +114,6 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-27T20:06:06.661Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T17:25:09.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
