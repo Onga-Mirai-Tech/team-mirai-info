@@ -1,10 +1,11 @@
 {
- "updatedAt": "2026-11-28T06:06:16.780Z",
- "lastAttempt": "2026-11-28T06:06:16.780Z",
+ "updatedAt": "2026-11-28T07:06:16.286Z",
+ "lastAttempt": "2026-11-28T07:06:16.286Z",
  "fetchOk": true,
  "failedSources": [
   "YouTube 党公式",
   "YouTube 安野貴博",
+  "YouTube 古川あおい",
   "YouTube 小林修平",
   "YouTube 須田英太郎",
   "YouTube 高山聡史",
@@ -238,7 +239,7 @@
   },
   {
    "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUFF6eEFrY2F4UHJFbi0tVFhFSm44YW02dzNJakVTcEluYVQyX3NzS0VrM1pYUi0yMWV3RE1jUnd1aUZXc3R0ZjV3LU9waDRIOTZwcW9Ra0U2MXN1NVBycEgzdzZaNzA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
    "date": "2026-11-27T08:01:00.000Z",
    "type": "media",
    "kind": "article",
