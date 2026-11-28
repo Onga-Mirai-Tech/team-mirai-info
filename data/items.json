@@ -1,20 +1,9 @@
 {
- "updatedAt": "2026-11-28T14:06:10.469Z",
- "lastAttempt": "2026-11-28T14:06:10.469Z",
+ "updatedAt": "2026-11-28T15:06:03.389Z",
+ "lastAttempt": "2026-11-28T15:06:03.389Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-28T12:23:22.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
   {
    "title": "専門家の「焦ってください」の理由 #サイバー攻撃 #チームみらい",
    "link": "https://www.youtube.com/shorts/y4FqmmJkoEU",
@@ -93,6 +82,17 @@
    "thumb": "https://i2.ytimg.com/vi/19RTp_BQrAc/hqdefault.jpg",
    "description": "チームみらいの直近の活動報告をライブ配信でお届けします！ ▷ 政治をもっと身近にわかりやすく｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_confirmation=1 ▼国会",
    "firstSeen": "2026-11-26T10:06:05.047Z"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T20:21:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
   },
   {
    "title": "ＳＮＳ向け動画費用３年前の２・６倍、有権者の支持狙い各党注力…所属議員に発信方法教える研修も",
