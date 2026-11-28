@@ -1,24 +1,27 @@
 {
- "updatedAt": "2026-11-28T08:06:02.867Z",
- "lastAttempt": "2026-11-28T08:06:02.867Z",
+ "updatedAt": "2026-11-28T09:06:15.742Z",
+ "lastAttempt": "2026-11-28T09:06:15.742Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-28T05:34:02.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
+   "title": "【サイバー犯罪の今】サイバー版「耐震基準」？AI時代に企業と国が打つべき手をセキュリティリサーチャー・瀬治山豊氏に聞く【後編】#チームみらい #安野貴博",
+   "link": "https://www.youtube.com/watch?v=tx6dQFizuNI",
+   "date": "2026-11-28T09:00:30.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i1.ytimg.com/vi/tx6dQFizuNI/hqdefault.jpg",
+   "description": "セキュリティリサーチャーの瀬治山豊さんに安野貴博が聞く、AIで激変するサイバー攻撃への対策【後編】 ▷ AIで政治はどう変わる？｜チャンネル登録はこちら https://www.youtube.com/@team_mirai_jp?sub_",
+   "firstSeen": "2026-11-28T09:06:15.742Z"
   },
   {
    "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
-   "date": "2026-11-28T02:08:25.000Z",
+   "date": "2026-11-28T08:08:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ東京",
@@ -29,12 +32,23 @@
   {
    "title": "月間のサイバー攻撃 過去最多に",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
-   "date": "2026-11-28T01:15:45.000Z",
+   "date": "2026-11-28T07:15:45.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-28T05:30:30.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -52,7 +66,7 @@
    "firstSeen": "2026-11-27T23:06:01.574Z"
   },
   {
-   "title": "【生配信】週刊チームみらいNEWS (2026年11月27日19:00頃開始予定) #峰島侑也 #山田瑛理",
+   "title": "【見逃し配信】政府のチャットボット、課題は？｜国会DX タブレット等使用へ前進｜全国キャラバン完走報告｜週刊チームみらいNEWS (2026年11月27日) #峰島侑也 #山田瑛理",
    "link": "https://www.youtube.com/watch?v=19RTp_BQrAc",
    "date": "2026-11-27T22:32:55.000Z",
    "type": "official",
@@ -205,6 +219,17 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-27T10:06:05.404Z",
+   "mention": "body"
+  },
+  {
+   "title": "消費税法案、2日にも審議再開 定数削減法案に時間切れリスク",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZFZoZUR5YlBHSzRDUk1GZXotTnBXVnBSTXl0SEFvejNUams2Y0Q5TTF4enlBcGNvaDNfSVU4NGlFTk1rZlhNYVExQTB5U0t6eDA1amVGdmF5R05VSDVTRGlOVkhfdXQxaDc2Yg?oc=5",
+   "date": "2026-11-27T09:35:56.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "日本経済新聞",
+   "mediaId": "nikkei",
+   "firstSeen": "2026-11-28T09:06:15.742Z",
    "mention": "body"
   },
   {
