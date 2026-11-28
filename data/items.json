@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-28T02:06:08.147Z",
- "lastAttempt": "2026-11-28T02:06:08.147Z",
+ "updatedAt": "2026-11-28T03:06:04.459Z",
+ "lastAttempt": "2026-11-28T03:06:04.459Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
   {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-28T00:43:09.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
-   "mention": "body"
-  },
-  {
    "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
-   "date": "2026-11-28T00:05:57.000Z",
+   "date": "2026-11-28T02:08:25.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ東京",
    "mediaId": "tvtokyo",
    "firstSeen": "2026-11-27T21:06:11.598Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T23:41:23.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
    "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUFF6eEFrY2F4UHJFbi0tVFhFSm44YW02dzNJakVTcEluYVQyX3NzS0VrM1pYUi0yMWV3RE1jUnd1aUZXc3R0ZjV3LU9waDRIOTZwcW9Ra0U2MXN1NVBycEgzdzZaNzA?oc=5",
    "date": "2026-11-27T08:01:00.000Z",
    "type": "media",
    "kind": "article",
