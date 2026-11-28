@@ -1,9 +1,23 @@
 {
- "updatedAt": "2026-11-28T10:06:04.407Z",
- "lastAttempt": "2026-11-28T10:06:04.407Z",
+ "updatedAt": "2026-11-28T11:06:05.794Z",
+ "lastAttempt": "2026-11-28T11:06:05.794Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "専門家の「焦ってください」の理由 #サイバー攻撃 #チームみらい",
+   "link": "https://www.youtube.com/shorts/y4FqmmJkoEU",
+   "date": "2026-11-28T10:26:15.000Z",
+   "type": "official",
+   "kind": "video",
+   "source": "党公式 YouTube",
+   "members": [
+    "anno"
+   ],
+   "thumb": "https://i2.ytimg.com/vi/y4FqmmJkoEU/hqdefault.jpg",
+   "description": "AI時代の日本のサイバー対策について、セキュリティリサーチャー・瀬治山豊氏に #安野貴博 が聞いたインタビューの後編をお届けします。",
+   "firstSeen": "2026-11-28T11:06:05.794Z"
+  },
   {
    "title": "【サイバー犯罪の今】サイバー版「耐震基準」？AI時代に企業と国が打つべき手をセキュリティリサーチャー・瀬治山豊氏に聞く【後編】#チームみらい #安野貴博",
    "link": "https://www.youtube.com/watch?v=tx6dQFizuNI",
@@ -94,7 +108,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T15:28:39.000Z",
+   "date": "2026-11-27T14:54:12.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
