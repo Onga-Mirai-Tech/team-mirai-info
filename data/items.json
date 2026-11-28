@@ -1,8 +1,10 @@
 {
- "updatedAt": "2026-11-28T11:06:05.794Z",
- "lastAttempt": "2026-11-28T11:06:05.794Z",
+ "updatedAt": "2026-11-28T12:06:19.372Z",
+ "lastAttempt": "2026-11-28T12:06:19.372Z",
  "fetchOk": true,
- "failedSources": [],
+ "failedSources": [
+  "ニュース検索 古川あおい"
+ ],
  "items": [
   {
    "title": "専門家の「焦ってください」の理由 #サイバー攻撃 #チームみらい",
@@ -108,7 +110,7 @@
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T14:54:12.000Z",
+   "date": "2026-11-27T17:25:09.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
