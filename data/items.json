@@ -1,21 +1,13 @@
 {
- "updatedAt": "2026-11-28T07:06:16.286Z",
- "lastAttempt": "2026-11-28T07:06:16.286Z",
+ "updatedAt": "2026-11-28T08:06:02.867Z",
+ "lastAttempt": "2026-11-28T08:06:02.867Z",
  "fetchOk": true,
- "failedSources": [
-  "YouTube 党公式",
-  "YouTube 安野貴博",
-  "YouTube 古川あおい",
-  "YouTube 小林修平",
-  "YouTube 須田英太郎",
-  "YouTube 高山聡史",
-  "YouTube 武藤かず子"
- ],
+ "failedSources": [],
  "items": [
   {
    "title": "進化するAI 可能性とリスクは…",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-28T04:54:12.000Z",
+   "date": "2026-11-28T05:34:02.000Z",
    "type": "media",
    "kind": "article",
    "source": "テレビ朝日",
