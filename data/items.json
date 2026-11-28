@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-28T09:06:15.742Z",
- "lastAttempt": "2026-11-28T09:06:15.742Z",
+ "updatedAt": "2026-11-28T10:06:04.407Z",
+ "lastAttempt": "2026-11-28T10:06:04.407Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
@@ -38,17 +38,6 @@
    "source": "テレビ朝日",
    "mediaId": "tvasahi",
    "firstSeen": "2026-11-18T20:06:18.181Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-28T05:30:30.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -100,6 +89,17 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-27T20:06:06.661Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T15:28:39.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
@@ -256,7 +256,7 @@
   },
   {
    "title": "【まとめてわかる】政治資金収支報告書を公表 2025年の特徴は？",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDhDNGdiQm1LZlNVQ3RNUFVDc05CVUh0XzdSOE9qeGhlanppUXFwMFV5Q013Wkg1VFRjWkFTTmFlY2NXeGFHLVFJRERCam83MU9kcTI2U1JCYVlkbHNYU1Z4SXdBVmVzeTlUUXJmcGJfX0RYTVhRczdJTmNfS2tvZldBTQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUFF6eEFrY2F4UHJFbi0tVFhFSm44YW02dzNJakVTcEluYVQyX3NzS0VrM1pYUi0yMWV3RE1jUnd1aUZXc3R0ZjV3LU9waDRIOTZwcW9Ra0U2MXN1NVBycEgzdzZaNzA?oc=5",
    "date": "2026-11-27T08:01:00.000Z",
    "type": "media",
    "kind": "article",
