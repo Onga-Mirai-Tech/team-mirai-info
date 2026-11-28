@@ -1,9 +1,31 @@
 {
- "updatedAt": "2026-11-28T00:06:09.110Z",
- "lastAttempt": "2026-11-28T00:06:09.110Z",
+ "updatedAt": "2026-11-28T01:06:04.910Z",
+ "lastAttempt": "2026-11-28T01:06:04.910Z",
  "fetchOk": true,
  "failedSources": [],
  "items": [
+  {
+   "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
+   "date": "2026-11-28T00:05:57.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ東京",
+   "mediaId": "tvtokyo",
+   "firstSeen": "2026-11-27T21:06:11.598Z",
+   "mention": "body"
+  },
+  {
+   "title": "進化するAI 可能性とリスクは…",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
+   "date": "2026-11-27T23:44:58.000Z",
+   "type": "media",
+   "kind": "article",
+   "source": "テレビ朝日",
+   "mediaId": "tvasahi",
+   "firstSeen": "2026-11-18T18:06:04.049Z",
+   "mention": "body"
+  },
   {
    "title": "スマート農業は「数百万円」からしか始められないのか｜北海道むかわ町、LINEと生成AIの100ha農場を訪ねて",
    "link": "https://note.com/team_mirai_jp/n/n4d942497ef29",
@@ -34,17 +56,6 @@
    "firstSeen": "2026-11-26T10:06:05.047Z"
   },
   {
-   "title": "日曜サロン【榛葉賀津也（国民民主幹事長）…「国会停滞させた罪は大きい」】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXFaZ3ZmRkU0SFo1QjJBU0JldVFMZHdHMlNzRjdqMGVtZUFHd1Rxc0IxczNvaC1fWG5DMGpUeGtyQ0VXOENyWHhWRXltWmk5dzVfWUV6TWxvcWlmOWhnbVRVRm9IZnk3aU1JaEp6bDZ2bktfdkRTV0x4U1EzNmQteVAzeEt1Y1BWWTRreVpBaG9rdw?oc=5",
-   "date": "2026-11-27T20:08:25.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ東京",
-   "mediaId": "tvtokyo",
-   "firstSeen": "2026-11-27T21:06:11.598Z",
-   "mention": "body"
-  },
-  {
    "title": "ＳＮＳ向け動画費用３年前の２・６倍、有権者の支持狙い各党注力…所属議員に発信方法教える研修も",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbzBvLTk4UWFqT2hIdFFOZENLaGNlckJqdUxsTEVGTmpWYkJ3VVptY2dGY2Vjd3B3MmhpWDNfUWUxU2hvcGxiaFhLN19KV01abVdKeDFEWllRXzg0QTRTNkNJaW42dw?oc=5",
    "date": "2026-11-27T20:00:00.000Z",
@@ -64,17 +75,6 @@
    "source": "読売新聞",
    "mediaId": "yomiuri",
    "firstSeen": "2026-11-27T20:06:06.661Z",
-   "mention": "body"
-  },
-  {
-   "title": "進化するAI 可能性とリスクは…",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByWDBOclloRHY0eldzbGx1dXNtOFZGMTJ1VWNRQ3JyX1ItZjhTM19xODk4TndiVnN4ZjY1SjJuSjlIbmpZam1ZdHlIMHpvUFBLX1dYdTlHTW51SlhFODlHQWYzSQ?oc=5",
-   "date": "2026-11-27T14:54:12.000Z",
-   "type": "media",
-   "kind": "article",
-   "source": "テレビ朝日",
-   "mediaId": "tvasahi",
-   "firstSeen": "2026-11-18T18:06:04.049Z",
    "mention": "body"
   },
   {
